@@ -50,19 +50,20 @@ def load_json(filename):
  
  
 def send_to_discord(payload):
-    data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-    req = urllib.request.Request(
-        DISCORD_WEBHOOK,
-        data=data,
-        headers={"Content-Type": "application/json; charset=utf-8"},
-        method="POST",
-    )
+    import subprocess
+    data = json.dumps(payload, ensure_ascii=False)
+    cmd = [
+        "curl", "-X", "POST",
+        "-H", "Content-Type: application/json",
+        "-d", data,
+        DISCORD_WEBHOOK
+    ]
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            return resp.status == 204
-    except urllib.error.HTTPError as e:
-        print(f"  [DISCORD] HTTP {e.code}: {e.read().decode()[:300]}")
-        return False
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
+        ok = result.returncode == 0
+        if not ok:
+            print(f"  [DISCORD] curl error: {result.stderr[:200]}")
+        return ok
     except Exception as e:
         print(f"  [DISCORD] Error: {e}")
         return False
