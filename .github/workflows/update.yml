@@ -1,40 +1,58 @@
 name: Actualizar MercadoAR
-
+ 
 on:
   schedule:
-    - cron: '0 10 * * 1-5'
-    - cron: '0 13 * * 1-5'
+    # Horario de mercado ARG (14:00-20:00 UTC = 11:00-17:00 ARG) — cada 30 min
+    - cron: '0 14 * * 1-5'
+    - cron: '30 14 * * 1-5'
+    - cron: '0 15 * * 1-5'
+    - cron: '30 15 * * 1-5'
     - cron: '0 16 * * 1-5'
-    - cron: '30 21 * * 1-5'
+    - cron: '30 16 * * 1-5'
+    - cron: '0 17 * * 1-5'
+    - cron: '30 17 * * 1-5'
+    - cron: '0 18 * * 1-5'
+    - cron: '30 18 * * 1-5'
+    - cron: '0 19 * * 1-5'
+    - cron: '30 19 * * 1-5'
+    - cron: '0 20 * * 1-5'
+    # Fuera de horario — cada 2 horas (para tener datos frescos)
+    - cron: '0 10 * * 1-5'
+    - cron: '0 12 * * 1-5'
+    - cron: '0 22 * * 1-5'
+    - cron: '0 0 * * 1-5'
   workflow_dispatch:
-
+ 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+ 
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: pip install yfinance feedparser
-      - run: python update_prices.py
-      - run: python update_news.py
-      - run: python notify_discord.py
+ 
+      - name: Instalar dependencias
+        run: pip install yfinance feedparser
+ 
+      - name: Actualizar precios
+        run: python update_prices.py
+ 
+      - name: Actualizar noticias
+        run: python update_news.py
+ 
+      - name: Notificar Discord (solo en horarios fijos)
+        run: python notify_discord.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        continue-on-error: true
-
-      - name: Notificar Discord resumen
-        uses: sarisia/actions-status-discord@v1
-        if: always()
-        with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          title: "MercadoAR actualizado"
-          description: "Precios y noticias actualizados correctamente."
-          color: 0x4ade80
-      - run: |
+ 
+      - name: Guardar datos en GitHub
+        run: |
           git config user.name "actions"
           git config user.email "actions@github.com"
           git add -f data.json news.json
-          git commit -m "Auto update" || true
+          git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M')" || true
           git push
