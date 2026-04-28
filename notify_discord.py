@@ -20,7 +20,7 @@ DISCORD_WEBHOOK = os.environ.get(
 )
  
 # Horarios en que SÍ se manda el resumen completo (hora ARG)
-NOTIFY_HOURS_ARG = {7, 14, 13, 18}
+NOTIFY_HOURS_ARG = {7, 10, 13, 18}
  
 # Umbrales
 SCORE_DESTACADO = 62
