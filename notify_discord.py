@@ -21,7 +21,8 @@ import urllib.error
 from datetime import datetime
 
 # ===== CONFIGURACIÓN =====
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1498658206593978418/koBlfSpV9bk5O4B1c0TwLAfQqJYuSGl9yxatP-NbFpVMUWtsRXUnANWuDA_TzVuiyCyd"
+import os
+DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK", "https://discord.com/api/webhooks/1498658206593978418/koBlfSpV9bk5O4B1c0TwLAfQqJYuSGl9yxatP-NbFpVMUWtsRXUnANWuDA_TzVuiyCyd")
 
 # Umbrales para decidir si mandar alerta
 SCORE_ALERTA_SUBA  = 65   # score >= este valor → alerta alcista
