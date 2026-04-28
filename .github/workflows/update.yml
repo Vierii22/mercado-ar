@@ -25,6 +25,6 @@ jobs:
       - run: |
           git config user.name "actions"
           git config user.email "actions@github.com"
-          git add data.json news.json
+          git add -f data.json news.json
           git commit -m "Auto update" || true
           git push
