@@ -1,4 +1,4 @@
-﻿name: Actualizar MercadoAR
+name: Actualizar MercadoAR
 
 on:
   schedule:
@@ -13,31 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Usar Python 3.11
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      
-      - name: Instalar dependencias
-        run: |
-          pip install yfinance feedparser
-      
-      - name: Actualizar precios
-        run: python update_prices.py
-      
-      - name: Actualizar noticias
-        run: python update_news.py
-      
-      - name: Enviar notificaciones Discord
-        run: python notify_discord.py
+      - run: pip install yfinance feedparser
+      - run: python update_prices.py
+      - run: python update_news.py
+      - run: python notify_discord.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-      
-      - name: Guardar cambios en GitHub
-        run: |
-          git config user.name "github-actions"
+      - run: |
+          git config user.name "actions"
           git config user.email "actions@github.com"
-          git add -f data.json news.json
-          git commit -m "Auto: actualizar precios y noticias" || true
+          git add data.json news.json
+          git commit -m "Auto update" || true
           git push
