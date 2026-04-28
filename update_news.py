@@ -62,6 +62,11 @@ SOURCES = [
         "url": "https://www.ambito.com/rss/pages/mercados.xml",
         "fallback_url": "https://www.ambito.com/rss/pages/economia.xml",
     },
+    {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/api/sa/combined_feeds.xml?mode=xml&limit=100",
+        "fallback_url": "https://seekingalpha.com/market-news/stocks.xml",
+    },
 ]
  
 # ===== TICKERS Y PALABRAS CLAVE =====
