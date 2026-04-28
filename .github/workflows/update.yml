@@ -22,6 +22,16 @@ jobs:
       - run: python notify_discord.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        continue-on-error: true
+
+      - name: Notificar Discord resumen
+        uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          title: "MercadoAR actualizado"
+          description: "Precios y noticias actualizados correctamente."
+          color: 0x4ade80
       - run: |
           git config user.name "actions"
           git config user.email "actions@github.com"
