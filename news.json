@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-04-28T20:00:42.174332",
-  "updated_str": "28/04/2026 20:00",
+  "updated_at": "2026-04-28T20:22:16.867604",
+  "updated_str": "28/04/2026 20:22",
   "cutoff_hours": 48,
-  "total_news": 229,
+  "total_news": 230,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street cerró a la baja presionado por las tecnológicas y el repunte del petróleo",
+        "summary": "Las dudas sobre el retorno de las inversiones en inteligencia artificial y el alza del petróleo reavivan la cautela antes de los resultados de las grandes tecnológicas.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-tras-reporte-debil-sobre-openai-y-el-repunte-del-petroleo-hasta-us112/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/04 17:15",
+        "iso_date": "2026-04-28T20:15:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Cuáles son los planes en los que confía Caputo para reactivar el golpeado sector de la construcción",
         "summary": "El ministro de Economía adelantó que el sector ya mostró buenos números en marzo y que proyectan que a mitad de año va a tener un impulso con la licitación de los 9.000 kilómetros de rutas nacionales",
@@ -218,16 +228,6 @@
         "is_general": true
       },
       {
-        "title": "S&P 500 cae tras reporte débil sobre OpenAI y el repunte del petróleo hasta US$112",
-        "summary": "Wall Street cae liderado por tecnológicas ante dudas sobre el boom de inteligencia artificial, mientras el petróleo refuerza temores inflacionarios.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-tras-reporte-debil-sobre-openai-y-el-repunte-del-petroleo-hasta-us112/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/04 10:43",
-        "iso_date": "2026-04-28T13:43:45+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Luis Caputo salió a contener las dudas del modelo económico y trazó los próximos pasos de la gestión",
         "summary": "El ministro de Economía, Luis Caputo, habló en la Congreso Económico Argentino, desde donde brindó indicadores para defender su plan y también adelantó cómo será el 2027 en materia económica.",
         "link": "https://www.ambito.com/economia/luis-caputo-salio-contener-las-dudas-del-modelo-economico-y-trazo-los-proximos-pasos-la-gestion-n6271619",
@@ -347,8 +347,8 @@
         "time": "27/04 23:26",
         "iso_date": "2026-04-28T02:26:46+00:00",
         "tickers": [
-          "ALUA",
-          "TXAR"
+          "TXAR",
+          "ALUA"
         ],
         "is_general": true
       }
@@ -362,8 +362,8 @@
         "time": "27/04 23:26",
         "iso_date": "2026-04-28T02:26:46+00:00",
         "tickers": [
-          "ALUA",
-          "TXAR"
+          "TXAR",
+          "ALUA"
         ],
         "is_general": true
       }
