@@ -26,6 +26,7 @@ TICKERS = [
     {"yahoo": "ALUA.BA",  "ticker": "ALUA",  "name": "Aluar"},
     {"yahoo": "TECO2.BA", "ticker": "TECO2", "name": "Telecom AR"},
     {"yahoo": "CEPU.BA",  "ticker": "CEPU",  "name": "Central Puerto"},
+    {"yahoo": "AL30.BA",  "ticker": "AL30",  "name": "Bonar 2030"},
 ]
 
 # ===== Umbrales de detección =====
