@@ -6,7 +6,7 @@ on:
     - cron: '0 13 * * 1-5'   # 10:00 ARG (13:00 UTC) L-V
     - cron: '0 16 * * 1-5'   # 13:00 ARG (16:00 UTC) L-V
     - cron: '30 21 * * 1-5'  # 18:30 ARG (21:30 UTC) L-V
-  workflow_dispatch:  # permite ejecutar manualmente
+  workflow_dispatch:
 
 jobs:
   update:
