@@ -56,6 +56,7 @@ jobs:
         run: |
           git config user.name "actions"
           git config user.email "actions@github.com"
-          git add -f data.json news.json bonds.json
+          git add -f data.json news.json
+          git add -f bonds.json 2>/dev/null || true
           git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M')" || true
           git push
