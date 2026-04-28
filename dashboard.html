@@ -265,7 +265,7 @@
 <header>
   <div class="logo">
     <div class="logo-mark">Mercado<span style="font-style:normal;color:var(--accent)">AR</span></div>
-    <div class="logo-tag">Beta · v0.5</div>
+    <div class="logo-tag">Beta · v0.6</div>
   </div>
   <div class="meta">
     <div class="meta-item"><span class="pulse" id="livePulse"></span><span id="liveText">Cargando</span></div>
@@ -323,6 +323,14 @@
     <div class="stocks-grid" id="stocksGrid"></div>
   </section>
 
+  <section class="stocks-section" id="bondsSection" style="display:none">
+    <div class="section-head">
+      <h2 class="section-title">Bonos <em>soberanos</em></h2>
+      <span class="section-tag" id="bondsCount">—</span>
+    </div>
+    <div class="stocks-grid" id="bondsGrid"></div>
+  </section>
+
   <section class="news-section">
     <div class="section-head">
       <h2 class="section-title">Noticias por <em>activo</em></h2>
@@ -348,7 +356,7 @@
 </main>
 
 <footer>
-  <div>Mercado<span>AR</span> · Yahoo Finance · Ámbito · Cronista · Infobae · Economista · iProfesional · Bloomberg · Seeking Alpha · v0.5</div>
+  <div>Mercado<span>AR</span> · Yahoo Finance · Ámbito · Cronista · Infobae · Economista · iProfesional · Bloomberg · Seeking Alpha · v0.6</div>
 </footer>
 
 <script>
@@ -455,13 +463,23 @@ function renderStocks(stocks, newsCounts) {
 function renderTabs(stocks, newsCounts) {
   const el = document.getElementById('newsTabs');
   el.innerHTML = '';
-  const tabs = [{key:'GENERAL', label:'General'}, ...stocks.map(s => ({key:s.ticker, label:s.ticker}))];
+  const bondTabs = [{key:'AL30', label:'AL30'}, {key:'GD30', label:'GD30'}];
+  const tabs = [
+    {key:'GENERAL', label:'General'},
+    ...stocks.map(s => ({key:s.ticker, label:s.ticker})),
+    ...bondTabs
+  ];
   tabs.forEach((t, i) => {
     const btn = document.createElement('button');
     btn.className = 'news-tab' + (i === 0 ? ' active' : '');
     btn.dataset.key = t.key;
     const c = newsCounts[t.key] || 0;
-    btn.innerHTML = t.label + (c > 0 ? `<span class="count">${c}</span>` : '');
+    // Badge azul para bonos
+    const isBond = t.key === 'AL30' || t.key === 'GD30';
+    const countHtml = c > 0
+      ? `<span class="count" ${isBond ? 'style="background:var(--blue);color:#fff"' : ''}>${c}</span>`
+      : '';
+    btn.innerHTML = t.label + countHtml;
     btn.addEventListener('click', () => selectTab(t.key));
     el.appendChild(btn);
   });
@@ -734,6 +752,19 @@ async function loadAll() {
     if (r.ok) newsData = await r.json();
   } catch (e) { /* opcional */ }
 
+  // Cargar bonos (opcional — si no existe bonds.json, se ignora)
+  try {
+    const r = await fetch('bonds.json?t=' + Date.now());
+    if (r.ok) {
+      const bondsData = await r.json();
+      if (bondsData?.bonds?.length > 0) {
+        renderBonds(bondsData.bonds);
+        document.getElementById('bondsSection').style.display = '';
+        document.getElementById('bondsCount').textContent = `${bondsData.bonds.length} bonos · data912`;
+      }
+    }
+  } catch (e) { /* bonds.json opcional */ }
+
   const newsCounts = {};
   if (newsData?.news) {
     for (const k in newsData.news) newsCounts[k] = newsData.news[k].length;
@@ -748,6 +779,46 @@ async function loadAll() {
   renderAuge(priceData.stocks);
   renderNewsForTab('GENERAL');
   checkFreshness(priceData);
+}
+
+function renderBonds(bonds) {
+  const grid = document.getElementById('bondsGrid');
+  grid.innerHTML = '';
+  bonds.forEach(b => {
+    const isUp   = b.change >= 0;
+    const card   = document.createElement('div');
+    card.className = 'stock-card';
+    card.style.cursor = 'default';
+
+    // Badge especial para AL30
+    const badge = b.ticker === 'AL30'
+      ? '<span class="badge badge-hot" style="background:var(--blue);color:#fff">MEP</span>'
+      : '';
+
+    card.innerHTML = `
+      ${badge}
+      <div class="stock-top">
+        <span class="stock-ticker">${b.ticker}</span>
+        <span class="stock-name">${b.name}</span>
+      </div>
+      <div class="stock-price">${formatPrice(b.price)}</div>
+      <div class="stock-change ${isUp ? 'up' : 'down'}">
+        ${isUp ? '▲' : '▼'} ${Math.abs(b.change).toFixed(2)}%
+      </div>
+      <div style="margin-top:10px;padding-top:10px;border-top:1px solid var(--border);
+                  font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text-faint)">
+        ${b.tipo}
+      </div>
+    `;
+
+    // Clic en AL30 o GD30 → abre tab de noticias del bono
+    if (b.ticker === 'AL30' || b.ticker === 'GD30') {
+      card.style.cursor = 'pointer';
+      card.addEventListener('click', () => selectTab(b.ticker));
+    }
+
+    grid.appendChild(card);
+  });
 }
 
 loadAll();
