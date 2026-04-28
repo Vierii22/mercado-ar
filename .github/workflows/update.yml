@@ -1,5 +1,5 @@
 name: Actualizar MercadoAR
- 
+
 on:
   schedule:
     # Horario de mercado ARG (14:00-20:00 UTC = 11:00-17:00 ARG) — cada 30 min
@@ -22,7 +22,7 @@ on:
     - cron: '0 22 * * 1-5'
     - cron: '0 0 * * 1-5'
   workflow_dispatch:
- 
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -30,29 +30,32 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
- 
+
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
- 
+
       - name: Instalar dependencias
         run: pip install yfinance feedparser
- 
+
       - name: Actualizar precios
         run: python update_prices.py
- 
+
+      - name: Actualizar bonos
+        run: python update_bonds.py
+
       - name: Actualizar noticias
         run: python update_news.py
- 
+
       - name: Notificar Discord (solo en horarios fijos)
         run: python notify_discord.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
- 
+
       - name: Guardar datos en GitHub
         run: |
           git config user.name "actions"
           git config user.email "actions@github.com"
-          git add -f data.json news.json
+          git add -f data.json news.json bonds.json
           git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M')" || true
           git push
