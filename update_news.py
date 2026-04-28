@@ -1,9 +1,9 @@
 """
 =========================================================
   MercadoAR — update_news.py v3
-  Descarga noticias de 7 fuentes RSS:
+  Descarga noticias de 8 fuentes RSS:
   Ámbito, El Cronista, Infobae, El Economista,
-  iProfesional, Bloomberg Línea AR, Ámbito Mercados.
+  iProfesional, Bloomberg Línea AR, Ámbito Mercados, Seeking Alpha"
  
   Cambios v3:
   - 4 fuentes nuevas agregadas
