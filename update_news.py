@@ -1,28 +1,29 @@
 """
 =========================================================
-  MercadoAR — update_news.py v3
+  MercadoAR — update_news.py v4
   Descarga noticias de 8 fuentes RSS:
   Ámbito, El Cronista, Infobae, El Economista,
-  iProfesional, Bloomberg Línea AR, Ámbito Mercados, Seeking Alpha"
- 
-  Cambios v3:
-  - 4 fuentes nuevas agregadas
+  iProfesional, Bloomberg Línea AR, Ámbito Mercados,
+  Seeking Alpha.
+
+  Cambios v4:
+  - Agregada Seeking Alpha (análisis de acciones)
 =========================================================
- 
+
 REQUISITOS (instalar 1 sola vez):
     pip install feedparser
- 
+
 USO:
     python update_news.py
 """
- 
+
 import feedparser
 import json
 import re
 from datetime import datetime, timedelta, timezone
 from html import unescape
 import os
- 
+
 # ===== FUENTES RSS =====
 SOURCES = [
     # ── Fuentes originales ──────────────────────────────────────
@@ -68,7 +69,7 @@ SOURCES = [
         "fallback_url": "https://seekingalpha.com/market-news/stocks.xml",
     },
 ]
- 
+
 # ===== TICKERS Y PALABRAS CLAVE =====
 # "exact": palabras que tienen que matchear con bordes de palabra (\b)
 #          Útil para siglas cortas que pueden ser parte de otra palabra
@@ -117,8 +118,20 @@ TICKERS_KEYWORDS = {
         "exact": ["cepu"],
         "loose": ["central puerto", "generación eléctrica", "generacion electrica"],
     },
+    "AL30": {
+        "name": "Bonar 2030",
+        "exact": ["al30", "bonar", "bonar 2030", "bonar30"],
+        "loose": ["bono soberano", "bonos argentinos", "deuda soberana", "ley local",
+                  "bonares", "riesgo país", "riesgo pais"],
+    },
+    "GD30": {
+        "name": "Global 2030",
+        "exact": ["gd30", "global 2030", "global30"],
+        "loose": ["bono global", "ley nueva york", "ley ny", "globales argentinos",
+                  "eurobono", "deuda externa"],
+    },
 }
- 
+
 # Keywords para clasificar como noticia general del mercado argentino
 GENERAL_KEYWORDS = [
     # Mercado
@@ -141,8 +154,8 @@ GENERAL_KEYWORDS = [
     "mercado argentino", "acciones argentinas", "bolsa argentina",
     "wall street", "panel líder", "panel lider", "adrs",
 ]
- 
- 
+
+
 def clean_text(text):
     """Limpia HTML y entidades de los textos del RSS."""
     if not text:
@@ -151,8 +164,8 @@ def clean_text(text):
     text = unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
- 
- 
+
+
 def parse_date(entry):
     """Parsea la fecha de una entrada de RSS de forma robusta."""
     for field in ("published_parsed", "updated_parsed", "created_parsed"):
@@ -180,13 +193,13 @@ def parse_date(entry):
             except Exception:
                 pass
     return None
- 
- 
+
+
 def match_tickers(title, summary):
     """Detecta qué tickers matchean. Combina exact (bordes de palabra) y loose (substring)."""
     text = (title + " " + summary).lower()
     matched = set()
- 
+
     for ticker, info in TICKERS_KEYWORDS.items():
         # Exact: requiere bordes de palabra para evitar falsos positivos
         for kw in info.get("exact", []):
@@ -201,10 +214,10 @@ def match_tickers(title, summary):
             if kw.lower() in text:
                 matched.add(ticker)
                 break
- 
+
     return list(matched)
- 
- 
+
+
 def matches_general(title, summary):
     """Detecta si la noticia es de interés general del mercado AR."""
     text = (title + " " + summary).lower()
@@ -212,8 +225,8 @@ def matches_general(title, summary):
         if kw in text:
             return True
     return False
- 
- 
+
+
 def fetch_source(source):
     """Trae las noticias de un feed RSS."""
     print(f"\n  → {source['name']}...", end=" ", flush=True)
@@ -225,8 +238,8 @@ def fetch_source(source):
         return []
     print(f"✓ {len(feed.entries)} noticias")
     return feed.entries
- 
- 
+
+
 def process_entries(entries, source_name, cutoff_date):
     """Procesa entradas del RSS, filtra por fecha y limpia."""
     processed = []
@@ -235,22 +248,22 @@ def process_entries(entries, source_name, cutoff_date):
         title = clean_text(entry.get("title", ""))
         summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
         link = entry.get("link", "")
- 
+
         if not title:
             continue
- 
+
         pub_date = parse_date(entry)
         if pub_date and pub_date < cutoff_date:
             skipped_old += 1
             continue
- 
+
         if len(summary) > 280:
             summary = summary[:277] + "..."
- 
+
         time_str = pub_date.astimezone(
             timezone(timedelta(hours=-3))
         ).strftime("%d/%m %H:%M") if pub_date else ""
- 
+
         processed.append({
             "title": title,
             "summary": summary,
@@ -262,21 +275,21 @@ def process_entries(entries, source_name, cutoff_date):
             "is_general": matches_general(title, summary),
         })
     return processed, skipped_old
- 
- 
+
+
 def organize_by_ticker(news):
     """Organiza el output: news[ticker] = [lista de noticias]."""
     result = {"GENERAL": []}
     for ticker in TICKERS_KEYWORDS:
         result[ticker] = []
- 
+
     # Por ticker primero
     seen_in_general = set()
     for n in news:
         for ticker in n["tickers"]:
             if ticker in result:
                 result[ticker].append(n)
- 
+
     # General: noticias con keyword macro O cualquier noticia con ticker matched
     # (porque si menciona un ticker, también es relevante para el panorama general)
     for n in news:
@@ -286,46 +299,46 @@ def organize_by_ticker(news):
         if n["is_general"] or n["tickers"]:
             result["GENERAL"].append(n)
             seen_in_general.add(key)
- 
+
     # Ordenar por fecha más reciente y limitar a 30 por sección
     for ticker in result:
         result[ticker].sort(key=lambda n: n["iso_date"] or "", reverse=True)
         result[ticker] = result[ticker][:30]
- 
+
     return result
- 
- 
+
+
 def main():
     print("\n┌─────────────────────────────────────────┐")
     print("│   MercadoAR — Fetch noticias  v2        │")
     print(f"│   {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}                 │")
     print("└─────────────────────────────────────────┘")
- 
+
     # FIX: usar timezone aware desde el principio para evitar problemas de TZ
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=48)
- 
+
     print(f"\nAhora (UTC):     {now_utc.strftime('%Y-%m-%d %H:%M')}")
     print(f"Cutoff (UTC):    {cutoff.strftime('%Y-%m-%d %H:%M')}  (48hs atrás)")
- 
+
     all_news = []
     for source in SOURCES:
         entries = fetch_source(source)
         processed, skipped = process_entries(entries, source["name"], cutoff)
         all_news.extend(processed)
         print(f"     {len(processed)} dentro del rango  ({skipped} más antiguas descartadas)")
- 
+
     print(f"\nTotal noticias en rango: {len(all_news)}")
- 
+
     organized = organize_by_ticker(all_news)
- 
+
     print("\nNoticias por sección:")
     print(f"  GENERAL: {len(organized['GENERAL'])}")
     for ticker in TICKERS_KEYWORDS:
         count = len(organized[ticker])
         marker = "✓" if count > 0 else "—"
         print(f"  {marker} {ticker}: {count}")
- 
+
     output = {
         "updated_at": datetime.now().isoformat(),
         "updated_str": datetime.now().strftime("%d/%m/%Y %H:%M"),
@@ -333,16 +346,16 @@ def main():
         "total_news": len(all_news),
         "news": organized,
     }
- 
+
     script_dir = os.path.dirname(os.path.abspath(__file__))
     output_path = os.path.join(script_dir, "news.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
- 
+
     print(f"\n✓ Guardado en: {output_path}")
     print("Refrescá el dashboard (Ctrl+F5) para ver las noticias.\n")
- 
- 
+
+
 if __name__ == "__main__":
     main()
 if __name__ == "__main__":
