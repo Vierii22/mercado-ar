@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-04-29T00:00:28.593582",
-  "updated_str": "29/04/2026 00:00",
+  "updated_at": "2026-04-29T02:46:16.625799",
+  "updated_str": "29/04/2026 02:46",
   "cutoff_hours": 48,
-  "total_news": 240,
+  "total_news": 262,
   "news": {
     "GENERAL": [
       {
-        "title": "Caputo se reunió con legisladores aliados y busca validar el acuerdo con los fondos buitre en el Senado",
-        "summary": "El ministro de Economía y Patricia Bullrich encabezaron un encuentro con un grupo de socios parlamentarios en la previa de un plenario clave en la Cámara Alta por el entendimiento con los holdouts, que implica un desembolso de USD 171 millones",
-        "link": "https://www.infobae.com/economia/2026/04/28/caputo-se-reunio-con-legisladores-aliados-y-busca-validar-el-acuerdo-con-los-fondos-buitre-en-el-senado/",
-        "source": "Infobae Economía",
-        "time": "28/04 20:50",
-        "iso_date": "2026-04-28T23:50:26+00:00",
+        "title": "Empresarios de sectores clave respaldaron el rumbo económico de Milei, pero alertaron que el proceso \"requerirá de dolor\"",
+        "summary": "En el marco de la Expo EFI, representantes relevantes del empresariado destacaron los avances del Gobierno en el orden macro o en medidas como el RIGI. Sin embargo, marcaron algunas cuestiones en el \"debe\".",
+        "link": "https://www.ambito.com/economia/empresarios-sectores-clave-respaldaron-el-rumbo-economico-milei-pero-alertaron-que-el-proceso-requerira-dolor-n6271865",
+        "source": "Ámbito",
+        "time": "28/04 22:50",
+        "iso_date": "2026-04-29T01:50:13+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Uno a uno: los aumentos de mayo que golpearán el bolsillo y presionarán a la inflación",
+        "summary": "A la espera del dato de inflación de abril, el Gobierno topeó el incremento mensual en las boletas de AySA.",
+        "link": "https://www.ambito.com/economia/uno-uno-los-aumentos-mayo-que-golpearan-el-bolsillo-y-presionaran-la-inflacion-n6271686",
+        "source": "Ámbito",
+        "time": "28/04 21:57",
+        "iso_date": "2026-04-29T00:57:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei cargó contra Keynes y volvió a defender el ajuste: “Sacamos a 14 millones de personas de la pobreza”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/milei-cargo-contra-keynes-y-volvio-a-defender-el-ajuste-sacamos-a-14-millones-de-personas-de-la-pobreza/",
+        "source": "El Cronista",
+        "time": "28/04 21:33",
+        "iso_date": "2026-04-29T00:33:02+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -20,11 +42,31 @@
         "summary": "La Secretaría de Finanzas colocó USD 350 millones en el Bonar 2027 y el mismo monto en el Bonar 2028. Además, se aseguró un rollover superior al 100% en los vencimientos en pesos",
         "link": "https://www.infobae.com/economia/2026/04/28/licitacion-clave-el-gobierno-consiguio-otros-usd-700-millones-para-pagar-la-deuda-y-no-libero-pesos-al-mercado/",
         "source": "Infobae Economía",
-        "time": "28/04 19:38",
-        "iso_date": "2026-04-28T22:38:59+00:00",
+        "time": "28/04 21:20",
+        "iso_date": "2026-04-29T00:20:43+00:00",
         "tickers": [
           "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Grupo México desembolsa US$880 millones por fusión de activos de energía con Saavi de BlackRock",
+        "summary": "La aportación de Grupo México por la fusión con Saavi será en efectivo el cual proviene de flujo propio",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/grupo-mexico-desembolsa-us880-millones-por-fusion-de-activos-de-energia-con-saavi-de-blackrock/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/04 20:54",
+        "iso_date": "2026-04-28T23:54:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo se reunió con legisladores aliados y busca validar el acuerdo con los fondos buitre en el Senado",
+        "summary": "El ministro de Economía y Patricia Bullrich encabezaron un encuentro con un grupo de socios parlamentarios en la previa de un plenario clave en la Cámara Alta por el entendimiento con los holdouts, que implica un desembolso de USD 171 millones",
+        "link": "https://www.infobae.com/economia/2026/04/28/caputo-se-reunio-con-legisladores-aliados-y-busca-validar-el-acuerdo-con-los-fondos-buitre-en-el-senado/",
+        "source": "Infobae Economía",
+        "time": "28/04 20:50",
+        "iso_date": "2026-04-28T23:50:26+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -274,48 +316,6 @@
         "iso_date": "2026-04-28T15:21:31+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Acciones de Transener caen tras conocerse las ofertas de su privatización: ¿Quién ganó la licitación?",
-        "summary": "La oferta de Genneia junto a Edison superó a las de Central Puerto y Edenor. La adjudicación se realizará en mayo.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/acciones-de-transener-suben-tras-conocerse-las-ofertas-economicas-de-su-privatizacion/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/04 12:03",
-        "iso_date": "2026-04-28T15:03:43+00:00",
-        "tickers": [
-          "CEPU"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Reforma política en disputa: quién tiene la llave para que Milei elimine las PASO",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/reforma-politica-en-disputa-quien-tiene-la-llave-para-que-milei-elimine-las-paso/",
-        "source": "El Cronista",
-        "time": "28/04 11:40",
-        "iso_date": "2026-04-28T14:40:50+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo anticipa inflación a la baja desde abril y una señal positiva para la actividad en marzo",
-        "summary": "El ministro de Economía argentino defendió el modelo económico del Gobierno de Milei y anticipó que espera capturar US$2.000 millones en privatizaciones hasta fin de año",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-anticipa-inflacion-a-la-baja-desde-abril-y-una-senal-positiva-para-la-actividad-en-marzo/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/04 11:26",
-        "iso_date": "2026-04-28T14:26:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo reconoció que el dato de la actividad económica en febrero “dio mal” y anticipó una baja de la inflación en abril",
-        "summary": "El ministro de Economía expuso en la apertura de ExpoEfi. Admitió que el dato de actividad de febrero fue malo pero dijo que la economía venía creciendo “con números récord”",
-        "link": "https://www.infobae.com/economia/2026/04/28/caputo-aseguro-que-la-inflacion-tuvo-un-pico-en-marzo-pero-a-partir-de-abril-empezara-a-ir-hacia-abajo/",
-        "source": "Infobae Economía",
-        "time": "28/04 10:55",
-        "iso_date": "2026-04-28T13:55:49+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -347,6 +347,30 @@
     "GGAL": [],
     "PAMP": [],
     "BMA": [
+      {
+        "title": "Empresarios de sectores clave respaldaron el rumbo económico de Milei, pero alertaron que el proceso \"requerirá de dolor\"",
+        "summary": "En el marco de la Expo EFI, representantes relevantes del empresariado destacaron los avances del Gobierno en el orden macro o en medidas como el RIGI. Sin embargo, marcaron algunas cuestiones en el \"debe\".",
+        "link": "https://www.ambito.com/economia/empresarios-sectores-clave-respaldaron-el-rumbo-economico-milei-pero-alertaron-que-el-proceso-requerira-dolor-n6271865",
+        "source": "Ámbito",
+        "time": "28/04 22:50",
+        "iso_date": "2026-04-29T01:50:13+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Empresarios de sectores clave respaldaron el rumbo económico de Milei, pero alertaron que el proceso \"requerirá de dolor\"",
+        "summary": "En el marco de la Expo EFI, representantes relevantes del empresariado destacaron los avances del Gobierno en el orden macro o en medidas como el RIGI. Sin embargo, marcaron algunas cuestiones en el \"debe\".",
+        "link": "https://www.ambito.com/economia/empresarios-sectores-clave-respaldaron-el-rumbo-economico-milei-pero-alertaron-que-el-proceso-requerira-dolor-n6271865",
+        "source": "Ámbito Mercados",
+        "time": "28/04 22:50",
+        "iso_date": "2026-04-29T01:50:13+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
       {
         "title": "Comprar las caídas: así recomienda invertir JPMorgan con la volatilidad por la guerra en Irán",
         "summary": "El banco sostiene que la volatilidad ligada al conflicto en Irán no altera el escenario de fondo y recomienda aprovechar las caídas, con beneficios al alza y un contexto macro distinto al de 2022.",
@@ -426,18 +450,6 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "Una histórica planta de electrodomésticos deja de producir heladeras y despedirá personal en Rosario",
-        "summary": "A partir de mayo, dejará de ensamblar heladeras para Electrolux. Antes había dejado de producir cocinas. Con operaciones al mínimo, se prevé una reducción adicional de una plantilla que ya se había achicado en dos tercios",
-        "link": "https://www.infobae.com/economia/2026/04/27/una-historica-planta-de-electrodomesticos-deja-de-producir-heladeras-y-despedira-personal-en-rosario/",
-        "source": "Infobae Economía",
-        "time": "26/04 21:49",
-        "iso_date": "2026-04-27T00:49:57+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       }
     ],
     "CEPU": [
@@ -460,8 +472,8 @@
         "summary": "La Secretaría de Finanzas colocó USD 350 millones en el Bonar 2027 y el mismo monto en el Bonar 2028. Además, se aseguró un rollover superior al 100% en los vencimientos en pesos",
         "link": "https://www.infobae.com/economia/2026/04/28/licitacion-clave-el-gobierno-consiguio-otros-usd-700-millones-para-pagar-la-deuda-y-no-libero-pesos-al-mercado/",
         "source": "Infobae Economía",
-        "time": "28/04 19:38",
-        "iso_date": "2026-04-28T22:38:59+00:00",
+        "time": "28/04 21:20",
+        "iso_date": "2026-04-29T00:20:43+00:00",
         "tickers": [
           "AL30"
         ],
