@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-29T20:14:57.381356",
-  "updated_str": "29/04/2026 20:14",
+  "updated_at": "2026-04-29T20:38:10.788905",
+  "updated_str": "29/04/2026 20:38",
   "cutoff_hours": 48,
-  "total_news": 281,
+  "total_news": 255,
   "news": {
     "GENERAL": [
       {
@@ -10,13 +10,55 @@
         "summary": "Paolo Rocca se quedó también sin la licitación para la obra civil de Southern Energy, el consorcio petroleras locales que construyen el ducto que permitirá exportar gas de la cuenca neuquina desde un puerto en Río Negro. Ganó la UTE Víctor Contreras - SICIM",
         "link": "https://www.infobae.com/economia/2026/04/29/techint-volvio-a-perder-se-quedo-sin-vender-los-canos-y-sin-construir-un-gasoducto-clave-para-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "29/04 17:08",
-        "iso_date": "2026-04-29T20:08:46+00:00",
+        "time": "29/04 17:36",
+        "iso_date": "2026-04-29T20:36:43+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
+      },
+      {
+        "title": "Mercados: el petróleo se disparó 8% y apuntaló otra vez a las acciones argentinas del sector",
+        "summary": "Los índices de Wall Street operaron dispares y el barril de crudo se negoció en su precio más alto en cuatro años. El S&P Merval cayó 1,4%, subieron los bonos y el riesgo país argentino cedió a 568 puntos",
+        "link": "https://www.infobae.com/economia/2026/04/29/mercados-el-petroleo-sube-5-y-apuntala-otra-vez-a-las-acciones-argentinas-del-sector/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:33",
+        "iso_date": "2026-04-29T20:33:29+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El Banco Central compró más de USD 6.900 millones en el año y roza el 70% de la meta fijada para todo 2026",
+        "summary": "La autoridad monetaria adquirió USD 76 millones este miércoles y suma 77 jornadas consecutivas con saldo positivo. Las reservas cayeron por movimientos propios de fin de mes",
+        "link": "https://www.infobae.com/economia/2026/04/29/el-banco-central-compro-mas-de-usd-6900-millones-en-el-ano-y-roza-el-70-de-la-meta-fijada-para-todo-2026/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:28",
+        "iso_date": "2026-04-29T20:28:06+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: bajaron todas las cotizaciones y en el Banco Nación cayó a 1.415 pesos",
+        "summary": "La divisa al público cedió 15 pesos en el día, detrás del dólar mayorista que cerró otra vez debajo de los 1.400 pesos. El BCRA compró USD 76 millones en el mercado, pero las reservas cayeron USD 667 millones",
+        "link": "https://www.infobae.com/economia/2026/04/29/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-29-de-abril/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:10",
+        "iso_date": "2026-04-29T20:10:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 cayó tras la decisión de la Fed y antes de los resultados de las grandes tecnológicas",
+        "summary": "El repunte de los rendimientos del Tesoro y un tono más restrictivo de la Reserva Federal presionaron a la baja a las acciones.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-antes-de-la-fed-y-resultados-tecnologicos-mientras-el-petroleo-sube-a-us115/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/04 17:07",
+        "iso_date": "2026-04-29T20:07:23+00:00",
+        "tickers": [],
+        "is_general": true
       },
       {
         "title": "El dólar perforó los $1.400 impulsado por una amplia oferta y se alejó del techo de la banda cambiaria",
@@ -29,44 +71,12 @@
         "is_general": true
       },
       {
-        "title": "Dólar hoy en vivo: bajaron todas las cotizaciones y en el Banco Nación cayó a 1.415 pesos",
-        "summary": "La divisa al público cedió 15 pesos en el día, detrás del dólar mayorista que cerró otra vez debajo de los 1.400 pesos. El BCRA compró USD 76 millones en el mercado, pero las reservas cayeron USD 667 millones",
-        "link": "https://www.infobae.com/economia/2026/04/29/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-29-de-abril/",
-        "source": "Infobae Economía",
-        "time": "29/04 17:04",
-        "iso_date": "2026-04-29T20:04:20+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: el petróleo sube 5% y apuntala otra vez a las acciones argentinas del sector",
-        "summary": "Los índices de Wall Street operan dispares y el barril de crudo se negocia en su precio más alto en un mes. El S&P Merval cae 1,2% y el riesgo país argentino cede a 577 puntos",
-        "link": "https://www.infobae.com/economia/2026/04/29/mercados-el-petroleo-sube-5-y-apuntala-otra-vez-a-las-acciones-argentinas-del-sector/",
-        "source": "Infobae Economía",
-        "time": "29/04 16:47",
-        "iso_date": "2026-04-29T19:47:09+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Claudio Zuchovicki: \"Por primera vez en mis 40 años de mercado, la Argentina no discute el rumbo económico\"",
-        "summary": "El presidente de BYMA destacó que gran parte del los agentes económicos argentinos comparte el rumbo del Gobierno nacional y que también apoya la velocidad de los cambios.",
+        "summary": "El presidente de BYMA destacó que gran parte del los agentes económicos argentinos comparte el rumbo del Gobierno, y que también apoya la velocidad de los cambios.",
         "link": "https://www.ambito.com/economia/claudio-zuchovicki-por-primera-vez-mis-40-anos-mercado-la-argentina-no-discute-el-rumbo-economico-n6272247",
         "source": "Ámbito",
         "time": "29/04 16:20",
         "iso_date": "2026-04-29T19:20:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "S&P 500 cae y rendimientos de bonos repuntan tras una Fed dividida que mantuvo tasas de interés",
-        "summary": "El alza del crudo por tensiones en Medio Oriente presiona a las acciones y eleva los rendimientos, mientras crecen las dudas sobre el margen de acción de la Reserva Federal.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-antes-de-la-fed-y-resultados-tecnologicos-mientras-el-petroleo-sube-a-us115/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/04 16:15",
-        "iso_date": "2026-04-29T19:15:17+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -303,16 +313,6 @@
         "iso_date": "2026-04-29T11:09:28+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Las pretensiones salariales de los argentinos se ubicaron por debajo de la inflación por primera vez en dos años",
-        "summary": "El sueldo pretendido del primer trimestre quedó por debajo del índice de precios minoristas, según un estudio privado. Las diferencias por seniority, rubro y género muestran una amplia dispersión en los ingresos esperado",
-        "link": "https://www.infobae.com/economia/2026/04/29/las-pretensiones-salariales-de-los-argentinos-se-ubicaron-por-debajo-de-la-inflacion-por-primera-vez-en-dos-anos/",
-        "source": "Infobae Economía",
-        "time": "29/04 08:00",
-        "iso_date": "2026-04-29T11:00:22+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -321,11 +321,11 @@
         "summary": "Paolo Rocca se quedó también sin la licitación para la obra civil de Southern Energy, el consorcio petroleras locales que construyen el ducto que permitirá exportar gas de la cuenca neuquina desde un puerto en Río Negro. Ganó la UTE Víctor Contreras - SICIM",
         "link": "https://www.infobae.com/economia/2026/04/29/techint-volvio-a-perder-se-quedo-sin-vender-los-canos-y-sin-construir-un-gasoducto-clave-para-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "29/04 17:08",
-        "iso_date": "2026-04-29T20:08:46+00:00",
+        "time": "29/04 17:36",
+        "iso_date": "2026-04-29T20:36:43+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -388,11 +388,11 @@
         "summary": "Paolo Rocca se quedó también sin la licitación para la obra civil de Southern Energy, el consorcio petroleras locales que construyen el ducto que permitirá exportar gas de la cuenca neuquina desde un puerto en Río Negro. Ganó la UTE Víctor Contreras - SICIM",
         "link": "https://www.infobae.com/economia/2026/04/29/techint-volvio-a-perder-se-quedo-sin-vender-los-canos-y-sin-construir-un-gasoducto-clave-para-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "29/04 17:08",
-        "iso_date": "2026-04-29T20:08:46+00:00",
+        "time": "29/04 17:36",
+        "iso_date": "2026-04-29T20:36:43+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -439,30 +439,6 @@
         "is_general": false
       },
       {
-        "title": "Cerca de la mitad de las pymes prevé reducir personal en los próximos meses",
-        "summary": "Las pymes que “probablemente” reducirán su plantilla (31%) con aquellas que ya lo tienen decidido (18,5%) alcanzan el 50%, de acuerdo al informe de la IAE. Aumenta el pesimismo respecto al futuro.",
-        "link": "https://www.ambito.com/economia/cerca-la-mitad-las-pymes-preve-reducir-personal-los-proximos-meses-n6271467",
-        "source": "Ámbito",
-        "time": "27/04 19:42",
-        "iso_date": "2026-04-27T22:42:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Cerca de la mitad de las pymes prevé reducir personal en los próximos meses",
-        "summary": "Las pymes que “probablemente” reducirán su plantilla (31%) con aquellas que ya lo tienen decidido (18,5%) alcanzan el 50%, de acuerdo al informe de la IAE. Aumenta el pesimismo respecto al futuro.",
-        "link": "https://www.ambito.com/economia/cerca-la-mitad-las-pymes-preve-reducir-personal-los-proximos-meses-n6271467",
-        "source": "Ámbito Mercados",
-        "time": "27/04 19:42",
-        "iso_date": "2026-04-27T22:42:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Charles Leclerc también lo vale: el piloto de Fórmula 1 se convierte en embajador de L’Oréal",
         "summary": "El piloto de la escudería Ferrari será el rostro de la línea de productos de cuidado personal para hombres.",
         "link": "https://www.bloomberglinea.com/estilo-de-vida/charles-leclerc-tambien-lo-vale-el-piloto-de-formula-se-convierte-en-embajador-de-loreal/",
@@ -491,12 +467,12 @@
     ],
     "AL30": [
       {
-        "title": "Mercados: el petróleo sube 5% y apuntala otra vez a las acciones argentinas del sector",
-        "summary": "Los índices de Wall Street operan dispares y el barril de crudo se negocia en su precio más alto en un mes. El S&P Merval cae 1,2% y el riesgo país argentino cede a 577 puntos",
+        "title": "Mercados: el petróleo se disparó 8% y apuntaló otra vez a las acciones argentinas del sector",
+        "summary": "Los índices de Wall Street operaron dispares y el barril de crudo se negoció en su precio más alto en cuatro años. El S&P Merval cayó 1,4%, subieron los bonos y el riesgo país argentino cedió a 568 puntos",
         "link": "https://www.infobae.com/economia/2026/04/29/mercados-el-petroleo-sube-5-y-apuntala-otra-vez-a-las-acciones-argentinas-del-sector/",
         "source": "Infobae Economía",
-        "time": "29/04 16:47",
-        "iso_date": "2026-04-29T19:47:09+00:00",
+        "time": "29/04 17:33",
+        "iso_date": "2026-04-29T20:33:29+00:00",
         "tickers": [
           "AL30"
         ],
