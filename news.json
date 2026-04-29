@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-04-29T19:58:54.426583",
-  "updated_str": "29/04/2026 19:58",
+  "updated_at": "2026-04-29T20:14:57.381356",
+  "updated_str": "29/04/2026 20:14",
   "cutoff_hours": 48,
-  "total_news": 257,
+  "total_news": 281,
   "news": {
     "GENERAL": [
+      {
+        "title": "Techint volvió a perder: se quedó sin vender los caños y sin construir un gasoducto clave para Vaca Muerta",
+        "summary": "Paolo Rocca se quedó también sin la licitación para la obra civil de Southern Energy, el consorcio petroleras locales que construyen el ducto que permitirá exportar gas de la cuenca neuquina desde un puerto en Río Negro. Ganó la UTE Víctor Contreras - SICIM",
+        "link": "https://www.infobae.com/economia/2026/04/29/techint-volvio-a-perder-se-quedo-sin-vender-los-canos-y-sin-construir-un-gasoducto-clave-para-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:08",
+        "iso_date": "2026-04-29T20:08:46+00:00",
+        "tickers": [
+          "YPFD",
+          "TXAR"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El dólar perforó los $1.400 impulsado por una amplia oferta y se alejó del techo de la banda cambiaria",
+        "summary": "En el mercado de cambios se negociaron más de USD 500 millones y el tipo de cambio mayorista recortó 13 pesos. Al público cedió a $1.415 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/04/29/el-dolar-perforo-los-1400-impulsado-por-una-amplia-oferta-y-se-alejo-del-techo-de-la-banda-cambiaria/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:05",
+        "iso_date": "2026-04-29T20:05:59+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: bajaron todas las cotizaciones y en el Banco Nación cayó a 1.415 pesos",
+        "summary": "La divisa al público cedió 15 pesos en el día, detrás del dólar mayorista que cerró otra vez debajo de los 1.400 pesos. El BCRA compró USD 76 millones en el mercado, pero las reservas cayeron USD 667 millones",
+        "link": "https://www.infobae.com/economia/2026/04/29/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-29-de-abril/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:04",
+        "iso_date": "2026-04-29T20:04:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mercados: el petróleo sube 5% y apuntala otra vez a las acciones argentinas del sector",
         "summary": "Los índices de Wall Street operan dispares y el barril de crudo se negocia en su precio más alto en un mes. El S&P Merval cae 1,2% y el riesgo país argentino cede a 577 puntos",
@@ -28,32 +61,12 @@
         "is_general": true
       },
       {
-        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este miércoles 29 de abril",
-        "summary": "La divisa al público es ofrecida a $1.420 para la venta en el Banco Nación, mientras que blue se asienta en los $1.415",
-        "link": "https://www.infobae.com/economia/2026/04/29/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-29-de-abril/",
-        "source": "Infobae Economía",
-        "time": "29/04 16:18",
-        "iso_date": "2026-04-29T19:18:56+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "S&P 500 cae y rendimientos de bonos repuntan tras una Fed dividida que mantuvo tasas de interés",
         "summary": "El alza del crudo por tensiones en Medio Oriente presiona a las acciones y eleva los rendimientos, mientras crecen las dudas sobre el margen de acción de la Reserva Federal.",
         "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-antes-de-la-fed-y-resultados-tecnologicos-mientras-el-petroleo-sube-a-us115/",
         "source": "Bloomberg Línea AR",
         "time": "29/04 16:15",
         "iso_date": "2026-04-29T19:15:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar perforó los $1.400 impulsado por una amplia oferta y se alejó del techo de la banda cambiaria",
-        "summary": "En el mercado de cambios se negociaron más de USD 500 millones y el tipo de cambio mayorista recortó 13 pesos. Al público cedió a $1.415 para la venta en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/04/29/el-dolar-perforo-los-1400-impulsado-por-una-amplia-oferta-y-se-alejo-del-techo-de-la-banda-cambiaria/",
-        "source": "Infobae Economía",
-        "time": "29/04 15:43",
-        "iso_date": "2026-04-29T18:43:40+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -300,19 +313,22 @@
         "iso_date": "2026-04-29T11:00:22+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La Fed y balances de cuatro de las Siete Magníficas marcan un miércoles clave para Wall Street",
-        "summary": "La decisión de tasas de la Fed coincide con una batería de resultados de las grandes tecnológicas que pondrá a prueba las valoraciones del sector.",
-        "link": "https://www.bloomberglinea.com/mercados/la-fed-y-balances-de-cuatro-de-las-siete-magnificas-marcan-un-miercoles-clave-para-wall-street/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/04 08:00",
-        "iso_date": "2026-04-29T11:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Techint volvió a perder: se quedó sin vender los caños y sin construir un gasoducto clave para Vaca Muerta",
+        "summary": "Paolo Rocca se quedó también sin la licitación para la obra civil de Southern Energy, el consorcio petroleras locales que construyen el ducto que permitirá exportar gas de la cuenca neuquina desde un puerto en Río Negro. Ganó la UTE Víctor Contreras - SICIM",
+        "link": "https://www.infobae.com/economia/2026/04/29/techint-volvio-a-perder-se-quedo-sin-vender-los-canos-y-sin-construir-un-gasoducto-clave-para-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:08",
+        "iso_date": "2026-04-29T20:08:46+00:00",
+        "tickers": [
+          "YPFD",
+          "TXAR"
+        ],
+        "is_general": false
+      },
       {
         "title": "El mercado refuerza su apuesta por Vista con precio del petróleo en tres dígitos",
         "summary": "Este miércoles se conocen los resultados el primer trimestre. La acción de la petrolera registró máximos históricos en marzo y los analistas aún ven margen de suba. Se consolidó como la segunda productora de Argentina y Vaca Muerta.",
@@ -368,6 +384,19 @@
     ],
     "TXAR": [
       {
+        "title": "Techint volvió a perder: se quedó sin vender los caños y sin construir un gasoducto clave para Vaca Muerta",
+        "summary": "Paolo Rocca se quedó también sin la licitación para la obra civil de Southern Energy, el consorcio petroleras locales que construyen el ducto que permitirá exportar gas de la cuenca neuquina desde un puerto en Río Negro. Ganó la UTE Víctor Contreras - SICIM",
+        "link": "https://www.infobae.com/economia/2026/04/29/techint-volvio-a-perder-se-quedo-sin-vender-los-canos-y-sin-construir-un-gasoducto-clave-para-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "29/04 17:08",
+        "iso_date": "2026-04-29T20:08:46+00:00",
+        "tickers": [
+          "YPFD",
+          "TXAR"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Milei volvió a apuntar contra Rocca y Madanes Quintanilla: “¿Por qué debería beneficiar a corruptos ineficientes?\"",
         "summary": "El presidente redobló sus críticas contra el CEO de Techint y el dueño de Aluar y cuestionó lo que definió como privilegios empresariales obtenidos a través de la intervención estatal",
         "link": "https://www.infobae.com/economia/2026/04/28/milei-volvio-a-apuntar-contra-rocca-y-madanes-quintanilla-por-que-deberia-beneficiar-a-corruptos-ineficientes/",
@@ -375,8 +404,8 @@
         "time": "27/04 23:26",
         "iso_date": "2026-04-28T02:26:46+00:00",
         "tickers": [
-          "ALUA",
-          "TXAR"
+          "TXAR",
+          "ALUA"
         ],
         "is_general": true
       }
@@ -390,8 +419,8 @@
         "time": "27/04 23:26",
         "iso_date": "2026-04-28T02:26:46+00:00",
         "tickers": [
-          "ALUA",
-          "TXAR"
+          "TXAR",
+          "ALUA"
         ],
         "is_general": true
       }
@@ -404,6 +433,30 @@
         "source": "El Cronista",
         "time": "29/04 12:58",
         "iso_date": "2026-04-29T15:58:16+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cerca de la mitad de las pymes prevé reducir personal en los próximos meses",
+        "summary": "Las pymes que “probablemente” reducirán su plantilla (31%) con aquellas que ya lo tienen decidido (18,5%) alcanzan el 50%, de acuerdo al informe de la IAE. Aumenta el pesimismo respecto al futuro.",
+        "link": "https://www.ambito.com/economia/cerca-la-mitad-las-pymes-preve-reducir-personal-los-proximos-meses-n6271467",
+        "source": "Ámbito",
+        "time": "27/04 19:42",
+        "iso_date": "2026-04-27T22:42:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cerca de la mitad de las pymes prevé reducir personal en los próximos meses",
+        "summary": "Las pymes que “probablemente” reducirán su plantilla (31%) con aquellas que ya lo tienen decidido (18,5%) alcanzan el 50%, de acuerdo al informe de la IAE. Aumenta el pesimismo respecto al futuro.",
+        "link": "https://www.ambito.com/economia/cerca-la-mitad-las-pymes-preve-reducir-personal-los-proximos-meses-n6271467",
+        "source": "Ámbito Mercados",
+        "time": "27/04 19:42",
+        "iso_date": "2026-04-27T22:42:00+00:00",
         "tickers": [
           "TECO2"
         ],
