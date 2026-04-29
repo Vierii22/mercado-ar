@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-29T20:38:10.788905",
-  "updated_str": "29/04/2026 20:38",
+  "updated_at": "2026-04-29T20:58:56.802516",
+  "updated_str": "29/04/2026 20:58",
   "cutoff_hours": 48,
-  "total_news": 255,
+  "total_news": 277,
   "news": {
     "GENERAL": [
       {
@@ -285,16 +285,6 @@
         "is_general": true
       },
       {
-        "title": "Milei se retiró del Congreso al grito de “chorros y corruptos”: mirá los videos",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/congreso-vallado-a-la-espera-de-javier-milei-los-detalles-de-la-sesion/",
-        "source": "El Cronista",
-        "time": "29/04 09:42",
-        "iso_date": "2026-04-29T12:42:11+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "El rial iraní se hunde a mínimos históricos mientras el petróleo escala por la parálisis diplomática entre Washington y Teherán",
         "summary": "El tipo de cambio alcanzó los 1,8 millones de riales por dólar en medio del bloqueo naval de Estados Unidos que ha paralizado las exportaciones. La caída de la moneda nacional dispara los precios de alimentos básicos y provoca despidos masivos en las industrias del régimen",
         "link": "https://www.infobae.com/america/mundo/2026/04/29/el-rial-irani-se-hunde-a-minimos-historicos-mientras-el-petroleo-escala-por-la-paralisis-diplomatica-entre-washington-y-teheran/",
@@ -311,6 +301,16 @@
         "source": "El Cronista",
         "time": "29/04 08:09",
         "iso_date": "2026-04-29T11:09:28+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las pretensiones salariales de los argentinos se ubicaron por debajo de la inflación por primera vez en dos años",
+        "summary": "El sueldo pretendido del primer trimestre quedó por debajo del índice de precios minoristas, según un estudio privado. Las diferencias por seniority, rubro y género muestran una amplia dispersión en los ingresos esperado",
+        "link": "https://www.infobae.com/economia/2026/04/29/las-pretensiones-salariales-de-los-argentinos-se-ubicaron-por-debajo-de-la-inflacion-por-primera-vez-en-dos-anos/",
+        "source": "Infobae Economía",
+        "time": "29/04 08:00",
+        "iso_date": "2026-04-29T11:00:22+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -439,12 +439,24 @@
         "is_general": false
       },
       {
-        "title": "Charles Leclerc también lo vale: el piloto de Fórmula 1 se convierte en embajador de L’Oréal",
-        "summary": "El piloto de la escudería Ferrari será el rostro de la línea de productos de cuidado personal para hombres.",
-        "link": "https://www.bloomberglinea.com/estilo-de-vida/charles-leclerc-tambien-lo-vale-el-piloto-de-formula-se-convierte-en-embajador-de-loreal/",
-        "source": "Bloomberg Línea AR",
-        "time": "27/04 17:48",
-        "iso_date": "2026-04-27T20:48:15+00:00",
+        "title": "Cerca de la mitad de las pymes prevé reducir personal en los próximos meses",
+        "summary": "Las pymes que “probablemente” reducirán su plantilla (31%) con aquellas que ya lo tienen decidido (18,5%) alcanzan el 50%, de acuerdo al informe de la IAE. Aumenta el pesimismo respecto al futuro.",
+        "link": "https://www.ambito.com/economia/cerca-la-mitad-las-pymes-preve-reducir-personal-los-proximos-meses-n6271467",
+        "source": "Ámbito",
+        "time": "27/04 19:42",
+        "iso_date": "2026-04-27T22:42:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cerca de la mitad de las pymes prevé reducir personal en los próximos meses",
+        "summary": "Las pymes que “probablemente” reducirán su plantilla (31%) con aquellas que ya lo tienen decidido (18,5%) alcanzan el 50%, de acuerdo al informe de la IAE. Aumenta el pesimismo respecto al futuro.",
+        "link": "https://www.ambito.com/economia/cerca-la-mitad-las-pymes-preve-reducir-personal-los-proximos-meses-n6271467",
+        "source": "Ámbito Mercados",
+        "time": "27/04 19:42",
+        "iso_date": "2026-04-27T22:42:00+00:00",
         "tickers": [
           "TECO2"
         ],
@@ -569,18 +581,6 @@
         "source": "Infobae Economía",
         "time": "27/04 19:22",
         "iso_date": "2026-04-27T22:22:07+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: subieron las acciones y cayeron los bonos argentinos en medio de la cautela en las bolsas internacionales",
-        "summary": "Los indicadores de Wall Street terminaron dispares y el petróleo subió más de 2%, mientras los inversores sopesaron las alternativas de paz en Irán. El S&P Merval ganó 0,9% en pesos y el riesgo país trepó a 582 puntos",
-        "link": "https://www.infobae.com/economia/2026/04/27/mercados-suben-las-acciones-y-caen-los-bonos-argentinos-en-medio-de-la-cautela-en-las-bolsas-internacionales/",
-        "source": "Infobae Economía",
-        "time": "27/04 17:58",
-        "iso_date": "2026-04-27T20:58:10+00:00",
         "tickers": [
           "AL30"
         ],
