@@ -1,17 +1,29 @@
 {
-  "updated_at": "2026-05-01T20:45:22.721257",
-  "updated_str": "01/05/2026 20:45",
+  "updated_at": "2026-05-01T22:42:40.001227",
+  "updated_str": "01/05/2026 22:42",
   "cutoff_hours": 48,
-  "total_news": 216,
+  "total_news": 211,
   "news": {
     "GENERAL": [
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street, pero el riesgo país profundizó la baja",
+        "summary": "Los índices S&P 500 y Nasdaq anotaron niveles récord, pero las acciones argentinas sufrieron bajas generalizadas. Los bonos avanzaron 1% y el riesgo país cedió a 539 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/05/01/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-pero-el-riesgo-pais-profundizo-la-baja/",
+        "source": "Infobae Economía",
+        "time": "01/05 19:00",
+        "iso_date": "2026-05-01T22:00:40+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: Wall Street marcó nuevos máximos mientras cayeron las acciones argentinas y rebotaron los bonos",
         "summary": "Los índices S&P 500 y Nasdaq rompieron niveles récord en medio de la temporada de balances. Los ADR argentinos perdieron hasta 5%. El riesgo país retrocedió a 539 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/05/01/mercados-wall-street-marca-nuevos-maximos-mientras-caen-las-acciones-argentinas-y-rebotan-los-bonos/",
         "source": "Infobae Economía",
-        "time": "01/05 17:28",
-        "iso_date": "2026-05-01T20:28:58+00:00",
+        "time": "01/05 17:42",
+        "iso_date": "2026-05-01T20:42:20+00:00",
         "tickers": [
           "AL30"
         ],
@@ -302,16 +314,6 @@
         "iso_date": "2026-05-01T03:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Sorpresa en Bariloche: Caputo se reunió con la reina Máxima y habló en el Foro Llao Llao",
-        "summary": "El ministro de Economía participó de la cena del exclusivo encuentro de empresarios y emprendedores en Bariloche",
-        "link": "https://www.infobae.com/economia/2026/04/30/sorpresa-en-bariloche-fuera-de-agenda-caputo-viajo-al-foro-de-llao-llao-y-hablara-ante-el-circulo-rojo/",
-        "source": "Infobae Economía",
-        "time": "30/04 23:05",
-        "iso_date": "2026-05-01T02:05:37+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -374,39 +376,12 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Techint pierde otra licitación para la construcción de gasoducto en Vaca Muerta",
-        "summary": "Southern Energy adjudicó a Victor Contreras y la italiana Sicim para la elaboración de un caño de 471 kilómetros y 36 pulgadas. La inversión fue presentada al RIGI y demandará US$1.300 millones",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/techint-pierde-otra-licitacion-para-la-construccion-de-gasoducto-en-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/04 18:05",
-        "iso_date": "2026-04-29T21:05:49+00:00",
-        "tickers": [
-          "TXAR",
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
     "PAMP": [],
     "BMA": [],
-    "TXAR": [
-      {
-        "title": "Techint pierde otra licitación para la construcción de gasoducto en Vaca Muerta",
-        "summary": "Southern Energy adjudicó a Victor Contreras y la italiana Sicim para la elaboración de un caño de 471 kilómetros y 36 pulgadas. La inversión fue presentada al RIGI y demandará US$1.300 millones",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/techint-pierde-otra-licitacion-para-la-construccion-de-gasoducto-en-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/04 18:05",
-        "iso_date": "2026-04-29T21:05:49+00:00",
-        "tickers": [
-          "TXAR",
-          "YPFD"
-        ],
-        "is_general": false
-      }
-    ],
+    "TXAR": [],
     "ALUA": [],
     "TECO2": [
       {
@@ -462,12 +437,24 @@
     ],
     "AL30": [
       {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street, pero el riesgo país profundizó la baja",
+        "summary": "Los índices S&P 500 y Nasdaq anotaron niveles récord, pero las acciones argentinas sufrieron bajas generalizadas. Los bonos avanzaron 1% y el riesgo país cedió a 539 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/05/01/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-pero-el-riesgo-pais-profundizo-la-baja/",
+        "source": "Infobae Economía",
+        "time": "01/05 19:00",
+        "iso_date": "2026-05-01T22:00:40+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Mercados: Wall Street marcó nuevos máximos mientras cayeron las acciones argentinas y rebotaron los bonos",
         "summary": "Los índices S&P 500 y Nasdaq rompieron niveles récord en medio de la temporada de balances. Los ADR argentinos perdieron hasta 5%. El riesgo país retrocedió a 539 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/05/01/mercados-wall-street-marca-nuevos-maximos-mientras-caen-las-acciones-argentinas-y-rebotan-los-bonos/",
         "source": "Infobae Economía",
-        "time": "01/05 17:28",
-        "iso_date": "2026-05-01T20:28:58+00:00",
+        "time": "01/05 17:42",
+        "iso_date": "2026-05-01T20:42:20+00:00",
         "tickers": [
           "AL30"
         ],
@@ -504,30 +491,6 @@
         "source": "Infobae Economía",
         "time": "30/04 18:39",
         "iso_date": "2026-04-30T21:39:01+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: cayó el riesgo país y las acciones argentinas tuvieron alzas selectivas por el salto del petróleo",
-        "summary": "El barril de crudo subió 8% y se acercó a USD 120, su precio más alto en cuatro años, lo que apuntaló a las empresas del sector. Los bonos rebotaron y el riesgo país cedió a 566 puntos. El dólar bajó a $1.415 en el Banco Nación y el BCRA compró USD 76 millones",
-        "link": "https://www.infobae.com/economia/2026/04/29/jornada-financiera-cayo-el-riesgo-pais-y-las-acciones-argentinas-tuvieron-alzas-selectivas-por-el-salto-del-petroleo/",
-        "source": "Infobae Economía",
-        "time": "29/04 18:20",
-        "iso_date": "2026-04-29T21:20:10+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: el petróleo se disparó 8% y apuntaló otra vez a las acciones argentinas del sector",
-        "summary": "Los índices de Wall Street operaron dispares y el barril de crudo se negoció en su precio más alto en cuatro años. El S&P Merval cayó 1,4%, subieron los bonos y el riesgo país argentino cedió a 566 puntos",
-        "link": "https://www.infobae.com/economia/2026/04/29/mercados-el-petroleo-sube-5-y-apuntala-otra-vez-a-las-acciones-argentinas-del-sector/",
-        "source": "Infobae Economía",
-        "time": "29/04 18:05",
-        "iso_date": "2026-04-29T21:05:31+00:00",
         "tickers": [
           "AL30"
         ],
