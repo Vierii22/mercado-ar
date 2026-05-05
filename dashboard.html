@@ -823,5 +823,424 @@ function renderBonds(bonds) {
 
 loadAll();
 </script>
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  TRADING SECTION — Agregar en dashboard.html de MercadoAR       ║
+  ║  Pegar justo antes del </body> final                             ║
+  ╚══════════════════════════════════════════════════════════════════╝
+
+  PASO 1: Agregar este bloque HTML donde quieras la seccion de trading
+  (por ejemplo al final del dashboard, despues de tus cards actuales)
+-->
+
+<!-- ── SECCION TRADING ───────────────────────────────────────── -->
+<section id="trading-section" style="margin-top: 2rem;">
+
+  <div class="trading-header">
+    <h2>📊 Sistema de Trading</h2>
+    <span id="trading-status" class="badge badge-offline">● Desconectado</span>
+    <span id="trading-last-update" style="font-size:0.8rem; color:#888; margin-left:1rem;"></span>
+  </div>
+
+  <!-- Señales activas -->
+  <div class="trading-card">
+    <h3>🚨 Señales Activas</h3>
+    <div id="trading-signals-container">
+      <p class="trading-empty">Conectando al sistema de trading...</p>
+    </div>
+  </div>
+
+  <!-- Precios en tiempo real -->
+  <div class="trading-card">
+    <h3>💲 Precios en Tiempo Real (Merval)</h3>
+    <div id="trading-prices-container" class="trading-prices-grid">
+      <p class="trading-empty">Cargando precios...</p>
+    </div>
+  </div>
+
+  <!-- Indicadores de un ticker específico -->
+  <div class="trading-card">
+    <h3>📈 Indicadores Técnicos</h3>
+    <div class="trading-ticker-selector">
+      <select id="trading-ticker-select">
+        <option value="GGAL">GGAL</option>
+        <option value="YPFD">YPFD</option>
+        <option value="BMA">BMA</option>
+        <option value="PAMP">PAMP</option>
+        <option value="TXAR">TXAR</option>
+        <option value="ALUA">ALUA</option>
+        <option value="COME">COME</option>
+      </select>
+      <button id="trading-load-indicators" onclick="loadIndicators()">Ver indicadores</button>
+    </div>
+    <div id="trading-indicators-container">
+      <p class="trading-empty">Seleccioná un ticker y hacé clic en "Ver indicadores"</p>
+    </div>
+  </div>
+
+</section>
+<!-- ── FIN SECCION TRADING ─────────────────────────────────────── -->
+
+
+<!-- ── ESTILOS (pegar en el <style> existente o aqui mismo) ─────── -->
+<style>
+  #trading-section {
+    padding: 1rem;
+    font-family: inherit;
+  }
+  .trading-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  .trading-header h2 {
+    margin: 0;
+    font-size: 1.4rem;
+  }
+  .trading-card {
+    background: var(--card-bg, #1e1e2e);
+    border: 1px solid var(--border-color, #333);
+    border-radius: 12px;
+    padding: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+  .trading-card h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
+    color: var(--text-secondary, #aaa);
+  }
+  .trading-empty {
+    color: #666;
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 1rem;
+  }
+  .badge {
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .badge-online  { background: #1a3a1a; color: #4caf50; }
+  .badge-offline { background: #3a1a1a; color: #f44336; }
+
+  /* Señales */
+  .trading-signal-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 0.8rem;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+    border-left: 4px solid transparent;
+    background: rgba(255,255,255,0.03);
+  }
+  .trading-signal-card.STRONG_BUY  { border-color: #00e676; }
+  .trading-signal-card.BUY         { border-color: #69f0ae; }
+  .trading-signal-card.SELL        { border-color: #ff5252; }
+  .trading-signal-card.STRONG_SELL { border-color: #d50000; }
+  .trading-signal-emoji { font-size: 1.8rem; }
+  .trading-signal-ticker { font-weight: 700; font-size: 1rem; }
+  .trading-signal-type   { font-size: 0.8rem; color: #aaa; }
+  .trading-signal-reason { font-size: 0.8rem; color: #ccc; margin-top: 3px; }
+  .trading-signal-time   { font-size: 0.75rem; color: #666; margin-top: 3px; }
+  .trading-conf-bar {
+    display: inline-block;
+    height: 4px;
+    background: #4caf50;
+    border-radius: 2px;
+    margin-top: 4px;
+  }
+
+  /* Grilla de precios */
+  .trading-prices-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 0.7rem;
+  }
+  .trading-price-card {
+    background: rgba(255,255,255,0.04);
+    border-radius: 8px;
+    padding: 0.7rem;
+    text-align: center;
+  }
+  .trading-price-ticker { font-weight: 700; font-size: 0.9rem; }
+  .trading-price-value  { font-size: 1.1rem; margin: 3px 0; }
+  .trading-price-change { font-size: 0.8rem; }
+  .positive { color: #4caf50; }
+  .negative { color: #f44336; }
+
+  /* Indicadores */
+  .trading-indicators-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 0.6rem;
+    margin-top: 0.8rem;
+  }
+  .trading-indicator-item {
+    background: rgba(255,255,255,0.04);
+    border-radius: 8px;
+    padding: 0.6rem 0.8rem;
+  }
+  .trading-indicator-label { font-size: 0.75rem; color: #888; }
+  .trading-indicator-value { font-size: 1rem; font-weight: 600; margin-top: 2px; }
+  .trend-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+  .trend-ALCISTA { background: #1a3a1a; color: #4caf50; }
+  .trend-BAJISTA { background: #3a1a1a; color: #f44336; }
+  .trading-ticker-selector {
+    display: flex;
+    gap: 0.8rem;
+    align-items: center;
+    margin-bottom: 0.8rem;
+  }
+  .trading-ticker-selector select {
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    border: 1px solid #444;
+    background: #2a2a3a;
+    color: #fff;
+    font-size: 0.9rem;
+  }
+  .trading-ticker-selector button {
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    border: none;
+    background: #4a90e2;
+    color: #fff;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .trading-ticker-selector button:hover { background: #357abd; }
+</style>
+
+
+<!-- ── JAVASCRIPT (pegar justo antes de </body>) ─────────────────── -->
+<script>
+// ================================================================
+//  TRADING SYSTEM — Conexion con el backend local
+//  El backend corre en tu computadora con: python main.py
+// ================================================================
+
+const TRADING_API   = "http://localhost:8000";  // API REST
+const TRADING_WS    = "ws://localhost:8765";     // WebSocket
+
+const SIGNAL_EMOJI = {
+  STRONG_BUY:  "🚀",
+  BUY:         "📈",
+  SELL:        "📉",
+  STRONG_SELL: "💥",
+};
+
+const SIGNAL_LABEL = {
+  STRONG_BUY:  "Compra Fuerte",
+  BUY:         "Compra",
+  SELL:        "Venta",
+  STRONG_SELL: "Venta Fuerte",
+};
+
+let tradingWS = null;
+let reconnectTimer = null;
+
+// ── Conexion WebSocket ────────────────────────────────────────
+function connectTradingWS() {
+  if (tradingWS) tradingWS.close();
+
+  tradingWS = new WebSocket(TRADING_WS);
+
+  tradingWS.onopen = () => {
+    console.log("Trading WS: conectado");
+    setStatus(true);
+    if (reconnectTimer) { clearTimeout(reconnectTimer); reconnectTimer = null; }
+  };
+
+  tradingWS.onmessage = (e) => {
+    try {
+      const msg = JSON.parse(e.data);
+      if (msg.type === "initial" || msg.type === "update") {
+        if (msg.data?.prices || msg.prices) {
+          renderPrices(msg.data?.prices || msg.prices);
+        }
+        if (msg.data?.signals) {
+          renderSignals(msg.data.signals);
+        }
+      }
+      document.getElementById("trading-last-update").textContent =
+        "Último: " + new Date().toLocaleTimeString("es-AR");
+    } catch (err) {
+      console.error("Trading WS parse error:", err);
+    }
+  };
+
+  tradingWS.onclose = () => {
+    setStatus(false);
+    // Reintenta cada 10 segundos
+    reconnectTimer = setTimeout(connectTradingWS, 10000);
+  };
+
+  tradingWS.onerror = () => {
+    setStatus(false);
+  };
+}
+
+// ── Fallback: API REST si no hay WebSocket ────────────────────
+async function loadViaAPI() {
+  try {
+    const [pricesRes, signalsRes] = await Promise.all([
+      fetch(`${TRADING_API}/prices`),
+      fetch(`${TRADING_API}/signals?hours=24`),
+    ]);
+    if (pricesRes.ok)  renderPrices(await pricesRes.json());
+    if (signalsRes.ok) renderSignals(await signalsRes.json());
+  } catch (err) {
+    console.log("Trading API no disponible:", err.message);
+  }
+}
+
+// ── Render de precios ─────────────────────────────────────────
+function renderPrices(prices) {
+  const container = document.getElementById("trading-prices-container");
+  if (!prices || Object.keys(prices).length === 0) return;
+
+  container.innerHTML = Object.entries(prices).map(([ticker, d]) => {
+    const change = d.change_pct || 0;
+    const sign   = change >= 0 ? "+" : "";
+    const cls    = change >= 0 ? "positive" : "negative";
+    return `
+      <div class="trading-price-card">
+        <div class="trading-price-ticker">${ticker}</div>
+        <div class="trading-price-value">$${(d.price || 0).toLocaleString("es-AR", {minimumFractionDigits: 2})}</div>
+        <div class="trading-price-change ${cls}">${sign}${change.toFixed(2)}%</div>
+      </div>`;
+  }).join("");
+}
+
+// ── Render de señales ─────────────────────────────────────────
+function renderSignals(signals) {
+  const container = document.getElementById("trading-signals-container");
+  if (!signals || signals.length === 0) {
+    container.innerHTML = '<p class="trading-empty">Sin señales en las últimas 24hs</p>';
+    return;
+  }
+
+  container.innerHTML = signals.slice(0, 10).map(s => {
+    const emoji   = SIGNAL_EMOJI[s.signal_type] || "⚠️";
+    const label   = SIGNAL_LABEL[s.signal_type] || s.signal_type;
+    const conf    = Math.round((s.confidence || 0) * 100);
+    const confW   = conf + "%";
+    const time    = s.timestamp ? new Date(s.timestamp).toLocaleTimeString("es-AR") : "";
+    return `
+      <div class="trading-signal-card ${s.signal_type}">
+        <div class="trading-signal-emoji">${emoji}</div>
+        <div style="flex:1">
+          <div>
+            <span class="trading-signal-ticker">${s.ticker}</span>
+            <span class="trading-signal-type"> — ${label}</span>
+          </div>
+          <div class="trading-signal-reason">${s.reason || ""}</div>
+          <div style="display:flex; align-items:center; gap:8px; margin-top:4px">
+            <div style="width:80px; height:4px; background:#333; border-radius:2px;">
+              <div class="trading-conf-bar" style="width:${confW}"></div>
+            </div>
+            <span style="font-size:0.75rem; color:#888">${conf}% confianza</span>
+          </div>
+          <div class="trading-signal-time">⏱ ${time} · ${s.strategy || ""}</div>
+        </div>
+      </div>`;
+  }).join("");
+}
+
+// ── Indicadores de un ticker ──────────────────────────────────
+async function loadIndicators() {
+  const ticker = document.getElementById("trading-ticker-select").value;
+  const container = document.getElementById("trading-indicators-container");
+  container.innerHTML = '<p class="trading-empty">Cargando...</p>';
+
+  try {
+    const res = await fetch(`${TRADING_API}/indicators/${ticker}`);
+    if (!res.ok) throw new Error("Sin datos");
+    const d = await res.json();
+
+    const rsiColor = d.rsi < 30 ? "#4caf50" : d.rsi > 70 ? "#f44336" : "#fff";
+    const macdColor = d.macd > d.macd_signal ? "#4caf50" : "#f44336";
+
+    container.innerHTML = `
+      <div style="margin-bottom:0.5rem">
+        <span class="trend-badge trend-${d.trend}">${d.trend}</span>
+        <span style="margin-left:8px; font-size:0.85rem; color:#aaa">
+          MACD ${d.macd_trending_up ? "↑ subiendo" : "↓ bajando"}
+        </span>
+      </div>
+      <div class="trading-indicators-grid">
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">Precio</div>
+          <div class="trading-indicator-value">$${(d.price||0).toLocaleString("es-AR")}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">EMA 20</div>
+          <div class="trading-indicator-value" style="color:${d.price>d.ema_20?'#4caf50':'#f44336'}">$${(d.ema_20||0).toLocaleString("es-AR")}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">EMA 50</div>
+          <div class="trading-indicator-value">$${(d.ema_50||0).toLocaleString("es-AR")}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">EMA 200</div>
+          <div class="trading-indicator-value">$${(d.ema_200||0).toLocaleString("es-AR")}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">RSI (14)</div>
+          <div class="trading-indicator-value" style="color:${rsiColor}">${(d.rsi||0).toFixed(1)}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">MACD</div>
+          <div class="trading-indicator-value" style="color:${macdColor}">${(d.macd||0).toFixed(4)}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">BB Superior</div>
+          <div class="trading-indicator-value">$${(d.bb_high||0).toLocaleString("es-AR")}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">BB Inferior</div>
+          <div class="trading-indicator-value">$${(d.bb_low||0).toLocaleString("es-AR")}</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">Volumen ratio</div>
+          <div class="trading-indicator-value" style="color:${d.volume_ratio>1.5?'#4caf50':'#fff'}">${(d.volume_ratio||1).toFixed(2)}x</div>
+        </div>
+        <div class="trading-indicator-item">
+          <div class="trading-indicator-label">ATR (volatilidad)</div>
+          <div class="trading-indicator-value">${(d.atr||0).toFixed(2)}</div>
+        </div>
+      </div>`;
+  } catch (err) {
+    container.innerHTML = `<p class="trading-empty">❌ No se pudo cargar. ¿El backend está corriendo?<br><code>python main.py</code></p>`;
+  }
+}
+
+// ── Estado de conexion ────────────────────────────────────────
+function setStatus(online) {
+  const el = document.getElementById("trading-status");
+  if (!el) return;
+  el.textContent = online ? "● Conectado" : "● Desconectado";
+  el.className = "badge " + (online ? "badge-online" : "badge-offline");
+}
+
+// ── Inicializacion ────────────────────────────────────────────
+document.addEventListener("DOMContentLoaded", () => {
+  // Intenta WebSocket primero
+  connectTradingWS();
+  // Tambien carga por API REST como fallback
+  loadViaAPI();
+  // Actualiza precios cada 30s via API (por si el WS falla)
+  setInterval(loadViaAPI, 30000);
+});
+</script>
 </body>
 </html>
