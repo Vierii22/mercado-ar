@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-05-07T19:12:24.914269",
-  "updated_str": "07/05/2026 19:12",
+  "updated_at": "2026-05-07T19:29:51.439357",
+  "updated_str": "07/05/2026 19:29",
   "cutoff_hours": 48,
-  "total_news": 270,
+  "total_news": 268,
   "news": {
     "GENERAL": [
       {
         "title": "La industria y la construcción repuntaron fuerte en marzo, en línea con los pronósticos del Gobierno",
-        "summary": "El Indec dio a conocer que dos sectores que venían rezagados tuvieron un repunte en el tercer mes del 2026. Los planes del Ministerio de Economía para impulsar a uno de ellos a mitad de año",
+        "summary": "El Indec dio a conocer que dos sectores que venían rezagados tuvieron un repunte en el tercer mes del 2026, tanto a nivel interanual como desestacionalizado. Los planes del Ministerio de Economía para impulsar a uno de ellos a mitad de año",
         "link": "https://www.infobae.com/economia/2026/05/07/la-industria-y-la-construccion-repuntaron-fuerte-en-marzo-en-linea-con-los-pronosticos-del-gobierno/",
         "source": "Infobae Economía",
-        "time": "07/05 16:05",
-        "iso_date": "2026-05-07T19:05:03+00:00",
+        "time": "07/05 16:27",
+        "iso_date": "2026-05-07T19:27:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este jueves 7 de mayo",
+        "summary": "La divisa de EEUU cerró ofrecida a $1.420 para la venta en el Banco Nación. El blue quedó operado a $1.400",
+        "link": "https://www.infobae.com/economia/2026/05/07/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-7-de-mayo/",
+        "source": "Infobae Economía",
+        "time": "07/05 16:14",
+        "iso_date": "2026-05-07T19:14:39+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -32,16 +42,6 @@
         "source": "Infobae Economía",
         "time": "07/05 15:37",
         "iso_date": "2026-05-07T18:37:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este jueves 7 de mayo",
-        "summary": "La divisa de EEUU es ofrecida a $1.420 para la venta en el Banco Nación. El blue es operado a $1.400. Cayeron las reservas tras el pago de USD 823 millones al FMI",
-        "link": "https://www.infobae.com/economia/2026/05/07/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-7-de-mayo/",
-        "source": "Infobae Economía",
-        "time": "07/05 15:21",
-        "iso_date": "2026-05-07T18:21:49+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -173,8 +173,8 @@
         "time": "07/05 12:12",
         "iso_date": "2026-05-07T15:12:10+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -414,8 +414,8 @@
         "time": "07/05 12:12",
         "iso_date": "2026-05-07T15:12:10+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -457,8 +457,8 @@
         "time": "07/05 12:12",
         "iso_date": "2026-05-07T15:12:10+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
