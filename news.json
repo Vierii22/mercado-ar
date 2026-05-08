@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T20:09:42.326606",
-  "updated_str": "08/05/2026 20:09",
+  "updated_at": "2026-05-08T20:32:50.990467",
+  "updated_str": "08/05/2026 20:32",
   "cutoff_hours": 48,
-  "total_news": 245,
+  "total_news": 243,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,18 @@
         "summary": "La divisa al público quedó ofrecida sin variantes. El dólar mayorista se acercó a $1.400 y mejoró la oferta en el segmento de contado. Las reservas superaron los USD 46.000 millones",
         "link": "https://www.infobae.com/economia/2026/05/08/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-viernes-8-de-mayo/",
         "source": "Infobae Economía",
-        "time": "08/05 16:57",
-        "iso_date": "2026-05-08T19:57:03+00:00",
+        "time": "08/05 17:16",
+        "iso_date": "2026-05-08T20:16:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 cierra en máximos históricos y alcanza su mejor racha semanal desde 2024",
+        "summary": "Las bolsas avanzaron este viernes impulsadas por un robusto reporte laboral en EE.UU., que fortaleció el optimismo sobre la economía.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-solido-empleo-en-eeuu-y-alivio-parcial-en-las-tensiones-con-iran/",
+        "source": "Bloomberg Línea AR",
+        "time": "08/05 17:10",
+        "iso_date": "2026-05-08T20:10:33+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -57,7 +67,7 @@
       },
       {
         "title": "Súper RIGI: Luis Caputo dio más detalles del proyecto que el Gobierno enviará al Congreso",
-        "summary": "ÍUTasa de ganancias del 15% y amortización acelerada del 60% en el primer año fueron algunos de los detalles que adelantó el titular del Palacio de Hacienda.",
+        "summary": "Tasa de ganancias del 15% y amortización acelerada del 60% en el primer año fueron algunos de los detalles que adelantó el titular del Palacio de Hacienda.",
         "link": "https://www.ambito.com/economia/super-rigi-luis-caputo-dio-mas-detalles-proyecto-que-el-gobierno-enviara-al-congreso-n6275560",
         "source": "Ámbito",
         "time": "08/05 15:09",
@@ -230,16 +240,6 @@
         "is_general": false
       },
       {
-        "title": "S&P 500 sube tras sólido empleo en EE.UU. y alivio parcial en las tensiones con Irán",
-        "summary": "Las bolsas avanzaban este viernes impulsadas por un sólido reporte laboral en EE.UU., que fortaleció el optimismo sobre la economía.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-solido-empleo-en-eeuu-y-alivio-parcial-en-las-tensiones-con-iran/",
-        "source": "Bloomberg Línea AR",
-        "time": "08/05 10:40",
-        "iso_date": "2026-05-08T13:40:29+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Panorama fiscal en Latinoamérica: así cerraron las cuentas en 2025, país por país",
         "summary": "Solo Nicaragua y Argentina cerraron el 2025 en verde. Brasil y México estuvieron casi en equilibrio primario, pero castigados por los servicios de deuda. Empeoraron los números de Colombia",
         "link": "https://www.bloomberglinea.com/latinoamerica/panorama-fiscal-en-latinoamerica-asi-cerraron-las-cuentas-en-2025-pais-por-pais/",
@@ -389,8 +389,8 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -456,8 +456,8 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -492,18 +492,6 @@
         "source": "Infobae Economía",
         "time": "07/05 01:06",
         "iso_date": "2026-05-07T04:06:18+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones argentinas treparon hasta 10% en Wall Street y bajó el riesgo país tras la suba en la calificación de la deuda",
-        "summary": "Los índices de Nueva York subieron hasta 2%, mientras que el petróleo cedió 7% por los avances en las negociaciones de paz en Oriente Medio. El S&P Merval ganó 4,4% y los bonos en dólares ganaron 1,5% tras la decisión de Fitch",
-        "link": "https://www.infobae.com/economia/2026/05/06/las-acciones-argentinas-trepan-hasta-9-en-wall-street-y-baja-el-riesgo-pais-tras-la-suba-en-la-calificacion-de-la-deuda/",
-        "source": "Infobae Economía",
-        "time": "06/05 17:30",
-        "iso_date": "2026-05-06T20:30:26+00:00",
         "tickers": [
           "AL30"
         ],
