@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-05-08T16:49:08.869008",
-  "updated_str": "08/05/2026 16:49",
+  "updated_at": "2026-05-08T16:59:39.957682",
+  "updated_str": "08/05/2026 16:59",
   "cutoff_hours": 48,
-  "total_news": 252,
+  "total_news": 251,
   "news": {
     "GENERAL": [
+      {
+        "title": "Reintegro de Ganancias: todo lo que podés recuperar de tus consumos dólares",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/reintegro-de-ganancias-todo-lo-que-podes-recuperar-de-tus-consumos-dolares/",
+        "source": "El Cronista",
+        "time": "08/05 13:51",
+        "iso_date": "2026-05-08T16:51:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mercados: los balances impactan en las acciones argentinas y Mercado Libre se desploma 10%",
         "summary": "Los títulos tecnológicos impulsan a nuevos récords en Wall Street. Mercado Libre cae tras presentar resultados trimestrales. El S&P Merval cae 1%. Los bono suben 0,2% y el riesgo país cede a 516 puntos",
@@ -302,16 +312,6 @@
         "iso_date": "2026-05-08T03:59:07+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Optimismo fugaz en el mercado: la euforia por la mejora de la calificación de la deuda se esfumó en un día y volvió la cautela",
-        "summary": "Los activos argentinos devolvieron parte de la ganancia que habían registrado el día previo. Cuáles son los datos positivos que tuvo el Gobierno y qué se espera para este viernes",
-        "link": "https://www.infobae.com/economia/2026/05/08/optimismo-fugaz-en-el-mercado-la-euforia-por-la-mejora-de-la-calificacion-de-la-deuda-se-esfumo-en-un-dia-y-volvio-la-cautela/",
-        "source": "Infobae Economía",
-        "time": "08/05 00:58",
-        "iso_date": "2026-05-08T03:58:23+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -401,8 +401,8 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -468,8 +468,8 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
