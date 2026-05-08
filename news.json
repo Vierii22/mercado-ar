@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-05-08T11:25:01.760021",
-  "updated_str": "08/05/2026 11:25",
+  "updated_at": "2026-05-08T13:03:14.430757",
+  "updated_str": "08/05/2026 13:03",
   "cutoff_hours": 48,
-  "total_news": 257,
+  "total_news": 261,
   "news": {
     "GENERAL": [
       {
-        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 8 de mayo",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-8-mayo-n6275332",
-        "source": "Ámbito Mercados",
-        "time": "08/05 08:18",
-        "iso_date": "2026-05-08T11:18:00+00:00",
+        "title": "Juicio por YPF: después de ganar la apelación, el Gobierno no cree que prospere la demanda de Burford ante el Ciadi",
+        "summary": "La administración nacional sostiene que la vía internacional elegida por el fondo litigante carece de fundamentos y que la defensa continuará, con foco en los próximos movimientos judiciales",
+        "link": "https://www.infobae.com/economia/2026/05/08/juicio-por-ypf-despues-de-ganar-la-apelacion-el-gobierno-no-cree-que-prospere-la-demanda-de-burford-ante-el-ciadi/",
+        "source": "Infobae Economía",
+        "time": "08/05 09:16",
+        "iso_date": "2026-05-08T12:16:01+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Dólar: Caputo anticipó medidas de “alto impacto” y lanzó una dura crítica a los empresarios",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/dolar-caputo-anticipo-medidas-de-alto-impacto-y-lanzo-una-dura-critica-a-los-empresarios/",
+        "source": "El Cronista",
+        "time": "08/05 08:47",
+        "iso_date": "2026-05-08T11:47:40+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Desacople cambiario: el peso uruguayo se aleja del real entre la suba del petróleo y el diferencial de tasas",
-        "summary": "El shock de la guerra en Medio Oriente, la debilidad global del dólar y la política monetaria reconfiguran la relación entre las monedas de Uruguay y Brasil.",
-        "link": "https://www.ambito.com/uruguay/desacople-cambiario-el-peso-o-se-aleja-del-real-la-suba-del-petroleo-y-el-diferencial-tasas-n6275273",
-        "source": "Ámbito Mercados",
-        "time": "08/05 08:16",
-        "iso_date": "2026-05-08T11:16:00+00:00",
-        "tickers": [],
-        "is_general": true
+        "title": "Cuál es la provincia que concentró el 60% de la creación neta de empleo privado en los últimos 15 años",
+        "summary": "Entre 2011 y 2025 se crearon solo 96.052 puestos asalariados registrados, pero más de la mitad se generó en un único distrito, atado al despegue de Vaca Muerta",
+        "link": "https://www.infobae.com/economia/2026/05/08/cual-es-la-provincia-que-concentro-el-60-de-la-creacion-neta-de-empleo-privado-en-los-ultimos-15-anos/",
+        "source": "Infobae Economía",
+        "time": "08/05 08:33",
+        "iso_date": "2026-05-08T11:33:12+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "El curioso caso noruego que estudia la oposición en un escenario “post Milei”",
@@ -42,6 +56,26 @@
         "source": "Infobae Economía",
         "time": "08/05 07:54",
         "iso_date": "2026-05-08T10:54:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las importaciones de carne alcanzaron un nuevo récord en marzo y advierten por la subsistencia de pequeños productores",
+        "summary": "La caída del tipo de cambio real y la suba de costos locales ponen en riesgo a los pequeños productores de pollo y cerdo.",
+        "link": "https://www.ambito.com/economia/las-importaciones-carne-alcanzaron-un-nuevo-record-marzo-y-advierten-la-subsistencia-pequenos-productores-n6275217",
+        "source": "Ámbito",
+        "time": "08/05 07:00",
+        "iso_date": "2026-05-08T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Actividad económica: los primeros datos de abril dieron señales de enfriamiento, en línea con la menor recaudación",
+        "summary": "Los datos adelantados sobre actividad confirmaron un arranque débil para el segundo trimestre. De este modo, la recuperación que se vio en marzo no da muestras de sostenibilidad en el tiempo.",
+        "link": "https://www.ambito.com/economia/actividad-economica-los-primeros-datos-abril-dieron-senales-enfriamiento-linea-la-menor-recaudacion-n6275249",
+        "source": "Ámbito",
+        "time": "08/05 07:00",
+        "iso_date": "2026-05-08T10:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -76,7 +110,7 @@
         "is_general": true
       },
       {
-        "title": "Las dos razones por las cuales Glencore anunció inversiones en Argentina por más de US$17.000 millones",
+        "title": "Las dos razones por las cuales Glencore anunció inversiones en Argentina por más de US$15.000 millones",
         "summary": "La compañía suiza presentó dos RIGI que están en evaluación y anunció el reinicio de una mina de cobre. El contexto internacional y las medidas de Milei, dos de los factores clave.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/las-dos-razones-por-las-cuales-glencore-anuncio-inversiones-en-argentina-por-mas-de-us17000-millones/",
         "source": "Bloomberg Línea AR",
@@ -122,46 +156,6 @@
         "source": "Infobae Economía",
         "time": "08/05 00:55",
         "iso_date": "2026-05-08T03:55:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar blue hoy: a cuánto opera este viernes 8 de mayo",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-8-mayo-n6275317",
-        "source": "Ámbito Mercados",
-        "time": "08/05 00:12",
-        "iso_date": "2026-05-08T03:12:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto cotiza este viernes 8 de mayo",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-8-mayo-n6275316",
-        "source": "Ámbito Mercados",
-        "time": "08/05 00:11",
-        "iso_date": "2026-05-08T03:11:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este viernes 8 de mayo",
-        "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-        "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotizo-este-viernes-8-mayo-n6275248",
-        "source": "Ámbito Mercados",
-        "time": "08/05 00:00",
-        "iso_date": "2026-05-08T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Real blue: a cuánto opera este viernes 8 de mayo",
-        "summary": "La cotización minuto a minuto para la compra y venta de la divisa brasileña en nuestro país.",
-        "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-viernes-8-mayo-n6275254",
-        "source": "Ámbito Mercados",
-        "time": "08/05 00:00",
-        "iso_date": "2026-05-08T03:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -238,16 +232,6 @@
         "is_general": true
       },
       {
-        "title": "Los gurúes de la city estiman una inflación de 2,6% en abril y ya proyectan más de 30% para 2026",
-        "summary": "El nuevo REM del BCRA reflejó un deterioro en las expectativas del mercado, con menor crecimiento económico y precios aún lejos de perforar el 2% mensual.",
-        "link": "https://www.ambito.com/finanzas/los-gurues-la-city-estiman-una-inflacion-26-abril-y-ya-proyectan-mas-30-2026-n6275221",
-        "source": "Ámbito Mercados",
-        "time": "07/05 18:56",
-        "iso_date": "2026-05-07T21:56:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% y volvió a subir el riesgo país",
         "summary": "Wall Street cerró en baja tras anotar nuevos máximos y forzó una toma de ganancias para los activos argentinos, luego del salto del miércoles. El S&P Merval cayó 1,5% y subió el riesgo país. El dólar avanzó a $1.420 en el Banco Nación",
         "link": "https://www.infobae.com/economia/2026/05/07/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-y-volvio-a-subir-el-riesgo-pais/",
@@ -266,16 +250,6 @@
         "source": "Infobae Economía",
         "time": "07/05 18:38",
         "iso_date": "2026-05-07T21:38:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Real blue: a cuánto operó este jueves 7 de mayo",
-        "summary": "La cotización minuto a minuto para la compra y venta de la divisa brasileña en nuestro país.",
-        "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-7-mayo-n6274800",
-        "source": "Ámbito Mercados",
-        "time": "07/05 18:35",
-        "iso_date": "2026-05-07T21:35:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -309,13 +283,67 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Casación ratifica un decreto de Milei que extingue las penas tributarias pero le fija un límite",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/casacion-ratifica-un-decreto-de-milei-sobre-extincion-de-penas-tributarias-pero-le-fija-un-limite/",
+        "source": "El Cronista",
+        "time": "07/05 17:37",
+        "iso_date": "2026-05-07T20:37:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: en el Banco Nación subió a $1.420 y el blue terminó estable a $1.400",
+        "summary": "La divisa de EEUU ganó diez pesos en los bancos, detrás del ascenso del dólar mayorista, que avanzó a $1.396. El Banco Central compró USD 35 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/05/07/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-7-de-mayo/",
+        "source": "Infobae Economía",
+        "time": "07/05 17:18",
+        "iso_date": "2026-05-07T20:18:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 cae desde su máximo histórico por repunte del petróleo y dudas sobre acuerdo con Irán",
+        "summary": "Las acciones en Estados Unidos retrocedieron mientras el petróleo volvió a reactivar la volatilidad del mercado.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-avanza-por-la-caida-del-petroleo-y-senales-de-desescalada-entre-eeuu-e-iran/",
+        "source": "Bloomberg Línea AR",
+        "time": "07/05 17:11",
+        "iso_date": "2026-05-07T20:11:03+00:00",
+        "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Juicio por YPF: después de ganar la apelación, el Gobierno no cree que prospere la demanda de Burford ante el Ciadi",
+        "summary": "La administración nacional sostiene que la vía internacional elegida por el fondo litigante carece de fundamentos y que la defensa continuará, con foco en los próximos movimientos judiciales",
+        "link": "https://www.infobae.com/economia/2026/05/08/juicio-por-ypf-despues-de-ganar-la-apelacion-el-gobierno-no-cree-que-prospere-la-demanda-de-burford-ante-el-ciadi/",
+        "source": "Infobae Economía",
+        "time": "08/05 09:16",
+        "iso_date": "2026-05-08T12:16:01+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cuál es la provincia que concentró el 60% de la creación neta de empleo privado en los últimos 15 años",
+        "summary": "Entre 2011 y 2025 se crearon solo 96.052 puestos asalariados registrados, pero más de la mitad se generó en un único distrito, atado al despegue de Vaca Muerta",
+        "link": "https://www.infobae.com/economia/2026/05/08/cual-es-la-provincia-que-concentro-el-60-de-la-creacion-neta-de-empleo-privado-en-los-ultimos-15-anos/",
+        "source": "Infobae Economía",
+        "time": "08/05 08:33",
+        "iso_date": "2026-05-08T11:33:12+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF alcanzó su récord histórico de ganancias para un primer trimestre",
         "summary": "El desempeño financiero positivo de la compañía estuvo acompañado por un aumento notable en la extracción de recursos no convencionales, mejoras en la productividad de sus refinerías y una optimización que reforzó su nivel de liquidez",
@@ -341,36 +369,12 @@
         "is_general": false
       },
       {
-        "title": "La producción minera marcó un nuevo récord en marzo: saltó 70% anual en litio y 140% en sal",
-        "summary": "El Índice de Producción Industrial (IPI) minero trepó 10,4% interanual, la variación más alta en más de dos años. Vaca Muerta volvió a explicar el grueso del alza.",
-        "link": "https://www.ambito.com/economia/la-produccion-minera-marco-un-nuevo-record-marzo-litio-salto-70-anual-y-mas-que-se-duplico-sal-n6274732",
-        "source": "Ámbito",
-        "time": "06/05 18:22",
-        "iso_date": "2026-05-06T21:22:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Vaca Muerta: la Argentina exportará gas a Alemania por más de 7.000 millones y se suma al mapa energético europeo",
         "summary": "El acuerdo surge en plena crisis energética europea y responde a la búsqueda de Berlín por diversificar sus fuentes tras la guerra en Ucrania, según analizó Andrei Serbin Pont en Infobae al Mediodía",
         "link": "https://www.infobae.com/economia/2026/05/06/vaca-muerta-la-argentina-exportara-gas-a-alemania-por-mas-de-7000-millones-y-se-suma-al-mapa-energetico-europeo/",
         "source": "Infobae Economía",
         "time": "06/05 15:59",
         "iso_date": "2026-05-06T18:59:57+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Caso YPF: qué significa que Preska autorice a compartir información clave de Argentina, según Maril",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/caso-ypf-que-significa-que-la-jueza-preska-haya-autorizado-a-revelar-informacion-clave-de-argentina-segun-sebastian-maril/",
-        "source": "El Cronista",
-        "time": "06/05 09:02",
-        "iso_date": "2026-05-06T12:02:28+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -402,8 +406,8 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -457,8 +461,8 @@
         "time": "07/05 17:45",
         "iso_date": "2026-05-07T20:45:00+00:00",
         "tickers": [
-          "AL30",
-          "TXAR"
+          "TXAR",
+          "AL30"
         ],
         "is_general": true
       },
@@ -541,18 +545,6 @@
         "source": "El Cronista",
         "time": "06/05 11:49",
         "iso_date": "2026-05-06T14:49:16+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El upgrade de Fitch que puede cambiar el juego para los bonos argentinos",
-        "summary": "La calificadora elevó la nota soberana desde CCC+ y dejó al país seis escalones bajo grado de inversión. Qué implica para los bonos y el flujo de fondos.",
-        "link": "https://eleconomista.com.ar/finanzas/el-upgrade-fitch-puede-cambiar-juego-bonos-argentinos-n94696",
-        "source": "El Economista",
-        "time": "06/05 09:03",
-        "iso_date": "2026-05-06T12:03:00+00:00",
         "tickers": [
           "AL30"
         ],
