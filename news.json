@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-05-11T22:47:00.219525",
-  "updated_str": "11/05/2026 22:47",
+  "updated_at": "2026-05-12T02:49:43.885528",
+  "updated_str": "12/05/2026 02:49",
   "cutoff_hours": 48,
   "total_news": 187,
   "news": {
     "GENERAL": [
+      {
+        "title": "Manuel Adorni y Luis Caputo le pasaron la motosierra a 211 programas gubernamentales por un total de $2,3 billones",
+        "summary": "Frente a la caída de la recaudación, el Gobierno recortó financiamiento a hospitales, el INCUCAI, al Instituto Malbrán, el programa Educar, entre otros. Además achica el fondo para ATN.",
+        "link": "https://www.ambito.com/economia/manuel-adorni-y-luis-caputo-le-pasaron-la-motosierra-211-programas-gubernamentales-un-total-23-billones-n6276439",
+        "source": "Ámbito",
+        "time": "11/05 20:42",
+        "iso_date": "2026-05-11T23:42:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El mundo duda, pero la Argentina levanta la cabeza",
+        "summary": "Nuevas presiones en Ormuz elevaron otra vez al petróleo y mantuvieron muy firmes a los metales básicos. También subieron los granos y los inversores internacionales buscaron refugio en la onza de plata y en el Bitcoin. A nivel local fue un gran día. El dólar no se movió. El BC...",
+        "link": "https://eleconomista.com.ar/finanzas/el-mundo-duda-pero-argentina-levanta-cabeza-n94837",
+        "source": "El Economista",
+        "time": "11/05 19:59",
+        "iso_date": "2026-05-11T22:59:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Goldman Sachs advierte a Milei por los escándalos políticos: \"El margen de error se ha reducido\"",
+        "summary": "Dicen que a pesar de una gestión fiscal de primer nivel y de los constantes esfuerzos de desregulación y microreformas, \"el crecimiento se ha ralentizado durante un tiempo y la inflación se ha mantenido persistente\".",
+        "link": "https://eleconomista.com.ar/finanzas/goldman-sachs-advierte-milei-escandalos-politicos-el-margen-error-ha-reducido-n94835",
+        "source": "El Economista",
+        "time": "11/05 19:46",
+        "iso_date": "2026-05-11T22:46:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "“El mercado no piensa lo mismo”: la explicación del Gobierno sobre el “riesgo kuka” y el factor electoral",
         "summary": "El ministro de Economía, Luis Caputo, atribuyó la dificultad para acelerar la baja del riesgo país a un eventual regreso del kirchnerismo en 2027",
@@ -25,8 +55,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -289,36 +319,6 @@
         "iso_date": "2026-05-11T14:59:06+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "IPCBA: Inflación porteña se desacelera en abril a su nivel más bajo desde noviembre",
-        "summary": "El Índice de Precios al Consumidor de la Ciudad de Buenos Aires perforó en abril el 3% y se ubicó por debajo de los registros de los últimos cuatro meses",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipcba-inflacion-portena-se-desacelera-en-abril-a-su-nivel-mas-bajo-desde-noviembre/",
-        "source": "Bloomberg Línea AR",
-        "time": "11/05 11:43",
-        "iso_date": "2026-05-11T14:43:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación en la ciudad de Buenos Aires fue del 2,5% en abril y acumula un alza de 32,4% en los últimos doce meses",
-        "summary": "El dato refleja una desaceleración respecto del 3% registrado en marzo. Entre enero y abril, los precios en CABA subieron 11,6%. Cuáles fueron los rubros que más aumentaron",
-        "link": "https://www.infobae.com/economia/2026/05/11/la-inflacion-en-la-ciudad-de-buenos-aires-fue-del-25-en-abril-y-acumula-un-alza-de-324-en-los-ultimos-doce-meses/",
-        "source": "Infobae Economía",
-        "time": "11/05 11:04",
-        "iso_date": "2026-05-11T14:04:34+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación en CABA fue de 2,5% en abril y acumula 32,4% en los últimos 12 meses",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-inflacion-en-caba-fue-de-25-en-abril-y-acumula-324-en-los-ultimos-12-meses/",
-        "source": "El Cronista",
-        "time": "11/05 11:01",
-        "iso_date": "2026-05-11T14:01:45+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -330,8 +330,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -463,8 +463,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
