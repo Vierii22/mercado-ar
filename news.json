@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-05-13T16:37:38.294780",
-  "updated_str": "13/05/2026 16:37",
+  "updated_at": "2026-05-13T17:09:01.709978",
+  "updated_str": "13/05/2026 17:09",
   "cutoff_hours": 48,
-  "total_news": 254,
+  "total_news": 259,
   "news": {
     "GENERAL": [
+      {
+        "title": "Estados Unidos reportó la mayor inflación mayorista en cuatro años: creció 1,4% en abril",
+        "summary": "Un reporte del Departamento de Trabajo evidenció un incremento que superó las expectativas, reflejando el impacto de conflictos internacionales y la presión acumulada desde el periodo posterior a la pandemia",
+        "link": "https://www.infobae.com/estados-unidos/2026/05/13/estados-unidos-reporto-la-mayor-inflacion-mayorista-en-cuatro-anos-crecio-14-en-abril/",
+        "source": "Infobae Economía",
+        "time": "13/05 13:41",
+        "iso_date": "2026-05-13T16:41:11+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Un nuevo mapa adelanta el futuro boom de Vaca Muerta: por qué el próximo desafío ya no está bajo tierra",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/un-nuevo-mapa-adelanta-el-futuro-boom-de-vaca-muerta-por-que-el-proximo-desafio-ya-no-esta-bajo-tierra/",
+        "source": "El Cronista",
+        "time": "13/05 13:39",
+        "iso_date": "2026-05-13T16:39:42+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Por qué la inflación no logra perforar el 2%, según un economista",
         "summary": "El economista Christian Buteler advirtió en Infobae en Vivo Al Mediodía que la actualización constante de servicios regulados mantiene la inercia inflacionaria y complica el alivio para los hogares",
@@ -13,6 +35,18 @@
         "time": "13/05 13:30",
         "iso_date": "2026-05-13T16:30:06+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Galicia sale del rojo y destaca menor cargo por incobrabilidad, pero acciones ceden en Wall Street",
+        "summary": "El holding financiero reportó una ganancia neta que quedó por debajo de las expectativas para el primer trimestre. Naranja X sigue con pérdida neta y una cartera irregular que creció 155%.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/galicia-sale-del-rojo-y-destaca-menor-cargo-por-incobrabilidad-pero-acciones-ceden-en-wall-street/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/05 13:29",
+        "iso_date": "2026-05-13T16:29:09+00:00",
+        "tickers": [
+          "GGAL"
+        ],
         "is_general": true
       },
       {
@@ -286,41 +320,21 @@
         "iso_date": "2026-05-13T10:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Relevo en tenedores de deuda colombiana: Citi, BBVA, Santander y JP Morgan pierden peso",
-        "summary": "Mientras los grandes bancos neoyorquinos reducen su exposición a TES del Gobierno, estores extranjeros como PIMCO aumentaron su tenencia de deuda local.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/relevo-en-tenedores-de-deuda-colombiana-citi-bbva-santander-y-jp-morgan-pierden-peso/",
-        "source": "Bloomberg Línea AR",
-        "time": "13/05 07:00",
-        "iso_date": "2026-05-13T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El mentor de Milei adelantó una inflación de abril a la baja, pero advirtió que mayo “viene con problemas”",
+        "title": "Un nuevo mapa adelanta el futuro boom de Vaca Muerta: por qué el próximo desafío ya no está bajo tierra",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-mentor-de-milei-adelanto-una-inflacion-de-abril-a-la-baja-pero-advirtio-que-mayo-viene-con-problemas/",
+        "link": "https://www.cronista.com/economia-politica/un-nuevo-mapa-adelanta-el-futuro-boom-de-vaca-muerta-por-que-el-proximo-desafio-ya-no-esta-bajo-tierra/",
         "source": "El Cronista",
-        "time": "13/05 06:33",
-        "iso_date": "2026-05-13T09:33:32+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El nuevo destino estrella de Vaca Muerta: un gigante “sediento” de gas argentino",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-nuevo-destino-de-vaca-muerta-cual-es-el-proximo-pais-mas-sediento-de-gas-argentino/",
-        "source": "El Cronista",
-        "time": "13/05 06:00",
-        "iso_date": "2026-05-13T09:00:01+00:00",
+        "time": "13/05 13:39",
+        "iso_date": "2026-05-13T16:39:42+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
-      }
-    ],
-    "YPFD": [
+      },
       {
         "title": "Aprueban el RIGI para una megaobra clave: u$s 550 millones para que el gas de Vaca Muerta llegue a Buenos Aires",
         "summary": "",
@@ -413,8 +427,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -431,7 +445,20 @@
         "is_general": false
       }
     ],
-    "GGAL": [],
+    "GGAL": [
+      {
+        "title": "Galicia sale del rojo y destaca menor cargo por incobrabilidad, pero acciones ceden en Wall Street",
+        "summary": "El holding financiero reportó una ganancia neta que quedó por debajo de las expectativas para el primer trimestre. Naranja X sigue con pérdida neta y una cartera irregular que creció 155%.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/galicia-sale-del-rojo-y-destaca-menor-cargo-por-incobrabilidad-pero-acciones-ceden-en-wall-street/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/05 13:29",
+        "iso_date": "2026-05-13T16:29:09+00:00",
+        "tickers": [
+          "GGAL"
+        ],
+        "is_general": true
+      }
+    ],
     "PAMP": [
       {
         "title": "El Gobierno aprobó el ingreso al RIGI de la ampliación del gasoducto Perito Moreno con una inversion de USD 550 millones",
@@ -645,8 +672,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
