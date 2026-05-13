@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-05-13T18:59:38.066374",
-  "updated_str": "13/05/2026 18:59",
+  "updated_at": "2026-05-13T19:18:22.858961",
+  "updated_str": "13/05/2026 19:18",
   "cutoff_hours": 48,
-  "total_news": 274,
+  "total_news": 257,
   "news": {
     "GENERAL": [
+      {
+        "title": "Ampliación del Gasoducto Perito Moreno: por qué es clave la inversión de u$s 550 millones y qué cambia para Vaca Muerta",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/ampliacion-del-gasoducto-perito-moreno-por-que-es-clave-la-inversion-de-us-550-millones-y-que-cambia-para-vaca-muerta/",
+        "source": "El Cronista",
+        "time": "13/05 16:10",
+        "iso_date": "2026-05-13T19:10:26+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Morgan Stanley aseguró que la desinflación este año será moderada y explicó los motivos",
         "summary": "El banco de inversión hizo sus proyecciones para los próximos meses y señaló cuáles son los factores que incidirán",
@@ -238,18 +250,6 @@
         "is_general": false
       },
       {
-        "title": "Ampliación del Gasoducto Perito Moreno: por qué es clave la inversión de u$s 550 millones y qué cambia para Vaca Muerta",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ampliacion-del-gasoducto-perito-moreno-por-que-es-clave-la-inversion-de-us-550-millones-y-que-cambia-para-vaca-muerta/",
-        "source": "El Cronista",
-        "time": "13/05 10:07",
-        "iso_date": "2026-05-13T13:07:45+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Inflación: tras el alivio esperado para abril, una de las consultoras más seguidas sorprende con su pronóstico para mayo",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/inflacion-tras-el-alivio-esperado-para-abril-una-de-las-consultoras-mas-seguidas-sorprende-con-su-pronostico-para-mayo/",
@@ -324,6 +324,18 @@
     ],
     "YPFD": [
       {
+        "title": "Ampliación del Gasoducto Perito Moreno: por qué es clave la inversión de u$s 550 millones y qué cambia para Vaca Muerta",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/ampliacion-del-gasoducto-perito-moreno-por-que-es-clave-la-inversion-de-us-550-millones-y-que-cambia-para-vaca-muerta/",
+        "source": "El Cronista",
+        "time": "13/05 16:10",
+        "iso_date": "2026-05-13T19:10:26+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Un nuevo mapa adelanta el futuro boom de Vaca Muerta: por qué el próximo desafío ya no está bajo tierra",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/un-nuevo-mapa-adelanta-el-futuro-boom-de-vaca-muerta-por-que-el-proximo-desafio-ya-no-esta-bajo-tierra/",
@@ -358,18 +370,6 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "Ampliación del Gasoducto Perito Moreno: por qué es clave la inversión de u$s 550 millones y qué cambia para Vaca Muerta",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ampliacion-del-gasoducto-perito-moreno-por-que-es-clave-la-inversion-de-us-550-millones-y-que-cambia-para-vaca-muerta/",
-        "source": "El Cronista",
-        "time": "13/05 10:07",
-        "iso_date": "2026-05-13T13:07:45+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       },
       {
         "title": "Ingresos Brutos: un fallo a favor de YPF puede redefinir un impuesto provincial",
@@ -427,8 +427,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -660,8 +660,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
