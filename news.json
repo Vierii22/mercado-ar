@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-05-13T20:16:39.558039",
-  "updated_str": "13/05/2026 20:16",
+  "updated_at": "2026-05-13T20:48:34.025317",
+  "updated_str": "13/05/2026 20:48",
   "cutoff_hours": 48,
-  "total_news": 278,
+  "total_news": 277,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street anotó nuevos máximos, pero cayeron las acciones y los bonos argentinos",
+        "summary": "Los índices de Nueva York se recuperaron de las bajas de la mañana. El S&P Merval cayó 2% y el riesgo país subió a 523 puntos",
+        "link": "https://www.infobae.com/economia/2026/05/13/las-presiones-inflacionarias-en-eeuu-arrastran-a-los-mercados-y-caen-las-acciones-y-bonos-argentinos/",
+        "source": "Infobae Economía",
+        "time": "13/05 17:35",
+        "iso_date": "2026-05-13T20:35:44+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 ignora la inflación y alcanza récords por expectativas de la reunión entre Trump y Xi",
+        "summary": "Wall Street cerró en máximos históricos impulsado por las tecnológicas y expectativas de avances comerciales entre EE.UU. y China, mientras los mercados minimizaron nuevas señales de inflación.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-mixto-tras-nuevo-repunte-inflacionario-y-a-la-espera-de-la-cumbre-xi-trump/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/05 17:08",
+        "iso_date": "2026-05-13T20:08:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: en el Banco Nación subió a $1.415 y el blue avanzó a $1.420",
         "summary": "La divisa al público ganó diez pesos en el día. En el mercado mayorista continuó negociada debajo del umbral de los 1.400 pesos",
@@ -186,19 +208,7 @@
         "is_general": true
       },
       {
-        "title": "Las presiones inflacionarias en EEUU arrastran a los mercados y caen las acciones y bonos argentinos",
-        "summary": "Los índices de Nueva York bajan por segundo día, mientras el petróleo se sostiene sobre USD 100 el barril. El S&P Merval cae 0,4% y el riesgo país sube a 510 puntos",
-        "link": "https://www.infobae.com/economia/2026/05/13/las-presiones-inflacionarias-en-eeuu-arrastran-a-los-mercados-y-caen-las-acciones-y-bonos-argentinos/",
-        "source": "Infobae Economía",
-        "time": "13/05 12:02",
-        "iso_date": "2026-05-13T15:02:25+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Precio del dólar en Colombia rompió la barrera de los COP$3.800",
+        "title": "Precio del dólar en Colombia no logró mantenerse por encima de los COP$3.800",
         "summary": "Tras la publicación de datos macroeconómicos en Estados Unidos, la divisa estadounidense inició al alza en el mercado cambiario colombiano.",
         "link": "https://www.bloomberglinea.com/latinoamerica/colombia/precio-del-dolar-en-colombia-rompio-la-barrera-de-los-cop3800/",
         "source": "Bloomberg Línea AR",
@@ -234,16 +244,6 @@
         "source": "El Cronista",
         "time": "13/05 11:25",
         "iso_date": "2026-05-13T14:25:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street opera mixto tras nuevo repunte inflacionario y a la espera de la cumbre Xi-Trump",
-        "summary": "Las bolsas estadounidenses operan con cautela tras un dato de inflación mayorista superior a lo esperado, que impulsó los rendimientos de los bonos y reforzó las apuestas a tasas de interés altas por más tiempo.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-mixto-tras-nuevo-repunte-inflacionario-y-a-la-espera-de-la-cumbre-xi-trump/",
-        "source": "Bloomberg Línea AR",
-        "time": "13/05 10:42",
-        "iso_date": "2026-05-13T13:42:33+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -427,8 +427,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       }
@@ -482,8 +482,8 @@
         "time": "12/05 19:38",
         "iso_date": "2026-05-12T22:38:26+00:00",
         "tickers": [
-          "BMA",
-          "AL30"
+          "AL30",
+          "BMA"
         ],
         "is_general": true
       },
@@ -532,12 +532,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Las presiones inflacionarias en EEUU arrastran a los mercados y caen las acciones y bonos argentinos",
-        "summary": "Los índices de Nueva York bajan por segundo día, mientras el petróleo se sostiene sobre USD 100 el barril. El S&P Merval cae 0,4% y el riesgo país sube a 510 puntos",
+        "title": "Wall Street anotó nuevos máximos, pero cayeron las acciones y los bonos argentinos",
+        "summary": "Los índices de Nueva York se recuperaron de las bajas de la mañana. El S&P Merval cayó 2% y el riesgo país subió a 523 puntos",
         "link": "https://www.infobae.com/economia/2026/05/13/las-presiones-inflacionarias-en-eeuu-arrastran-a-los-mercados-y-caen-las-acciones-y-bonos-argentinos/",
         "source": "Infobae Economía",
-        "time": "13/05 12:02",
-        "iso_date": "2026-05-13T15:02:25+00:00",
+        "time": "13/05 17:35",
+        "iso_date": "2026-05-13T20:35:44+00:00",
         "tickers": [
           "AL30"
         ],
@@ -575,8 +575,8 @@
         "time": "12/05 19:38",
         "iso_date": "2026-05-12T22:38:26+00:00",
         "tickers": [
-          "BMA",
-          "AL30"
+          "AL30",
+          "BMA"
         ],
         "is_general": true
       },
@@ -660,8 +660,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
