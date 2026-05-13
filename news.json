@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-05-13T20:48:34.025317",
-  "updated_str": "13/05/2026 20:48",
+  "updated_at": "2026-05-13T21:01:56.985376",
+  "updated_str": "13/05/2026 21:01",
   "cutoff_hours": 48,
-  "total_news": 277,
+  "total_news": 251,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: en el Banco Nación subió a $1.415 y el blue avanzó a $1.420",
+        "summary": "La divisa al público ganó diez pesos en el día. En el mercado mayorista continuó negociada debajo del umbral de los 1.400 pesos",
+        "link": "https://www.infobae.com/economia/2026/05/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-13-de-mayo/",
+        "source": "Infobae Economía",
+        "time": "13/05 17:44",
+        "iso_date": "2026-05-13T20:44:31+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Wall Street anotó nuevos máximos, pero cayeron las acciones y los bonos argentinos",
         "summary": "Los índices de Nueva York se recuperaron de las bajas de la mañana. El S&P Merval cayó 2% y el riesgo país subió a 523 puntos",
@@ -24,16 +34,6 @@
         "source": "Bloomberg Línea AR",
         "time": "13/05 17:08",
         "iso_date": "2026-05-13T20:08:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: en el Banco Nación subió a $1.415 y el blue avanzó a $1.420",
-        "summary": "La divisa al público ganó diez pesos en el día. En el mercado mayorista continuó negociada debajo del umbral de los 1.400 pesos",
-        "link": "https://www.infobae.com/economia/2026/05/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-13-de-mayo/",
-        "source": "Infobae Economía",
-        "time": "13/05 17:04",
-        "iso_date": "2026-05-13T20:04:05+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -427,8 +427,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -660,20 +660,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país rompió el piso de los 500 puntos básicos en medio de una nueva suba de los bonos argentinos",
-        "summary": "Los títulos soberanos subieron 0,3% y acumulan una mejora de 3% en lo que va de mayo. El indicador de JP Morgan cayó 16 puntos, a 496 unidades, un mínimo desde el 2 de febrero. El S&P Merval ganó un 2,3% y Wall Street se sostuvo en zona récord",
-        "link": "https://www.infobae.com/economia/2026/05/11/mercados-suben-los-bonos-argentinos-y-el-riesgo-pais-vuelve-a-romper-el-piso-de-los-500-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "11/05 17:48",
-        "iso_date": "2026-05-11T20:48:38+00:00",
-        "tickers": [
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
