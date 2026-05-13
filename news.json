@@ -1,17 +1,37 @@
 {
-  "updated_at": "2026-05-13T19:46:00.037472",
-  "updated_str": "13/05/2026 19:46",
+  "updated_at": "2026-05-13T20:16:39.558039",
+  "updated_str": "13/05/2026 20:16",
   "cutoff_hours": 48,
-  "total_news": 279,
+  "total_news": 278,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: en el Banco Nación subió a $1.415 y el blue avanzó a $1.420",
+        "summary": "La divisa al público ganó diez pesos en el día. En el mercado mayorista continuó negociada debajo del umbral de los 1.400 pesos",
+        "link": "https://www.infobae.com/economia/2026/05/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-13-de-mayo/",
+        "source": "Infobae Economía",
+        "time": "13/05 17:04",
+        "iso_date": "2026-05-13T20:04:05+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Industria: el uso de capacidad instalada mejoró fuerte en marzo, pero se mantuvo debajo del 60%",
         "summary": "Según datos del INDEC, la industria manufacturera operó al 59,8% de su potencial máximo. Significó una mejora de más de cinco puntos porcentuales, tanto en términos mensuales como interanuales.",
         "link": "https://www.ambito.com/economia/industria-el-uso-capacidad-instalada-mejoro-fuerte-marzo-pero-se-mantuvo-debajo-del-60-n6277273",
         "source": "Ámbito",
-        "time": "13/05 16:23",
-        "iso_date": "2026-05-13T19:23:00+00:00",
+        "time": "13/05 16:57",
+        "iso_date": "2026-05-13T19:57:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Bonos de Venezuela suben con fuerza tras anuncio de reestructuración de deuda",
+        "summary": "El gobierno anunció el inicio formal de una reestructuración de deuda y los bonos venezolanos registraron ganancias en toda la curva.",
+        "link": "https://www.bloomberglinea.com/mercados/bonos-de-venezuela-suben-con-fuerza-tras-anuncio-de-reestructuracion-de-deuda/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/05 16:49",
+        "iso_date": "2026-05-13T19:49:29+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -108,16 +128,6 @@
         "source": "Infobae Economía",
         "time": "13/05 13:24",
         "iso_date": "2026-05-13T16:24:13+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este miércoles 13 de mayo",
-        "summary": "La divisa al público sube a $1.410 para la venta en el Banco Nación. En el mercado mayorista continúa negociada debajo del umbral de los 1.400 pesos. El blue sube a $1.420",
-        "link": "https://www.infobae.com/economia/2026/05/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-13-de-mayo/",
-        "source": "Infobae Economía",
-        "time": "13/05 12:58",
-        "iso_date": "2026-05-13T15:58:35+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -260,7 +270,7 @@
         "is_general": false
       },
       {
-        "title": "Inflación: tras el alivio esperado para abril, una de las consultoras más seguidas sorprende con su pronóstico para mayo",
+        "title": "Inflación: tras el alivio que prevé abril, una de las consultoras más seguidas sorprende con su pronóstico para mayo",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/inflacion-tras-el-alivio-esperado-para-abril-una-de-las-consultoras-mas-seguidas-sorprende-con-su-pronostico-para-mayo/",
         "source": "El Cronista",
@@ -308,16 +318,6 @@
         "source": "El Cronista",
         "time": "13/05 08:00",
         "iso_date": "2026-05-13T11:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación mensual en Brasil cedió en abril pese a la presión por la guerra en Medio Oriente",
-        "summary": "La variación fue de 0,67%, por debajo del 0,88% de marzo",
-        "link": "https://www.infobae.com/america/america-latina/2026/05/13/la-inflacion-mensual-en-brasil-cedio-en-abril-pese-a-la-presion-por-la-guerra-en-medio-oriente/",
-        "source": "Infobae Economía",
-        "time": "13/05 07:35",
-        "iso_date": "2026-05-13T10:35:33+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -482,8 +482,8 @@
         "time": "12/05 19:38",
         "iso_date": "2026-05-12T22:38:26+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       },
@@ -575,8 +575,8 @@
         "time": "12/05 19:38",
         "iso_date": "2026-05-12T22:38:26+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       },
