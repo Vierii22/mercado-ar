@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-05-13T17:32:23.312214",
-  "updated_str": "13/05/2026 17:32",
+  "updated_at": "2026-05-13T17:53:53.861802",
+  "updated_str": "13/05/2026 17:53",
   "cutoff_hours": 48,
-  "total_news": 256,
+  "total_news": 254,
   "news": {
     "GENERAL": [
+      {
+        "title": "Qué es NACHO: Wall Street recurre a la gastronomía mexicana para describir la crisis en Ormuz",
+        "summary": "El acrónimo es una muestra del pesimismo de algunos inversores respecto de los avances en las negociaciones.",
+        "link": "https://www.bloomberglinea.com/mercados/que-es-nacho-wall-street-recurre-a-la-gastronomia-mexicana-para-describir-la-crisis-en-ormuz/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/05 14:47",
+        "iso_date": "2026-05-13T17:47:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Estados Unidos reportó la mayor inflación mayorista en cuatro años: creció 1,4% en abril",
         "summary": "Un reporte del Departamento de Trabajo evidenció un incremento que superó las expectativas, reflejando el impacto de conflictos internacionales y la presión acumulada desde el periodo posterior a la pandemia",
@@ -38,7 +48,7 @@
         "is_general": true
       },
       {
-        "title": "Galicia sale del rojo y destaca menor cargo por incobrabilidad, pero acciones ceden en Wall Street",
+        "title": "Galicia sale del rojo y destaca menor cargo por incobrabilidad: acciones neutras en Wall Street",
         "summary": "El holding financiero reportó una ganancia neta que quedó por debajo de las expectativas para el primer trimestre. Naranja X sigue con pérdida neta y una cartera irregular que creció 155%.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/galicia-sale-del-rojo-y-destaca-menor-cargo-por-incobrabilidad-pero-acciones-ceden-en-wall-street/",
         "source": "Bloomberg Línea AR",
@@ -310,16 +320,6 @@
         "iso_date": "2026-05-13T10:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Elecciones del 31 de mayo en Colombia: ¿Cuánto pesan en el precio del dólar?",
-        "summary": "El peso venía galopando el 2026 como una de las monedas más atractivas, pero en el mapa hay 3 hechos clave que han invertido el comportamiento en mayo.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/elecciones-del-31-de-mayo-en-colombia-cuanto-pesan-en-el-precio-del-dolar/",
-        "source": "Bloomberg Línea AR",
-        "time": "13/05 07:00",
-        "iso_date": "2026-05-13T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -427,15 +427,15 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       }
     ],
     "GGAL": [
       {
-        "title": "Galicia sale del rojo y destaca menor cargo por incobrabilidad, pero acciones ceden en Wall Street",
+        "title": "Galicia sale del rojo y destaca menor cargo por incobrabilidad: acciones neutras en Wall Street",
         "summary": "El holding financiero reportó una ganancia neta que quedó por debajo de las expectativas para el primer trimestre. Naranja X sigue con pérdida neta y una cartera irregular que creció 155%.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/galicia-sale-del-rojo-y-destaca-menor-cargo-por-incobrabilidad-pero-acciones-ceden-en-wall-street/",
         "source": "Bloomberg Línea AR",
@@ -660,8 +660,8 @@
         "time": "11/05 18:28",
         "iso_date": "2026-05-11T21:28:43+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
