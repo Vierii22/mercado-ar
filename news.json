@@ -1,10 +1,44 @@
 {
-  "updated_at": "2026-05-14T11:58:18.474732",
-  "updated_str": "14/05/2026 11:58",
+  "updated_at": "2026-05-14T13:22:49.910074",
+  "updated_str": "14/05/2026 13:22",
   "cutoff_hours": 48,
-  "total_news": 259,
+  "total_news": 290,
   "news": {
     "GENERAL": [
+      {
+        "title": "YPF aumentó el precio de los combustibles y lo mantendrá estable por 45 días",
+        "summary": "El presidente de la petrolera, Horacio Marín, anunció un ajuste de 1% y la continuidad del “buffer” con el propósito de no trasladar sobresaltos del barril del petróleo al surtidor",
+        "link": "https://www.infobae.com/economia/2026/05/13/ypf-aumentara-el-precio-de-los-combustibles-y-luego-lo-mantendra-estable-por-45-dias/",
+        "source": "Infobae Economía",
+        "time": "14/05 10:20",
+        "iso_date": "2026-05-14T13:20:58+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El lujo para Marcelo Claure, el hombre más rico de Bolivia, no tiene que ver con dinero",
+        "summary": "El empresario e inversionista comparte con Bloomberg Línea lo que le mueve a nivel personal mientras apuesta por el rescate de Bolivia.",
+        "link": "https://www.bloomberglinea.com/estilo-de-vida/el-lujo-para-marcelo-claure-el-hombre-mas-rico-de-bolivia-no-tiene-que-ver-con-dinero/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/05 10:00",
+        "iso_date": "2026-05-14T13:00:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "De los jefes de Gabinete “blue” a la soledad de Pato",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/de-los-jefes-de-gabinete-blue-a-la-soledad-de-pato/",
+        "source": "El Cronista",
+        "time": "14/05 09:27",
+        "iso_date": "2026-05-14T12:27:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El PRO se distancia de Milei con un duro informe: llamado de atención por dos indicadores “clave”",
         "summary": "",
@@ -182,18 +216,6 @@
         "is_general": true
       },
       {
-        "title": "YPF aumentó el precio de los combustibles y lo mantendrá estable por 45 días",
-        "summary": "El presidente de la petrolera, Horacio Marín, anunció un ajuste de 1% y la continuidad del “buffer” con el propósito de no trasladar sobresaltos del barril del petróleo al surtidor",
-        "link": "https://www.infobae.com/economia/2026/05/13/ypf-aumentara-el-precio-de-los-combustibles-y-luego-lo-mantendra-estable-por-45-dias/",
-        "source": "Infobae Economía",
-        "time": "14/05 00:20",
-        "iso_date": "2026-05-14T03:20:22+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
         "title": "El Banco Central concretó la mayor compra de dólares del mes y suma casi USD 7.900 millones en 2026",
         "summary": "La autoridad monetaria adquirió USD 185 millones este miércoles y las reservas internacionales superaron los USD 46.500 millones",
         "link": "https://www.infobae.com/economia/2026/05/13/el-banco-central-concreto-la-mayor-compra-de-dolares-del-mes-y-suma-casi-usd-7900-millones-en-2026/",
@@ -298,29 +320,21 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "S&P 500 ignora la inflación y alcanza récords por expectativas de la reunión entre Trump y Xi",
-        "summary": "Wall Street cerró en máximos históricos impulsado por las tecnológicas y expectativas de avances comerciales entre EE.UU. y China, mientras los mercados minimizaron nuevas señales de inflación.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-mixto-tras-nuevo-repunte-inflacionario-y-a-la-espera-de-la-cumbre-xi-trump/",
-        "source": "Bloomberg Línea AR",
-        "time": "13/05 17:08",
-        "iso_date": "2026-05-13T20:08:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Industria: el uso de capacidad instalada mejoró fuerte en marzo, pero se mantuvo debajo del 60%",
-        "summary": "Según datos del INDEC, la industria manufacturera operó al 59,8% de su potencial máximo. Significó una mejora de más de cinco puntos porcentuales, tanto en términos mensuales como interanuales.",
-        "link": "https://www.ambito.com/economia/industria-el-uso-capacidad-instalada-mejoro-fuerte-marzo-pero-se-mantuvo-debajo-del-60-n6277273",
-        "source": "Ámbito",
-        "time": "13/05 16:57",
-        "iso_date": "2026-05-13T19:57:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF aumentó el precio de los combustibles y lo mantendrá estable por 45 días",
+        "summary": "El presidente de la petrolera, Horacio Marín, anunció un ajuste de 1% y la continuidad del “buffer” con el propósito de no trasladar sobresaltos del barril del petróleo al surtidor",
+        "link": "https://www.infobae.com/economia/2026/05/13/ypf-aumentara-el-precio-de-los-combustibles-y-luego-lo-mantendra-estable-por-45-dias/",
+        "source": "Infobae Economía",
+        "time": "14/05 10:20",
+        "iso_date": "2026-05-14T13:20:58+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Con RIGI y nuevo socio en la mira, Tango Energy apuesta por el Vaca Muerta de Río Negro",
         "summary": "Empresa subcontrolada por Vista Energy y Trafigura, que en 2025 adquirió los activos de Petrolera Aconcagua Energía, busca reconfigurar el portafolio de la compañía con foco en el no convencional. El rol de un ex CEO de YPF.",
@@ -328,18 +342,6 @@
         "source": "Bloomberg Línea AR",
         "time": "14/05 05:27",
         "iso_date": "2026-05-14T08:27:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "YPF aumentó el precio de los combustibles y lo mantendrá estable por 45 días",
-        "summary": "El presidente de la petrolera, Horacio Marín, anunció un ajuste de 1% y la continuidad del “buffer” con el propósito de no trasladar sobresaltos del barril del petróleo al surtidor",
-        "link": "https://www.infobae.com/economia/2026/05/13/ypf-aumentara-el-precio-de-los-combustibles-y-luego-lo-mantendra-estable-por-45-dias/",
-        "source": "Infobae Economía",
-        "time": "14/05 00:20",
-        "iso_date": "2026-05-14T03:20:22+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -491,8 +493,8 @@
         "time": "12/05 19:38",
         "iso_date": "2026-05-12T22:38:26+00:00",
         "tickers": [
-          "BMA",
-          "AL30"
+          "AL30",
+          "BMA"
         ],
         "is_general": true
       },
@@ -525,6 +527,18 @@
       }
     ],
     "TECO2": [
+      {
+        "title": "El lujo para Marcelo Claure, el hombre más rico de Bolivia, no tiene que ver con dinero",
+        "summary": "El empresario e inversionista comparte con Bloomberg Línea lo que le mueve a nivel personal mientras apuesta por el rescate de Bolivia.",
+        "link": "https://www.bloomberglinea.com/estilo-de-vida/el-lujo-para-marcelo-claure-el-hombre-mas-rico-de-bolivia-no-tiene-que-ver-con-dinero/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/05 10:00",
+        "iso_date": "2026-05-14T13:00:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Telecom Argentina sube en Wall Street tras resultados y JPMorgan recomienda comprar sus acciones",
         "summary": "El banco de inversión recomienda la compra y ve alzas para el papel en Wall Street. La revisión por la adquisición de Telefónica se extiende por 30 días.",
@@ -621,8 +635,8 @@
         "time": "12/05 19:38",
         "iso_date": "2026-05-12T22:38:26+00:00",
         "tickers": [
-          "BMA",
-          "AL30"
+          "AL30",
+          "BMA"
         ],
         "is_general": true
       },
@@ -645,18 +659,6 @@
         "source": "Infobae Economía",
         "time": "12/05 12:53",
         "iso_date": "2026-05-12T15:53:52+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Tras el pago al FMI, el Tesoro argentino vuelve a buscar dólares del mercado local",
-        "summary": "Buscará capturar hasta US$500 millones mediante los bonos en dólares de ley local AO27 y AO28. Además, Finanzas enfrenta vencimientos en pesos por ARS$11,2 billones",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/tras-el-pago-al-fmi-el-tesoro-argentino-vuelve-a-buscar-dolares-del-mercado-local/",
-        "source": "Bloomberg Línea AR",
-        "time": "12/05 10:19",
-        "iso_date": "2026-05-12T13:19:57+00:00",
         "tickers": [
           "AL30"
         ],
