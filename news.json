@@ -1,17 +1,89 @@
 {
-  "updated_at": "2026-05-14T22:50:58.036065",
-  "updated_str": "14/05/2026 22:50",
+  "updated_at": "2026-05-15T02:57:25.582148",
+  "updated_str": "15/05/2026 02:57",
   "cutoff_hours": 48,
-  "total_news": 261,
+  "total_news": 265,
   "news": {
     "GENERAL": [
+      {
+        "title": "No viajes a Estados Unidos sin saber esto: la multa de miles de dólares que tenés que evitar",
+        "summary": "Un descuido muy común en los aeropuertos puede derivar en sanciones muy caras y hasta problemas antes del embarque.",
+        "link": "https://www.ambito.com/economia/no-viajes-estados-unidos-saber-esto-la-multa-miles-dolares-que-tenes-que-evitar-n6276820",
+        "source": "Ámbito",
+        "time": "14/05 22:00",
+        "iso_date": "2026-05-15T01:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El BCRA busca copiar el modelo de Perú de los 90' para acumular reservas: los pro y los contras detrás",
+        "summary": "El BCRA destacó el plan peruano de 1990 basado en privatizaciones, inversión y repatriación de capitales para acumular reservas, señalando la desdolarización como el desafío final y más complejo para Argentina.",
+        "link": "https://www.ambito.com/economia/el-bcra-busca-copiar-el-modelo-peru-los-90-acumular-reservas-los-pro-y-los-contras-detras-n6277595",
+        "source": "Ámbito",
+        "time": "14/05 21:33",
+        "iso_date": "2026-05-15T00:33:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El empleo asalariado cortó su racha negativa en febrero, pero los salarios de convenio acumularon su tercera baja al hilo",
+        "summary": "En el sector privado la creación de puestos de trabajo no fue significativa y en la industria siguió la caída libre. En paralelo, los salarios sufrieron un nuevo golpe por el recalentamiento inflacionario.",
+        "link": "https://www.ambito.com/economia/el-empleo-asalariado-corto-su-racha-negativa-febrero-pero-los-salarios-convenio-acumularon-su-tercera-baja-al-hilo-n6277798",
+        "source": "Ámbito",
+        "time": "14/05 20:38",
+        "iso_date": "2026-05-14T23:38:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "“El único dato que nos trae alivio es que sea cero”: Milei habló sobre la desaceleración de la inflación en abril",
         "summary": "Tras la difusión del 2,6% correspondiente al IPC del mes pasado, el presidente y el ministro de Economía celebraron que los precios moderaron su alza. Además, anticiparon un “sendero decreciente” para los próximos meses",
         "link": "https://www.infobae.com/economia/2026/05/14/retornando-a-la-normalidad-milei-y-caputo-celebraron-la-desaceleracion-de-la-inflacion-en-abril/",
         "source": "Infobae Economía",
-        "time": "14/05 19:39",
-        "iso_date": "2026-05-14T22:39:27+00:00",
+        "time": "14/05 20:32",
+        "iso_date": "2026-05-14T23:32:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Pampa Energía volvió al mercado internacional y obtuvo financiamiento por USD 500 millones",
+        "summary": "La operación elevó el total del título a USD 950 millones y marcó el menor spread de financiamiento en la historia de la compañía",
+        "link": "https://www.infobae.com/economia/2026/05/14/pampa-energia-volvio-al-mercado-internacional-y-obtuvo-financiamiento-por-usd-500-millones/",
+        "source": "Infobae Economía",
+        "time": "14/05 20:11",
+        "iso_date": "2026-05-14T23:11:42+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El análisis de un economista tras el dato de inflación: “No es la normalidad que dice Milei”",
+        "summary": "En diálogo con Infobae al Regreso, Camilo Tiscornia advirtió que la suba de precios del 2,6% en abril dista de ser un logro sostenido y remarcó que el país enfrenta obstáculos estructurales para consolidar una tendencia a la baja",
+        "link": "https://www.infobae.com/economia/2026/05/14/el-analisis-de-un-economista-tras-el-dato-de-inflacion-no-es-la-normalidad-que-dice-milei/",
+        "source": "Infobae Economía",
+        "time": "14/05 19:59",
+        "iso_date": "2026-05-14T22:59:28+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mientras China alcanza a EE.UU., la Argentina continúa esforzándose bajo presión",
+        "summary": "Los ojos del mundo estuvieron este jueves en la cumbre entre Trump y Xi en Beijing. La sensación que quedó fue la de una China que demuestra haber alcanzado a EE.UU., pidiendo espacio para ir por más. Así, sobre todo el yuan y el dólar siguen sostenidos contra todas las moneda...",
+        "link": "https://eleconomista.com.ar/finanzas/mientras-china-alcanza-eeuu-argentina-continua-esforzandose-presion-n94934",
+        "source": "El Economista",
+        "time": "14/05 19:57",
+        "iso_date": "2026-05-14T22:57:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "BCRA revela cuánto pagó de intereses a EE.UU. por el swap y da nuevas pistas de cómo lo canceló",
+        "summary": "Al presentar los Estados contables de 2025, la entidad informó cuánto pagó de intereses al Tesoro de EE.UU. por el swap y dejó nuevos indicios de cómo lo canceló antes del cierre del ejercicio.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/bcra-revela-cuanto-pago-de-intereses-a-eeuu-por-el-swap-y-da-nuevas-pistas-de-como-lo-cancelo/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/05 19:53",
+        "iso_date": "2026-05-14T22:53:05+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -192,16 +264,6 @@
         "is_general": true
       },
       {
-        "title": "Dólar: ya se conoce el techo de la banda para fines de junio, ¿hasta dónde puede subir?",
-        "summary": "La inflación desaceleró al 2,6% en abril, mientras el tipo de cambio mayorista se ubicó este jueves a 24,3% del techo de la banda cambiaria.",
-        "link": "https://www.ambito.com/economia/dolar-ya-se-conoce-el-techo-la-banda-fines-junio-hasta-donde-puede-subir-n6277724",
-        "source": "Ámbito",
-        "time": "14/05 16:48",
-        "iso_date": "2026-05-14T19:48:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Cuánto aumentarán las jubilaciones y pensiones de ANSES en junio tras el último dato de inflación",
         "summary": "El último dato del IPC anticipa un nuevo piso para los haberes el mes que viene. Las estadísticas oficiales delinean el impacto que tendrá la actualización en los ingresos de los jubilados",
         "link": "https://www.infobae.com/economia/2026/05/14/cuanto-aumentaran-las-jubilaciones-y-pensiones-de-anses-en-junio-tras-el-ultimo-dato-de-inflacion/",
@@ -250,68 +312,6 @@
         "source": "El Cronista",
         "time": "14/05 16:13",
         "iso_date": "2026-05-14T19:13:46+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación argentina se desaceleró en abril, según el Indec",
-        "summary": "El número estuvo en línea con lo esperado por el mercado luego de que en marzo el IPC se ubicara en 3,4%.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-argentina-se-desacelero-en-abril-segun-el-indec/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/05 16:05",
-        "iso_date": "2026-05-14T19:05:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Gabriel Martino anticipó que el próximo motor de la economía vendrá del sistema financiero y la continuidad de la dolarización",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/gabriel-martino-anticipo-que-el-proximo-motor-de-la-economia-vendra-del-sistema-financiero-y-la-continuidad-de-la-dolarizacion/",
-        "source": "El Cronista",
-        "time": "14/05 15:52",
-        "iso_date": "2026-05-14T18:52:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Qué hace Cerebras, el rival de Nvidia que acaba de marcar la salida a bolsa más grande de 2026?",
-        "summary": "La compañía recaudó US$5.550 millones en la mayor salida a bolsa de semiconductores en EE.UU., mientras el mercado de IA gira hacia la velocidad y la inferencia.",
-        "link": "https://www.bloomberglinea.com/mercados/que-hace-cerebras-el-rival-de-nvidia-que-acaba-de-marcar-la-salida-a-bolsa-mas-grande-de-2026/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/05 15:27",
-        "iso_date": "2026-05-14T18:27:45+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Ampliación del Gasoducto Perito Moreno: por qué es clave la inversión de u$s 550 millones y qué cambia para Vaca Muerta",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ampliacion-del-gasoducto-perito-moreno-por-que-es-clave-la-inversion-de-us-550-millones-y-que-cambia-para-vaca-muerta/",
-        "source": "El Cronista",
-        "time": "14/05 15:15",
-        "iso_date": "2026-05-14T18:15:10+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Gobierno aprobó dos nuevos proyectos mineros bajo el RIGI por USD 2.130 millones",
-        "summary": "El complejo de litio Cauchari Olaroz y el proyecto de cobre San Jorge recibieron la aprobación del Ministerio de Economía para acceder al régimen de incentivos fiscales",
-        "link": "https://www.infobae.com/economia/2026/05/14/el-gobierno-aprobo-dos-nuevos-proyectos-mineros-bajo-el-rigi-por-usd-2130-millones/",
-        "source": "Infobae Economía",
-        "time": "14/05 15:01",
-        "iso_date": "2026-05-14T18:01:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno publicará mañana los pliegos para privatizar AySA: cuántos dólares espera conseguir por la venta",
-        "summary": "El viernes se oficializarán en el Boletín Oficial las condiciones de la licitación para la venta del 90% de las acciones de la empresa. La condición que ya se conoce y qué sucederá con la tarifa",
-        "link": "https://www.infobae.com/economia/2026/05/14/el-gobierno-publicara-manana-los-pliegos-para-privatizar-aysa-cuantos-dolares-espera-conseguir-por-la-venta/",
-        "source": "Infobae Economía",
-        "time": "14/05 14:28",
-        "iso_date": "2026-05-14T17:28:35+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -513,6 +513,18 @@
       }
     ],
     "PAMP": [
+      {
+        "title": "Pampa Energía volvió al mercado internacional y obtuvo financiamiento por USD 500 millones",
+        "summary": "La operación elevó el total del título a USD 950 millones y marcó el menor spread de financiamiento en la historia de la compañía",
+        "link": "https://www.infobae.com/economia/2026/05/14/pampa-energia-volvio-al-mercado-internacional-y-obtuvo-financiamiento-por-usd-500-millones/",
+        "source": "Infobae Economía",
+        "time": "14/05 20:11",
+        "iso_date": "2026-05-14T23:11:42+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
       {
         "title": "El Gobierno aprobó el ingreso al RIGI de la ampliación del gasoducto Perito Moreno con una inversion de USD 550 millones",
         "summary": "Se trata de una iniciativa que fortalecerá el suministro de gas para Buenos Aires. El proyecto está a cargo de Transportadora de Gas del Sur (TGS)",
