@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-05-18T18:55:55.092612",
-  "updated_str": "18/05/2026 18:55",
+  "updated_at": "2026-05-18T19:11:47.596744",
+  "updated_str": "18/05/2026 19:11",
   "cutoff_hours": 48,
-  "total_news": 190,
+  "total_news": 164,
   "news": {
     "GENERAL": [
+      {
+        "title": "Cuánto ganaron las tres principales compañías de Vaca Muerta en 2026",
+        "summary": "Una Alyc con foco en energía analizó los resultados del primer trimestre en la formación geológica con epicentro en Neuquén y destacó los mejores desempeños según tres criterios",
+        "link": "https://www.infobae.com/economia/2026/05/16/cuales-son-los-tres-campeones-de-vaca-muerta-en-escala-rentabilidad-y-crecimiento-productivo/",
+        "source": "Infobae Economía",
+        "time": "18/05 16:06",
+        "iso_date": "2026-05-18T19:06:43+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El dólar anotó una leve suba, pero se mantuvo por debajo de los $1.400",
+        "summary": "La divisa mayorista subió a $1.397 con USD 554 millones por las mayores liquidaciones del agro. Al público quedó estable a $1.420 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/05/18/el-dolar-anoto-una-leve-suba-pero-se-mantuvo-por-debajo-de-los-1400/",
+        "source": "Infobae Economía",
+        "time": "18/05 16:05",
+        "iso_date": "2026-05-18T19:05:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cómo es la caja de ahorro UVA que le gana al plazo fijo, protege contra la inflación y acaba de ser relanzada",
+        "summary": "El Banco Provincia anunció el relanzamiendo de Cuenta UVA, una opción remunerada cuyo objetivo es cubrir los ahorros frente a la evolución inflacionaria",
+        "link": "https://www.infobae.com/economia/2026/05/18/como-es-la-caja-de-ahorro-uva-que-le-gana-al-plazo-fijo-protege-contra-la-inflacion-y-acaba-de-ser-relanzada/",
+        "source": "Infobae Economía",
+        "time": "18/05 15:51",
+        "iso_date": "2026-05-18T18:51:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Milei habilita una alianza militar con EE.UU. para vigilar el Atlántico Sur: los detalles",
         "summary": "",
@@ -14,18 +46,6 @@
         "iso_date": "2026-05-18T18:39:40+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cuánto ganaron las tres principales compañías de Vaca Muerta en 2026",
-        "summary": "Una Alyc con foco en energía analizó los resultados del primer trimestre en la formación geológica con epicentro en Neuquén y destacó los mejores desempeños según tres criterios",
-        "link": "https://www.infobae.com/economia/2026/05/16/cuales-son-los-tres-campeones-de-vaca-muerta-en-escala-rentabilidad-y-crecimiento-productivo/",
-        "source": "Infobae Economía",
-        "time": "18/05 15:34",
-        "iso_date": "2026-05-18T18:34:54+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       },
       {
         "title": "El dólar oficial subió por segunda jornada al hilo y se acercó a máximos de mayo",
@@ -179,8 +199,8 @@
         "time": "18/05 12:37",
         "iso_date": "2026-05-18T15:37:59+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -297,26 +317,6 @@
         "iso_date": "2026-05-18T13:12:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Baja de impuestos, pacto fiscal y “dólares del colchón”: César Litvin detalló qué falta para la reforma tributaria",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/baja-de-impuestos-pacto-fiscal-y-dolares-del-colchon-cesar-litvin-detallo-que-falta-para-la-reforma-tributaria/",
-        "source": "El Cronista",
-        "time": "18/05 10:10",
-        "iso_date": "2026-05-18T13:10:43+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Pese a los dólares del agro, el BCRA compró 40% menos que en abril: el dato que inquieta al mercado",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-bcra-compro-40-menos-dolares-que-en-abril-pese-a-la-liquidacion-del-agro-pero-hay-algo-mas-que-esta-preocupando-al-mercado/",
-        "source": "El Cronista",
-        "time": "18/05 09:55",
-        "iso_date": "2026-05-18T12:55:49+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -325,8 +325,8 @@
         "summary": "Una Alyc con foco en energía analizó los resultados del primer trimestre en la formación geológica con epicentro en Neuquén y destacó los mejores desempeños según tres criterios",
         "link": "https://www.infobae.com/economia/2026/05/16/cuales-son-los-tres-campeones-de-vaca-muerta-en-escala-rentabilidad-y-crecimiento-productivo/",
         "source": "Infobae Economía",
-        "time": "18/05 15:34",
-        "iso_date": "2026-05-18T18:34:54+00:00",
+        "time": "18/05 16:06",
+        "iso_date": "2026-05-18T19:06:43+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -352,8 +352,8 @@
         "time": "18/05 12:37",
         "iso_date": "2026-05-18T15:37:59+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -484,8 +484,8 @@
         "time": "18/05 12:37",
         "iso_date": "2026-05-18T15:37:59+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
