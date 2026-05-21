@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-05-21T20:52:55.436381",
-  "updated_str": "21/05/2026 20:52",
+  "updated_at": "2026-05-21T21:07:52.620514",
+  "updated_str": "21/05/2026 21:07",
   "cutoff_hours": 48,
   "total_news": 230,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: alzas firmes para las acciones argentinas, junto a la baja del riesgo país",
+        "summary": "El S&P Merval ganó más de 3% y los bonos en dólares avanzaron 0,5%, con un riesgo país en los 516 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/05/21/mercados-el-petroleo-vuelve-a-subir-y-empuja-al-alza-de-las-acciones-argentinas/",
+        "source": "Infobae Economía",
+        "time": "21/05 18:05",
+        "iso_date": "2026-05-21T21:05:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Cautela entre industriales: sólo el 15,5% de las fábricas espera que su producción aumente en los próximos meses",
         "summary": "Una encuesta del Indec muestra que la demanda interna insuficiente es el principal obstáculo para el sector: la mitad de las empresas tiene su cartera de pedidos por debajo de lo normal y solo el 3,3% prevé sumar personal",
@@ -308,19 +320,6 @@
         "iso_date": "2026-05-21T15:02:42+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Mercados: el petróleo vuelve a subir y empuja al alza de las acciones argentinas",
-        "summary": "La tensión entre EEUU e Irán eleva la cotización del crudo otra vez sobre USD 100 el barril. YPF y Vista Energy operan cerca de sus máximos del año. El S&P Merval sube 1% y se aísla de las caídas de Wall Street. El riesgo país se mantiene estable en 526 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/05/21/mercados-el-petroleo-vuelve-a-subir-y-empuja-al-alza-de-las-acciones-argentinas/",
-        "source": "Infobae Economía",
-        "time": "21/05 12:01",
-        "iso_date": "2026-05-21T15:01:13+00:00",
-        "tickers": [
-          "AL30",
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -335,19 +334,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Mercados: el petróleo vuelve a subir y empuja al alza de las acciones argentinas",
-        "summary": "La tensión entre EEUU e Irán eleva la cotización del crudo otra vez sobre USD 100 el barril. YPF y Vista Energy operan cerca de sus máximos del año. El S&P Merval sube 1% y se aísla de las caídas de Wall Street. El riesgo país se mantiene estable en 526 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/05/21/mercados-el-petroleo-vuelve-a-subir-y-empuja-al-alza-de-las-acciones-argentinas/",
-        "source": "Infobae Economía",
-        "time": "21/05 12:01",
-        "iso_date": "2026-05-21T15:01:13+00:00",
-        "tickers": [
-          "AL30",
-          "YPFD"
-        ],
-        "is_general": true
       },
       {
         "title": "Otro gran jugador de Wall Street redobla su apuesta por acciones argentinas: cuáles salió a comprar",
@@ -505,15 +491,14 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: el petróleo vuelve a subir y empuja al alza de las acciones argentinas",
-        "summary": "La tensión entre EEUU e Irán eleva la cotización del crudo otra vez sobre USD 100 el barril. YPF y Vista Energy operan cerca de sus máximos del año. El S&P Merval sube 1% y se aísla de las caídas de Wall Street. El riesgo país se mantiene estable en 526 puntos básicos",
+        "title": "Mercados: alzas firmes para las acciones argentinas, junto a la baja del riesgo país",
+        "summary": "El S&P Merval ganó más de 3% y los bonos en dólares avanzaron 0,5%, con un riesgo país en los 516 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/05/21/mercados-el-petroleo-vuelve-a-subir-y-empuja-al-alza-de-las-acciones-argentinas/",
         "source": "Infobae Economía",
-        "time": "21/05 12:01",
-        "iso_date": "2026-05-21T15:01:13+00:00",
+        "time": "21/05 18:05",
+        "iso_date": "2026-05-21T21:05:39+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "AL30"
         ],
         "is_general": true
       },
@@ -560,18 +545,6 @@
         "source": "Infobae Economía",
         "time": "19/05 18:21",
         "iso_date": "2026-05-19T21:21:47+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: cayeron las acciones y los bonos argentinos mientras volvió a subir el riesgo país",
-        "summary": "Wall Street operó en baja, con un precio del petróleo sostenido. La tendencia contagió a los activos domésticos: el S&P Merval cedió 1,5% y el indicador de JP Morgan alcanzó los 547 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/05/19/mercados-caen-las-acciones-y-los-bonos-argentinos-mientras-vuelve-a-subir-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "19/05 17:56",
-        "iso_date": "2026-05-19T20:56:07+00:00",
         "tickers": [
           "AL30"
         ],
