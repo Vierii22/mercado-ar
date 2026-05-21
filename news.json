@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-05-21T17:09:34.867056",
-  "updated_str": "21/05/2026 17:09",
+  "updated_at": "2026-05-21T17:27:17.705738",
+  "updated_str": "21/05/2026 17:27",
   "cutoff_hours": 48,
-  "total_news": 271,
+  "total_news": 234,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este jueves 21 de mayo",
+        "summary": "El dólar al público cae a $1.415 para la venta en el Banco Nación. El blue también cede a $1.425",
+        "link": "https://www.infobae.com/economia/2026/05/21/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-21-de-mayo/",
+        "source": "Infobae Economía",
+        "time": "21/05 14:22",
+        "iso_date": "2026-05-21T17:22:35+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La Corte Suprema cerró una demanda de ambientalistas contra petroleras que operan en Vaca Muerta",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-corte-suprema-cerro-una-demanda-de-ambientalistas-contra-petroleras-que-operan-en-vaca-muerta/",
+        "source": "El Cronista",
+        "time": "21/05 14:14",
+        "iso_date": "2026-05-21T17:14:45+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Los banqueros aseguran que la mora en los préstamos está cediendo y esperan que el crédito vuelva a crecer",
         "summary": "Los CEOs de los bancos Supervielle y Macro coincidieron en que el crecimiento de la irregularidad encontró un freno",
         "link": "https://www.infobae.com/economia/2026/05/21/los-banqueros-aseguran-que-la-mora-en-los-prestamos-esta-cediendo-y-esperan-que-el-credito-vuelva-a-crecer/",
         "source": "Infobae Economía",
-        "time": "21/05 14:00",
-        "iso_date": "2026-05-21T17:00:08+00:00",
+        "time": "21/05 14:07",
+        "iso_date": "2026-05-21T17:07:51+00:00",
         "tickers": [
           "BMA"
         ],
@@ -139,8 +161,8 @@
         "time": "21/05 12:01",
         "iso_date": "2026-05-21T15:01:13+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -213,16 +235,6 @@
         "source": "Bloomberg Línea AR",
         "time": "21/05 10:35",
         "iso_date": "2026-05-21T13:35:13+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este jueves 21 de mayo",
-        "summary": "El dólar al público se mantiene estabilizado en $1.420 para la venta en el Banco Nación. El BCRA compró más de USD 300 millones y acumula un saldo a favor de USD 8.700 millones en 2026",
-        "link": "https://www.infobae.com/economia/2026/05/21/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-21-de-mayo/",
-        "source": "Infobae Economía",
-        "time": "21/05 10:30",
-        "iso_date": "2026-05-21T13:30:55+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -311,19 +323,21 @@
         "iso_date": "2026-05-21T09:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Disparidad en el crédito: caen fuerte las tasas para empresas, pero se mantienen muy altas las líneas a las personas",
-        "summary": "Los bancos tienen fondeo de sobra, pero se mantienen muy cautos por el pico de morosidad que se registró en la primera parte del año. Por ahora privilegian préstamos de corto plazo a compañías de primera línea o con avales firmes",
-        "link": "https://www.infobae.com/economia/2026/05/21/disparidad-en-el-credito-caen-fuerte-las-tasas-para-empresas-pero-se-mantienen-muy-altas-las-lineas-a-las-personas/",
-        "source": "Infobae Economía",
-        "time": "21/05 01:36",
-        "iso_date": "2026-05-21T04:36:07+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "La Corte Suprema cerró una demanda de ambientalistas contra petroleras que operan en Vaca Muerta",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-corte-suprema-cerro-una-demanda-de-ambientalistas-contra-petroleras-que-operan-en-vaca-muerta/",
+        "source": "El Cronista",
+        "time": "21/05 14:14",
+        "iso_date": "2026-05-21T17:14:45+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Mercados: el petróleo vuelve a subir y empuja al alza de las acciones argentinas",
         "summary": "La tensión entre EEUU e Irán eleva la cotización del crudo otra vez sobre USD 100 el barril. YPF y Vista Energy operan cerca de sus máximos del año. El S&P Merval sube 1% y se aísla de las caídas de Wall Street. El riesgo país se mantiene estable en 526 puntos básicos",
@@ -332,8 +346,8 @@
         "time": "21/05 12:01",
         "iso_date": "2026-05-21T15:01:13+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -370,8 +384,8 @@
         "summary": "Los CEOs de los bancos Supervielle y Macro coincidieron en que el crecimiento de la irregularidad encontró un freno",
         "link": "https://www.infobae.com/economia/2026/05/21/los-banqueros-aseguran-que-la-mora-en-los-prestamos-esta-cediendo-y-esperan-que-el-credito-vuelva-a-crecer/",
         "source": "Infobae Economía",
-        "time": "21/05 14:00",
-        "iso_date": "2026-05-21T17:00:08+00:00",
+        "time": "21/05 14:07",
+        "iso_date": "2026-05-21T17:07:51+00:00",
         "tickers": [
           "BMA"
         ],
@@ -488,8 +502,8 @@
         "time": "21/05 12:01",
         "iso_date": "2026-05-21T15:01:13+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
