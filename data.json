@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-22T03:31:37.720518",
-  "updated_str": "22/05/2026 03:31",
+  "updated_at": "2026-05-22T12:28:10.306482",
+  "updated_str": "22/05/2026 12:28",
   "summary": {
-    "change": NaN,
-    "leader": "GGAL",
-    "leader_change": 4.09,
+    "change": 3.09,
+    "leader": "BMA",
+    "leader_change": 8.4,
     "worst": "TECO2",
     "worst_change": 1.15,
-    "hot_count": 3,
+    "hot_count": 5,
     "cold_count": 0
   },
   "stocks": [
@@ -101,11 +101,11 @@
     {
       "ticker": "BMA",
       "name": "Banco Macro",
-      "price": NaN,
-      "change": NaN,
-      "volume": 396050,
+      "price": 11610.0,
+      "change": 8.4,
+      "volume": 396027,
       "volume_ratio": 1.58,
-      "hot": false,
+      "hot": true,
       "cold": false,
       "trend": [
         10790.99,
@@ -117,15 +117,15 @@
         10740.0,
         10290.0,
         10710.0,
-        NaN
+        11610.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
+      "ma5": 10764.66,
+      "ma20": 10823.62,
       "ma_cross": -1,
       "score": 83,
-      "signal": "fuerte_baja"
+      "signal": "fuerte_suba"
     },
     {
       "ticker": "TXAR",
@@ -217,11 +217,11 @@
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": NaN,
-      "change": NaN,
-      "volume": 961960,
+      "price": 2142.0,
+      "change": 3.28,
+      "volume": 961762,
       "volume_ratio": 1.1,
-      "hot": false,
+      "hot": true,
       "cold": false,
       "trend": [
         2106.0,
@@ -233,15 +233,15 @@
         2124.0,
         2085.0,
         2074.0,
-        NaN
+        2142.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
+      "ma5": 2094.8,
+      "ma20": 2139.9,
       "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "score": 68,
+      "signal": "suba"
     }
   ]
 }
