@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-21T22:58:40.234999",
-  "updated_str": "21/05/2026 22:58",
+  "updated_at": "2026-05-22T03:31:37.720518",
+  "updated_str": "22/05/2026 03:31",
   "summary": {
-    "change": 3.09,
-    "leader": "BMA",
-    "leader_change": 8.4,
+    "change": NaN,
+    "leader": "GGAL",
+    "leader_change": 4.09,
     "worst": "TECO2",
     "worst_change": 1.15,
-    "hot_count": 5,
+    "hot_count": 3,
     "cold_count": 0
   },
   "stocks": [
@@ -16,7 +16,7 @@
       "name": "YPF",
       "price": 70850.0,
       "change": 1.5,
-      "volume": 382169,
+      "volume": 382087,
       "volume_ratio": 1.13,
       "hot": true,
       "cold": false,
@@ -45,7 +45,7 @@
       "name": "Galicia",
       "price": 6490.0,
       "change": 4.09,
-      "volume": 3088546,
+      "volume": 3080524,
       "volume_ratio": 1.26,
       "hot": true,
       "cold": false,
@@ -74,7 +74,7 @@
       "name": "Pampa Energía",
       "price": 4837.5,
       "change": 1.79,
-      "volume": 969344,
+      "volume": 969119,
       "volume_ratio": 0.97,
       "hot": false,
       "cold": false,
@@ -101,11 +101,11 @@
     {
       "ticker": "BMA",
       "name": "Banco Macro",
-      "price": 11610.0,
-      "change": 8.4,
+      "price": NaN,
+      "change": NaN,
       "volume": 396050,
       "volume_ratio": 1.58,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         10790.99,
@@ -117,22 +117,22 @@
         10740.0,
         10290.0,
         10710.0,
-        11610.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 10764.66,
-      "ma20": 10823.62,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
       "score": 83,
-      "signal": "fuerte_suba"
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
       "price": 637.5,
       "change": 3.07,
-      "volume": 1419628,
+      "volume": 1419397,
       "volume_ratio": 1.55,
       "hot": true,
       "cold": false,
@@ -161,7 +161,7 @@
       "name": "Aluar",
       "price": 928.0,
       "change": 1.42,
-      "volume": 1133890,
+      "volume": 1133853,
       "volume_ratio": 2.3,
       "hot": false,
       "cold": false,
@@ -217,11 +217,11 @@
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": 2142.0,
-      "change": 3.28,
+      "price": NaN,
+      "change": NaN,
       "volume": 961960,
       "volume_ratio": 1.1,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         2106.0,
@@ -233,15 +233,15 @@
         2124.0,
         2085.0,
         2074.0,
-        2142.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 2094.8,
-      "ma20": 2139.9,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 68,
-      "signal": "suba"
+      "score": 80,
+      "signal": "fuerte_baja"
     }
   ]
 }
