@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-05-26T21:40:06.745929",
-  "updated_str": "26/05/2026 21:40",
+  "updated_at": "2026-05-26T23:03:20.513467",
+  "updated_str": "26/05/2026 23:03",
   "cutoff_hours": 48,
-  "total_news": 193,
+  "total_news": 191,
   "news": {
     "GENERAL": [
+      {
+        "title": "Las reservas del Banco Central alcanzaron su mayor nivel desde 2019",
+        "summary": "",
+        "link": "https://www.infobae.com/economia/2026/05/26/las-reservas-del-banco-central-alcanzaron-su-mayor-nivel-desde-2019/",
+        "source": "Infobae Economía",
+        "time": "26/05 19:49",
+        "iso_date": "2026-05-26T22:49:32+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas subieron hasta 9% en otro día récord para Wall Street y cayó el riesgo país",
+        "summary": "Las novedades geopolíticas impulsaron al S&P 500 y el Nasdaq a máximos históricos. El S&P Merval avanzó 2,8%, subieron los bonos y el riesgo país cedió a 508 puntos. El dólar avanzó a $1.430 en el Banco Nación y las reservas se acercaron a USD 48.000 millones tras un desembols...",
+        "link": "https://www.infobae.com/economia/2026/05/26/jornada-financiera-las-acciones-argentinas-subieron-hasta-9-en-otro-dia-record-para-wall-street-y-cayo-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "26/05 18:42",
+        "iso_date": "2026-05-26T21:42:29+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Cayó el riesgo país argentino y estuvo cerca de perforar el piso de los 500 puntos básicos",
         "summary": "Una rueda positiva en el exterior y la suba de cotizaciones de los títulos públicos argentinos presiona a una caída de siete unidades en el indicador de JP Morgan, en los 504 puntos",
@@ -54,16 +76,6 @@
         "source": "Bloomberg Línea AR",
         "time": "26/05 17:26",
         "iso_date": "2026-05-26T20:26:43+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las reservas del Banco Central alcanzaron su mayor nivel desde 2019",
-        "summary": "",
-        "link": "https://www.infobae.com/economia/2026/05/26/las-reservas-del-banco-central-alcanzaron-su-mayor-nivel-desde-2019/",
-        "source": "Infobae Economía",
-        "time": "26/05 17:24",
-        "iso_date": "2026-05-26T20:24:20+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -302,16 +314,6 @@
         "iso_date": "2026-05-26T14:27:55+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Argentina partida: cae la confianza en Milei en el AMBA, pero el interior sigue siendo su refugio",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/argentina-partida-cae-la-confianza-en-milei-en-el-amba-pero-el-interior-sigue-siendo-su-refugio/",
-        "source": "El Cronista",
-        "time": "26/05 11:23",
-        "iso_date": "2026-05-26T14:23:03+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -433,6 +435,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: las acciones argentinas subieron hasta 9% en otro día récord para Wall Street y cayó el riesgo país",
+        "summary": "Las novedades geopolíticas impulsaron al S&P 500 y el Nasdaq a máximos históricos. El S&P Merval avanzó 2,8%, subieron los bonos y el riesgo país cedió a 508 puntos. El dólar avanzó a $1.430 en el Banco Nación y las reservas se acercaron a USD 48.000 millones tras un desembols...",
+        "link": "https://www.infobae.com/economia/2026/05/26/jornada-financiera-las-acciones-argentinas-subieron-hasta-9-en-otro-dia-record-para-wall-street-y-cayo-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "26/05 18:42",
+        "iso_date": "2026-05-26T21:42:29+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Cayó el riesgo país argentino y estuvo cerca de perforar el piso de los 500 puntos básicos",
         "summary": "Una rueda positiva en el exterior y la suba de cotizaciones de los títulos públicos argentinos presiona a una caída de siete unidades en el indicador de JP Morgan, en los 504 puntos",
