@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-05-26T21:08:14.460420",
-  "updated_str": "26/05/2026 21:08",
+  "updated_at": "2026-05-26T21:40:06.745929",
+  "updated_str": "26/05/2026 21:40",
   "cutoff_hours": 48,
-  "total_news": 187,
+  "total_news": 193,
   "news": {
     "GENERAL": [
+      {
+        "title": "Cayó el riesgo país argentino y estuvo cerca de perforar el piso de los 500 puntos básicos",
+        "summary": "Una rueda positiva en el exterior y la suba de cotizaciones de los títulos públicos argentinos presiona a una caída de siete unidades en el indicador de JP Morgan, en los 504 puntos",
+        "link": "https://www.infobae.com/economia/2026/05/26/cae-el-riesgo-pais-argentino-y-esta-cerca-de-perforar-el-piso-de-los-500-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "26/05 18:20",
+        "iso_date": "2026-05-26T21:20:32+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este martes 26 de mayo",
         "summary": "El dólar al público avanzó a $1.430 para la venta en el Banco Nación. El dólar blue subió a $1.440. El mayorista cerró a $1.411, su nivel más alto en un mes. Las reservas alcanzaron su punto más alto desde 2019",
@@ -22,6 +34,16 @@
         "source": "Infobae Economía",
         "time": "26/05 17:48",
         "iso_date": "2026-05-26T20:48:40+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Gobierno Petro elevó deuda interna de Colombia a máximo histórico en 5 meses",
+        "summary": "La oferta de TES aumentó más de COP$60 billones entre enero y mayo de 2026, impulsada por subastas, operaciones convenidas y canjes de deuda.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/gobierno-petro-elevo-deuda-interna-de-colombia-a-maximo-historico-en-5-meses/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/05 17:43",
+        "iso_date": "2026-05-26T20:43:51+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -290,28 +312,6 @@
         "iso_date": "2026-05-26T14:23:03+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Milei envió su nueva ley de lobby: registro obligatorio, periodismo y foco en intereses extranjeros",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/milei-envio-su-nueva-ley-de-lobby-registro-obligatorio-reuniones-publicas-y-foco-en-intereses-extranjeros/",
-        "source": "El Cronista",
-        "time": "26/05 10:42",
-        "iso_date": "2026-05-26T13:42:43+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cae el riesgo país argentino y está cerca de perforar el piso de los 500 puntos básicos",
-        "summary": "Una rueda positiva en el exterior y la suba de cotizaciones de los títulos públicos argentinos presiona a una caída de siete unidades en el indicador de JP Morgan, en los 504 puntos",
-        "link": "https://www.infobae.com/economia/2026/05/26/cae-el-riesgo-pais-argentino-y-esta-cerca-de-perforar-el-piso-de-los-500-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "26/05 10:39",
-        "iso_date": "2026-05-26T13:39:36+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -434,12 +434,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Cae el riesgo país argentino y está cerca de perforar el piso de los 500 puntos básicos",
+        "title": "Cayó el riesgo país argentino y estuvo cerca de perforar el piso de los 500 puntos básicos",
         "summary": "Una rueda positiva en el exterior y la suba de cotizaciones de los títulos públicos argentinos presiona a una caída de siete unidades en el indicador de JP Morgan, en los 504 puntos",
         "link": "https://www.infobae.com/economia/2026/05/26/cae-el-riesgo-pais-argentino-y-esta-cerca-de-perforar-el-piso-de-los-500-puntos-basicos/",
         "source": "Infobae Economía",
-        "time": "26/05 10:39",
-        "iso_date": "2026-05-26T13:39:36+00:00",
+        "time": "26/05 18:20",
+        "iso_date": "2026-05-26T21:20:32+00:00",
         "tickers": [
           "AL30"
         ],
