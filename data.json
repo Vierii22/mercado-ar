@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-26T23:03:05.346188",
-  "updated_str": "26/05/2026 23:03",
+  "updated_at": "2026-05-27T03:38:06.861584",
+  "updated_str": "27/05/2026 03:38",
   "summary": {
-    "change": 3.66,
-    "leader": "TECO2",
-    "leader_change": 8.52,
+    "change": NaN,
+    "leader": "GGAL",
+    "leader_change": 5.27,
     "worst": "PAMP",
     "worst_change": 0.16,
-    "hot_count": 6,
+    "hot_count": 5,
     "cold_count": 0
   },
   "stocks": [
@@ -16,7 +16,7 @@
       "name": "YPF",
       "price": 72100.0,
       "change": 1.51,
-      "volume": 306112,
+      "volume": 306045,
       "volume_ratio": 0.93,
       "hot": true,
       "cold": false,
@@ -74,7 +74,7 @@
       "name": "Pampa Energía",
       "price": 4790.0,
       "change": 0.16,
-      "volume": 1170150,
+      "volume": 1170149,
       "volume_ratio": 1.24,
       "hot": false,
       "cold": false,
@@ -188,11 +188,11 @@
     {
       "ticker": "TECO2",
       "name": "Telecom AR",
-      "price": 3790.0,
-      "change": 8.52,
+      "price": NaN,
+      "change": NaN,
       "volume": 174264,
       "volume_ratio": 1.06,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         3517.5,
@@ -204,15 +204,15 @@
         3530.0,
         3492.5,
         3492.5,
-        3790.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 3559.0,
-      "ma20": 3542.88,
-      "ma_cross": 1,
-      "score": 90,
-      "signal": "fuerte_suba"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "CEPU",
