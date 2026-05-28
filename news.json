@@ -1,10 +1,23 @@
 {
-  "updated_at": "2026-05-28T18:21:48.024533",
-  "updated_str": "28/05/2026 18:21",
+  "updated_at": "2026-05-28T18:29:06.141217",
+  "updated_str": "28/05/2026 18:29",
   "cutoff_hours": 48,
-  "total_news": 240,
+  "total_news": 241,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mindlin de Pampa anticipa crecimiento “significativo” del empleo en Argentina por Vaca Muerta",
+        "summary": "El presidente y fundador de Pampa Energía cree que el país generará empleo y crecerá de manera significativa en los próximos años de la mano del oil & gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mindlin-de-pampa-anticipa-crecimiento-significativo-del-empleo-en-argentina-por-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/05 15:25",
+        "iso_date": "2026-05-28T18:25:32+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Nuevo esquema de indemnizaciones: por qué el fondo clave para pagar despidos entraría en vigencia recién a fines de octubre",
         "summary": "En la reforma se estableció que como máximo se puede prorrogar seis meses. Las medidas complementarias que se acordaron con el FMI y los detalles de las reuniones de sociedades de Bolsa con ARCA",
@@ -201,8 +214,8 @@
         "time": "28/05 12:11",
         "iso_date": "2026-05-28T15:11:33+00:00",
         "tickers": [
-          "AL30",
-          "TECO2"
+          "TECO2",
+          "AL30"
         ],
         "is_general": true
       },
@@ -307,19 +320,22 @@
         "iso_date": "2026-05-28T13:35:25+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Caputo puso fecha: cuándo baja el impuesto al cheque, ingresos brutos y las tasas",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/caputo-puso-fecha-cuando-baja-el-impuesto-al-cheque-ingresos-brutos-y-las-tasas/",
-        "source": "El Cronista",
-        "time": "28/05 10:22",
-        "iso_date": "2026-05-28T13:22:02+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Mindlin de Pampa anticipa crecimiento “significativo” del empleo en Argentina por Vaca Muerta",
+        "summary": "El presidente y fundador de Pampa Energía cree que el país generará empleo y crecerá de manera significativa en los próximos años de la mano del oil & gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mindlin-de-pampa-anticipa-crecimiento-significativo-del-empleo-en-argentina-por-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/05 15:25",
+        "iso_date": "2026-05-28T18:25:32+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Cómo viene la inflación de junio: las medidas del Gobierno que impactarán en luz, gas, transporte y peajes",
         "summary": "Continuarán las bonificaciones extraordinarias en ambos servicios públicos y hasta mitad de mes el congelamiento de los combustibles por YPF. Los colectivos tendrán subas de hasta el 4,6%, pero todavía se espera por la decisión de la provincia de Buenos Aires",
@@ -407,7 +423,21 @@
       }
     ],
     "GGAL": [],
-    "PAMP": [],
+    "PAMP": [
+      {
+        "title": "Mindlin de Pampa anticipa crecimiento “significativo” del empleo en Argentina por Vaca Muerta",
+        "summary": "El presidente y fundador de Pampa Energía cree que el país generará empleo y crecerá de manera significativa en los próximos años de la mano del oil & gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/mindlin-de-pampa-anticipa-crecimiento-significativo-del-empleo-en-argentina-por-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/05 15:25",
+        "iso_date": "2026-05-28T18:25:32+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      }
+    ],
     "BMA": [
       {
         "title": "Milei analizó el futuro económico: “La baja inflación y la estabilidad macroeconómica no generan crecimiento”",
@@ -433,8 +463,8 @@
         "time": "28/05 12:11",
         "iso_date": "2026-05-28T15:11:33+00:00",
         "tickers": [
-          "AL30",
-          "TECO2"
+          "TECO2",
+          "AL30"
         ],
         "is_general": true
       },
@@ -461,8 +491,8 @@
         "time": "28/05 12:11",
         "iso_date": "2026-05-28T15:11:33+00:00",
         "tickers": [
-          "AL30",
-          "TECO2"
+          "TECO2",
+          "AL30"
         ],
         "is_general": true
       },
