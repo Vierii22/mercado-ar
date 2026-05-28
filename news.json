@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-05-28T21:52:04.634574",
-  "updated_str": "28/05/2026 21:52",
+  "updated_at": "2026-05-28T23:08:44.852346",
+  "updated_str": "28/05/2026 23:08",
   "cutoff_hours": 48,
   "total_news": 236,
   "news": {
     "GENERAL": [
+      {
+        "title": "Banca en México dice que subsidios del Gobierno a Pemex no benefician a mexicanos",
+        "summary": "Los banqueros consideran que los subsidios a la petrolera estatal no benefician a los mexicanos, pero sí están absorbiendo su costo.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-en-mexico-dice-que-subsidios-del-gobierno-a-pemex-no-benefician-a-mexicanos/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/05 19:28",
+        "iso_date": "2026-05-28T22:28:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Puerto Quequén completó su primera carga de elementos estratégicos para Vaca Muerta",
         "summary": "La operación, protagonizada por YPF, está vinculada al proyecto Vaca Muerta Oil Sur (VMOS) – Tramo 2",
@@ -310,19 +322,21 @@
         "iso_date": "2026-05-28T16:17:23+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Esta empresa empieza a monetizar la inteligencia artificial y su acción se dispara 36%",
-        "summary": "Cortex Code impulsó el mayor aumento de consumo en la historia de Snowflake y llevó a Wall Street a elevar proyecciones sobre monetización de inteligencia artificial.",
-        "link": "https://www.bloomberglinea.com/mercados/esta-empresa-empieza-a-monetizar-la-inteligencia-artificial-y-su-accion-se-dispara-36/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/05 13:09",
-        "iso_date": "2026-05-28T16:09:52+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Banca en México dice que subsidios del Gobierno a Pemex no benefician a mexicanos",
+        "summary": "Los banqueros consideran que los subsidios a la petrolera estatal no benefician a los mexicanos, pero sí están absorbiendo su costo.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banca-en-mexico-dice-que-subsidios-del-gobierno-a-pemex-no-benefician-a-mexicanos/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/05 19:28",
+        "iso_date": "2026-05-28T22:28:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Puerto Quequén completó su primera carga de elementos estratégicos para Vaca Muerta",
         "summary": "La operación, protagonizada por YPF, está vinculada al proyecto Vaca Muerta Oil Sur (VMOS) – Tramo 2",
@@ -525,8 +539,8 @@
         "time": "28/05 12:11",
         "iso_date": "2026-05-28T15:11:33+00:00",
         "tickers": [
-          "TECO2",
-          "AL30"
+          "AL30",
+          "TECO2"
         ],
         "is_general": true
       },
@@ -565,8 +579,8 @@
         "time": "28/05 12:11",
         "iso_date": "2026-05-28T15:11:33+00:00",
         "tickers": [
-          "TECO2",
-          "AL30"
+          "AL30",
+          "TECO2"
         ],
         "is_general": true
       },
