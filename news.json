@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-05-29T21:19:30.635303",
-  "updated_str": "29/05/2026 21:19",
+  "updated_at": "2026-05-29T21:50:09.369024",
+  "updated_str": "29/05/2026 21:50",
   "cutoff_hours": 48,
-  "total_news": 243,
+  "total_news": 248,
   "news": {
     "GENERAL": [
+      {
+        "title": "Jornada financiera: el dólar operó estable y las acciones argentinas subieron hasta 6% en otra rueda récord en Wall Street",
+        "summary": "El tipo de cambio siguió a $1.430 en el Banco Nación y el BCRA compró USD 70 millones en el mercado. El S&P Merval ganó 2,5% y los ADR avanzaron hasta 5,6% en Nueva York",
+        "link": "https://www.infobae.com/economia/2026/05/29/jornada-financiera-el-dolar-opero-estable-y-las-acciones-argentinas-subieron-hasta-6-en-otra-rueda-record-en-wall-street/",
+        "source": "Infobae Economía",
+        "time": "29/05 18:25",
+        "iso_date": "2026-05-29T21:25:30+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El nuevo carry trade: al calor de las obligaciones negociables, las empresas tomaron deuda por u$s 29.000 millones",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-nuevo-carry-trade-al-calor-de-las-obligaciones-negociables-las-empresas-tomaron-deuda-por-us-29000-millones/",
+        "source": "El Cronista",
+        "time": "29/05 18:14",
+        "iso_date": "2026-05-29T21:14:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Alivio en la cadena de pagos: se redujo la cantidad de cheques rechazados, aunque se mantienen 60% por encima de 2025",
         "summary": "Un informe del Banco Central mostró que en abril se rechazaron algo más de 103.000 cheques por falta de fondos, lo que representa una baja mensual del 8,1% respecto a marzo",
@@ -294,26 +314,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Dólar, Ecopetrol y bonos: así ve JPMorgan las elecciones “más trascendentales” en décadas en Colombia",
-        "summary": "El banco considera que el peso colombiano, los TES y las acciones aún no reflejan plenamente el riesgo político, y dijo que Ecopetrol sería una de las compañías más expuestas al resultado electoral.",
-        "link": "https://www.bloomberglinea.com/mercados/dolar-ecopetrol-y-bonos-asi-ve-jpmorgan-las-elecciones-mas-trascendentales-en-decadas-en-colombia/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/05 07:00",
-        "iso_date": "2026-05-29T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercado atento a elecciones presidenciales de Colombia: ¿qué sería un escenario positivo o negativo?",
-        "summary": "El dólar, los TES, y Ecopetrol serán el termómetro que permitirá saber si tras las elecciones del domingo hay optimismo o pesimismo con respecto al futuro económico de Colombia.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/mercado-atento-a-elecciones-presidenciales-de-colombia-que-seria-un-escenario-positivo-o-negativo/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/05 07:00",
-        "iso_date": "2026-05-29T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
