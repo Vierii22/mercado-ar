@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-05-29T21:50:09.369024",
-  "updated_str": "29/05/2026 21:50",
+  "updated_at": "2026-05-29T23:06:32.258863",
+  "updated_str": "29/05/2026 23:06",
   "cutoff_hours": 48,
-  "total_news": 248,
+  "total_news": 246,
   "news": {
     "GENERAL": [
+      {
+        "title": "La compra de dólar ahorro creció en abril, por primera vez en tres meses, y se acercó a los u$s3.000 millones",
+        "summary": "La adquisición de dólares para atesoramiento volvió a ser la principal fuente de salida de divisas. De todos modos, fue más que compensada por los ingresos del comercio exterior y de la deuda.",
+        "link": "https://www.ambito.com/economia/la-compra-dolar-ahorro-crecio-abril-primera-vez-tres-meses-y-se-acerco-los-us3000-millones-n6283117",
+        "source": "Ámbito",
+        "time": "29/05 19:37",
+        "iso_date": "2026-05-29T22:37:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Una empresa de Bioceres reestructuró una parte de su deuda por más de USD 42 millones",
+        "summary": "Rizobacter consiguió una adhesión de 86% en la oferta para canjear obligaciones negociables y estirar vencimientos hasta 2029",
+        "link": "https://www.infobae.com/economia/2026/05/29/una-empresa-de-bioceres-reestructuro-una-parte-de-su-deuda-por-mas-de-usd-42-millones/",
+        "source": "Infobae Economía",
+        "time": "29/05 19:06",
+        "iso_date": "2026-05-29T22:06:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: el dólar operó estable y las acciones argentinas subieron hasta 6% en otra rueda récord en Wall Street",
         "summary": "El tipo de cambio siguió a $1.430 en el Banco Nación y el BCRA compró USD 70 millones en el mercado. El S&P Merval ganó 2,5% y los ADR avanzaron hasta 5,6% en Nueva York",
@@ -292,28 +312,6 @@
         "iso_date": "2026-05-29T12:25:47+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Pese a una mayor producción, el sector lácteo tiene su rentabilidad en baja y el endeudamiento en niveles récord",
-        "summary": "Tanto la actividad como las exportaciones crecieron, pero los productores atraviesan un escenario de debilidad financiera",
-        "link": "https://www.infobae.com/economia/2026/05/29/pese-a-una-mayor-produccion-el-sector-lacteo-tiene-su-rentabilidad-en-baja-y-el-endeudamiento-en-niveles-record/",
-        "source": "Infobae Economía",
-        "time": "29/05 09:17",
-        "iso_date": "2026-05-29T12:17:13+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Este es el panorama para los minerales críticos y el oil & gas en Latinoamérica, según Moody’s",
-        "summary": "La calificadora analiza cobre, litio, petróleo y Vaca Muerta en la región y advierte sobre cuellos de botella institucionales, regulatorios y de inversión.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/este-es-el-panorama-para-los-minerales-criticos-y-el-oil-gas-en-latinoamerica-segun-moodys/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/05 09:00",
-        "iso_date": "2026-05-29T12:00:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -361,8 +359,8 @@
         "time": "28/05 17:47",
         "iso_date": "2026-05-28T20:47:43+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -398,8 +396,8 @@
         "time": "28/05 15:25",
         "iso_date": "2026-05-28T18:25:32+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -459,20 +457,8 @@
         "time": "28/05 02:27",
         "iso_date": "2026-05-28T05:27:21+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería",
-        "summary": "El organismo planteó que el Gobierno debe mantener un tipo de cambio real competitivo. Destacó el RIGI y los cambios a la Ley de Glaciares.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/enfermedad-holandesa-la-advertencia-del-fmi-ante-el-boom-exportador-de-vaca-muerta-y-la-mineria/",
-        "source": "Bloomberg Línea AR",
-        "time": "27/05 19:04",
-        "iso_date": "2026-05-27T22:04:39+00:00",
-        "tickers": [
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       }
@@ -487,8 +473,8 @@
         "time": "28/05 17:47",
         "iso_date": "2026-05-28T20:47:43+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -500,8 +486,8 @@
         "time": "28/05 15:25",
         "iso_date": "2026-05-28T18:25:32+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -656,8 +642,8 @@
         "time": "28/05 02:27",
         "iso_date": "2026-05-28T05:27:21+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -668,18 +654,6 @@
         "source": "Infobae Economía",
         "time": "28/05 02:25",
         "iso_date": "2026-05-28T05:25:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones argentinas treparon hasta 10% en Wall Street y el riesgo país cerró en 500 puntos",
-        "summary": "El S&P Merval ganó 5,2% y volvió a superar los 3 millones de puntos. Los ADR de servicios públicos y bancos lideraron la tendencia. Los bonos en dólares subieron 0,3%",
-        "link": "https://www.infobae.com/economia/2026/05/27/mercados-las-acciones-argentinas-trepan-hasta-10-en-wall-street-y-cae-el-riesgo-pais-antes-de-la-megalicitacion-del-tesoro/",
-        "source": "Infobae Economía",
-        "time": "27/05 19:18",
-        "iso_date": "2026-05-27T22:18:12+00:00",
         "tickers": [
           "AL30"
         ],
