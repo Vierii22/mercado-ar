@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-02T18:13:32.286731",
-  "updated_str": "02/06/2026 18:13",
+  "updated_at": "2026-06-02T18:32:34.614221",
+  "updated_str": "02/06/2026 18:32",
   "cutoff_hours": 48,
-  "total_news": 276,
+  "total_news": 277,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,30 @@
         "summary": "Los hogares presentan cada vez más dificultades para pagar sus préstamos, pese a las expectativas de amesetamiento del sector bancario",
         "link": "https://www.infobae.com/economia/2026/06/02/la-mora-de-las-familias-marco-un-nuevo-record-en-abril-y-ya-hay-53-millones-de-personas-con-problemas-para-pagar-sus-deudas/",
         "source": "Infobae Economía",
-        "time": "02/06 15:09",
-        "iso_date": "2026-06-02T18:09:41+00:00",
+        "time": "02/06 15:25",
+        "iso_date": "2026-06-02T18:25:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas subieron hasta 10% en Wall Street y bajó el riesgo país",
+        "summary": "Los activos argentinos continuaron muy firmes en la plaza local y el exterior. El S&P Merval ganó 2,4% y los bonos ascendieron 0,5% en promedio. El dólar subió a $1.445 en el Banco Nación y el BCRA compró USD 55 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/01/jornada-financiera-las-acciones-argentinas-subieron-hasta-10-en-wall-street-y-bajo-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "02/06 15:19",
+        "iso_date": "2026-06-02T18:19:29+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El dólar arrancó junio en alza y tocó su nivel más alto en cuatro meses",
+        "summary": "El dólar mayorista avanzó a $1.426 y quedó a 300 pesos del techo de las bandas cambiarias. Al público subió a $1.445 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/06/01/el-dolar-arranco-junio-en-alza-y-toco-su-nivel-mas-alto-en-cuatro-meses/",
+        "source": "Infobae Economía",
+        "time": "02/06 15:18",
+        "iso_date": "2026-06-02T18:18:38+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -290,28 +312,6 @@
         "iso_date": "2026-06-02T12:51:20+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Pablo Miedziak, presidente del IAEF: “Hoy en la Argentina parece que tenemos más previsibilidad que el resto del mundo”",
-        "summary": "En el marco del 43º Congreso Anual de la institución, el ejecutivo valoró la baja de la inflación, de la pobreza y del riesgo país. Pero también planteó que hay desafíos pendientes, como la reforma tributaria",
-        "link": "https://www.infobae.com/economia/2026/06/02/pablo-miedziak-presidente-del-iaef-hoy-en-la-argentina-parece-que-tenemos-mas-previsibilidad-que-el-resto-del-mundo/",
-        "source": "Infobae Economía",
-        "time": "02/06 09:49",
-        "iso_date": "2026-06-02T12:49:10+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Caputo anticipó cuántos millones se pueden comprar con el ritmo que trae el BCRA y dejó un mensaje para 2027",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/sobran-dolares-caputo-anticipo-cuantos-millones-se-pueden-comprar-con-el-ritmo-que-trae-el-bcra-y-dejo-un-mensaje-para-2027/",
-        "source": "El Cronista",
-        "time": "02/06 09:40",
-        "iso_date": "2026-06-02T12:40:51+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -386,6 +386,18 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Jornada financiera: las acciones argentinas subieron hasta 10% en Wall Street y bajó el riesgo país",
+        "summary": "Los activos argentinos continuaron muy firmes en la plaza local y el exterior. El S&P Merval ganó 2,4% y los bonos ascendieron 0,5% en promedio. El dólar subió a $1.445 en el Banco Nación y el BCRA compró USD 55 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/01/jornada-financiera-las-acciones-argentinas-subieron-hasta-10-en-wall-street-y-bajo-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "02/06 15:19",
+        "iso_date": "2026-06-02T18:19:29+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Mercados: bajan las acciones y los bonos argentinos, en línea con la tendencia global",
         "summary": "Los índices de Wall Street caen debido a que las tensiones entre EEUU e Irán afectan el optimismo en torno a la IA. El S&P Merval cede 1%. El riesgo país se mantiene debajo de los 500 puntos",
         "link": "https://www.infobae.com/economia/2026/06/02/mercados-bajan-las-acciones-y-los-bonos-argentinos-en-linea-con-la-tendencia-global/",
@@ -440,18 +452,6 @@
         "source": "Infobae Economía",
         "time": "02/06 01:48",
         "iso_date": "2026-06-02T04:48:06+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas subieron hasta 10% en Wall Street y bajó el riesgo país",
-        "summary": "Los activos argentinos continuaron muy firmes en la plaza local y el exterior. El S&P Merval ganó 2,4% y los bonos ascendieron 0,5% en promedio. El dólar subió a $1.445 en el Banco Nación y el BCRA compró USD 55 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/06/01/jornada-financiera-las-acciones-argentinas-subieron-hasta-10-en-wall-street-y-bajo-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "01/06 18:24",
-        "iso_date": "2026-06-01T21:24:46+00:00",
         "tickers": [
           "AL30"
         ],
