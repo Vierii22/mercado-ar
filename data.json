@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-02T20:23:23.160575",
-  "updated_str": "02/06/2026 20:23",
+  "updated_at": "2026-06-02T20:38:28.499693",
+  "updated_str": "02/06/2026 20:38",
   "summary": {
-    "change": -1.0,
+    "change": -1.05,
     "leader": "YPFD",
     "leader_change": 2.12,
     "worst": "TECO2",
@@ -16,7 +16,7 @@
       "name": "YPF",
       "price": 83275.0,
       "change": 2.12,
-      "volume": 283286,
+      "volume": 283293,
       "volume_ratio": 0.88,
       "hot": true,
       "cold": false,
@@ -130,8 +130,8 @@
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
-      "price": 694.0,
-      "change": 0.8,
+      "price": 691.0,
+      "change": 0.36,
       "volume": 997596,
       "volume_ratio": 1.17,
       "hot": false,
@@ -146,14 +146,14 @@
         670.5,
         692.5,
         688.5,
-        694.0
+        691.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 684.5,
-      "ma20": 650.62,
+      "ma5": 683.9,
+      "ma20": 650.48,
       "ma_cross": 1,
-      "score": 61,
+      "score": 58,
       "signal": "suba"
     },
     {
@@ -161,7 +161,7 @@
       "name": "Aluar",
       "price": 1000.0,
       "change": -2.91,
-      "volume": 777084,
+      "volume": 777086,
       "volume_ratio": 1.63,
       "hot": false,
       "cold": false,
