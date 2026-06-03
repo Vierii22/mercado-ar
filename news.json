@@ -1,10 +1,23 @@
 {
-  "updated_at": "2026-06-03T22:26:20.266098",
-  "updated_str": "03/06/2026 22:26",
+  "updated_at": "2026-06-03T23:28:25.167971",
+  "updated_str": "03/06/2026 23:28",
   "cutoff_hours": 48,
-  "total_news": 270,
+  "total_news": 269,
   "news": {
     "GENERAL": [
+      {
+        "title": "Santander y JPMorgan respaldarán financiación de proyecto de TGS en Vaca Muerta",
+        "summary": "Los bancos están entre los prestamistas en un paquete de US$1.000 millones para el proyecto que busca industrializar los líquidos de gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-y-jpmorgan-respaldaran-financiacion-de-proyecto-de-tgs-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/06 19:41",
+        "iso_date": "2026-06-03T22:41:44+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Jornada financiera: las acciones argentinas volvieron a caer y subió el riesgo país por un contexto externo más adverso",
         "summary": "Los índices de Wall Street cedieron hasta 1% y el petróleo se encareció más de 2% por la continuidad de las hostilidades en Oriente Medio. El S&P Merval perdió 1,9% y el riesgo país subió a 492 puntos. El dólar subió a $1.460 e el Banco Nación y el BCRA alcanzó la meta de USD ...",
@@ -16,18 +29,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Las refinerías argentinas rediseñan sus plantas por el avance de Vaca Muerta",
-        "summary": "El mayor peso del shale en la oferta nacional impulsa a ajustar torres de destilación y la planificación industrial para sostener récords de elaboración y mejorar márgenes en un escenario de demanda interna cambiante",
-        "link": "https://www.infobae.com/economia/2026/06/03/las-refinerias-argentinas-redisenan-sus-plantas-por-el-avance-de-vaca-muerta/",
-        "source": "Infobae Economía",
-        "time": "03/06 18:38",
-        "iso_date": "2026-06-03T21:38:53+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       },
       {
         "title": "Bimonetarismo: qué significa la libre circulación de pesos y dólares de la que habló Caputo y cómo afecta al ahorro",
@@ -70,7 +71,7 @@
         "is_general": true
       },
       {
-        "title": "Milei dobla la apuesta contra Bullrich y ratifica la exclusión de Micheli: “Quien designa a los jueces es el Presidente”",
+        "title": "Milei dobla la apuesta contra Bullrich y ratifica la exclusión de Michelli: “Quien designa a los jueces es el Presidente”",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/milei-dobla-la-apuesta-contra-bullrich-y-ratifica-la-exclusion-de-micheli-quien-designa-a-los-jueces-es-el-presidente/",
         "source": "El Cronista",
@@ -314,13 +315,14 @@
     ],
     "YPFD": [
       {
-        "title": "Las refinerías argentinas rediseñan sus plantas por el avance de Vaca Muerta",
-        "summary": "El mayor peso del shale en la oferta nacional impulsa a ajustar torres de destilación y la planificación industrial para sostener récords de elaboración y mejorar márgenes en un escenario de demanda interna cambiante",
-        "link": "https://www.infobae.com/economia/2026/06/03/las-refinerias-argentinas-redisenan-sus-plantas-por-el-avance-de-vaca-muerta/",
-        "source": "Infobae Economía",
-        "time": "03/06 18:38",
-        "iso_date": "2026-06-03T21:38:53+00:00",
+        "title": "Santander y JPMorgan respaldarán financiación de proyecto de TGS en Vaca Muerta",
+        "summary": "Los bancos están entre los prestamistas en un paquete de US$1.000 millones para el proyecto que busca industrializar los líquidos de gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-y-jpmorgan-respaldaran-financiacion-de-proyecto-de-tgs-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/06 19:41",
+        "iso_date": "2026-06-03T22:41:44+00:00",
         "tickers": [
+          "PAMP",
           "YPFD"
         ],
         "is_general": false
@@ -447,7 +449,21 @@
       }
     ],
     "GGAL": [],
-    "PAMP": [],
+    "PAMP": [
+      {
+        "title": "Santander y JPMorgan respaldarán financiación de proyecto de TGS en Vaca Muerta",
+        "summary": "Los bancos están entre los prestamistas en un paquete de US$1.000 millones para el proyecto que busca industrializar los líquidos de gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-y-jpmorgan-respaldaran-financiacion-de-proyecto-de-tgs-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/06 19:41",
+        "iso_date": "2026-06-03T22:41:44+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      }
+    ],
     "BMA": [],
     "TXAR": [],
     "ALUA": [],
