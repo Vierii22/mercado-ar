@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-03T23:28:15.046306",
-  "updated_str": "03/06/2026 23:28",
+  "updated_at": "2026-06-04T03:51:37.197781",
+  "updated_str": "04/06/2026 03:51",
   "summary": {
-    "change": -1.64,
-    "leader": "ALUA",
-    "leader_change": 1.5,
-    "worst": "GGAL",
-    "worst_change": -3.1,
+    "change": NaN,
+    "leader": "YPFD",
+    "leader_change": NaN,
+    "worst": "YPFD",
+    "worst_change": NaN,
     "hot_count": 1,
-    "cold_count": 2
+    "cold_count": 1
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 83050.0,
-      "change": -0.27,
+      "price": NaN,
+      "change": NaN,
       "volume": 329565,
       "volume_ratio": 1.02,
       "hot": false,
@@ -30,25 +30,25 @@
         78350.0,
         81550.0,
         83275.0,
-        83050.0
+        NaN
       ],
       "trend_dir": "up",
       "trend_streak": 4,
-      "ma5": 80660.0,
-      "ma20": 71526.25,
-      "ma_cross": 1,
-      "score": 63,
-      "signal": "baja"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 90,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 7350.0,
-      "change": -3.1,
+      "price": NaN,
+      "change": NaN,
       "volume": 2387941,
       "volume_ratio": 0.81,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
         6490.0,
         6455.0,
@@ -59,21 +59,21 @@
         7495.0,
         7640.0,
         7585.0,
-        7350.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 7461.0,
-      "ma20": 6638.0,
-      "ma_cross": 1,
-      "score": 33,
-      "signal": "baja"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": 5115.0,
-      "change": -1.35,
+      "price": NaN,
+      "change": NaN,
       "volume": 996110,
       "volume_ratio": 0.93,
       "hot": false,
@@ -88,15 +88,15 @@
         5080.0,
         5240.0,
         5185.0,
-        5115.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 5121.5,
-      "ma20": 4888.25,
-      "ma_cross": 1,
-      "score": 46,
-      "signal": "neutral"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "BMA",
