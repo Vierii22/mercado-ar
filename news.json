@@ -1,10 +1,64 @@
 {
-  "updated_at": "2026-06-05T21:21:24.231581",
-  "updated_str": "05/06/2026 21:21",
+  "updated_at": "2026-06-05T22:59:55.609033",
+  "updated_str": "05/06/2026 22:59",
   "cutoff_hours": 48,
-  "total_news": 231,
+  "total_news": 262,
   "news": {
     "GENERAL": [
+      {
+        "title": "Viernes negro en el mundo, con impacto más acotado en Argentina",
+        "summary": "Una conjunción de factores (mal balance de una empresa clave de IA, más inflación en Europa y mucha creación de empleo en EE.UU.) plantó un viernes negro en los mercados del mundo. El índice Nasdaq, donde están las tecnológicas, sufrió la peor caída diaria desde que Trump anun...",
+        "link": "https://eleconomista.com.ar/finanzas/viernes-negro-mundo-impacto-mas-acotado-argentina-n95558",
+        "source": "El Economista",
+        "time": "05/06 19:32",
+        "iso_date": "2026-06-05T22:32:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: Wall Street cayó con fuerza, arrastró a las acciones argentinas y subió el riesgo país",
+        "summary": "Los índices de Nueva York se desplomaron hasta 4,1%, con los títulos tecnológicos como los más afectados. El S&P Merval perdió 2,8% y el riesgo país ascendió a 499 puntos. El dólar subió a $1.460 en el Banco Nación y el BCRA compró USD 45 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/05/jornada-financiera-wall-street-cayo-con-fuerza-arrastro-a-las-acciones-argentinas-y-subio-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "05/06 18:49",
+        "iso_date": "2026-06-05T21:49:48+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La advertencia de un economista cercano a Javier Milei sobre el punto que más preocupa al Gobierno",
+        "summary": "Ricardo Arriazu destacó las señales macroeconómicas, pero remarcó que la recuperación debe llegar a la economía real.",
+        "link": "https://www.ambito.com/economia/la-advertencia-un-economista-cercano-javier-milei-el-punto-que-mas-preocupa-al-gobierno-n6285729",
+        "source": "Ámbito",
+        "time": "05/06 18:46",
+        "iso_date": "2026-06-05T21:46:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta",
+        "summary": "La firma MEGA inauguró en Bahía Blanca un nuevo Tren de Fraccionamiento que amplía en hasta un 50% su producción de líquidos del gas natural",
+        "link": "https://www.infobae.com/economia/2026/06/05/ypf-petrobras-y-dow-realizaron-una-inversion-de-usd-260-millones-para-potenciar-el-crecimiento-en-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "05/06 18:37",
+        "iso_date": "2026-06-05T21:37:20+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Dura nota del Wall Street Journal sobre Milei: “El trolling online impulsó su ascenso; ahora perjudica su reforma pro mercado”",
+        "summary": "Según la prestigiosa publicación de referencia en el principal mercado financiero del mundo, el mandatario argentino enfrenta nuevas dificultades entre empresarios y legisladores a raíz de sus disputas digitales, mientras la desaprobación pública crece y se investigan sus vínc...",
+        "link": "https://www.infobae.com/economia/2026/06/05/dura-nota-del-wall-street-journal-sobre-milei-el-trollling-online-impulso-su-ascenso-ahora-perjudica-su-reforma-pro-mercado/",
+        "source": "Infobae Economía",
+        "time": "05/06 18:34",
+        "iso_date": "2026-06-05T21:34:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El oro registró su caída más grande desde marzo y perdió casi todas las ganancias del año",
         "summary": "Las expectativas de una política monetaria más restrictiva por parte de la Reserva Federal casi que borraron el avance anual del oro, mientras los mercados comenzaron a descontar un aumento de tasas antes de fin de año.",
@@ -14,18 +68,6 @@
         "iso_date": "2026-06-05T21:07:49+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta",
-        "summary": "La firma MEGA inauguró en Bahía Blanca un nuevo Tren de Fraccionamiento que amplía en hasta un 50% su producción de líquidos del gas natural",
-        "link": "https://www.infobae.com/economia/2026/06/05/ypf-petrobras-y-dow-realizaron-una-inversion-de-usd-260-millones-para-potenciar-el-crecimiento-en-vaca-muerta/",
-        "source": "Infobae Economía",
-        "time": "05/06 18:01",
-        "iso_date": "2026-06-05T21:01:47+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       },
       {
         "title": "El Banco Central compró más de USD 400 millones en la semana, pero las reservas perforaron los USD 48.000 millones",
@@ -104,16 +146,6 @@
         "source": "Infobae Economía",
         "time": "05/06 15:05",
         "iso_date": "2026-06-05T18:05:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dura nota del Wall Street Journal sobre Milei: “El trollling online impulsó su ascenso; ahora perjudica su reforma pro mercado”",
-        "summary": "Según la prestigiosa publicación de referencia en el principal mercado financiero del mundo, el mandatario argentino enfrenta nuevas dificultades entre empresarios y legisladores a raíz de sus disputas digitales, mientras la desaprobación pública crece y se investigan sus vínc...",
-        "link": "https://www.infobae.com/economia/2026/06/05/dura-nota-del-wall-street-journal-sobre-milei-el-trollling-online-impulso-su-ascenso-ahora-perjudica-su-reforma-pro-mercado/",
-        "source": "Infobae Economía",
-        "time": "05/06 14:45",
-        "iso_date": "2026-06-05T17:45:22+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -282,38 +314,6 @@
         "iso_date": "2026-06-05T05:57:25+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cómo va a seguir el programa de compra de reservas del Banco Central hasta fin de año",
-        "summary": "A principios de junio, la entidad ya cumplió la meta de adquisición de divisas, pero para el ministro de Economía, Luis Caputo, el límite anual podría superar los USD 17.000 millones",
-        "link": "https://www.infobae.com/economia/2026/06/05/como-va-a-seguir-el-programa-de-compra-de-reservas-del-banco-central-hasta-fin-de-ano/",
-        "source": "Infobae Economía",
-        "time": "05/06 02:57",
-        "iso_date": "2026-06-05T05:57:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Deuda: cuáles son los vencimientos que tiene que enfrentar el Gobierno hasta 2027",
-        "summary": "El ministro de Economía, Luis Caputo, sostuvo que están garantizados todos los pagos del mandato de Javier Milei. Pero Daza, hace menos de 15 días, aseguró que recién estaban comenzando a trabajar para cubrir los del próximo año",
-        "link": "https://www.infobae.com/economia/2026/06/05/deuda-cuales-son-los-vencimientos-que-tiene-que-enfrentar-el-gobierno-hasta-2027/",
-        "source": "Infobae Economía",
-        "time": "05/06 02:56",
-        "iso_date": "2026-06-05T05:56:25+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La Argentina se beneficia del impulso externo: los inversores apostaron por los bonos soberanos y cayó el riesgo país",
-        "summary": "La baja del dólar a nivel global y un mayor apetito de los fondos globales mejoró las cotizaciones de los activos argentinos, mientras el tipo de cambio local experimentó una baja",
-        "link": "https://www.infobae.com/economia/2026/06/05/la-argentina-se-beneficia-del-impulso-externo-los-inversores-apostaron-por-los-bonos-soberanos-y-cayo-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "05/06 02:56",
-        "iso_date": "2026-06-05T05:56:10+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -322,8 +322,8 @@
         "summary": "La firma MEGA inauguró en Bahía Blanca un nuevo Tren de Fraccionamiento que amplía en hasta un 50% su producción de líquidos del gas natural",
         "link": "https://www.infobae.com/economia/2026/06/05/ypf-petrobras-y-dow-realizaron-una-inversion-de-usd-260-millones-para-potenciar-el-crecimiento-en-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "05/06 18:01",
-        "iso_date": "2026-06-05T21:01:47+00:00",
+        "time": "05/06 18:37",
+        "iso_date": "2026-06-05T21:37:20+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -355,7 +355,7 @@
       },
       {
         "title": "YPF, una joya para comprar y mantener",
-        "summary": "",
+        "summary": "Algunos de los más importantes inversores internacionales están comprando importantes cantidades de acciones ahora, bajo la premisa de que, mantenerlas en cartera durante varios años, podría ser una sabia decisión, llamada a proporcionar una elevada rentabilidad.",
         "link": "https://eleconomista.com.ar/finanzas/ypf-una-joya-comprar-mantener-n95523",
         "source": "El Economista",
         "time": "05/06 01:29",
@@ -363,7 +363,7 @@
         "tickers": [
           "YPFD"
         ],
-        "is_general": false
+        "is_general": true
       },
       {
         "title": "Vaca Muerta y el plan de más de US$10.000 millones para integrar energéticamente a Sudamérica",
@@ -400,37 +400,10 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "Santander y JPMorgan respaldarán financiación de proyecto de TGS en Vaca Muerta",
-        "summary": "Los bancos están entre los prestamistas en un paquete de US$1.000 millones para el proyecto que busca industrializar los líquidos de gas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-y-jpmorgan-respaldaran-financiacion-de-proyecto-de-tgs-en-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/06 19:41",
-        "iso_date": "2026-06-03T22:41:44+00:00",
-        "tickers": [
-          "YPFD",
-          "PAMP"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
-    "PAMP": [
-      {
-        "title": "Santander y JPMorgan respaldarán financiación de proyecto de TGS en Vaca Muerta",
-        "summary": "Los bancos están entre los prestamistas en un paquete de US$1.000 millones para el proyecto que busca industrializar los líquidos de gas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/santander-y-jpmorgan-respaldaran-financiacion-de-proyecto-de-tgs-en-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/06 19:41",
-        "iso_date": "2026-06-03T22:41:44+00:00",
-        "tickers": [
-          "YPFD",
-          "PAMP"
-        ],
-        "is_general": false
-      }
-    ],
+    "PAMP": [],
     "BMA": [
       {
         "title": "El dato macro que sorprendió a uno de los economistas que más escucha el Gobierno y la variable clave que pidió mejorar",
@@ -450,6 +423,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: Wall Street cayó con fuerza, arrastró a las acciones argentinas y subió el riesgo país",
+        "summary": "Los índices de Nueva York se desplomaron hasta 4,1%, con los títulos tecnológicos como los más afectados. El S&P Merval perdió 2,8% y el riesgo país ascendió a 499 puntos. El dólar subió a $1.460 en el Banco Nación y el BCRA compró USD 45 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/05/jornada-financiera-wall-street-cayo-con-fuerza-arrastro-a-las-acciones-argentinas-y-subio-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "05/06 18:49",
+        "iso_date": "2026-06-05T21:49:48+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La Argentina se beneficia del impulso externo: los inversores apostaron por los bonos soberanos y cayó el riesgo país",
         "summary": "La baja del dólar a nivel global y un mayor apetito de los fondos globales mejoró las cotizaciones de los activos argentinos, mientras el tipo de cambio local experimentó una baja",
@@ -517,18 +502,6 @@
         "source": "Infobae Economía",
         "time": "04/06 02:30",
         "iso_date": "2026-06-04T05:30:30+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas volvieron a caer y subió el riesgo país por un contexto externo más adverso",
-        "summary": "Los índices de Wall Street cedieron hasta 1% y el petróleo se encareció más de 2% por la continuidad de las hostilidades en Oriente Medio. El S&P Merval perdió 1,9% y el riesgo país subió a 492 puntos. El dólar subió a $1.460 e el Banco Nación y el BCRA alcanzó la meta de USD ...",
-        "link": "https://www.infobae.com/economia/2026/06/03/jornada-financiera-las-acciones-argentinas-volvieron-a-caer-y-subio-el-riesgo-pais-por-un-contexto-externo-mas-adverso/",
-        "source": "Infobae Economía",
-        "time": "03/06 18:43",
-        "iso_date": "2026-06-03T21:43:41+00:00",
         "tickers": [
           "AL30"
         ],
