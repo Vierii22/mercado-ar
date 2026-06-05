@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-06-05T03:36:29.753269",
-  "updated_str": "05/06/2026 03:36",
+  "updated_at": "2026-06-05T12:43:15.290777",
+  "updated_str": "05/06/2026 12:43",
   "summary": {
-    "change": NaN,
-    "leader": "YPFD",
-    "leader_change": NaN,
-    "worst": "YPFD",
-    "worst_change": NaN,
-    "hot_count": 1,
+    "change": 0.34,
+    "leader": "TXAR",
+    "leader_change": 3.25,
+    "worst": "CEPU",
+    "worst_change": -1.39,
+    "hot_count": 2,
     "cold_count": 0
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": NaN,
-      "change": NaN,
-      "volume": 199385,
+      "price": 83850.0,
+      "change": 0.96,
+      "volume": 199378,
       "volume_ratio": 0.61,
-      "hot": false,
+      "hot": true,
       "cold": false,
       "trend": [
         71025.0,
@@ -30,15 +30,15 @@
         81550.0,
         83275.0,
         83050.0,
-        NaN
+        83850.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "trend_dir": "up",
+      "trend_streak": 4,
+      "ma5": 82015.0,
+      "ma20": 72540.0,
+      "ma_cross": 1,
+      "score": 72,
+      "signal": "fuerte_suba"
     },
     {
       "ticker": "GGAL",
@@ -72,9 +72,9 @@
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": NaN,
-      "change": NaN,
-      "volume": 951963,
+      "price": 5135.0,
+      "change": 0.39,
+      "volume": 951894,
       "volume_ratio": 0.89,
       "hot": false,
       "cold": false,
@@ -88,15 +88,15 @@
         5240.0,
         5185.0,
         5115.0,
-        NaN
+        5135.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "ma5": 5151.0,
+      "ma20": 4901.62,
+      "ma_cross": 1,
+      "score": 58,
+      "signal": "suba"
     },
     {
       "ticker": "BMA",
@@ -217,9 +217,9 @@
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": NaN,
-      "change": NaN,
-      "volume": 742552,
+      "price": 2277.0,
+      "change": -1.39,
+      "volume": 742532,
       "volume_ratio": 0.85,
       "hot": false,
       "cold": false,
@@ -233,15 +233,15 @@
         2395.0,
         2368.0,
         2309.0,
-        NaN
+        2277.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "ma5": 2341.0,
+      "ma20": 2183.1,
+      "ma_cross": 1,
+      "score": 45,
+      "signal": "baja"
     }
   ]
 }
