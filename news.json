@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-05T21:00:50.003403",
-  "updated_str": "05/06/2026 21:00",
+  "updated_at": "2026-06-05T21:21:24.231581",
+  "updated_str": "05/06/2026 21:21",
   "cutoff_hours": 48,
   "total_news": 231,
   "news": {
     "GENERAL": [
+      {
+        "title": "El oro registró su caída más grande desde marzo y perdió casi todas las ganancias del año",
+        "summary": "Las expectativas de una política monetaria más restrictiva por parte de la Reserva Federal casi que borraron el avance anual del oro, mientras los mercados comenzaron a descontar un aumento de tasas antes de fin de año.",
+        "link": "https://www.bloomberglinea.com/mercados/el-oro-registra-su-caida-mas-grande-desde-marzo-y-pierde-todas-las-ganancias-del-ano/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/06 18:07",
+        "iso_date": "2026-06-05T21:07:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta",
+        "summary": "La firma MEGA inauguró en Bahía Blanca un nuevo Tren de Fraccionamiento que amplía en hasta un 50% su producción de líquidos del gas natural",
+        "link": "https://www.infobae.com/economia/2026/06/05/ypf-petrobras-y-dow-realizaron-una-inversion-de-usd-260-millones-para-potenciar-el-crecimiento-en-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "05/06 18:01",
+        "iso_date": "2026-06-05T21:01:47+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "El Banco Central compró más de USD 400 millones en la semana, pero las reservas perforaron los USD 48.000 millones",
         "summary": "La autoridad monetaria adquirió USD 45 millones este viernes e hilvana 102 jornadas seguidas con saldo comprador, mientras que su stock cayó más de 300 millones en términos semanales",
@@ -62,16 +84,6 @@
         "source": "Infobae Economía",
         "time": "05/06 16:12",
         "iso_date": "2026-06-05T19:12:31+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El oro registra su caída más grande desde marzo y pierde todas las ganancias del año",
-        "summary": "Las expectativas de una política monetaria más restrictiva por parte de la Reserva Federal borraron el avance anual del oro, mientras los mercados comenzaron a descontar un aumento de tasas antes de fin de año.",
-        "link": "https://www.bloomberglinea.com/mercados/el-oro-registra-su-caida-mas-grande-desde-marzo-y-pierde-todas-las-ganancias-del-ano/",
-        "source": "Bloomberg Línea AR",
-        "time": "05/06 16:10",
-        "iso_date": "2026-06-05T19:10:09+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -302,19 +314,21 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "El Banco Provincia emitió títulos de deuda en pesos y dólares por USD 100 millones: cómo son y qué tasas pagan",
-        "summary": "La entidad financiera completó la colocación de dos clases de títulos a un año de plazo y confirmó las tasas a las que quedaron adjudicados los instrumentos",
-        "link": "https://www.infobae.com/economia/2026/06/05/el-banco-provincia-emitio-titulos-de-deuda-en-pesos-y-dolares-por-usd-100-millones-como-son-y-que-tasas-pagan/",
-        "source": "Infobae Economía",
-        "time": "05/06 02:53",
-        "iso_date": "2026-06-05T05:53:52+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta",
+        "summary": "La firma MEGA inauguró en Bahía Blanca un nuevo Tren de Fraccionamiento que amplía en hasta un 50% su producción de líquidos del gas natural",
+        "link": "https://www.infobae.com/economia/2026/06/05/ypf-petrobras-y-dow-realizaron-una-inversion-de-usd-260-millones-para-potenciar-el-crecimiento-en-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "05/06 18:01",
+        "iso_date": "2026-06-05T21:01:47+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF anuncia recompra de acciones para planes de compensación de empleados",
         "summary": "El directorio de la petrolera estatal aprobó el 4 de junio la adquisición de acciones en ByMA y el NYSE, con un techo de ARS$108.160 por título local y US$72,95 por ADR.",
