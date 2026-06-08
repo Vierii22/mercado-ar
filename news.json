@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-08T21:20:28.307709",
-  "updated_str": "08/06/2026 21:20",
+  "updated_at": "2026-06-08T21:47:26.716211",
+  "updated_str": "08/06/2026 21:47",
   "cutoff_hours": 48,
-  "total_news": 136,
+  "total_news": 137,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 8 de junio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-8-junio-n6286207",
+        "source": "Ámbito Mercados",
+        "time": "08/06 18:45",
+        "iso_date": "2026-06-08T21:45:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: el riesgo país se mantuvo debajo de los 500 puntos y el Banco Central volvió a comprar dólares",
+        "summary": "El rebote de Wall Street impulsó una leve recuperación de acciones y bonos argentinos. El S&P Merval subió 0,9%. El dólar avanzó a $1.465 en el Banco Nación y el BCRA adquirió USD 71 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/08/jornada-financiera-el-riesgo-pais-se-mantuvo-debajo-de-los-500-puntos-y-el-banco-central-volvio-a-comprar-dolares/",
+        "source": "Infobae Economía",
+        "time": "08/06 18:30",
+        "iso_date": "2026-06-08T21:30:01+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El dólar global retrocedió tras la pausa de los ataques entre Irán e Israel, pero se mantuvo cerca de máximos de dos meses",
         "summary": "La divisa estadounidense cedió terreno este lunes luego de que Teherán anunciara el fin de su ofensiva contra Israel.",
@@ -134,16 +156,6 @@
         "source": "Infobae Economía",
         "time": "08/06 17:07",
         "iso_date": "2026-06-08T20:07:37+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar blue hoy: a cuánto opera este lunes 8 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-8-junio-n6286194",
-        "source": "Ámbito Mercados",
-        "time": "08/06 17:02",
-        "iso_date": "2026-06-08T20:02:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -296,16 +308,6 @@
         "iso_date": "2026-06-08T15:52:37+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cierra la inscripción para recibir el subsidio de gas, ¿cómo anotarse?",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/cierra-la-inscripcion-para-recibir-el-subsidio-de-gas-como-anotarse/",
-        "source": "El Cronista",
-        "time": "08/06 12:17",
-        "iso_date": "2026-06-08T15:17:16+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -341,8 +343,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -357,8 +359,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -382,6 +384,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: el riesgo país se mantuvo debajo de los 500 puntos y el Banco Central volvió a comprar dólares",
+        "summary": "El rebote de Wall Street impulsó una leve recuperación de acciones y bonos argentinos. El S&P Merval subió 0,9%. El dólar avanzó a $1.465 en el Banco Nación y el BCRA adquirió USD 71 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/08/jornada-financiera-el-riesgo-pais-se-mantuvo-debajo-de-los-500-puntos-y-el-banco-central-volvio-a-comprar-dolares/",
+        "source": "Infobae Economía",
+        "time": "08/06 18:30",
+        "iso_date": "2026-06-08T21:30:01+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: subió Wall Street y empujó una leve recuperación de acciones y bonos argentinos",
         "summary": "Los indicadores de Nueva York rebotaron hasta 0,9%, impulsados por los títulos tecnológicos. El S&P Merval ganó 0,9% y el riesgo país argentino cedió a 493 puntos básicos",
