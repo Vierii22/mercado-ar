@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-09T20:24:28.955027",
-  "updated_str": "09/06/2026 20:24",
+  "updated_at": "2026-06-09T21:03:14.320224",
+  "updated_str": "09/06/2026 21:03",
   "summary": {
-    "change": 1.79,
+    "change": 1.73,
     "leader": "TECO2",
     "leader_change": 6.0,
-    "worst": "YPFD",
-    "worst_change": -0.76,
+    "worst": "TXAR",
+    "worst_change": -0.87,
     "hot_count": 3,
     "cold_count": 0
   },
@@ -16,7 +16,7 @@
       "name": "YPF",
       "price": 81325.0,
       "change": -0.76,
-      "volume": 242745,
+      "volume": 242748,
       "volume_ratio": 0.75,
       "hot": false,
       "cold": false,
@@ -74,7 +74,7 @@
       "name": "Pampa Energía",
       "price": 5030.0,
       "change": 0.2,
-      "volume": 792309,
+      "volume": 792337,
       "volume_ratio": 0.74,
       "hot": false,
       "cold": false,
@@ -130,8 +130,8 @@
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
-      "price": 685.0,
-      "change": -0.44,
+      "price": 682.0,
+      "change": -0.87,
       "volume": 1123480,
       "volume_ratio": 1.24,
       "hot": false,
@@ -146,14 +146,14 @@
         699.5,
         684.0,
         688.0,
-        685.0
+        682.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 686.8,
-      "ma20": 655.55,
+      "ma5": 686.2,
+      "ma20": 655.4,
       "ma_cross": 1,
-      "score": 52,
+      "score": 49,
       "signal": "neutral"
     },
     {
