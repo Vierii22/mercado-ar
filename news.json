@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-06-08T23:09:04.468788",
-  "updated_str": "08/06/2026 23:09",
+  "updated_at": "2026-06-09T02:56:30.202085",
+  "updated_str": "09/06/2026 02:56",
   "cutoff_hours": 48,
-  "total_news": 148,
+  "total_news": 158,
   "news": {
     "GENERAL": [
+      {
+        "title": "Otra vez, Argentina flota con un mundo cada vez más revuelto",
+        "summary": "Los idas y vueltas alrededor de la guerra en Medio Oriente siguen provocando convulsiones en los mercados mundiales. Ante eso, inversores globales se siguen refugiando en el dólar global. En Argentina los dólares también suben. Pero, a diferencia de lo que pasa afuera, en el m...",
+        "link": "https://eleconomista.com.ar/finanzas/otra-vez-argentina-flota-mundo-cada-vez-mas-revuelto-n95585",
+        "source": "El Economista",
+        "time": "08/06 20:13",
+        "iso_date": "2026-06-08T23:13:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "OpenAI presentó en secreto su solicitud para salir a bolsa en Estados Unidos",
+        "summary": "La empresa de Sam Altman informó que ya entregó la documentación ante la Comisión de Bolsa y Valores de EEUU y que evalúa una pronta colocación junto con bancos asesores",
+        "link": "https://www.infobae.com/economia/2026/06/08/openai-presento-en-secreto-su-solicitud-para-salir-a-bolsa-en-estados-unidos/",
+        "source": "Infobae Economía",
+        "time": "08/06 20:06",
+        "iso_date": "2026-06-08T23:06:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: el riesgo país se mantuvo debajo de los 500 puntos y el Banco Central volvió a comprar dólares",
         "summary": "El rebote de Wall Street impulsó una leve recuperación de acciones y bonos argentinos. El S&P Merval subió 0,9%. El dólar avanzó a $1.465 en el Banco Nación y el BCRA adquirió USD 71 millones en el mercado",
@@ -288,26 +308,6 @@
         "iso_date": "2026-06-08T14:01:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Plazo fijo: así abrieron las tasas de los principales bancos hoy, lunes 8 de junio",
-        "summary": "Las entidades financieras mantienen rendimientos dispares para quienes buscan resguardar capital mediante colocaciones tradicionales.",
-        "link": "https://www.ambito.com/economia/plazo-fijo-asi-abrieron-las-tasas-los-principales-bancos-hoy-lunes-8-junio-n6286284",
-        "source": "Ámbito",
-        "time": "08/06 11:00",
-        "iso_date": "2026-06-08T14:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plazo fijo: cuánto pagan los bancos por depositar $1 millón a 30 días",
-        "summary": "Las tasas de interés para depósitos a plazo fijo en pesos muestran diferencias de hasta ocho puntos porcentuales entre entidades, en un escenario de tasas promedio históricamente bajas y rendimientos que no logran equiparar el ritmo de la inflación",
-        "link": "https://www.infobae.com/economia/2026/06/08/plazo-fijo-cuanto-pagan-los-bancos-por-depositar-1-millon-a-30-dias/",
-        "source": "Infobae Economía",
-        "time": "08/06 10:32",
-        "iso_date": "2026-06-08T13:32:48+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -343,8 +343,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -359,8 +359,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
