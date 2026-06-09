@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-09T17:50:12.511804",
-  "updated_str": "09/06/2026 17:50",
+  "updated_at": "2026-06-09T18:32:31.941238",
+  "updated_str": "09/06/2026 18:32",
   "cutoff_hours": 48,
-  "total_news": 199,
+  "total_news": 206,
   "news": {
     "GENERAL": [
+      {
+        "title": "¿Sigue el carry trade? Qué dicen los analistas tras el último repunte del dólar",
+        "summary": "En la primera semana de junio, la entidad solo compró USD 437 millones. En el mercado hay quienes consideran que se debe cierre de posiciones de carry trade mientras para otros responde a factores estacionales de menor oferta de dólares",
+        "link": "https://www.infobae.com/economia/2026/06/09/sigue-el-carry-trade-que-dicen-los-analistas-tras-el-ultimo-repunte-del-dolar/",
+        "source": "Infobae Economía",
+        "time": "09/06 14:57",
+        "iso_date": "2026-06-09T17:57:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "“Si la Argentina tiene éxito, va a ser cara”: la advertencia de uno de los economistas que más escucha Milei",
         "summary": "En la convención anual de la Cámara Argentina de la Construcción (Camarco), Ricardo Arriazu subrayó además la importancia de la confianza y sostuvo que las condiciones están dadas para seguir creciendo",
@@ -300,16 +310,6 @@
         "iso_date": "2026-06-09T09:35:09+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El Gobierno busca blindar el superávit fiscal frente a la volatilidad de la recaudación y la presión legislativa",
-        "summary": "A pesar del repunte de la recaudación en mayo, el ministro de Economía, Luis Caputo, tuvo que postergar el FAL y entregó instrumentos financieros al PAMI. Los compromisos con el Fondo Monetario Internacional (FMI) para lograr el superávit primario",
-        "link": "https://www.infobae.com/economia/2026/06/09/el-gobierno-busca-blindar-el-superavit-fiscal-frente-a-la-volatilidad-de-la-recaudacion-y-la-presion-legislativa/",
-        "source": "Infobae Economía",
-        "time": "09/06 06:18",
-        "iso_date": "2026-06-09T09:18:51+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -357,8 +357,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -386,8 +386,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
