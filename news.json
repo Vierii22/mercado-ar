@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-06-09T16:32:18.202192",
-  "updated_str": "09/06/2026 16:32",
+  "updated_at": "2026-06-09T17:07:49.021960",
+  "updated_str": "09/06/2026 17:07",
   "cutoff_hours": 48,
-  "total_news": 182,
+  "total_news": 198,
   "news": {
     "GENERAL": [
       {
-        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 9 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-9-junio-n6286646",
-        "source": "Ámbito Mercados",
-        "time": "09/06 13:27",
-        "iso_date": "2026-06-09T16:27:00+00:00",
+        "title": "Mercados: Wall Street pasa a fuertes pérdidas y arrastra a los activos argentinos",
+        "summary": "El panel tecnológico Nasdaq cae más de 3%. El S&P Merval descontó las alzas de la mañana y pierde 0,4%. También bajan los bonos y sube el riesgo país",
+        "link": "https://www.infobae.com/economia/2026/06/09/mercados-las-acciones-y-los-bonos-argentinos-vuelven-a-las-ganancias-impulsados-por-wall-street/",
+        "source": "Infobae Economía",
+        "time": "09/06 13:58",
+        "iso_date": "2026-06-09T16:58:57+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "“Si la Argentina tiene éxito, va a ser cara”: la advertencia de uno de los economistas que más escucha Milei",
+        "summary": "En la convención anual de la Cámara Argentina de la Construcción (Camarco), Ricardo Arriazu subrayó además la importancia de la confianza y sostuvo que las condiciones están dadas para seguir creciendo",
+        "link": "https://www.infobae.com/economia/2026/06/09/si-la-argentina-tiene-exito-va-a-ser-cara-la-advertencia-de-uno-de-los-economistas-que-mas-escucha-milei/",
+        "source": "Infobae Economía",
+        "time": "09/06 13:58",
+        "iso_date": "2026-06-09T16:58:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "ANSES: cuándo cobro en junio 2026 si mi DNI termina en 7",
+        "summary": "El cronograma del organismo fija días distintos según cada prestación e incluye subas por inflación, refuerzos para haberes bajos y el medio aguinaldo en varias liquidaciones de este mes",
+        "link": "https://www.infobae.com/economia/2026/06/09/anses-cuando-cobro-en-junio-2026-si-mi-dni-termina-en-7/",
+        "source": "Infobae Economía",
+        "time": "09/06 13:42",
+        "iso_date": "2026-06-09T16:42:03+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -58,26 +80,6 @@
         "is_general": true
       },
       {
-        "title": "Dólar hoy: a cuánto cotiza este martes 9 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-9-junio-n6286620",
-        "source": "Ámbito Mercados",
-        "time": "09/06 13:07",
-        "iso_date": "2026-06-09T16:07:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar blue hoy: a cuánto opera este martes 9 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-9-junio-n6286621",
-        "source": "Ámbito Mercados",
-        "time": "09/06 13:07",
-        "iso_date": "2026-06-09T16:07:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Nasdaq lidera pérdidas en Wall Street por nueva corrección de acciones de semiconductores",
         "summary": "Las acciones estadounidenses borraron sus ganancias iniciales y operaban en rojo a media jornada, afectadas por una nueva ola de ventas en semiconductores.",
         "link": "https://www.bloomberglinea.com/mercados/sp-500-avanza-mientras-cae-el-petroleo-y-repuntan-las-acciones-tecnologicas/",
@@ -98,16 +100,6 @@
         "is_general": true
       },
       {
-        "title": "El dólar oficial prolonga las subas y empiezan a surgir interrogantes sobre qué pasará los próximos días",
-        "summary": "El dólar oficial muestra estabilidad, pero analistas advierten sobre posibles tensiones futuras en la plaza cambiaria, influenciadas por factores estacionales y la demanda interna.",
-        "link": "https://www.ambito.com/finanzas/el-dolar-oficial-se-toma-una-pausa-aunque-empiezan-surgir-interrogantes-que-pasara-los-proximos-dias-n6286764",
-        "source": "Ámbito Mercados",
-        "time": "09/06 12:31",
-        "iso_date": "2026-06-09T15:31:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Con un canje, gobierno de Milei prepara el terreno para renovar repos con bancos internacionales",
         "summary": "El Tesoro le canjeó al BCRA sus tenencias de BONCER TZXD7 y TZX28 por una canasta de 66% de AL35 y 34% de los AE38. Analistas vincularon la operación a la búsqueda de garantías para rollear los US$6.000 millones que vencen entre octubre de este año y abril de 2027.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/con-un-canje-gobierno-de-milei-prepara-el-terreno-para-renovar-repos-con-bancos-internacionales/",
@@ -115,18 +107,6 @@
         "time": "09/06 12:14",
         "iso_date": "2026-06-09T15:14:19+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: las acciones y los bonos argentinos vuelven a las ganancias impulsados por Wall Street",
-        "summary": "El S&P Merval sube 1,5% y los títulos públicos ascienden 0,5%, con un riesgo país que cede a 488 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/06/09/mercados-las-acciones-y-los-bonos-argentinos-vuelven-a-las-ganancias-impulsados-por-wall-street/",
-        "source": "Infobae Economía",
-        "time": "09/06 12:10",
-        "iso_date": "2026-06-09T15:10:55+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -262,16 +242,6 @@
         "is_general": true
       },
       {
-        "title": "El dólar global retrocede mientras crecen las expectativas de una apertura del estrecho de Ormuz",
-        "summary": "La divisa cae luego de que disminuyera la tensión entre Irán e Israel, mientras los inversores siguen atentos a los datos de inflación y a las señales de la Reserva Federal.",
-        "link": "https://www.ambito.com/uruguay/el-dolar-global-retrocede-mientras-crecen-las-expectativas-una-apertura-del-estrecho-ormuz-n6286681",
-        "source": "Ámbito Mercados",
-        "time": "09/06 09:48",
-        "iso_date": "2026-06-09T12:48:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "¡Eureka!: el problema es fiscal",
         "summary": "En la Universidad de San Andrés, el presidente Javier Milei citó la tesis de Thomas Sargent y Neil Wallace, que vincula el rojo crónico con una emisión forzada y la posterior suba sostenida de precios",
         "link": "https://www.infobae.com/opinion/2026/06/09/eureka-el-problema-es-fiscal/",
@@ -310,6 +280,38 @@
         "iso_date": "2026-06-09T10:00:00+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "Milei en alerta: los nombres que le empiezan a disputar centralidad y la señal kirchnerista que inquieta al Gobierno",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/no-solo-bullrich-los-dirigentes-que-le-pisan-los-talones-a-milei-y-la-sombra-kirchnerista-que-miran-con-lupa-en-el-gobierno/",
+        "source": "El Cronista",
+        "time": "09/06 06:35",
+        "iso_date": "2026-06-09T09:35:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno busca blindar el superávit fiscal frente a la volatilidad de la recaudación y la presión legislativa",
+        "summary": "A pesar del repunte de la recaudación en mayo, el ministro de Economía, Luis Caputo, tuvo que postergar el FAL y entregó instrumentos financieros al PAMI. Los compromisos con el Fondo Monetario Internacional (FMI) para lograr el superávit primario",
+        "link": "https://www.infobae.com/economia/2026/06/09/el-gobierno-busca-blindar-el-superavit-fiscal-frente-a-la-volatilidad-de-la-recaudacion-y-la-presion-legislativa/",
+        "source": "Infobae Economía",
+        "time": "09/06 06:18",
+        "iso_date": "2026-06-09T09:18:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cómo ven los grandes inversores institucionales del exterior a la Argentina",
+        "summary": "Ejecutivos de Grupo Financiero Galicia, el principal holding bancario del país, se reunieron con financistas globales en Londres y detallaron las impresiones relevadas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/como-ven-los-grandes-inversores-institucionales-del-exterior-a-la-argentina/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/06 04:46",
+        "iso_date": "2026-06-09T07:46:00+00:00",
+        "tickers": [
+          "GGAL"
+        ],
+        "is_general": false
       }
     ],
     "YPFD": [
@@ -437,12 +439,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: las acciones y los bonos argentinos vuelven a las ganancias impulsados por Wall Street",
-        "summary": "El S&P Merval sube 1,5% y los títulos públicos ascienden 0,5%, con un riesgo país que cede a 488 puntos básicos",
+        "title": "Mercados: Wall Street pasa a fuertes pérdidas y arrastra a los activos argentinos",
+        "summary": "El panel tecnológico Nasdaq cae más de 3%. El S&P Merval descontó las alzas de la mañana y pierde 0,4%. También bajan los bonos y sube el riesgo país",
         "link": "https://www.infobae.com/economia/2026/06/09/mercados-las-acciones-y-los-bonos-argentinos-vuelven-a-las-ganancias-impulsados-por-wall-street/",
         "source": "Infobae Economía",
-        "time": "09/06 12:10",
-        "iso_date": "2026-06-09T15:10:55+00:00",
+        "time": "09/06 13:58",
+        "iso_date": "2026-06-09T16:58:57+00:00",
         "tickers": [
           "AL30"
         ],
