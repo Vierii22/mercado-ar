@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-06-09T17:07:49.021960",
-  "updated_str": "09/06/2026 17:07",
+  "updated_at": "2026-06-09T17:18:18.785874",
+  "updated_str": "09/06/2026 17:18",
   "cutoff_hours": 48,
-  "total_news": 198,
+  "total_news": 199,
   "news": {
     "GENERAL": [
       {
         "title": "Mercados: Wall Street pasa a fuertes pérdidas y arrastra a los activos argentinos",
-        "summary": "El panel tecnológico Nasdaq cae más de 3%. El S&P Merval descontó las alzas de la mañana y pierde 0,4%. También bajan los bonos y sube el riesgo país",
+        "summary": "El panel tecnológico Nasdaq cae más de 3%. El S&P Merval descontó las alzas de la mañana y pierde 0,4%. También bajan los bonos y sube el riesgo país a 500 puntos",
         "link": "https://www.infobae.com/economia/2026/06/09/mercados-las-acciones-y-los-bonos-argentinos-vuelven-a-las-ganancias-impulsados-por-wall-street/",
         "source": "Infobae Economía",
-        "time": "09/06 13:58",
-        "iso_date": "2026-06-09T16:58:57+00:00",
+        "time": "09/06 14:11",
+        "iso_date": "2026-06-09T17:11:51+00:00",
         "tickers": [
           "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Precio del dólar en Perú toca mínimos de febrero: ¿qué esperar para junio?",
+        "summary": "La divisa peruana alcanza su nivel más alta desde febrero mientras los inversionistas evalúan el resultado de la segunda vuelta y las perspectivas económicas del próximo gobierno.",
+        "link": "https://www.bloomberglinea.com/mercados/precio-del-dolar-en-peru-toca-minimos-de-febrero-que-esperar-para-junio/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/06 14:07",
+        "iso_date": "2026-06-09T17:07:43+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -90,7 +100,7 @@
         "is_general": true
       },
       {
-        "title": "La advertencia de Jorge Asís a Javier Milei de cara a 2027: “El peronismo todavía funciona...”",
+        "title": "Milei, 2027 y el peronismo que no desaparece: la advertencia política de Jorge Asís",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/la-advertencia-de-jorge-asis-a-javier-milei-de-cara-a-2027-el-peronismo-todavia-funciona/",
         "source": "El Cronista",
@@ -300,18 +310,6 @@
         "iso_date": "2026-06-09T09:18:51+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cómo ven los grandes inversores institucionales del exterior a la Argentina",
-        "summary": "Ejecutivos de Grupo Financiero Galicia, el principal holding bancario del país, se reunieron con financistas globales en Londres y detallaron las impresiones relevadas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/como-ven-los-grandes-inversores-institucionales-del-exterior-a-la-argentina/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/06 04:46",
-        "iso_date": "2026-06-09T07:46:00+00:00",
-        "tickers": [
-          "GGAL"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -359,8 +357,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -388,8 +386,8 @@
         "time": "07/06 16:01",
         "iso_date": "2026-06-07T19:01:01+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -440,11 +438,11 @@
     "AL30": [
       {
         "title": "Mercados: Wall Street pasa a fuertes pérdidas y arrastra a los activos argentinos",
-        "summary": "El panel tecnológico Nasdaq cae más de 3%. El S&P Merval descontó las alzas de la mañana y pierde 0,4%. También bajan los bonos y sube el riesgo país",
+        "summary": "El panel tecnológico Nasdaq cae más de 3%. El S&P Merval descontó las alzas de la mañana y pierde 0,4%. También bajan los bonos y sube el riesgo país a 500 puntos",
         "link": "https://www.infobae.com/economia/2026/06/09/mercados-las-acciones-y-los-bonos-argentinos-vuelven-a-las-ganancias-impulsados-por-wall-street/",
         "source": "Infobae Economía",
-        "time": "09/06 13:58",
-        "iso_date": "2026-06-09T16:58:57+00:00",
+        "time": "09/06 14:11",
+        "iso_date": "2026-06-09T17:11:51+00:00",
         "tickers": [
           "AL30"
         ],
