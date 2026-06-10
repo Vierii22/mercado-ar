@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-10T03:34:09.931315",
-  "updated_str": "10/06/2026 03:34",
+  "updated_at": "2026-06-10T13:37:55.089736",
+  "updated_str": "10/06/2026 13:37",
   "summary": {
-    "change": NaN,
-    "leader": "YPFD",
-    "leader_change": NaN,
-    "worst": "YPFD",
-    "worst_change": NaN,
+    "change": 1.73,
+    "leader": "TECO2",
+    "leader_change": 6.0,
+    "worst": "TXAR",
+    "worst_change": -0.87,
     "hot_count": 3,
     "cold_count": 0
   },
@@ -14,9 +14,9 @@
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": NaN,
-      "change": NaN,
-      "volume": 242748,
+      "price": 81325.0,
+      "change": -0.76,
+      "volume": 242667,
       "volume_ratio": 0.75,
       "hot": false,
       "cold": false,
@@ -30,15 +30,15 @@
         83850.0,
         81075.0,
         81950.0,
-        NaN
+        81325.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "ma5": 82250.0,
+      "ma20": 74971.25,
+      "ma_cross": 1,
+      "score": 50,
+      "signal": "neutral"
     },
     {
       "ticker": "GGAL",
@@ -72,9 +72,9 @@
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": NaN,
-      "change": NaN,
-      "volume": 792337,
+      "price": 5030.0,
+      "change": 0.2,
+      "volume": 792318,
       "volume_ratio": 0.74,
       "hot": false,
       "cold": false,
@@ -88,15 +88,15 @@
         5135.0,
         4940.0,
         5020.0,
-        NaN
+        5030.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "ma5": 5048.0,
+      "ma20": 4930.62,
+      "ma_cross": 1,
+      "score": 56,
+      "signal": "suba"
     },
     {
       "ticker": "BMA",
