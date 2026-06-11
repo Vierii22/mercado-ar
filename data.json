@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-10T23:19:52.766918",
-  "updated_str": "10/06/2026 23:19",
+  "updated_at": "2026-06-11T03:49:01.625225",
+  "updated_str": "11/06/2026 03:49",
   "summary": {
-    "change": 0.16,
+    "change": NaN,
     "leader": "CEPU",
     "leader_change": 1.47,
     "worst": "BMA",
@@ -16,7 +16,7 @@
       "name": "YPF",
       "price": 82125.0,
       "change": 0.98,
-      "volume": 279453,
+      "volume": 279413,
       "volume_ratio": 0.88,
       "hot": false,
       "cold": false,
@@ -45,7 +45,7 @@
       "name": "Galicia",
       "price": 7485.0,
       "change": -0.8,
-      "volume": 3777224,
+      "volume": 3774604,
       "volume_ratio": 1.2,
       "hot": false,
       "cold": false,
@@ -74,7 +74,7 @@
       "name": "Pampa Energía",
       "price": 5035.0,
       "change": 0.1,
-      "volume": 653177,
+      "volume": 653143,
       "volume_ratio": 0.6,
       "hot": true,
       "cold": false,
@@ -159,8 +159,8 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": 1016.0,
-      "change": 0.79,
+      "price": NaN,
+      "change": NaN,
       "volume": 693513,
       "volume_ratio": 1.5,
       "hot": false,
@@ -175,15 +175,15 @@
         976.0,
         997.5,
         1008.0,
-        1016.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 1001.3,
-      "ma20": 973.1,
-      "ma_cross": 1,
-      "score": 61,
-      "signal": "suba"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "TECO2",
