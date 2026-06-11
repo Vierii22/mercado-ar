@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-11T19:19:38.365075",
-  "updated_str": "11/06/2026 19:19",
+  "updated_at": "2026-06-11T19:37:35.080912",
+  "updated_str": "11/06/2026 19:37",
   "cutoff_hours": 48,
-  "total_news": 290,
+  "total_news": 243,
   "news": {
     "GENERAL": [
+      {
+        "title": "La inflación en mayo fue de 2,1% y acumuló 33,2% en los últimos doce meses",
+        "summary": "El indicador oficial mostró una variación de 14,7% en los primeros cinco meses del año. Las previsiones privadas anticipaban una cifra en torno al 2% tras la desaceleración observada en abril",
+        "link": "https://www.infobae.com/economia/2026/06/11/la-inflacion-fue-de-21-en-mayo-y-acumulo-332-en-los-ultimos-doce-meses/",
+        "source": "Infobae Economía",
+        "time": "11/06 16:35",
+        "iso_date": "2026-06-11T19:35:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El riesgo país cayó con fuerza y rompió el piso de los 450 puntos tras la mejora en la calificación de la deuda argentina",
         "summary": "El indicador elaborado por JP Morgan bajó más de 50 puntos por el efecto de la suba de los bonos. Standard & Poor’s elevó la calificación de la deuda argentina en moneda extranjera a largo plazo, pasando de CCC+ a B-. La firma financiera destacó la acumulación de divisas y el ...",
@@ -31,27 +41,17 @@
       },
       {
         "title": "Una buena de ANSES: el Gobierno confirmó un nuevo aumento para jubilados y pensionados en julio",
-        "summary": "El INDEC informará el dato de inflación de mayo, con el que se puede estimar el próximo aumento con el bono para adultos mayores.",
+        "summary": "El INDEC confirmó el dato de inflación de mayo, con el que se puede estimar el próximo aumento con el bono para adultos mayores.",
         "link": "https://www.cronista.com/economia-politica/una-buena-de-anses-el-gobierno-confirmo-un-nuevo-aumento-para-jubilados-y-pensionados-en-julio/",
         "source": "El Cronista",
-        "time": "11/06 16:14",
-        "iso_date": "2026-06-11T19:14:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación en mayo fue de 2,1% y acumuló 33,2% en los últimos doce meses",
-        "summary": "El indicador oficial mostró una variación de 14,7% en los primeros cinco meses del año. Las previsiones privadas anticipaban una cifra en torno al 2% tras la desaceleración observada en abril",
-        "link": "https://www.infobae.com/economia/2026/06/11/la-inflacion-fue-de-21-en-mayo-y-acumulo-332-en-los-ultimos-doce-meses/",
-        "source": "Infobae Economía",
-        "time": "11/06 16:11",
-        "iso_date": "2026-06-11T19:11:10+00:00",
+        "time": "11/06 16:15",
+        "iso_date": "2026-06-11T19:15:02+00:00",
         "tickers": [],
         "is_general": true
       },
       {
         "title": "La inflación argentina se desaceleró en mayo, según el Indec",
-        "summary": "El dato oficial del IPC estuvo en línea con lo estimado por el mercado. Es el segundo mes consecutivo con un número a la baja.",
+        "summary": "Es el segundo mes consecutivo con un número a la baja. Qué pasó con el rubro de Alimentos y bebidas no alcohólicas.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-inflacion-argentina-se-desacelero-en-mayo-segun-el-indec/",
         "source": "Bloomberg Línea AR",
         "time": "11/06 16:06",
@@ -160,16 +160,6 @@
         "is_general": true
       },
       {
-        "title": "El Gobierno ya \"pateó\" gasto en intereses de letras capitalizables por $17,3 billones este año",
-        "summary": "Se trata de las Lebac y los Boncap cuyos intereses se registran \"debajo de la línea\" y pasan a convertirse en nueva deuda. El FMI ya advirtió que el verdadero resultado financiero de la Argentina es deficitario.",
-        "link": "https://www.ambito.com/economia/el-gobierno-ya-pateo-gasto-intereses-letras-capitalizables-173-billones-este-ano-n6287658",
-        "source": "Ámbito",
-        "time": "11/06 13:09",
-        "iso_date": "2026-06-11T16:09:06+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Cuántos millones hubiera ganado Adorni si no vendía sus Bitcoin: las cifras en juego en la apuesta cripto del Jefe de Gabinete",
         "summary": "Una inversión de alto riesgo, transacciones en el mundo digital y la evolución de una fortuna personal cuestionada por críticos al Gobierno encontraron en el mundo cripto una herramienta muy útil para justificar prácticamente cualquier patrimonio",
         "link": "https://www.infobae.com/economia/2026/06/11/cuantos-millones-hubiera-ganado-adorni-si-no-vendia-sus-bitcoin-las-cifras-en-juego-en-la-apuesta-cripto-del-jefe-de-gabinete/",
@@ -179,6 +169,16 @@
         "tickers": [
           "TECO2"
         ],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno ya \"pateó\" gasto en intereses de letras capitalizables por $17,3 billones este año",
+        "summary": "Se trata de las Lebac y los Boncap cuyos intereses se registran \"debajo de la línea\" y pasan a convertirse en nueva deuda. El FMI ya advirtió que el verdadero resultado financiero de la Argentina es deficitario.",
+        "link": "https://www.ambito.com/economia/el-gobierno-ya-pateo-gasto-intereses-letras-capitalizables-173-billones-este-ano-n6287658",
+        "source": "Ámbito",
+        "time": "11/06 12:59",
+        "iso_date": "2026-06-11T15:59:00+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -428,30 +428,6 @@
         "source": "Bloomberg Línea AR",
         "time": "10/06 05:01",
         "iso_date": "2026-06-10T08:01:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La reforma laboral no cambió la expectativa: Argentina tiene la menor intención de contratar personal en la región",
-        "summary": "Un relevamiento de ManpowerGroup mostró que las expectativas de empleo para el tercer trimestre de 2026 se mantienen en terreno positivo, aunque retrocedieron respecto de comienzos de año. El país quedó último entre los mercados analizados en América.",
-        "link": "https://www.ambito.com/economia/la-reforma-laboral-no-cambio-la-expectativa-argentina-tiene-la-menor-intencion-contratar-personal-la-region-n6287056",
-        "source": "Ámbito",
-        "time": "09/06 22:01",
-        "iso_date": "2026-06-10T01:01:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La reforma laboral no cambió la expectativa: Argentina tiene la menor intención de contratar personal en la región",
-        "summary": "Un relevamiento de ManpowerGroup mostró que las expectativas de empleo para el tercer trimestre de 2026 se mantienen en terreno positivo, aunque retrocedieron respecto de comienzos de año. El país quedó último entre los mercados analizados en América.",
-        "link": "https://www.ambito.com/economia/la-reforma-laboral-no-cambio-la-expectativa-argentina-tiene-la-menor-intencion-contratar-personal-la-region-n6287056",
-        "source": "Ámbito Mercados",
-        "time": "09/06 22:01",
-        "iso_date": "2026-06-10T01:01:00+00:00",
         "tickers": [
           "TECO2"
         ],
