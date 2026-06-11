@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-11T03:49:01.625225",
-  "updated_str": "11/06/2026 03:49",
+  "updated_at": "2026-06-11T14:05:27.272364",
+  "updated_str": "11/06/2026 14:05",
   "summary": {
-    "change": NaN,
+    "change": 0.16,
     "leader": "CEPU",
     "leader_change": 1.47,
     "worst": "BMA",
@@ -46,7 +46,7 @@
       "price": 7485.0,
       "change": -0.8,
       "volume": 3774604,
-      "volume_ratio": 1.2,
+      "volume_ratio": 1.21,
       "hot": false,
       "cold": false,
       "trend": [
@@ -104,7 +104,7 @@
       "price": 13160.0,
       "change": -1.42,
       "volume": 399128,
-      "volume_ratio": 1.34,
+      "volume_ratio": 1.33,
       "hot": false,
       "cold": false,
       "trend": [
@@ -133,7 +133,7 @@
       "price": 684.0,
       "change": 0.29,
       "volume": 1209524,
-      "volume_ratio": 1.32,
+      "volume_ratio": 1.3,
       "hot": false,
       "cold": false,
       "trend": [
@@ -159,10 +159,10 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": NaN,
-      "change": NaN,
-      "volume": 693513,
-      "volume_ratio": 1.5,
+      "price": 1016.0,
+      "change": 0.79,
+      "volume": 689133,
+      "volume_ratio": 1.49,
       "hot": false,
       "cold": false,
       "trend": [
@@ -175,15 +175,15 @@
         976.0,
         997.5,
         1008.0,
-        NaN
+        1016.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "ma5": 1001.3,
+      "ma20": 973.1,
+      "ma_cross": 1,
+      "score": 61,
+      "signal": "suba"
     },
     {
       "ticker": "TECO2",
@@ -191,7 +191,7 @@
       "price": 4280.0,
       "change": -0.12,
       "volume": 95673,
-      "volume_ratio": 0.57,
+      "volume_ratio": 0.56,
       "hot": false,
       "cold": false,
       "trend": [
@@ -220,7 +220,7 @@
       "price": 2285.0,
       "change": 1.47,
       "volume": 728258,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.89,
       "hot": true,
       "cold": false,
       "trend": [
