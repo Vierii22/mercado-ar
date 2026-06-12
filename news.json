@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-06-12T17:32:00.251977",
-  "updated_str": "12/06/2026 17:32",
+  "updated_at": "2026-06-12T17:43:31.097441",
+  "updated_str": "12/06/2026 17:43",
   "cutoff_hours": 48,
-  "total_news": 233,
+  "total_news": 236,
   "news": {
     "GENERAL": [
+      {
+        "title": "YPF permitirá a sus clientes invertir en acciones de la petrolera desde su propia app: cómo es el sistema",
+        "summary": "Desde agosto, el acceso al mercado bursátil sumará una alternativa pensada para quienes no poseen experiencia previa en finanzas ni cuentas comitentes tradicionales",
+        "link": "https://www.infobae.com/economia/2026/06/12/ypf-permitira-a-sus-clientes-invertir-en-acciones-de-la-petrolera-desde-su-propia-app-como-es-el-sistema/",
+        "source": "Infobae Economía",
+        "time": "12/06 14:38",
+        "iso_date": "2026-06-12T17:38:51+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "SpaceX comenzó a cotizar en Wall Street: la compañía de Elon Musk marcó un primer precio de USD 150 por acción",
         "summary": "La empresa debutó este viernes en el Nasdaq bajo el ticker “SPCX”, en una operación que supera todas las marcas previas registradas",
@@ -12,6 +24,16 @@
         "source": "Infobae Economía",
         "time": "12/06 14:25",
         "iso_date": "2026-06-12T17:25:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Tras mejora crediticia de la deuda argentina, S&P eleva calificación de ocho emisores corporativos",
+        "summary": "La calificadora elevó de B- a B su evaluación de transferibilidad y convertibilidad (T&C), que funciona como un techo para el rating de emisores corporativos argentinos",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/tras-mejora-crediticia-de-la-deuda-argentina-sp-eleva-calificacion-de-ocho-emisores-corporativos/",
+        "source": "Bloomberg Línea AR",
+        "time": "12/06 14:08",
+        "iso_date": "2026-06-12T17:08:21+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -292,31 +314,21 @@
         "iso_date": "2026-06-12T04:40:53+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Euforia en los mercados: los seis factores que explican la fuerte suba de las acciones y la caída del riesgo país",
-        "summary": "El alza de hasta 14% de los papeles argentinos en el exterior y el retroceso del indicador de riesgo estuvieron motorizados por distintos aspectos locales e internacionales. Qué se espera para este viernes",
-        "link": "https://www.infobae.com/economia/2026/06/12/euforia-en-los-mercados-los-seis-factores-que-explican-la-fuerte-suba-de-las-acciones-y-la-caida-del-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "12/06 01:39",
-        "iso_date": "2026-06-12T04:39:58+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La inflación de mayo: cuáles son los diez alimentos que más aumentaron",
-        "summary": "Un relevamiento del Indec sobre el Gran Buenos Aires muestra qué productos presionaron más sobre el presupuesto de los hogares durante el quinto mes del año, cuáles acumularon las mayores subas en los últimos doce meses y cuáles registraron caídas en sus valores",
-        "link": "https://www.infobae.com/economia/2026/06/12/la-inflacion-de-mayo-cuales-son-los-diez-alimentos-que-mas-aumentaron/",
-        "source": "Infobae Economía",
-        "time": "12/06 01:39",
-        "iso_date": "2026-06-12T04:39:42+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF permitirá a sus clientes invertir en acciones de la petrolera desde su propia app: cómo es el sistema",
+        "summary": "Desde agosto, el acceso al mercado bursátil sumará una alternativa pensada para quienes no poseen experiencia previa en finanzas ni cuentas comitentes tradicionales",
+        "link": "https://www.infobae.com/economia/2026/06/12/ypf-permitira-a-sus-clientes-invertir-en-acciones-de-la-petrolera-desde-su-propia-app-como-es-el-sistema/",
+        "source": "Infobae Economía",
+        "time": "12/06 14:38",
+        "iso_date": "2026-06-12T17:38:51+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Crecimiento récord en el sector energético: YPF tuvo el mejor primer trimestre de su historia",
         "summary": "Un informe de RICSA registró que el volumen de producción e inversiones no se detuvo pese a la inestabilidad en el precio del petróleo. La tendencia tuvo repercusión en el mercado de capitales, donde las acciones argentinas lideraron las subas",
