@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-12T18:25:00.535325",
-  "updated_str": "12/06/2026 18:25",
+  "updated_at": "2026-06-12T19:09:36.228390",
+  "updated_str": "12/06/2026 19:09",
   "cutoff_hours": 48,
-  "total_news": 235,
+  "total_news": 254,
   "news": {
     "GENERAL": [
+      {
+        "title": "Extranjeros redoblan su apuesta por Colombia: compran deuda pública a niveles récord",
+        "summary": "Tras depurar el efecto de una operación financiera temporal del Gobierno, las cifras muestran un fuerte incremento del apetito de los inversionistas extranjeros por los TES colombianos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/extranjeros-redoblan-su-apuesta-por-colombia-compran-deuda-publica-a-niveles-record/",
+        "source": "Bloomberg Línea AR",
+        "time": "12/06 15:48",
+        "iso_date": "2026-06-12T18:48:05+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Manuel Adorni declaró en 2025 ingresos exentos de Ganancias seis veces superiores a su salario como funcionario",
+        "summary": "En el documento presentado ante la Oficina Anticorrupción declaró que el año pasado tuvo ganancias por $270 millones que no pagan impuestos. En cambio, por las rentas de su trabajo personal declaró $46 millones.",
+        "link": "https://www.ambito.com/economia/manuel-adorni-declaro-2025-ingresos-exentos-ganancias-seis-veces-superiores-su-salario-como-funcionario-n6288164",
+        "source": "Ámbito",
+        "time": "12/06 15:26",
+        "iso_date": "2026-06-12T18:26:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "SpaceX comenzó a cotizar en Wall Street: la compañía de Elon Musk marcó un primer precio de USD 150 por acción",
         "summary": "La empresa debutó este viernes en el Nasdaq bajo el ticker “SPCX”, en una operación que supera todas las marcas previas registradas",
@@ -292,28 +314,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "El riesgo país debajo de los 450 puntos acerca al Gobierno a la posibilidad de regresar a los mercados internacionales",
-        "summary": "Por ahora, el equipo económico prefiere fuentes alternativas de financiamiento, pero las tasas para una emisión caen aceleradamente. Argentina podría salir a colocar bonos a una tasa inferior al 9% anual",
-        "link": "https://www.infobae.com/economia/2026/06/12/el-riesgo-pais-debajo-de-los-450-puntos-acerca-al-gobierno-a-la-posibilidad-de-regresar-a-los-mercados-internacionales/",
-        "source": "Infobae Economía",
-        "time": "12/06 01:41",
-        "iso_date": "2026-06-12T04:41:10+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Cuánto aumentarán las jubilaciones y pensiones de Anses en julio, tras el último dato de inflación",
-        "summary": "El IPC de mayo fijó el porcentaje de suba que el organismo previsional aplicará a los haberes jubilatorios y las asignaciones familiares durante el mes que viene",
-        "link": "https://www.infobae.com/economia/2026/06/12/cuanto-aumentaran-las-jubilaciones-y-pensiones-de-anses-en-julio-tras-el-ultimo-dato-de-inflacion/",
-        "source": "Infobae Economía",
-        "time": "12/06 01:40",
-        "iso_date": "2026-06-12T04:40:53+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -348,6 +348,30 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
+      {
+        "title": "Manuel Adorni declaró en 2025 ingresos exentos de Ganancias seis veces superiores a su salario como funcionario",
+        "summary": "En el documento presentado ante la Oficina Anticorrupción declaró que el año pasado tuvo ganancias por $270 millones que no pagan impuestos. En cambio, por las rentas de su trabajo personal declaró $46 millones.",
+        "link": "https://www.ambito.com/economia/manuel-adorni-declaro-2025-ingresos-exentos-ganancias-seis-veces-superiores-su-salario-como-funcionario-n6288164",
+        "source": "Ámbito",
+        "time": "12/06 15:26",
+        "iso_date": "2026-06-12T18:26:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Manuel Adorni declaró en 2025 ingresos exentos de Ganancias seis veces superiores a su salario como funcionario",
+        "summary": "En el documento presentado ante la Oficina Anticorrupción declaró que el año pasado tuvo ganancias por $270 millones que no pagan impuestos. En cambio, por las rentas de su trabajo personal declaró $46 millones.",
+        "link": "https://www.ambito.com/economia/manuel-adorni-declaro-2025-ingresos-exentos-ganancias-seis-veces-superiores-su-salario-como-funcionario-n6288164",
+        "source": "Ámbito Mercados",
+        "time": "12/06 15:26",
+        "iso_date": "2026-06-12T18:26:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Cuántos millones hubiera ganado Adorni si no vendía sus Bitcoin: las cifras en juego en la apuesta cripto del Jefe de Gabinete",
         "summary": "Una inversión de alto riesgo, transacciones en el mundo digital y la evolución de una fortuna personal cuestionada por críticos al Gobierno encontraron en el mundo cripto una herramienta muy útil para justificar prácticamente cualquier patrimonio",
