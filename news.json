@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-06-16T20:43:19.745413",
-  "updated_str": "16/06/2026 20:43",
+  "updated_at": "2026-06-16T21:24:37.676037",
+  "updated_str": "16/06/2026 21:24",
   "cutoff_hours": 48,
-  "total_news": 174,
+  "total_news": 187,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: las acciones argentinas operaron en baja y rebotó el riesgo país",
+        "summary": "El índice S&P Merval cayó 3% tras el récord del viernes. Los índices de Wall Street negociaron mixtos y el petróleo se hundió 6%",
+        "link": "https://www.infobae.com/economia/2026/06/16/mercados-las-acciones-argentinas-operan-en-baja-y-rebota-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "16/06 17:50",
+        "iso_date": "2026-06-16T20:50:26+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este martes 16 de junio",
         "summary": "El billete al público cerró ofrecido a $1.455 en el Banco Nación. El dólar blue alcanzó los $1.470",
@@ -244,18 +256,6 @@
         "is_general": true
       },
       {
-        "title": "Mercados: las acciones argentinas operan en baja y rebota el riesgo país",
-        "summary": "El índice S&P Merval cae 1,5% tras el récord del viernes. Los índices de Wall Street negocian mixtos y el petróleo pierde 3%",
-        "link": "https://www.infobae.com/economia/2026/06/16/mercados-las-acciones-argentinas-operan-en-baja-y-rebota-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "16/06 12:22",
-        "iso_date": "2026-06-16T15:22:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "El Banco Mundial debate hoy la garantía de USD 2.000 millones para la Argentina",
         "summary": "Hoy el directorio del organismo internacional va a definir si le entrega o no el respaldo al Gobierno para que pueda negociar prestamos con bancos internacionales a una menor tasa. Cuándo lo hará el BID y CAF y cuánto lo necesita Caputo",
         "link": "https://www.infobae.com/economia/2026/06/16/el-banco-mundial-debate-hoy-la-garantia-de-usd-2000-millones-para-la-argentina/",
@@ -401,12 +401,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: las acciones argentinas operan en baja y rebota el riesgo país",
-        "summary": "El índice S&P Merval cae 1,5% tras el récord del viernes. Los índices de Wall Street negocian mixtos y el petróleo pierde 3%",
+        "title": "Mercados: las acciones argentinas operaron en baja y rebotó el riesgo país",
+        "summary": "El índice S&P Merval cayó 3% tras el récord del viernes. Los índices de Wall Street negociaron mixtos y el petróleo se hundió 6%",
         "link": "https://www.infobae.com/economia/2026/06/16/mercados-las-acciones-argentinas-operan-en-baja-y-rebota-el-riesgo-pais/",
         "source": "Infobae Economía",
-        "time": "16/06 12:22",
-        "iso_date": "2026-06-16T15:22:46+00:00",
+        "time": "16/06 17:50",
+        "iso_date": "2026-06-16T20:50:26+00:00",
         "tickers": [
           "AL30"
         ],
