@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-16T18:27:49.948464",
-  "updated_str": "16/06/2026 18:27",
+  "updated_at": "2026-06-16T18:42:02.320758",
+  "updated_str": "16/06/2026 18:42",
   "cutoff_hours": 48,
   "total_news": 166,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este martes 16 de junio",
+        "summary": "El billete al público sigue ofrecido a $1.450 en el Banco Nación. El dólar blue alcanza los $1.460",
+        "link": "https://www.infobae.com/economia/2026/06/16/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-16-de-junio/",
+        "source": "Infobae Economía",
+        "time": "16/06 15:41",
+        "iso_date": "2026-06-16T18:41:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Tesla desembarca en Argentina: acuerdo con YPF, proyecto para un mega data center en la Patagonia y competencia feroz con China",
+        "summary": "La empresa de vehículos autónomos de Elon Musk nombró a un country manager para el país y Uruguay y firmó un acuerdo con YPF. Sus primeros negocios locales estarán vinculados a uno de sus verticales, la energética. ¿Súper RIGI para un mega proyecto?",
+        "link": "https://www.infobae.com/economia/2026/06/16/tesla-desembarca-en-argentina-acuerdo-con-ypf-proyecto-para-un-mega-data-en-la-patagonia-y-competencia-feroz-con-china/",
+        "source": "Infobae Economía",
+        "time": "16/06 15:32",
+        "iso_date": "2026-06-16T18:32:40+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "El Gobierno flexibilizó el acceso a los créditos en dólares y una calificadora alertó sobre los riesgos",
         "summary": "Las entidades financieras modificaron los requisitos para otorgar financiamiento en moneda extranjera a firmas del sector privado, ampliando el alcance a compañías sin ventas al exterior que cuenten con respaldo de exportadores",
@@ -48,16 +70,6 @@
         "is_general": true
       },
       {
-        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este martes 16 de junio",
-        "summary": "El billete al público sigue ofrecido a $1.450 en el Banco Nación. El dólar blue alcanza los $1.460",
-        "link": "https://www.infobae.com/economia/2026/06/16/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-16-de-junio/",
-        "source": "Infobae Economía",
-        "time": "16/06 14:37",
-        "iso_date": "2026-06-16T17:37:39+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Gobierno de Milei aprueba ingreso al RIGI del mayor desarrollo de cobre de Argentina",
         "summary": "Vicuña, de BHP y Lundin Mining, contará con los beneficios impositivos, aduaneros y cambiarios para el desarrollo del proyecto. La inversión inicial será de US$9.700 millones",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gobierno-de-milei-aprueba-ingreso-al-rigi-del-mayor-desarrollo-de-cobre-de-argentina/",
@@ -66,18 +78,6 @@
         "iso_date": "2026-06-16T17:26:02+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Tesla desembarca en Argentina: acuerdo con YPF, proyecto para un mega data en la Patagonia y competencia feroz con China",
-        "summary": "La empresa de vehículos autónomos de Elon Musk nombró a un country manager para el país y Uruguay y firmó un acuerdo con YPF. Sus primeros negocios locales estarán vinculados a uno de sus verticales, la energética. ¿Súper RIGI para un mega proyecto?",
-        "link": "https://www.infobae.com/economia/2026/06/16/tesla-desembarca-en-argentina-acuerdo-con-ypf-proyecto-para-un-mega-data-en-la-patagonia-y-competencia-feroz-con-china/",
-        "source": "Infobae Economía",
-        "time": "16/06 14:24",
-        "iso_date": "2026-06-16T17:24:24+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       },
       {
         "title": "Dólar tarjeta: cuánto debe ARCA a los contribuyentes por percepciones impositivas",
@@ -318,24 +318,24 @@
     ],
     "YPFD": [
       {
-        "title": "YPF se une a Tesla: de qué se trata el acuerdo con la firma del billonario Musk",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ypf-se-une-a-tesla-de-que-se-trata-el-acuerdo-con-la-firma-del-billonario-musk/",
-        "source": "El Cronista",
-        "time": "16/06 14:54",
-        "iso_date": "2026-06-16T17:54:44+00:00",
+        "title": "Tesla desembarca en Argentina: acuerdo con YPF, proyecto para un mega data center en la Patagonia y competencia feroz con China",
+        "summary": "La empresa de vehículos autónomos de Elon Musk nombró a un country manager para el país y Uruguay y firmó un acuerdo con YPF. Sus primeros negocios locales estarán vinculados a uno de sus verticales, la energética. ¿Súper RIGI para un mega proyecto?",
+        "link": "https://www.infobae.com/economia/2026/06/16/tesla-desembarca-en-argentina-acuerdo-con-ypf-proyecto-para-un-mega-data-en-la-patagonia-y-competencia-feroz-con-china/",
+        "source": "Infobae Economía",
+        "time": "16/06 15:32",
+        "iso_date": "2026-06-16T18:32:40+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Tesla desembarca en Argentina: acuerdo con YPF, proyecto para un mega data en la Patagonia y competencia feroz con China",
-        "summary": "La empresa de vehículos autónomos de Elon Musk nombró a un country manager para el país y Uruguay y firmó un acuerdo con YPF. Sus primeros negocios locales estarán vinculados a uno de sus verticales, la energética. ¿Súper RIGI para un mega proyecto?",
-        "link": "https://www.infobae.com/economia/2026/06/16/tesla-desembarca-en-argentina-acuerdo-con-ypf-proyecto-para-un-mega-data-en-la-patagonia-y-competencia-feroz-con-china/",
-        "source": "Infobae Economía",
-        "time": "16/06 14:24",
-        "iso_date": "2026-06-16T17:24:24+00:00",
+        "title": "YPF se une a Tesla: de qué se trata el acuerdo con la firma del billonario Musk",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/ypf-se-une-a-tesla-de-que-se-trata-el-acuerdo-con-la-firma-del-billonario-musk/",
+        "source": "El Cronista",
+        "time": "16/06 14:54",
+        "iso_date": "2026-06-16T17:54:44+00:00",
         "tickers": [
           "YPFD"
         ],
