@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-16T19:56:07.256491",
-  "updated_str": "16/06/2026 19:56",
+  "updated_at": "2026-06-16T20:13:31.082895",
+  "updated_str": "16/06/2026 20:13",
   "cutoff_hours": 48,
-  "total_news": 169,
+  "total_news": 183,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Banco Mundial otorgó una garantía de USD 2.000 millones a Argentina e insistió en que debe volver a los mercados",
+        "summary": "El organismo concedió al Gobierno un respaldo que será clave para negociar prestamos con bancos y mañana la número 2 se reúne con el ministro de Economía, Luis Caputo. Aunque resaltaron que también es una ayuda para acercar la salida al colocar deuda",
+        "link": "https://www.infobae.com/economia/2026/06/16/el-banco-mundial-otorgo-una-garantia-de-usd-2000-millones-a-argentina-e-insistio-en-que-debe-volver-al-mercado/",
+        "source": "Infobae Economía",
+        "time": "16/06 17:07",
+        "iso_date": "2026-06-16T20:07:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF y Tesla firman carta de intención para desarrollar una red de carga eléctrica en Argentina",
+        "summary": "Las compañías avanzan en la colaboración estratégica para desarrollar estaciones de carga y construir infraestructura de almacenamiento.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-y-tesla-firman-carta-de-intencion-para-desarrollar-una-red-de-carga-electrica-en-argentina/",
+        "source": "Bloomberg Línea AR",
+        "time": "16/06 17:00",
+        "iso_date": "2026-06-16T20:00:27+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Fracasó la audiencia de los aceiteros: no hubo acuerdo entre las partes y cada trabajador perdería $960.000 por semana de paro",
         "summary": "Ciara-CEC ofreció firmar en el acto la indexación mensual de salarios por IPC del INDEC, pero no obtuvo respuesta positiva de los gremios. La conciliación obligatoria expira el jueves 18",
@@ -296,29 +318,21 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Impuesto a las Ganancias: a cuánto subirá el mínimo no imponible para los trabajadores en el segundo semestre",
-        "summary": "La última reforma de la cuarta categoría de este tributo establece que las escalas y las deducciones se ajustan por el IPC semestral.",
-        "link": "https://www.ambito.com/economia/impuesto-las-ganancias-cuanto-subira-el-minimo-no-imponible-los-trabajadores-el-segundo-semestre-n6289171",
-        "source": "Ámbito",
-        "time": "16/06 11:37",
-        "iso_date": "2026-06-16T14:37:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿SpaceX o Bitcoin? Lemon permite comprar acciones de más de 10.000 empresas de EE.UU.",
-        "summary": "La billetera argentina con más de 4 millones de usuarios validados ya permite comprar acciones de empresas que cotizan en la Bolsa de Estados Unidos desde US$ 1, y rediseña toda la app.",
-        "link": "https://eleconomista.com.ar/finanzas/spacex-o-bitcoin-lemon-permite-comprar-acciones-mas-10000-empresas-eeuu-n95784",
-        "source": "El Economista",
-        "time": "16/06 11:06",
-        "iso_date": "2026-06-16T14:06:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF y Tesla firman carta de intención para desarrollar una red de carga eléctrica en Argentina",
+        "summary": "Las compañías avanzan en la colaboración estratégica para desarrollar estaciones de carga y construir infraestructura de almacenamiento.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-y-tesla-firman-carta-de-intencion-para-desarrollar-una-red-de-carga-electrica-en-argentina/",
+        "source": "Bloomberg Línea AR",
+        "time": "16/06 17:00",
+        "iso_date": "2026-06-16T20:00:27+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Quién es Gautam Adani, el hombre más rico de Asia que ya desembarcó en Vaca Muerta",
         "summary": "",
