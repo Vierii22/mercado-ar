@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-16T21:24:37.676037",
-  "updated_str": "16/06/2026 21:24",
+  "updated_at": "2026-06-16T21:46:52.379080",
+  "updated_str": "16/06/2026 21:46",
   "cutoff_hours": 48,
-  "total_news": 187,
+  "total_news": 189,
   "news": {
     "GENERAL": [
+      {
+        "title": "El trasfondo del decreto que simplificó el camino para la Corte y la definición que esquiva Milei",
+        "summary": "El Gobierno modificó por decreto los mecanismos que fijó Nestor Kirchner para la designación de magistrados de la Corte y jueces inferiores. Pese a aceitar el procedimiento, sostienen que no apurarán las vacantes del máximo tribunal. Las negociaciones en la sombras que pesan e...",
+        "link": "https://www.cronista.com/economia-politica/el-trasfondo-del-decreto-que-simplifico-el-camino-para-la-corte-y-la-definicion-que-esquiva-milei/",
+        "source": "El Cronista",
+        "time": "16/06 18:40",
+        "iso_date": "2026-06-16T21:40:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron tras el rally en Wall Street y subió el riesgo país",
+        "summary": "El S&P Merval cayó 3% y los ADR operaron con mayoría de bajas. El petróleo se hundió 6%. SpaceX avanzó por tercer día desde su salida a cotización. El dólar al público subió a $1.455 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/06/16/jornada-financiera-las-acciones-argentinas-cayeron-tras-el-rally-en-wall-street-y-subio-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "16/06 18:35",
+        "iso_date": "2026-06-16T21:35:18+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: las acciones argentinas operaron en baja y rebotó el riesgo país",
         "summary": "El índice S&P Merval cayó 3% tras el récord del viernes. Los índices de Wall Street negociaron mixtos y el petróleo se hundió 6%",
@@ -294,28 +316,6 @@
         "iso_date": "2026-06-16T15:07:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El carry trade aún sobrevive al alza del Banco de Japón y limita las ganancias del yen",
-        "summary": "El Banco de Japón elevó las tasas al 1%, su nivel más alto desde 1995, pero la reacción limitada del yen refleja que los inversores siguen apostando por el carry trade. Los",
-        "link": "https://www.bloomberglinea.com/mercados/el-carry-trade-aun-sobrevive-al-alza-del-banco-de-japon-y-limita-las-ganancias-del-yen/",
-        "source": "Bloomberg Línea AR",
-        "time": "16/06 11:58",
-        "iso_date": "2026-06-16T14:58:48+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Llegan los cargadores Tesla a la Argentina? YPF firmó un acuerdo con el gigante tecnológico de Elon Musk",
-        "summary": "Horacio Marín, presidente de la petrolera, visitó la Gigafactory en Texas y firmó un convenio marco con la compañía del hombre que acaba de convertirse en el primer billonario de la historia",
-        "link": "https://www.infobae.com/economia/2026/06/16/llegan-los-cargadores-tesla-a-la-argentina-ypf-firmo-un-acuerdo-con-el-gigante-tecnologico-de-elon-musk/",
-        "source": "Infobae Economía",
-        "time": "16/06 11:55",
-        "iso_date": "2026-06-16T14:55:54+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -400,6 +400,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron tras el rally en Wall Street y subió el riesgo país",
+        "summary": "El S&P Merval cayó 3% y los ADR operaron con mayoría de bajas. El petróleo se hundió 6%. SpaceX avanzó por tercer día desde su salida a cotización. El dólar al público subió a $1.455 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/06/16/jornada-financiera-las-acciones-argentinas-cayeron-tras-el-rally-en-wall-street-y-subio-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "16/06 18:35",
+        "iso_date": "2026-06-16T21:35:18+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: las acciones argentinas operaron en baja y rebotó el riesgo país",
         "summary": "El índice S&P Merval cayó 3% tras el récord del viernes. Los índices de Wall Street negociaron mixtos y el petróleo se hundió 6%",
