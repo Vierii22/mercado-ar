@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-18T21:23:55.463039",
-  "updated_str": "18/06/2026 21:23",
+  "updated_at": "2026-06-18T21:32:24.901189",
+  "updated_str": "18/06/2026 21:32",
   "cutoff_hours": 48,
-  "total_news": 237,
+  "total_news": 241,
   "news": {
     "GENERAL": [
       {
@@ -24,6 +24,16 @@
         "source": "Ámbito",
         "time": "18/06 18:11",
         "iso_date": "2026-06-18T21:11:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar toca niveles no vistos desde mayo de 2025: las monedas de América Latina que más caen",
+        "summary": "Los inversores ajustaron sus expectativas de tasas tras la primera reunión de la Fed bajo el liderazgo de Kevin Warsh, impulsando al dólar y presionando a las divisas latinoamericanas.",
+        "link": "https://www.bloomberglinea.com/mercados/dolar-toca-niveles-no-vistos-desde-mayo-de-2025-las-monedas-de-america-latina-que-mas-caen/",
+        "source": "Bloomberg Línea AR",
+        "time": "18/06 18:09",
+        "iso_date": "2026-06-18T21:09:38+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -164,16 +174,6 @@
         "source": "Bloomberg Línea AR",
         "time": "18/06 13:22",
         "iso_date": "2026-06-18T16:22:26+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar toca niveles no vistos desde mayo de 2025: las monedas de América Latina que más caen",
-        "summary": "Los inversores ajustaron sus expectativas de tasas tras la primera reunión de la Fed bajo el liderazgo de Kevin Warsh, impulsando al dólar y presionando a las divisas latinoamericanas.",
-        "link": "https://www.bloomberglinea.com/mercados/dolar-toca-niveles-no-vistos-desde-mayo-de-2025-las-monedas-de-america-latina-que-mas-caen/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/06 12:57",
-        "iso_date": "2026-06-18T15:57:07+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -334,9 +334,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "YPFD",
-          "GGAL",
           "PAMP",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -363,9 +363,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "YPFD",
-          "GGAL",
           "PAMP",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -380,9 +380,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "YPFD",
-          "GGAL",
           "PAMP",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -397,9 +397,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "YPFD",
-          "GGAL",
           "PAMP",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
