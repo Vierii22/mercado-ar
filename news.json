@@ -1,17 +1,29 @@
 {
-  "updated_at": "2026-06-18T19:38:09.730680",
-  "updated_str": "18/06/2026 19:38",
+  "updated_at": "2026-06-18T20:14:38.136947",
+  "updated_str": "18/06/2026 20:14",
   "cutoff_hours": 48,
-  "total_news": 242,
+  "total_news": 240,
   "news": {
     "GENERAL": [
       {
-        "title": "Más dólares para Caputo: el nuevo récord de las exportaciones que generó un saldo millonario",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/mas-dolares-para-caputo-el-nuevo-record-de-las-exportaciones-que-genero-un-saldo-millonario/",
+        "title": "Mercados: suben las acciones argentinas con el empuje de Wall Street, que vuelve a acercarse a sus máximos históricos",
+        "summary": "Los índices de Nueva York avanzan hasta 1,5%, con los progresos en el acuerdo de paz entre EEUU e Irán. El S&P Merval sube 1,6% y el riesgo país cede a 429 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/06/18/mercados-suben-las-acciones-argentinas-con-el-empuje-de-wall-street-que-vuelve-a-acercarse-a-sus-maximos-historicos/",
+        "source": "Infobae Economía",
+        "time": "18/06 17:00",
+        "iso_date": "2026-06-18T20:00:20+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "ANSES: cuánto cobrarán las pensiones no contributivas tras el aumento en julio",
+        "summary": "El INDEC confirmó el dato de inflación de mayo, con el que se puede estimar el próximo aumento con el bono para adultos mayores.",
+        "link": "https://www.cronista.com/economia-politica/anses-cuanto-cobraran-las-pensiones-no-contributivas-tras-el-aumento-en-julio/",
         "source": "El Cronista",
-        "time": "18/06 16:35",
-        "iso_date": "2026-06-18T19:35:10+00:00",
+        "time": "18/06 16:50",
+        "iso_date": "2026-06-18T19:50:48+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -20,8 +32,18 @@
         "summary": "El presidente replicó los cuestionamientos del historiador acerca del otorgamiento de personería jurídica a empresas automatizadas",
         "link": "https://www.infobae.com/economia/2026/06/18/milei-le-respondio-a-harari-en-la-polemica-por-la-regulacion-de-la-ia-miedos-politicos-robot-y-el-juicio-final-de-terminator/",
         "source": "Infobae Economía",
-        "time": "18/06 16:14",
-        "iso_date": "2026-06-18T19:14:43+00:00",
+        "time": "18/06 16:38",
+        "iso_date": "2026-06-18T19:38:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Más dólares para Caputo: el nuevo récord de las exportaciones que generó un saldo millonario",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/mas-dolares-para-caputo-el-nuevo-record-de-las-exportaciones-que-genero-un-saldo-millonario/",
+        "source": "El Cronista",
+        "time": "18/06 16:35",
+        "iso_date": "2026-06-18T19:35:10+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -288,26 +310,6 @@
         "iso_date": "2026-06-18T10:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Dólares del colchón: por qué la nueva “inocencia fiscal” sería más restrictiva",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/dolar-colchon-por-que-la-nueva-inocencia-fiscal-seria-mas-restrictiva/",
-        "source": "El Cronista",
-        "time": "18/06 06:00",
-        "iso_date": "2026-06-18T09:00:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El fenómeno SpaceX en Argentina: cómo los activos de Elon Musk sacuden el mercado local",
-        "summary": "La llegada de activos de la firma aeroespacial transformó las carteras locales. Tras su debut en Wall Street, su CEDEAR llegó a ser el instrumento más operado de BYMA, al superar a gigantes como Mercado Libre y Nvidia.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-fenomeno-spacex-en-argentina-como-los-activos-de-elon-musk-sacuden-el-mercado-local/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/06 05:37",
-        "iso_date": "2026-06-18T08:37:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -331,10 +333,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
           "BMA",
           "YPFD",
-          "PAMP"
+          "PAMP",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -345,30 +347,6 @@
         "source": "Bloomberg Línea AR",
         "time": "17/06 06:08",
         "iso_date": "2026-06-17T09:08:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "YPF y Tesla firman carta de intención para desarrollar una red de carga eléctrica en Argentina",
-        "summary": "Las compañías avanzan en la colaboración estratégica para desarrollar estaciones de carga y construir infraestructura de almacenamiento.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-y-tesla-firman-carta-de-intencion-para-desarrollar-una-red-de-carga-electrica-en-argentina/",
-        "source": "Bloomberg Línea AR",
-        "time": "16/06 17:00",
-        "iso_date": "2026-06-16T20:00:27+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Quién es Gautam Adani, el hombre más rico de Asia que ya desembarcó en Vaca Muerta",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/quien-es-gautam-adani-el-hombre-mas-rico-de-asia-que-ya-desembarco-en-vaca-muerta/",
-        "source": "El Cronista",
-        "time": "16/06 16:42",
-        "iso_date": "2026-06-16T19:42:07+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -384,10 +362,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
           "BMA",
           "YPFD",
-          "PAMP"
+          "PAMP",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -401,10 +379,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
           "BMA",
           "YPFD",
-          "PAMP"
+          "PAMP",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -418,10 +396,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
           "BMA",
           "YPFD",
-          "PAMP"
+          "PAMP",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -444,6 +422,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: suben las acciones argentinas con el empuje de Wall Street, que vuelve a acercarse a sus máximos históricos",
+        "summary": "Los índices de Nueva York avanzan hasta 1,5%, con los progresos en el acuerdo de paz entre EEUU e Irán. El S&P Merval sube 1,6% y el riesgo país cede a 429 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/06/18/mercados-suben-las-acciones-argentinas-con-el-empuje-de-wall-street-que-vuelve-a-acercarse-a-sus-maximos-historicos/",
+        "source": "Infobae Economía",
+        "time": "18/06 17:00",
+        "iso_date": "2026-06-18T20:00:20+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: subieron las acciones argentinas y el riesgo país mientras Wall Street anticipa una aumento de tasas",
         "summary": "Los índices de Nueva York perdieron más de 1%. El S&P Merval subió 1,1% y los ADR de bancos ganaron hasta 3%. Cedieron los bonos, con un riesgo país en 437 puntos. El dólar subió a $1.460 en el Banco Nación y el BCRA compró USD 34 millones en el mercado",
