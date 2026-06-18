@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-18T18:19:46.528487",
-  "updated_str": "18/06/2026 18:19",
+  "updated_at": "2026-06-18T19:02:13.703925",
+  "updated_str": "18/06/2026 19:02",
   "cutoff_hours": 48,
-  "total_news": 243,
+  "total_news": 240,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: la cotización al público subió a $1.470 en el Banco Nación",
+        "summary": "El billete minorista ganó diez pesos, detrás del alza del mayorista a $1.451. El blue asciende a $1.485",
+        "link": "https://www.infobae.com/economia/2026/06/18/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-18-de-junio/",
+        "source": "Infobae Economía",
+        "time": "18/06 15:34",
+        "iso_date": "2026-06-18T18:34:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Qué autos bajaron de precio y cuáles subieron tras la llegada de nuevos híbridos y eléctricos",
         "summary": "El programa oficial del cupo de vehículos que ingresan sin pagar arancel perseguía como objetivos promover la electromovilidad y bajar el valor de los autos en Argentina. Los nuevos valores en dólares, a un año de la medida",
@@ -178,16 +188,6 @@
         "is_general": true
       },
       {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este jueves 18 de junio",
-        "summary": "El billete al público es ofrecido a $1.460 en el Banco Nación. El dólar blue alcanza los $1.475. En junio el BCRA lleva comprados casi USD 1.000 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/06/18/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-18-de-junio/",
-        "source": "Infobae Economía",
-        "time": "18/06 10:13",
-        "iso_date": "2026-06-18T13:13:50+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "“Les pido a las familias que no vengan”: el intendente del corazón de Vaca Muerta, en alerta por la fuerte inmigración",
         "summary": "Fernando Banderet, intendente de Añelo, mostró preocupación por la necesidad de infraestructura para hacer frente a la llegada de nueva población",
         "link": "https://www.infobae.com/economia/2026/06/18/les-pido-a-las-familias-que-no-vengan-el-intendente-del-corazon-de-vaca-muerta-en-alerta-por-la-fuerte-inmigracion/",
@@ -332,9 +332,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "PAMP",
+          "GGAL",
           "YPFD",
-          "BMA",
-          "GGAL"
+          "BMA"
         ],
         "is_general": true
       },
@@ -373,18 +373,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Tesla desembarca en Argentina: acuerdo con YPF, proyecto para un mega data center en la Patagonia y competencia feroz con China",
-        "summary": "La empresa de vehículos autónomos de Elon Musk nombró a un country manager para el país y Uruguay y firmó un acuerdo con YPF. Sus primeros negocios locales estarán vinculados a uno de sus verticales, la energética. ¿Súper RIGI para un mega proyecto?",
-        "link": "https://www.infobae.com/economia/2026/06/16/tesla-desembarca-en-argentina-acuerdo-con-ypf-proyecto-para-un-mega-data-en-la-patagonia-y-competencia-feroz-con-china/",
-        "source": "Infobae Economía",
-        "time": "16/06 15:32",
-        "iso_date": "2026-06-16T18:32:40+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [
@@ -397,9 +385,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "PAMP",
+          "GGAL",
           "YPFD",
-          "BMA",
-          "GGAL"
+          "BMA"
         ],
         "is_general": true
       }
@@ -414,9 +402,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "PAMP",
+          "GGAL",
           "YPFD",
-          "BMA",
-          "GGAL"
+          "BMA"
         ],
         "is_general": true
       }
@@ -431,9 +419,9 @@
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
           "PAMP",
+          "GGAL",
           "YPFD",
-          "BMA",
-          "GGAL"
+          "BMA"
         ],
         "is_general": true
       }
