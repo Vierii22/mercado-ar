@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-06-18T21:32:24.901189",
-  "updated_str": "18/06/2026 21:32",
+  "updated_at": "2026-06-18T22:01:44.866666",
+  "updated_str": "18/06/2026 22:01",
   "cutoff_hours": 48,
-  "total_news": 241,
+  "total_news": 238,
   "news": {
     "GENERAL": [
+      {
+        "title": "Jornada financiera: el dólar subió por tercer día seguido y alcanzó su precio más alto desde febrero",
+        "summary": "La divisa subió a $1.470 para la venta en el Banco Nación. El BCRA compró USD 70 millones en el mercado. El S&P Merval ganó 1,3% y el riesgo país cedió a 429 puntos, ante el buen contexto internacional",
+        "link": "https://www.infobae.com/economia/2026/06/18/jornada-financiera-el-dolar-subio-por-tercer-dia-seguido-y-alcanzo-su-precio-mas-alto-desde-febrero/",
+        "source": "Infobae Economía",
+        "time": "18/06 18:33",
+        "iso_date": "2026-06-18T21:33:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: subieron las acciones argentinas con el empuje de Wall Street, que volvió a acercarse a sus máximos históricos",
         "summary": "Los índices de Nueva York avanzaron hasta 1,9%, por los progresos en el acuerdo de paz entre EEUU e Irán. El S&P Merval subió 1,3% y el riesgo país cedió a 429 puntos básicos",
@@ -19,21 +31,11 @@
       },
       {
         "title": "La confianza de industriales tuvo en mayo la peor caída en casi un año: las empresas prevén menos producción y empleo",
-        "summary": "Según un relevamiento oficial del INDEC, las expectativas fabriles mostraron un deteriorio para el trimestre junio-agosto, con balances negativos en producción, pedidos internos y empleo.",
+        "summary": "Según un relevamiento oficial del INDEC, las expectativas fabriles mostraron un deteriorio para el trimestre junio-agosto, con balances negativos en producción, pedidos internos y puestos de trabajo.",
         "link": "https://www.ambito.com/economia/la-confianza-industriales-tuvo-mayo-la-peor-caida-casi-un-ano-las-empresas-preven-menos-produccion-y-empleo-n6290356",
         "source": "Ámbito",
         "time": "18/06 18:11",
         "iso_date": "2026-06-18T21:11:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar toca niveles no vistos desde mayo de 2025: las monedas de América Latina que más caen",
-        "summary": "Los inversores ajustaron sus expectativas de tasas tras la primera reunión de la Fed bajo el liderazgo de Kevin Warsh, impulsando al dólar y presionando a las divisas latinoamericanas.",
-        "link": "https://www.bloomberglinea.com/mercados/dolar-toca-niveles-no-vistos-desde-mayo-de-2025-las-monedas-de-america-latina-que-mas-caen/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/06 18:09",
-        "iso_date": "2026-06-18T21:09:38+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -178,6 +180,16 @@
         "is_general": true
       },
       {
+        "title": "Dólar toca niveles no vistos desde mayo de 2025: las monedas de América Latina que más caen",
+        "summary": "Los inversores ajustaron sus expectativas de tasas tras la primera reunión de la Fed bajo el liderazgo de Kevin Warsh, impulsando al dólar y presionando a las divisas latinoamericanas.",
+        "link": "https://www.bloomberglinea.com/mercados/dolar-toca-niveles-no-vistos-desde-mayo-de-2025-las-monedas-de-america-latina-que-mas-caen/",
+        "source": "Bloomberg Línea AR",
+        "time": "18/06 12:57",
+        "iso_date": "2026-06-18T15:57:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "La recomendación del Gurú del Blue a los ahorristas para cobrar en dólares todos los meses: “La mejor inversión...”",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/la-recomendacion-del-guru-del-blue-a-los-ahorristas-para-cobrar-en-dolares-todos-los-meses-la-mejor-inversion/",
@@ -300,16 +312,6 @@
         "iso_date": "2026-06-18T12:21:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Milei abre la billetera para tres provincias: $ 400.000 millones para cada una",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-gobierno-de-milei-aprobo-un-nuevo-anticipo-financiero-para-estas-tres-provincias/",
-        "source": "El Cronista",
-        "time": "18/06 08:51",
-        "iso_date": "2026-06-18T11:51:40+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -333,10 +335,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "YPFD",
+          "GGAL",
           "PAMP",
           "BMA",
-          "GGAL"
+          "YPFD"
         ],
         "is_general": true
       },
@@ -362,10 +364,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "YPFD",
+          "GGAL",
           "PAMP",
           "BMA",
-          "GGAL"
+          "YPFD"
         ],
         "is_general": true
       }
@@ -379,10 +381,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "YPFD",
+          "GGAL",
           "PAMP",
           "BMA",
-          "GGAL"
+          "YPFD"
         ],
         "is_general": true
       }
@@ -396,10 +398,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "YPFD",
+          "GGAL",
           "PAMP",
           "BMA",
-          "GGAL"
+          "YPFD"
         ],
         "is_general": true
       }
@@ -422,6 +424,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: el dólar subió por tercer día seguido y alcanzó su precio más alto desde febrero",
+        "summary": "La divisa subió a $1.470 para la venta en el Banco Nación. El BCRA compró USD 70 millones en el mercado. El S&P Merval ganó 1,3% y el riesgo país cedió a 429 puntos, ante el buen contexto internacional",
+        "link": "https://www.infobae.com/economia/2026/06/18/jornada-financiera-el-dolar-subio-por-tercer-dia-seguido-y-alcanzo-su-precio-mas-alto-desde-febrero/",
+        "source": "Infobae Economía",
+        "time": "18/06 18:33",
+        "iso_date": "2026-06-18T21:33:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: subieron las acciones argentinas con el empuje de Wall Street, que volvió a acercarse a sus máximos históricos",
         "summary": "Los índices de Nueva York avanzaron hasta 1,9%, por los progresos en el acuerdo de paz entre EEUU e Irán. El S&P Merval subió 1,3% y el riesgo país cedió a 429 puntos básicos",
@@ -465,18 +479,6 @@
         "source": "Bloomberg Línea AR",
         "time": "16/06 19:50",
         "iso_date": "2026-06-16T22:50:04+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas cayeron tras el rally en Wall Street y subió el riesgo país",
-        "summary": "El S&P Merval cayó 3% y los ADR operaron con mayoría de bajas. El petróleo se hundió 6%. SpaceX avanzó por tercer día desde su salida a cotización. El dólar al público subió a $1.455 en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/06/16/jornada-financiera-las-acciones-argentinas-cayeron-tras-el-rally-en-wall-street-y-subio-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "16/06 18:35",
-        "iso_date": "2026-06-16T21:35:18+00:00",
         "tickers": [
           "AL30"
         ],
