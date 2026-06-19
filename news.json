@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-18T23:29:31.652277",
-  "updated_str": "18/06/2026 23:29",
+  "updated_at": "2026-06-19T04:08:26.893129",
+  "updated_str": "19/06/2026 04:08",
   "cutoff_hours": 48,
   "total_news": 239,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno autorizará la compra de Telefónica por parte de Telecom bajo ciertas condiciones",
+        "summary": "La administración libertaria autorizó la fusión solo si la empresa cumple con una serie de requisitos para evitar la concentración y resguardar la competencia en el sector",
+        "link": "https://www.infobae.com/economia/2026/06/19/el-gobierno-autorizara-la-compra-de-telefonica-por-parte-de-telecom-bajo-ciertas-condiciones/",
+        "source": "Infobae Economía",
+        "time": "18/06 23:12",
+        "iso_date": "2026-06-19T02:12:24+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El consumo cayó 2,2% anual en mayo y marcó su sexta baja consecutiva: crece la preocupación de empresarios por la demanda",
+        "summary": "Los supermercados y autoservicios mayoristas identifican a la debilidad del consumo como el principal obstáculo para expandir su actividad, según la última Encuesta de Tendencia de Negocios del INDEC.",
+        "link": "https://www.ambito.com/economia/el-consumo-cayo-22-anual-y-marco-su-sexta-baja-consecutiva-crece-la-preocupacion-los-empresarios-la-demanda-n6290369",
+        "source": "Ámbito",
+        "time": "18/06 20:50",
+        "iso_date": "2026-06-18T23:50:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Damián Di Pace: “Uno de cada cuatro argentinos usa el aguinaldo para pagar deuda”",
         "summary": "En Infobae al Regreso, el economista describió el fenómeno por el cual los trabajadores utilizan el aguinaldo para cubrir pasivos, reflejando el peso de la inflación y la pérdida de poder adquisitivo",
@@ -292,28 +314,6 @@
         "iso_date": "2026-06-18T13:49:51+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "“Les pido a las familias que no vengan”: el intendente del corazón de Vaca Muerta, en alerta por la fuerte inmigración",
-        "summary": "Fernando Banderet, intendente de Añelo, mostró preocupación por la necesidad de infraestructura para hacer frente a la llegada de nueva población",
-        "link": "https://www.infobae.com/economia/2026/06/18/les-pido-a-las-familias-que-no-vengan-el-intendente-del-corazon-de-vaca-muerta-en-alerta-por-la-fuerte-inmigracion/",
-        "source": "Infobae Economía",
-        "time": "18/06 10:08",
-        "iso_date": "2026-06-18T13:08:10+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este miércoles 17 de junio",
-        "summary": "El billete al público finalizó ofrecido a $1.460 en el Banco Nación. El dólar blue alcanzó los $1.475. El BCRA compró USD 34 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/06/17/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-17-de-junio/",
-        "source": "Infobae Economía",
-        "time": "18/06 09:58",
-        "iso_date": "2026-06-18T12:58:47+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -337,9 +337,9 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "BMA",
           "PAMP",
           "GGAL",
+          "BMA",
           "YPFD"
         ],
         "is_general": true
@@ -366,9 +366,9 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "BMA",
           "PAMP",
           "GGAL",
+          "BMA",
           "YPFD"
         ],
         "is_general": true
@@ -383,9 +383,9 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "BMA",
           "PAMP",
           "GGAL",
+          "BMA",
           "YPFD"
         ],
         "is_general": true
@@ -400,9 +400,9 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "BMA",
           "PAMP",
           "GGAL",
+          "BMA",
           "YPFD"
         ],
         "is_general": true
@@ -411,6 +411,18 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
+      {
+        "title": "El Gobierno autorizará la compra de Telefónica por parte de Telecom bajo ciertas condiciones",
+        "summary": "La administración libertaria autorizó la fusión solo si la empresa cumple con una serie de requisitos para evitar la concentración y resguardar la competencia en el sector",
+        "link": "https://www.infobae.com/economia/2026/06/19/el-gobierno-autorizara-la-compra-de-telefonica-por-parte-de-telecom-bajo-ciertas-condiciones/",
+        "source": "Infobae Economía",
+        "time": "18/06 23:12",
+        "iso_date": "2026-06-19T02:12:24+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Por qué se hundió la acción de Telecom en Wall Street",
         "summary": "El Gobierno nacional aprobó la adquisición con Telefónica pero impuso exigencias que impactan en la base de usuarios de la compañía. El mercado reaccionó con una caída del 5,63% en el ADR, que cerró a US$13,75.",
