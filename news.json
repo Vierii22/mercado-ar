@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-19T19:13:11.768200",
-  "updated_str": "19/06/2026 19:13",
+  "updated_at": "2026-06-19T19:30:04.522427",
+  "updated_str": "19/06/2026 19:30",
   "cutoff_hours": 48,
-  "total_news": 236,
+  "total_news": 237,
   "news": {
     "GENERAL": [
+      {
+        "title": "El dólar subió 30 pesos en la semana y alcanzó su precio más alto en cinco meses",
+        "summary": "La divisa subió a $1.461 en la plaza mayorista, con caída del volumen negociado por el feriado en EEUU. Al público en el Banco Nación avanzó a $1.480",
+        "link": "https://www.infobae.com/economia/2026/06/19/el-dolar-subio-30-pesos-en-la-semana-y-alcanzo-su-precio-mas-alto-en-cinco-meses/",
+        "source": "Infobae Economía",
+        "time": "19/06 16:25",
+        "iso_date": "2026-06-19T19:25:32+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Cómo afectaría a los 4 millones de monotributistas la reforma que el FMI le aconseja al Gobierno",
         "summary": "",
@@ -308,16 +318,6 @@
         "iso_date": "2026-06-19T09:00:01+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Por qué el Banco Mundial apoya a Argentina: garantías, salida al mercado, reformas y la “ambición” de Milei",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/por-que-el-banco-mundial-apoya-a-argentina-garantias-salida-al-mercado-reformas-y-la-ambicion-de-milei/",
-        "source": "El Cronista",
-        "time": "19/06 06:00",
-        "iso_date": "2026-06-19T09:00:01+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -365,10 +365,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
-          "PAMP",
           "YPFD",
-          "BMA"
+          "BMA",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       }
@@ -382,10 +382,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
-          "PAMP",
           "YPFD",
-          "BMA"
+          "BMA",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       }
@@ -399,10 +399,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
-          "PAMP",
           "YPFD",
-          "BMA"
+          "BMA",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       }
@@ -428,10 +428,10 @@
         "time": "17/06 16:59",
         "iso_date": "2026-06-17T19:59:00+00:00",
         "tickers": [
-          "GGAL",
-          "PAMP",
           "YPFD",
-          "BMA"
+          "BMA",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       }
