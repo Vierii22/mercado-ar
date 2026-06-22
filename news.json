@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-06-22T21:36:55.722112",
-  "updated_str": "22/06/2026 21:36",
+  "updated_at": "2026-06-22T21:59:12.405445",
+  "updated_str": "22/06/2026 21:59",
   "cutoff_hours": 48,
-  "total_news": 165,
+  "total_news": 169,
   "news": {
     "GENERAL": [
+      {
+        "title": "¿Nuevos bonos o un Repo?: para qué Luis Caputo pidió permiso para emitir US$ 5.000 millones",
+        "summary": "El objetivo declarado por el ministro de Economía es reducir el costo de financiamiento del Tesoro.",
+        "link": "https://eleconomista.com.ar/finanzas/nuevos-bonos-o-repo-luis-caputo-pidio-permiso-emitir-us-5000-millones-n96016",
+        "source": "El Economista",
+        "time": "22/06 18:45",
+        "iso_date": "2026-06-22T21:45:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Banco Central Europeo: Christine Lagarde descartó por el momento una respuesta \"más contundente\" a la inflación",
+        "summary": "La titular del organismo se mostró satisfecha con el nivel en que se encuentran las tasas de su política monetaria, luego de que la institución las haya subido por primera vez en tres años.",
+        "link": "https://www.ambito.com/economia/banco-central-europeo-christine-lagarde-descarto-el-momento-una-respuesta-mas-contundente-la-inflacion-n6291515",
+        "source": "Ámbito",
+        "time": "22/06 18:42",
+        "iso_date": "2026-06-22T21:42:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Un tercer organismo multilateral aportará al menos USD 250 millones a las garantías para que Argentina pague su deuda",
+        "summary": "A fines de julio, el directorio del Banco de Desarrollo de América Latina y el Caribe (CAF) debatirá un respaldo por entre USD 250-300 millones para el país. La diferencias sobre lo que “valen” y la fecha limite que se puso Economía",
+        "link": "https://www.infobae.com/economia/2026/06/22/un-tercer-organismo-multilateral-aportara-al-menos-usd-250-millones-a-las-garantias-para-que-argentina-pague-su-deuda/",
+        "source": "Infobae Economía",
+        "time": "22/06 18:38",
+        "iso_date": "2026-06-22T21:38:38+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Fitch elevó la nota crediticia de Neuquén, la provincia de Vaca Muerta",
+        "summary": "La mejora refleja una mayor capacidad para afrontar vencimientos de deuda, impulsada por ingresos ligados al petróleo y al gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/fitch-elevo-la-nota-crediticia-de-neuquen-la-provincia-de-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "22/06 18:21",
+        "iso_date": "2026-06-22T21:21:09+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las acciones argentinas se desplomaron hasta 9% en Wall Street, pero el riesgo país cayó a un nuevo mínimo en ocho años",
         "summary": "La cautela en las bolsas del exterior afectó a los ADR argentinos antes de la decisión clave de MSCI. El S&P Merval cayó 0,4%. Los bonos siguieron firmes después de que el Gobierno autorizó la toma de préstamos internacionales con garantía de organismos por hasta USD 5.000 mil...",
@@ -16,6 +58,18 @@
           "AL30"
         ],
         "is_general": true
+      },
+      {
+        "title": "El Gobierno profundiza los cambios en Comunicación: quién es el funcionario de YPF que llega con el nuevo vocero",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/tras-la-salida-de-adorni-de-la-voceria-lanari-deja-su-cargo-como-secretario-de-comunicacion/",
+        "source": "El Cronista",
+        "time": "22/06 18:09",
+        "iso_date": "2026-06-22T21:09:05+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "¿Fin de la euforia? SpaceX cayó por tercera rueda seguida tras anunciar una multimillonaria emisión de bonos",
@@ -264,59 +318,33 @@
         "iso_date": "2026-06-22T13:32:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Argentina oficializa decreto para tomar hasta US$5.000 millones en préstamos garantizados",
-        "summary": "A través del Boletín Oficial, se autorizó al Ministerio de Economía a incluir cláusulas de ley extranjera en los préstamos garantizados por organismos multilaterales.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-oficializa-decreto-para-tomar-hasta-us5000-millones-con-clausulas-ley-nueva-york/",
-        "source": "Bloomberg Línea AR",
-        "time": "22/06 10:13",
-        "iso_date": "2026-06-22T13:13:15+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Midieron a Milei y Kicillof de cara a 2027: cómo saldría el balotaje más esperado",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/midieron-a-milei-y-kicillof-de-cara-a-2027-como-saldria-el-balotaje-mas-esperado-2/",
-        "source": "El Cronista",
-        "time": "22/06 10:11",
-        "iso_date": "2026-06-22T13:11:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mundial financiero: cuáles son los tres “goles” que festeja el mercado argentino",
-        "summary": "La suba de la calificación crediticia puso a la Argentina a jugar en otra liga, con nuevos desafíos pendientes",
-        "link": "https://www.infobae.com/economia/2026/06/22/mundial-financiero-cuales-son-los-tres-goles-que-festeja-el-mercado-argentino/",
-        "source": "Infobae Economía",
-        "time": "22/06 09:59",
-        "iso_date": "2026-06-22T12:59:31+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Morgan Stanley afirma que Kevin Warsh consolida la credibilidad de la Fed, pero ve riesgos de liquidez",
-        "summary": "Caída de acciones y bonos, dólar fuerte y oro débil marcaron la primera reacción bursátil. El banco advierte que el endurecimiento de la liquidez es una amenaza más inmediata que la suba de tasas.",
-        "link": "https://www.ambito.com/economia/morgan-stanley-afirma-que-kevin-warsh-consolida-la-fed-riesgos-liquidez-n6291348",
-        "source": "Ámbito",
-        "time": "22/06 09:41",
-        "iso_date": "2026-06-22T12:41:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Murió Alan Greenspan: el ex presidente de la Reserva Federal de EEUU tenía 100 años",
-        "summary": "Su conducción del banco central coincidió con uno de los ciclos de crecimiento más largos de la historia reciente, en un periodo que atravesó el final de la Guerra Fría y el auge de la era digital",
-        "link": "https://www.infobae.com/estados-unidos/2026/06/22/murio-alan-greenspan-el-ex-presidente-de-la-reserva-federal-de-eeuu-tenia-100-anos/",
-        "source": "Infobae Economía",
-        "time": "22/06 09:06",
-        "iso_date": "2026-06-22T12:06:17+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Fitch elevó la nota crediticia de Neuquén, la provincia de Vaca Muerta",
+        "summary": "La mejora refleja una mayor capacidad para afrontar vencimientos de deuda, impulsada por ingresos ligados al petróleo y al gas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/fitch-elevo-la-nota-crediticia-de-neuquen-la-provincia-de-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "22/06 18:21",
+        "iso_date": "2026-06-22T21:21:09+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno profundiza los cambios en Comunicación: quién es el funcionario de YPF que llega con el nuevo vocero",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/tras-la-salida-de-adorni-de-la-voceria-lanari-deja-su-cargo-como-secretario-de-comunicacion/",
+        "source": "El Cronista",
+        "time": "22/06 18:09",
+        "iso_date": "2026-06-22T21:09:05+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta gana, el petróleo pierde: por qué se abre un debate y una contradicción en el precio de la nafta",
         "summary": "",
