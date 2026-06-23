@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-23T20:30:40.683579",
-  "updated_str": "23/06/2026 20:30",
+  "updated_at": "2026-06-23T21:03:02.405621",
+  "updated_str": "23/06/2026 21:03",
   "cutoff_hours": 48,
-  "total_news": 254,
+  "total_news": 255,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: el blue sube 5% en junio y supera los 1.500 pesos por primera vez desde enero",
+        "summary": "El billete informal ganó diez pesos en el día y amplió a 75 pesos el alza en lo que va del mes. El dólar minorista ascendió a $1.490 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/06/23/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-23-de-junio/",
+        "source": "Infobae Economía",
+        "time": "23/06 17:51",
+        "iso_date": "2026-06-23T20:51:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: cayeron las acciones y subió el riesgo país argentino en una jornada negativa en todo el mundo",
+        "summary": "Los índices de Wall Street perdieron hasta 2,2%, ante la venta acciones de fabricantes de chips de memoria, que genera dudas sobre el sector de la IA. El S&P Merval cayó 0,9% y el riesgo país subió a 433 puntos",
+        "link": "https://www.infobae.com/economia/2026/06/23/mercados-caen-las-acciones-y-sube-el-riesgo-pais-argentino-en-una-jornada-negativa-en-todo-el-mundo/",
+        "source": "Infobae Economía",
+        "time": "23/06 17:37",
+        "iso_date": "2026-06-23T20:37:47+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Este es el panorama fiscal que enfrentará De la Espriella desde el 7 de agosto",
         "summary": "Recibirá una situación fiscal \"crítica\", con elevadas presiones de gasto, un recaudo débil y la necesidad de implementar ajustes tributarios, recortes del gasto y operaciones de manejo de deuda para evitar un mayor deterioro de las finanzas públicas.",
@@ -62,16 +84,6 @@
         "source": "Ámbito",
         "time": "23/06 16:05",
         "iso_date": "2026-06-23T19:05:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: el blue sube 5% en junio y supera los 1.500 pesos por primera vez desde enero",
-        "summary": "El billete informal ganó diez pesos en el día y amplió a 75 pesos el alza en lo que va del mes. El dólar minorista ascendió a $1.490 para la venta en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/06/23/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-23-de-junio/",
-        "source": "Infobae Economía",
-        "time": "23/06 15:56",
-        "iso_date": "2026-06-23T18:56:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -163,18 +175,6 @@
         "time": "23/06 12:51",
         "iso_date": "2026-06-23T15:51:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: caen las acciones y sube el riesgo país argentino en una jornada negativa en todo el mundo",
-        "summary": "Los índices de Wall Street pierden hasta 1,8%, ante la venta acciones de fabricantes de chips de memoria, que genera dudas sobre el sector de la IA. El S&P Merval cae 1,2% y el riesgo país sube a 435 puntos",
-        "link": "https://www.infobae.com/economia/2026/06/23/mercados-caen-las-acciones-y-sube-el-riesgo-pais-argentino-en-una-jornada-negativa-en-todo-el-mundo/",
-        "source": "Infobae Economía",
-        "time": "23/06 12:44",
-        "iso_date": "2026-06-23T15:44:47+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -426,18 +426,6 @@
           "BMA"
         ],
         "is_general": false
-      },
-      {
-        "title": "Jorge Brito: “Argentina puede convertirse en un hub global de energía e inteligencia artificial”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/jorge-brito-argentina-puede-convertirse-en-un-hub-global-de-energia-e-inteligencia-artificial/",
-        "source": "El Cronista",
-        "time": "21/06 18:02",
-        "iso_date": "2026-06-21T21:02:50+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": false
       }
     ],
     "TXAR": [],
@@ -471,12 +459,12 @@
     ],
     "AL30": [
       {
-        "title": "Mercados: caen las acciones y sube el riesgo país argentino en una jornada negativa en todo el mundo",
-        "summary": "Los índices de Wall Street pierden hasta 1,8%, ante la venta acciones de fabricantes de chips de memoria, que genera dudas sobre el sector de la IA. El S&P Merval cae 1,2% y el riesgo país sube a 435 puntos",
+        "title": "Mercados: cayeron las acciones y subió el riesgo país argentino en una jornada negativa en todo el mundo",
+        "summary": "Los índices de Wall Street perdieron hasta 2,2%, ante la venta acciones de fabricantes de chips de memoria, que genera dudas sobre el sector de la IA. El S&P Merval cayó 0,9% y el riesgo país subió a 433 puntos",
         "link": "https://www.infobae.com/economia/2026/06/23/mercados-caen-las-acciones-y-sube-el-riesgo-pais-argentino-en-una-jornada-negativa-en-todo-el-mundo/",
         "source": "Infobae Economía",
-        "time": "23/06 12:44",
-        "iso_date": "2026-06-23T15:44:47+00:00",
+        "time": "23/06 17:37",
+        "iso_date": "2026-06-23T20:37:47+00:00",
         "tickers": [
           "AL30"
         ],
