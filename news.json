@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-24T21:19:20.885791",
-  "updated_str": "24/06/2026 21:19",
+  "updated_at": "2026-06-24T23:00:06.890212",
+  "updated_str": "24/06/2026 23:00",
   "cutoff_hours": 48,
-  "total_news": 231,
+  "total_news": 228,
   "news": {
     "GENERAL": [
       {
@@ -10,11 +10,43 @@
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
         "source": "El Cronista",
-        "time": "24/06 18:10",
-        "iso_date": "2026-06-24T21:10:43+00:00",
+        "time": "24/06 19:11",
+        "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Caputo habló ante empresarios de la construcción: “Hay dólares para todos, ya no hay que pedir permiso”",
+        "summary": "El ministro de Economía volvió a apuntar contra el sistema de importaciones del Gobierno anterior y aseguró que ahora no hay restricciones para la importación. El futuro del crédito hipotecario y cómo los bancos están resolviendo la mora",
+        "link": "https://www.infobae.com/economia/2026/06/24/caputo-hablo-ante-empresarios-de-la-construccion-hay-dolares-para-todos-ya-no-hay-que-pedir-permiso/",
+        "source": "Infobae Economía",
+        "time": "24/06 18:56",
+        "iso_date": "2026-06-24T21:56:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar \"colchón\": en un año, los argentinos incrementaron sus ahorros fuera del sistema en u$s16.438 millones",
+        "summary": "Al concluir el primer trimestre del año, la cantidad de billetes verdes fuera del sistema financiero era de u$s259.306 millones. Los dólares que salieron por las elecciones del 2025 no habrían regresado.",
+        "link": "https://www.ambito.com/economia/dolar-colchon-un-ano-los-argentinos-incrementaron-sus-ahorros-fuera-del-sistema-us16438-millones-n6292445",
+        "source": "Ámbito",
+        "time": "24/06 18:48",
+        "iso_date": "2026-06-24T21:48:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 10% en Wall Street y subió el riesgo país",
+        "summary": "El S&P Merval perdió 4,3% después de que MSCI mantuvo al mercado doméstico como “standalone”. El dólar subió a $1.495 en el Banco Nación un máximo de 2026",
+        "link": "https://www.infobae.com/economia/2026/06/24/jornada-financiera-las-acciones-argentinas-cayeron-hasta-10-en-wall-street-y-subio-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "24/06 18:20",
+        "iso_date": "2026-06-24T21:20:17+00:00",
+        "tickers": [
+          "AL30"
         ],
         "is_general": true
       },
@@ -25,16 +57,6 @@
         "source": "Infobae Economía",
         "time": "24/06 17:50",
         "iso_date": "2026-06-24T20:50:59+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo habló ante empresarios de la construcción: “Hay dólares para todos, ya no hay que pedir permiso”",
-        "summary": "El ministro de Economía volvió a apuntar contra el sistema de importaciones del Gobierno anterior y aseguró que ahora no hay restricciones para la importación. El futuro del crédito hipotecario y cómo los bancos están resolviendo la mora",
-        "link": "https://www.infobae.com/economia/2026/06/24/caputo-hablo-ante-empresarios-de-la-construccion-hay-dolares-para-todos-ya-no-hay-que-pedir-permiso/",
-        "source": "Infobae Economía",
-        "time": "24/06 17:24",
-        "iso_date": "2026-06-24T20:24:36+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -149,7 +171,7 @@
         "is_general": true
       },
       {
-        "title": "Ravier renunció a su banca y ya tiene su prueba de fuego como vocero de Milei: quién lo reemplaza",
+        "title": "Ravier puso fecha y hora para su primera conferencia: mensaje al periodismo y su rol en la interna",
         "summary": "En su lugar asumió un hombre de Bullrich, quien fue a presenciar la jura del nuevo diputado en pleno momento de tensión con Adorni. Qué rol juega Ravier en la interna del oficialismo: Fundación Faro, La Pampa y el primer desafío que le espera en Casa Rosada.",
         "link": "https://www.cronista.com/economia-politica/ravier-renuncio-a-su-banca-y-ya-tiene-una-prueba-de-fuego-como-vocero-quien-lo-reemplaza/",
         "source": "El Cronista",
@@ -158,7 +180,7 @@
         "tickers": [
           "PAMP"
         ],
-        "is_general": true
+        "is_general": false
       },
       {
         "title": "El brazo privado del BID respaldará a YPF con USD 500 millones para ampliar la infraestructura de Vaca Muerta",
@@ -299,7 +321,7 @@
         "is_general": true
       },
       {
-        "title": "Con el Senado paralizado, Sturzenegger lleva una reforma clave para cambiar las reglas de las empresas",
+        "title": "Sturzenegger defendió la Ley de Sociedades y la oposición alertó por una posible “caja negra” jurídica",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/con-un-senado-paralizado-sturzenegger-presenta-la-nueva-ley-de-sociedades/",
         "source": "El Cronista",
@@ -307,28 +329,6 @@
         "iso_date": "2026-06-24T11:36:19+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La fórmula para matar la inflación y reactivar la economía",
-        "summary": "El ministro de Economía sorprendió al Presidente con los números de enero de 2024, tras un ajuste que incluyó la reversión de medidas tributarias previas y tensiones con gobernadores por la coparticipación",
-        "link": "https://www.infobae.com/opinion/2026/06/24/la-formula-para-matar-la-inflacion-y-reactivar-la-economia/",
-        "source": "Infobae Economía",
-        "time": "24/06 08:34",
-        "iso_date": "2026-06-24T11:34:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Los “drivers” del peso colombiano tras la victoria de Abelardo De la Espriella",
-        "summary": "Con el resultado electoral despejado, el peso colombiano, dicen analistas, vuelve a operar por fundamentales macro como el precio del petróleo y la política monetaria de la Fed.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/los-drivers-del-peso-colombiano-tras-la-victoria-de-abelardo-de-la-espriella/",
-        "source": "Bloomberg Línea AR",
-        "time": "24/06 07:00",
-        "iso_date": "2026-06-24T10:00:00+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -451,24 +451,12 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Fitch elevó la nota crediticia de Neuquén, la provincia de Vaca Muerta",
-        "summary": "La mejora refleja una mayor capacidad para afrontar vencimientos de deuda, impulsada por ingresos ligados al petróleo y al gas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/fitch-elevo-la-nota-crediticia-de-neuquen-la-provincia-de-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "22/06 18:21",
-        "iso_date": "2026-06-22T21:21:09+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "GGAL": [],
     "PAMP": [
       {
-        "title": "Ravier renunció a su banca y ya tiene su prueba de fuego como vocero de Milei: quién lo reemplaza",
+        "title": "Ravier puso fecha y hora para su primera conferencia: mensaje al periodismo y su rol en la interna",
         "summary": "En su lugar asumió un hombre de Bullrich, quien fue a presenciar la jura del nuevo diputado en pleno momento de tensión con Adorni. Qué rol juega Ravier en la interna del oficialismo: Fundación Faro, La Pampa y el primer desafío que le espera en Casa Rosada.",
         "link": "https://www.cronista.com/economia-politica/ravier-renuncio-a-su-banca-y-ya-tiene-una-prueba-de-fuego-como-vocero-quien-lo-reemplaza/",
         "source": "El Cronista",
@@ -477,7 +465,7 @@
         "tickers": [
           "PAMP"
         ],
-        "is_general": true
+        "is_general": false
       }
     ],
     "BMA": [
@@ -486,11 +474,11 @@
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
         "source": "El Cronista",
-        "time": "24/06 18:10",
-        "iso_date": "2026-06-24T21:10:43+00:00",
+        "time": "24/06 19:11",
+        "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
@@ -537,6 +525,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 10% en Wall Street y subió el riesgo país",
+        "summary": "El S&P Merval perdió 4,3% después de que MSCI mantuvo al mercado doméstico como “standalone”. El dólar subió a $1.495 en el Banco Nación un máximo de 2026",
+        "link": "https://www.infobae.com/economia/2026/06/24/jornada-financiera-las-acciones-argentinas-cayeron-hasta-10-en-wall-street-y-subio-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "24/06 18:20",
+        "iso_date": "2026-06-24T21:20:17+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Cayeron las acciones argentinas tras la decisión que mantuvo al mercado local en la categoría “aislado”",
         "summary": "MSCI informó que no modificó su clasificación para la Argentina a pesar de las reformas macroeconómicas. El S&P Merval cae 3,1% y el riesgo país sube a 437 puntos básicos",
@@ -608,18 +608,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Con un mundo titubeante, el riesgo país argentino sigue bajando",
-        "summary": "Con la mirada puesta en las conversaciones entre EE.UU. e Irán, el petróleo abrió la semana a la baja, ya casi en niveles pre-guerra. El muy buen clima de EE.UU. deprime más a los granos. Y, como los principales productos de exportación argentinos ceden, la Bolsa local se most...",
-        "link": "https://eleconomista.com.ar/finanzas/con-mundo-titubeante-riesgo-pais-argentino-sigue-bajando-n96018",
-        "source": "El Economista",
-        "time": "22/06 19:41",
-        "iso_date": "2026-06-22T22:41:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "GD30": [
@@ -628,11 +616,11 @@
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
         "source": "El Cronista",
-        "time": "24/06 18:10",
-        "iso_date": "2026-06-24T21:10:43+00:00",
+        "time": "24/06 19:11",
+        "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
