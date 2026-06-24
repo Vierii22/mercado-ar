@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-23T23:01:37.773986",
-  "updated_str": "23/06/2026 23:01",
+  "updated_at": "2026-06-24T03:27:09.445623",
+  "updated_str": "24/06/2026 03:27",
   "summary": {
-    "change": -0.4,
-    "leader": "TXAR",
-    "leader_change": 2.79,
+    "change": NaN,
+    "leader": "ALUA",
+    "leader_change": 2.68,
     "worst": "GGAL",
     "worst_change": -2.51,
-    "hot_count": 2,
+    "hot_count": 1,
     "cold_count": 2
   },
   "stocks": [
@@ -130,11 +130,11 @@
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
-      "price": 681.0,
-      "change": 2.79,
+      "price": NaN,
+      "change": NaN,
       "volume": 1178010,
       "volume_ratio": 1.15,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         684.0,
@@ -146,15 +146,15 @@
         680.5,
         674.5,
         662.5,
-        681.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 675.5,
-      "ma20": 684.77,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 65,
-      "signal": "suba"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "ALUA",
@@ -217,8 +217,8 @@
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": 2345.0,
-      "change": -1.39,
+      "price": NaN,
+      "change": NaN,
       "volume": 1082188,
       "volume_ratio": 1.36,
       "hot": false,
@@ -233,15 +233,15 @@
         2361.0,
         2393.0,
         2378.0,
-        2345.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 2370.0,
-      "ma20": 2330.75,
-      "ma_cross": 1,
-      "score": 45,
-      "signal": "baja"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     }
   ]
 }
