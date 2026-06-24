@@ -1,17 +1,30 @@
 {
-  "updated_at": "2026-06-24T20:50:25.982386",
-  "updated_str": "24/06/2026 20:50",
+  "updated_at": "2026-06-24T21:04:37.674065",
+  "updated_str": "24/06/2026 21:04",
   "cutoff_hours": 48,
-  "total_news": 236,
+  "total_news": 234,
   "news": {
     "GENERAL": [
+      {
+        "title": "Se achicó el déficit de cuenta corriente: las claves del balance macro y cómo está la deuda externa",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
+        "source": "El Cronista",
+        "time": "24/06 18:02",
+        "iso_date": "2026-06-24T21:02:52+00:00",
+        "tickers": [
+          "BMA",
+          "GD30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este miércoles 24 de junio",
         "summary": "El billete terminó ofrecido a $1.495 para la venta en el Banco Nación, y a $1.530 en el mercado blue, en máximos desde enero. El BCRA compró USD 70 millones",
         "link": "https://www.infobae.com/economia/2026/06/24/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-24-de-junio/",
         "source": "Infobae Economía",
-        "time": "24/06 17:29",
-        "iso_date": "2026-06-24T20:29:08+00:00",
+        "time": "24/06 17:50",
+        "iso_date": "2026-06-24T20:50:59+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -34,19 +47,6 @@
         "iso_date": "2026-06-24T20:24:00+00:00",
         "tickers": [
           "GD30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Se achicó el déficit de cuenta corriente: las claves del balance macro y cómo está la deuda externa",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
-        "source": "El Cronista",
-        "time": "24/06 17:20",
-        "iso_date": "2026-06-24T20:20:46+00:00",
-        "tickers": [
-          "GD30",
-          "BMA"
         ],
         "is_general": true
       },
@@ -498,11 +498,11 @@
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
         "source": "El Cronista",
-        "time": "24/06 17:20",
-        "iso_date": "2026-06-24T20:20:46+00:00",
+        "time": "24/06 18:02",
+        "iso_date": "2026-06-24T21:02:52+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
@@ -648,6 +648,19 @@
     ],
     "GD30": [
       {
+        "title": "Se achicó el déficit de cuenta corriente: las claves del balance macro y cómo está la deuda externa",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
+        "source": "El Cronista",
+        "time": "24/06 18:02",
+        "iso_date": "2026-06-24T21:02:52+00:00",
+        "tickers": [
+          "BMA",
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "La deuda externa representó el 46,9% del PBI en el inicio de 2026: se redujo por primera vez en cinco trimestres",
         "summary": "El INDEC informó que el stock de deuda subió en el primer trimestre, fundamentalmente por el Repo del BCRA, pero menos que el PBI en dólares.",
         "link": "https://www.ambito.com/economia/la-deuda-externa-represento-el-469-del-pbi-el-inicio-2026-se-redujo-primera-vez-cinco-trimestres-n6292433",
@@ -668,19 +681,6 @@
         "iso_date": "2026-06-24T20:24:00+00:00",
         "tickers": [
           "GD30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Se achicó el déficit de cuenta corriente: las claves del balance macro y cómo está la deuda externa",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/se-achico-el-deficit-de-cuenta-corriente-las-claves-del-balance-macro-y-como-esta-la-deuda-externa/",
-        "source": "El Cronista",
-        "time": "24/06 17:20",
-        "iso_date": "2026-06-24T20:20:46+00:00",
-        "tickers": [
-          "GD30",
-          "BMA"
         ],
         "is_general": true
       },
