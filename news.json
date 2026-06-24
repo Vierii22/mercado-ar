@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-24T19:08:33.962684",
-  "updated_str": "24/06/2026 19:08",
+  "updated_at": "2026-06-24T19:28:38.374554",
+  "updated_str": "24/06/2026 19:28",
   "cutoff_hours": 48,
   "total_news": 234,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este miércoles 24 de junio",
+        "summary": "El billete terminó ofrecido a $1.495 para la venta en el Banco Nación, y a $1.530 en el mercado blue, en máximos desde enero",
+        "link": "https://www.infobae.com/economia/2026/06/24/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-24-de-junio/",
+        "source": "Infobae Economía",
+        "time": "24/06 16:07",
+        "iso_date": "2026-06-24T19:07:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Courier, dólar barato y precios locales: por qué las compras afuera ganan terreno pese a la caída salarial",
         "summary": "",
@@ -26,6 +36,18 @@
         "is_general": true
       },
       {
+        "title": "Financiamiento clave para Vaca Muerta: YPF busca US$500 millones del BID para infraestructura",
+        "summary": "El capital se destinará a proyectos viales estratégicos en Neuquén con el objetivo de potenciar la logística en la formación de no convencionales.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/financiamiento-clave-para-vaca-muerta-ypf-busca-us500-millones-del-bid-para-infraestructura/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/06 15:52",
+        "iso_date": "2026-06-24T18:52:56+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Vaca Muerta: YPF acordó financiamiento por u$s 500 millones para obras clave",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/vaca-muerta-ypf-acordo-financiamiento-por-us-500-millones-para-obras-clave/",
@@ -36,16 +58,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este miércoles 24 de junio",
-        "summary": "El billete terminó ofrecido a $1.495 para la venta en el Banco Nación, y a $1.520 en el mercado blue, en máximos desde enero",
-        "link": "https://www.infobae.com/economia/2026/06/24/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-24-de-junio/",
-        "source": "Infobae Economía",
-        "time": "24/06 15:42",
-        "iso_date": "2026-06-24T18:42:29+00:00",
-        "tickers": [],
-        "is_general": true
       },
       {
         "title": "Ravier renunció a su banca y ya tiene su prueba de fuego como vocero de Milei: quién lo reemplaza",
@@ -312,19 +324,21 @@
         "iso_date": "2026-06-24T04:42:04+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Diálogos de Wall Street: el acuerdo entre EEUU e Irán no despeja las dudas del mercado",
-        "summary": "Se firmó el acuerdo con Irán, pero los mercados no se liberan de sus dudas. En parte porque Kevin Warsh le imprimió a la Fed un sesgo más agresivo. El costo de la energía cayó fuerte, pero no las tasas de interés. Y la Bolsa, que antes subía rauda, titubea. ¿Qué hay que espera...",
-        "link": "https://www.ambito.com/economia/dialogos-wall-street-el-acuerdo-eeuu-e-iran-no-despeja-las-dudas-del-mercado-n6292099",
-        "source": "Ámbito",
-        "time": "24/06 00:00",
-        "iso_date": "2026-06-24T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Financiamiento clave para Vaca Muerta: YPF busca US$500 millones del BID para infraestructura",
+        "summary": "El capital se destinará a proyectos viales estratégicos en Neuquén con el objetivo de potenciar la logística en la formación de no convencionales.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/financiamiento-clave-para-vaca-muerta-ypf-busca-us500-millones-del-bid-para-infraestructura/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/06 15:52",
+        "iso_date": "2026-06-24T18:52:56+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta: YPF acordó financiamiento por u$s 500 millones para obras clave",
         "summary": "",
