@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T03:24:24.291575",
-  "updated_str": "25/06/2026 03:24",
+  "updated_at": "2026-06-25T12:27:50.790330",
+  "updated_str": "25/06/2026 12:27",
   "summary": {
-    "change": NaN,
-    "leader": "YPFD",
-    "leader_change": NaN,
-    "worst": "YPFD",
-    "worst_change": NaN,
+    "change": -3.41,
+    "leader": "ALUA",
+    "leader_change": -0.58,
+    "worst": "CEPU",
+    "worst_change": -5.93,
     "hot_count": 0,
-    "cold_count": 6
+    "cold_count": 7
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": NaN,
-      "change": NaN,
+      "price": 70800.0,
+      "change": -5.22,
       "volume": 428549,
       "volume_ratio": 1.4,
       "hot": false,
-      "cold": false,
+      "cold": true,
       "trend": [
         83700.0,
         83400.0,
@@ -30,14 +30,14 @@
         76425.0,
         75500.0,
         74700.0,
-        NaN
+        70800.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
+      "trend_dir": "down",
+      "trend_streak": 4,
+      "ma5": 74710.0,
+      "ma20": 79555.0,
       "ma_cross": -1,
-      "score": 80,
+      "score": 0,
       "signal": "fuerte_baja"
     },
     {
