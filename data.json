@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T22:59:56.841902",
-  "updated_str": "24/06/2026 22:59",
+  "updated_at": "2026-06-25T03:24:24.291575",
+  "updated_str": "25/06/2026 03:24",
   "summary": {
-    "change": -3.41,
-    "leader": "ALUA",
-    "leader_change": -0.58,
-    "worst": "CEPU",
-    "worst_change": -5.93,
+    "change": NaN,
+    "leader": "YPFD",
+    "leader_change": NaN,
+    "worst": "YPFD",
+    "worst_change": NaN,
     "hot_count": 0,
-    "cold_count": 7
+    "cold_count": 6
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 70800.0,
-      "change": -5.22,
+      "price": NaN,
+      "change": NaN,
       "volume": 428549,
       "volume_ratio": 1.4,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
         83700.0,
         83400.0,
@@ -30,14 +30,14 @@
         76425.0,
         75500.0,
         74700.0,
-        70800.0
+        NaN
       ],
-      "trend_dir": "down",
-      "trend_streak": 4,
-      "ma5": 74710.0,
-      "ma20": 79555.0,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 0,
+      "score": 80,
       "signal": "fuerte_baja"
     },
     {
@@ -74,7 +74,7 @@
       "name": "Pampa Energía",
       "price": 4967.5,
       "change": -2.98,
-      "volume": 1653599,
+      "volume": 1653588,
       "volume_ratio": 1.52,
       "hot": false,
       "cold": true,
@@ -190,7 +190,7 @@
       "name": "Telecom AR",
       "price": 3952.5,
       "change": -1.8,
-      "volume": 285706,
+      "volume": 285694,
       "volume_ratio": 1.07,
       "hot": false,
       "cold": true,
