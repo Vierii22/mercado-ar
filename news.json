@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-25T19:08:12.705243",
-  "updated_str": "25/06/2026 19:08",
+  "updated_at": "2026-06-25T19:22:15.151612",
+  "updated_str": "25/06/2026 19:22",
   "cutoff_hours": 48,
   "total_news": 238,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este jueves 25 de junio",
+        "summary": "El billete al público es negociado a $1.495 para la venta en el Banco Nación. El blue se pacta a $1.530. El BCRA compró USD 70 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/25/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-25-de-junio/",
+        "source": "Infobae Economía",
+        "time": "25/06 16:16",
+        "iso_date": "2026-06-25T19:16:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El dólar hizo una pausa en su ascenso, pero mantiene una suba de casi 5% en junio",
         "summary": "El mayorista restó dos pesos desde sus máximos de noviembre, a $1.477, mientras que al público permaneció sin variantes a $1.495 en el Banco Nación",
@@ -189,16 +199,6 @@
         "source": "Bloomberg Línea AR",
         "time": "25/06 10:38",
         "iso_date": "2026-06-25T13:38:19+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este jueves 25 de junio",
-        "summary": "El billete al público es negociado a $1.495 para la venta en el Banco Nación. El blue se pacta a $1.530. El BCRA compró USD 70 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/06/25/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-25-de-junio/",
-        "source": "Infobae Economía",
-        "time": "25/06 10:25",
-        "iso_date": "2026-06-25T13:25:54+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -437,8 +437,8 @@
         "time": "24/06 19:11",
         "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
@@ -605,8 +605,8 @@
         "time": "24/06 19:11",
         "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       }
