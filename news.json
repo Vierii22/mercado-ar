@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-06-25T17:03:49.466535",
-  "updated_str": "25/06/2026 17:03",
+  "updated_at": "2026-06-25T17:28:02.897476",
+  "updated_str": "25/06/2026 17:28",
   "cutoff_hours": 48,
-  "total_news": 236,
+  "total_news": 266,
   "news": {
     "GENERAL": [
+      {
+        "title": "Ganancias: quiénes volverían a pagar si el Gobierno cumple con el FMI y cuánto se les descontaría",
+        "summary": "Argentina recauda el 29% del PBI en impuestos, pero el FMI considera que Ganancias alcanza a pocos trabajadores y que el sistema tributario local es “complejo, altamente distorsivo e inestable”. Qué cambios propone introducir.",
+        "link": "https://www.cronista.com/economia-politica/ganancias-quienes-volverian-a-pagar-si-el-gobierno-cumple-con-el-fmi-y-cuanto-les-descontarian/",
+        "source": "El Cronista",
+        "time": "25/06 14:10",
+        "iso_date": "2026-06-25T17:10:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina profundiza vínculos con Estados Unidos: qué es Pax Silica, la nueva alianza con foco en IA",
+        "summary": "El Gobierno de Javier Milei adhirió a la iniciativa que apunta a fortalecer cadena de suministro de tecnología y fortalecer la seguridad en inteligencia artificial.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-profundiza-vinculos-con-estados-unidos-que-es-pax-silica-la-nueva-alianza-con-foco-en-ia/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/06 14:06",
+        "iso_date": "2026-06-25T17:06:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mercados: suben el S&P Merval en dólares y el riesgo país, con el foco puesto en Wall Street",
         "summary": "Los indicadores de Nueva York negocian mixtos tras un dato clave de inflación EEUU. El S&P Merval sube 0,3% y el índice de JP Morgan avanza a 439 puntos básicos",
@@ -288,26 +308,6 @@
         "iso_date": "2026-06-25T09:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Analistas detectan ventas de bonos y futuros del BCRA para frenar el dólar",
-        "summary": "El Banco Central limpió su posición en mayo y quedó con municiones intactas. Sin embargo, analistas creen que es más efectiva la intervención cambiaria vía dollar linked.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/analistas-detectan-ventas-de-bonos-y-futuros-del-bcra-para-frenar-el-dolar/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/06 05:50",
-        "iso_date": "2026-06-25T08:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Subió la cantidad de dólares que los argentinos tienen bajo el colchón: a cuánto llegó la cifra en 2026",
-        "summary": "El stock de divisas atesoradas fuera del sistema bancario superó los 200.000 millones al 31 de marzo, según el último informe del Indec",
-        "link": "https://www.infobae.com/economia/2026/06/25/subio-la-cantidad-de-dolares-que-los-argentinos-tienen-bajo-el-colchon-a-cuanto-llego-la-cifra-en-2026/",
-        "source": "Infobae Economía",
-        "time": "25/06 02:56",
-        "iso_date": "2026-06-25T05:56:21+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -408,8 +408,8 @@
         "time": "24/06 19:11",
         "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
@@ -549,8 +549,8 @@
         "time": "24/06 19:11",
         "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
