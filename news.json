@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-06-26T20:16:23.195338",
-  "updated_str": "26/06/2026 20:16",
+  "updated_at": "2026-06-26T20:49:06.689372",
+  "updated_str": "26/06/2026 20:49",
   "cutoff_hours": 48,
-  "total_news": 227,
+  "total_news": 223,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: subieron las acciones y bajaron los bonos argentinos en el cierre de una semana volátil",
+        "summary": "El S&P Merval porteño subió 0,8%, mientras que las acciones argentinas ganaron hasta 8% en Wall Street. El riesgo país se asentó en los 437 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/06/26/mercados-suben-las-acciones-y-bajan-los-bonos-argentinos-en-el-cierre-de-una-semana-volatil/",
+        "source": "Infobae Economía",
+        "time": "26/06 17:43",
+        "iso_date": "2026-06-26T20:43:22+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este viernes 26 de junio",
+        "summary": "El billete al público quedó ofrecido a $1.495 para la venta en el Banco Nación. El blue terminó pactado a $1.515. El BCRA compró USD 50 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/26/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-viernes-26-de-junio/",
+        "source": "Infobae Economía",
+        "time": "26/06 17:17",
+        "iso_date": "2026-06-26T20:17:36+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Efecto IPC: el gasto de los hogares avanzó 0,7% mensual en mayo, pero el consumo masivo sigue en niveles bajos",
         "summary": "La desaceleración de precios descomprimió la presión sobre los ingresos reales y favoreció el consumo en mayo. En el detalle sectorial, Vivienda, alquileres y servicios públicos lideraron las alzas, mientras indumentaria, transporte y recreación retrocedieron.",
@@ -22,16 +44,6 @@
         "source": "Infobae Economía",
         "time": "26/06 16:12",
         "iso_date": "2026-06-26T19:12:53+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este viernes 26 de junio",
-        "summary": "El billete al público quedó ofrecido a $1.495 para la venta en el Banco Nación. El blue terminó pactado a $1.515",
-        "link": "https://www.infobae.com/economia/2026/06/26/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-viernes-26-de-junio/",
-        "source": "Infobae Economía",
-        "time": "26/06 16:11",
-        "iso_date": "2026-06-26T19:11:31+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -113,18 +125,6 @@
         "time": "26/06 13:27",
         "iso_date": "2026-06-26T16:27:04+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: suben las acciones y bajan los bonos argentinos en el cierre de una semana volátil",
-        "summary": "El S&P Merval porteó sube 1,6%, mientras que las acciones argentinas ganan hasta 3% en Wall Street. El riesgo país se asienta en los 437 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/06/26/mercados-suben-las-acciones-y-bajan-los-bonos-argentinos-en-el-cierre-de-una-semana-volatil/",
-        "source": "Infobae Economía",
-        "time": "26/06 12:40",
-        "iso_date": "2026-06-26T15:40:45+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -245,8 +245,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       },
@@ -336,8 +336,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
@@ -379,8 +379,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       },
@@ -431,12 +431,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: suben las acciones y bajan los bonos argentinos en el cierre de una semana volátil",
-        "summary": "El S&P Merval porteó sube 1,6%, mientras que las acciones argentinas ganan hasta 3% en Wall Street. El riesgo país se asienta en los 437 puntos básicos",
+        "title": "Mercados: subieron las acciones y bajaron los bonos argentinos en el cierre de una semana volátil",
+        "summary": "El S&P Merval porteño subió 0,8%, mientras que las acciones argentinas ganaron hasta 8% en Wall Street. El riesgo país se asentó en los 437 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/06/26/mercados-suben-las-acciones-y-bajan-los-bonos-argentinos-en-el-cierre-de-una-semana-volatil/",
         "source": "Infobae Economía",
-        "time": "26/06 12:40",
-        "iso_date": "2026-06-26T15:40:45+00:00",
+        "time": "26/06 17:43",
+        "iso_date": "2026-06-26T20:43:22+00:00",
         "tickers": [
           "AL30"
         ],
@@ -497,18 +497,6 @@
         "source": "Infobae Economía",
         "time": "24/06 18:20",
         "iso_date": "2026-06-24T21:20:17+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Cayeron las acciones argentinas tras la decisión que mantuvo al mercado local en la categoría “aislado”",
-        "summary": "MSCI informó que no modificó su clasificación para la Argentina a pesar de las reformas macroeconómicas. El S&P Merval cae 3,1% y el riesgo país sube a 437 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/06/24/caen-las-acciones-argentinas-tras-la-decision-que-mantuvo-al-mercado-local-en-la-categoria-aislado/",
-        "source": "Infobae Economía",
-        "time": "24/06 17:17",
-        "iso_date": "2026-06-24T20:17:04+00:00",
         "tickers": [
           "AL30"
         ],
