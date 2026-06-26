@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-26T21:01:57.994578",
-  "updated_str": "26/06/2026 21:01",
+  "updated_at": "2026-06-26T21:15:06.138423",
+  "updated_str": "26/06/2026 21:15",
   "cutoff_hours": 48,
-  "total_news": 224,
+  "total_news": 225,
   "news": {
     "GENERAL": [
       {
@@ -10,9 +10,33 @@
         "summary": "Economía adjudicó USD 266 millones en bonos AO28 para afrontar el vencimiento de julio y, a la vez, dejó pesos en circulación al no renovar la totalidad de los compromisos en moneda local",
         "link": "https://www.infobae.com/economia/2026/06/26/el-gobierno-consiguio-mas-de-usd-250-millones-para-un-pago-de-deuda-clave-e-inyecto-pesos-al-mercado/",
         "source": "Infobae Economía",
-        "time": "26/06 17:57",
-        "iso_date": "2026-06-26T20:57:56+00:00",
+        "time": "26/06 18:09",
+        "iso_date": "2026-06-26T21:09:00+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Calculan que el Gasoducto Perito Moreno permitió ahorrar casi USD 10.000 millones en importación de energía",
+        "summary": "Un informe de la Fundación Encuentro estimó que la infraestructura que conecta Vaca Muerta con Buenos Aires sustituyó compras externas de GNL, combustibles líquidos, gas boliviano y energía eléctrica",
+        "link": "https://www.infobae.com/economia/2026/06/24/calculan-que-el-gasoducto-perito-moreno-permitio-ahorrar-casi-usd-10000-millones-en-importacion-de-energia/",
+        "source": "Infobae Economía",
+        "time": "26/06 18:06",
+        "iso_date": "2026-06-26T21:06:10+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Mercados: subieron las acciones y bajaron los bonos argentinos en el cierre de una semana volátil",
+        "summary": "El S&P Merval porteño subió 0,8%, mientras que las acciones argentinas ganaron hasta 8% en Wall Street. El riesgo país se asentó en los 437 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/06/26/mercados-suben-las-acciones-y-bajan-los-bonos-argentinos-en-el-cierre-de-una-semana-volatil/",
+        "source": "Infobae Economía",
+        "time": "26/06 18:00",
+        "iso_date": "2026-06-26T21:00:11+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -23,18 +47,6 @@
         "time": "26/06 17:55",
         "iso_date": "2026-06-26T20:55:19+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: subieron las acciones y bajaron los bonos argentinos en el cierre de una semana volátil",
-        "summary": "El S&P Merval porteño subió 0,8%, mientras que las acciones argentinas ganaron hasta 8% en Wall Street. El riesgo país se asentó en los 437 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/06/26/mercados-suben-las-acciones-y-bajan-los-bonos-argentinos-en-el-cierre-de-una-semana-volatil/",
-        "source": "Infobae Economía",
-        "time": "26/06 17:53",
-        "iso_date": "2026-06-26T20:53:18+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -265,8 +277,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       },
@@ -301,19 +313,21 @@
         "iso_date": "2026-06-26T04:20:22+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Impulsar el crédito: el detalle de las medidas que la UIA le pide a Caputo para reactivar la economía",
-        "summary": "Según pudo saber Infobae con fuentes involucradas en las negociaciones, se buscan ampliar los esquema de incentivos para pymes del Banco Central y liberar encajes para canalizar en líneas de financiamiento a empresas con dificultades",
-        "link": "https://www.infobae.com/economia/2026/06/26/impulsar-el-credito-el-detalle-de-las-medidas-que-la-uia-le-pide-a-caputo-para-reactivar-la-economia/",
-        "source": "Infobae Economía",
-        "time": "26/06 01:19",
-        "iso_date": "2026-06-26T04:19:48+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Calculan que el Gasoducto Perito Moreno permitió ahorrar casi USD 10.000 millones en importación de energía",
+        "summary": "Un informe de la Fundación Encuentro estimó que la infraestructura que conecta Vaca Muerta con Buenos Aires sustituyó compras externas de GNL, combustibles líquidos, gas boliviano y energía eléctrica",
+        "link": "https://www.infobae.com/economia/2026/06/24/calculan-que-el-gasoducto-perito-moreno-permitio-ahorrar-casi-usd-10000-millones-en-importacion-de-energia/",
+        "source": "Infobae Economía",
+        "time": "26/06 18:06",
+        "iso_date": "2026-06-26T21:06:10+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta: YPF acordó financiamiento por u$s 500 millones para obras clave",
         "summary": "",
@@ -336,8 +350,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
@@ -379,8 +393,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       },
@@ -435,8 +449,8 @@
         "summary": "El S&P Merval porteño subió 0,8%, mientras que las acciones argentinas ganaron hasta 8% en Wall Street. El riesgo país se asentó en los 437 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/06/26/mercados-suben-las-acciones-y-bajan-los-bonos-argentinos-en-el-cierre-de-una-semana-volatil/",
         "source": "Infobae Economía",
-        "time": "26/06 17:53",
-        "iso_date": "2026-06-26T20:53:18+00:00",
+        "time": "26/06 18:00",
+        "iso_date": "2026-06-26T21:00:11+00:00",
         "tickers": [
           "AL30"
         ],
