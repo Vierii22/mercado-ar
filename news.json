@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-26T19:39:39.073331",
-  "updated_str": "26/06/2026 19:39",
+  "updated_at": "2026-06-26T20:16:23.195338",
+  "updated_str": "26/06/2026 20:16",
   "cutoff_hours": 48,
-  "total_news": 233,
+  "total_news": 227,
   "news": {
     "GENERAL": [
+      {
+        "title": "Efecto IPC: el gasto de los hogares avanzó 0,7% mensual en mayo, pero el consumo masivo sigue en niveles bajos",
+        "summary": "La desaceleración de precios descomprimió la presión sobre los ingresos reales y favoreció el consumo en mayo. En el detalle sectorial, Vivienda, alquileres y servicios públicos lideraron las alzas, mientras indumentaria, transporte y recreación retrocedieron.",
+        "link": "https://www.ambito.com/economia/efecto-ipc-el-gasto-los-hogares-avanzo-07-mensual-mayo-pero-el-consumo-masivo-sigue-niveles-bajos-n6293253",
+        "source": "Ámbito",
+        "time": "26/06 17:03",
+        "iso_date": "2026-06-26T20:03:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El dólar operó sin cambios y se sostuvo en su precio más alto en seis meses",
         "summary": "El dólar al público cerró sin variantes a $1.495 en el Banco Nación. El dólar mayorista, a $1.477, sostiene una ganancia de 69 pesos o 4,9% en junio",
@@ -158,16 +168,6 @@
         "is_general": true
       },
       {
-        "title": "Wall Street retrocede por nuevas ventas en fabricantes de chips y cautela sobre la IA",
-        "summary": "Los fabricantes de semiconductores lideran las pérdidas ante nuevas dudas sobre el auge de la inteligencia artificial, mientras la caída del petróleo y un dato de inflación en línea con lo esperado marcan la jornada.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-retrocede-por-nuevas-ventas-en-fabricantes-de-chips-y-cautela-sobre-la-ia/",
-        "source": "Bloomberg Línea AR",
-        "time": "26/06 10:40",
-        "iso_date": "2026-06-26T13:40:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Milei y una dura advertencia a Adorni: “Si lo encuentran culpable, lo eyecto de una patada”",
         "summary": "El presidente habló desde España sobre la controversia que envuelve a su jefe de gabinete. A pesar de sus dichos, afirmó que cree en su honestidad.",
         "link": "https://www.cronista.com/economia-politica/javier-milei-y-una-dura-advertencia-a-manuel-adorni-si-la-justicia-lo-encuentra-culpable-lo-eyecto-de-una-patada/",
@@ -198,9 +198,9 @@
         "is_general": true
       },
       {
-        "title": "El Gobierno rompe la maldición de un segundo semestre “seco”: los dólares que vienen",
+        "title": "El plan de Caputo para acceder a la vivienda: ¿a quién financia?",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-gobierno-rompe-la-maldicion-de-un-segundo-semestre-seco-los-dolares-que-vienen/",
+        "link": "https://www.cronista.com/economia-politica/el-plan-de-caputo-para-acceder-a-la-vivienda-a-quien-financia/",
         "source": "El Cronista",
         "time": "26/06 06:00",
         "iso_date": "2026-06-26T09:00:01+00:00",
@@ -208,9 +208,9 @@
         "is_general": true
       },
       {
-        "title": "El plan de Caputo para acceder a la vivienda: ¿a quién financia?",
+        "title": "El Gobierno rompe la maldición de un segundo semestre “seco”: los dólares que vienen",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-plan-de-caputo-para-acceder-a-la-vivienda-a-quien-financia/",
+        "link": "https://www.cronista.com/economia-politica/el-gobierno-rompe-la-maldicion-de-un-segundo-semestre-seco-los-dolares-que-vienen/",
         "source": "El Cronista",
         "time": "26/06 06:00",
         "iso_date": "2026-06-26T09:00:01+00:00",
@@ -245,8 +245,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -325,18 +325,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Calculan que el Gasoducto Perito Moreno permitió ahorrar casi USD 10.000 millones en importación de energía",
-        "summary": "Un informe de la Fundación Encuentro estimó que la infraestructura que conecta Vaca Muerta con Buenos Aires sustituyó compras externas de GNL, combustibles líquidos, gas boliviano y energía eléctrica",
-        "link": "https://www.infobae.com/economia/2026/06/24/calculan-que-el-gasoducto-perito-moreno-permitio-ahorrar-casi-usd-10000-millones-en-importacion-de-energia/",
-        "source": "Infobae Economía",
-        "time": "24/06 16:43",
-        "iso_date": "2026-06-24T19:43:10+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [
@@ -348,8 +336,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -391,8 +379,8 @@
         "time": "26/06 05:30",
         "iso_date": "2026-06-26T08:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -404,8 +392,8 @@
         "time": "24/06 19:11",
         "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       }
@@ -536,8 +524,8 @@
         "time": "24/06 19:11",
         "iso_date": "2026-06-24T22:11:13+00:00",
         "tickers": [
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       }
