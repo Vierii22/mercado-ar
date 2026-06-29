@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-06-29T21:21:16.810118",
-  "updated_str": "29/06/2026 21:21",
+  "updated_at": "2026-06-29T22:49:17.199756",
+  "updated_str": "29/06/2026 22:49",
   "cutoff_hours": 48,
-  "total_news": 160,
+  "total_news": 157,
   "news": {
     "GENERAL": [
       {
-        "title": "Mercados: subieron las acciones argentinas y bajó el riesgo país, en un inicio de semana positivo para Wall Street",
-        "summary": "Los indicadores de Nueva York avanzaron hasta 2%. El S&P Merval porteño ganó 1,7% y los bonos en dólares, un 0,4% en promedio",
-        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
+        "title": "Dólares o rendimiento: cuándo deja de tener sentido priorizar la cobertura cambiaria",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/dolares-o-rendimiento-cuando-deja-de-tener-sentido-priorizar-la-cobertura-cambiaria/",
+        "source": "El Cronista",
+        "time": "29/06 19:31",
+        "iso_date": "2026-06-29T22:31:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: Wall Street anotó un nuevo récord, subieron las acciones argentinas y cayó el riesgo país",
+        "summary": "El índice Dow Jones superó por primera vez los 52.000 puntos y el el Nasdaq ganó más de 2%. El S&P Merval subió 1,7% y el riesgo país cedió a 431 puntos. El dólar mayorista anotó su precio más alto en ocho meses y el BCRA compró solo USD 25 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/29/jornada-financiera-wall-street-anoto-un-nuevo-record-subieron-las-acciones-argentinas-y-cayo-el-riesgo-pais/",
         "source": "Infobae Economía",
-        "time": "29/06 17:56",
-        "iso_date": "2026-06-29T20:56:00+00:00",
+        "time": "29/06 18:50",
+        "iso_date": "2026-06-29T21:50:32+00:00",
         "tickers": [
           "AL30"
         ],
@@ -22,9 +32,31 @@
         "summary": "Después de semanas de conflicto y una ronda de negociaciones que se extendió más de 15 horas, empresarios y gremios firmaron un convenio indexado al IPC del Indec en la Secretaría de Trabajo",
         "link": "https://www.infobae.com/economia/2026/06/29/aceiteros-y-agroexportadores-llegaron-a-un-acuerdo-salarial-que-aumento-consiguieron-para-el-ano/",
         "source": "Infobae Economía",
-        "time": "29/06 17:36",
-        "iso_date": "2026-06-29T20:36:26+00:00",
+        "time": "29/06 18:42",
+        "iso_date": "2026-06-29T21:42:26+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei habló de un ataque especulativo en medio del contexto electoral: “Estamos hiperblindados”",
+        "summary": "El presidente no descartó eventuales turbulencias en el año electoral, pero aseguró que el Gobierno cuenta con un blindaje financiero para enfrentar posibles corridas cambiarias",
+        "link": "https://www.infobae.com/economia/2026/06/29/milei-hablo-de-un-ataque-especulativo-en-medio-del-contexto-electoral-estamos-hiperblindados/",
+        "source": "Infobae Economía",
+        "time": "29/06 18:40",
+        "iso_date": "2026-06-29T21:40:15+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: subieron las acciones argentinas y bajó el riesgo país, en un inicio de semana positivo para Wall Street",
+        "summary": "Los indicadores de Nueva York avanzaron hasta 2%. El S&P Merval porteño ganó 1,7% y los bonos en dólares, un 0,4% en promedio",
+        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
+        "source": "Infobae Economía",
+        "time": "29/06 17:56",
+        "iso_date": "2026-06-29T20:56:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -45,8 +77,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
+          "AL30",
           "GD30"
         ],
         "is_general": true
@@ -289,36 +321,6 @@
         "iso_date": "2026-06-29T11:24:16+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Qué impuestos eliminó Milei y cuáles explican más del 90% de la recaudación",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/que-impuestos-elimino-milei-y-cuales-explican-mas-del-90-de-la-recaudacion/",
-        "source": "El Cronista",
-        "time": "29/06 06:00",
-        "iso_date": "2026-06-29T09:00:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Aguinaldo podría aliviar la mora pero tensar también variable clave del programa económico de Milei",
-        "summary": "El cobro del SAC podría ayudar a las familias a regularizar deudas e interrumpir 18 meses consecutivos de incremento de los niveles de mora bancaria, pero también sumar presión al equilibrio de las cuentas públicas en junio.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/aguinaldo-podria-aliviar-la-mora-pero-tensar-tambien-variable-clave-del-programa-economico-de-milei/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/06 05:23",
-        "iso_date": "2026-06-29T08:23:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Pax Silica: Argentina ingresó a una alianza estratégica con EEUU, que financiará inversiones clave para contener la ofensiva global de China",
-        "summary": "Trump considera que el control de los minerales críticos, las cadenas de suministro y la inteligencia artificial son esenciales para enfrentar a Beijing, y confía en Milei como socio regional en una iniciativa con fondos millonarios para proyectos tecnológicos y de infraestruc...",
-        "link": "https://www.infobae.com/economia/2026/06/29/pax-silica-argentina-ingreso-a-una-alianza-estrategica-con-eeuu-que-financiara-inversiones-clave-para-contener-la-ofensiva-global-de-china/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:10",
-        "iso_date": "2026-06-29T05:10:29+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -394,8 +396,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
+          "AL30",
           "GD30"
         ],
         "is_general": true
@@ -435,6 +437,18 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Jornada financiera: Wall Street anotó un nuevo récord, subieron las acciones argentinas y cayó el riesgo país",
+        "summary": "El índice Dow Jones superó por primera vez los 52.000 puntos y el el Nasdaq ganó más de 2%. El S&P Merval subió 1,7% y el riesgo país cedió a 431 puntos. El dólar mayorista anotó su precio más alto en ocho meses y el BCRA compró solo USD 25 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/29/jornada-financiera-wall-street-anoto-un-nuevo-record-subieron-las-acciones-argentinas-y-cayo-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "29/06 18:50",
+        "iso_date": "2026-06-29T21:50:32+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Mercados: subieron las acciones argentinas y bajó el riesgo país, en un inicio de semana positivo para Wall Street",
         "summary": "Los indicadores de Nueva York avanzaron hasta 2%. El S&P Merval porteño ganó 1,7% y los bonos en dólares, un 0,4% en promedio",
         "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
@@ -454,8 +468,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
+          "AL30",
           "GD30"
         ],
         "is_general": true
@@ -518,8 +532,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
+          "AL30",
           "GD30"
         ],
         "is_general": true
