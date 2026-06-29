@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-29T19:06:30.071581",
-  "updated_str": "29/06/2026 19:06",
+  "updated_at": "2026-06-29T19:19:53.040649",
+  "updated_str": "29/06/2026 19:19",
   "cutoff_hours": 48,
-  "total_news": 152,
+  "total_news": 153,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,18 @@
         "summary": "Tras el repunte de marzo, el Indec dio a conocer que el Estimador Mensual de Actividad Económica (EMAE) tuvo una variación interanual positiva del 1,6% en el cuarto mes del año. Lo que espera Caputo para después de mayo",
         "link": "https://www.infobae.com/economia/2026/06/29/la-actividad-economica-cayo-15-en-abril-pero-se-mantuvo-por-encima-del-mismo-mes-del-ano-pasado/",
         "source": "Infobae Economía",
-        "time": "29/06 16:05",
-        "iso_date": "2026-06-29T19:05:48+00:00",
+        "time": "29/06 16:16",
+        "iso_date": "2026-06-29T19:16:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este lunes 29 de junio",
+        "summary": "El billete al público siguió ofrecido a $1.495 para la venta en el Banco Nación. El blue quedó pactado a $1.510",
+        "link": "https://www.infobae.com/economia/2026/06/29/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-lunes-29-de-junio/",
+        "source": "Infobae Economía",
+        "time": "29/06 16:15",
+        "iso_date": "2026-06-29T19:15:38+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -22,16 +32,6 @@
         "source": "Infobae Economía",
         "time": "29/06 15:49",
         "iso_date": "2026-06-29T18:49:47+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este lunes 29 de junio",
-        "summary": "El billete al público sigue ofrecido a $1.495 para la venta en el Banco Nación. El blue es pactado a $1.510",
-        "link": "https://www.infobae.com/economia/2026/06/29/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-lunes-29-de-junio/",
-        "source": "Infobae Economía",
-        "time": "29/06 15:49",
-        "iso_date": "2026-06-29T18:49:33+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -108,9 +108,9 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
+          "GD30",
           "BMA",
-          "AL30",
-          "GD30"
+          "AL30"
         ],
         "is_general": true
       },
@@ -410,9 +410,9 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
+          "GD30",
           "BMA",
-          "AL30",
-          "GD30"
+          "AL30"
         ],
         "is_general": true
       }
@@ -470,9 +470,9 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
+          "GD30",
           "BMA",
-          "AL30",
-          "GD30"
+          "AL30"
         ],
         "is_general": true
       },
@@ -534,9 +534,9 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
+          "GD30",
           "BMA",
-          "AL30",
-          "GD30"
+          "AL30"
         ],
         "is_general": true
       }
