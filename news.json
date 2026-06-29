@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-06-29T20:21:01.509358",
-  "updated_str": "29/06/2026 20:21",
+  "updated_at": "2026-06-29T20:51:33.118067",
+  "updated_str": "29/06/2026 20:51",
   "cutoff_hours": 48,
-  "total_news": 159,
+  "total_news": 160,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: subieron las acciones argentinas y bajó el riesgo país, en un inicio de semana positivo para Wall Street",
+        "summary": "Los indicadores de Nueva York avanzaron hasta 2%. El S&P Merval porteño ganó 1,7% y los bonos en dólares, un 0,4% en promedio",
+        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
+        "source": "Infobae Economía",
+        "time": "29/06 17:38",
+        "iso_date": "2026-06-29T20:38:20+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Aceiteros y agroexportadores llegaron a un acuerdo salarial: qué aumento consiguieron para el año",
+        "summary": "Después de semanas de conflicto y una ronda de negociaciones que se extendió más de 15 horas, empresarios y gremios firmaron un convenio indexado al IPC del Indec en la Secretaría de Trabajo",
+        "link": "https://www.infobae.com/economia/2026/06/29/aceiteros-y-agroexportadores-llegaron-a-un-acuerdo-salarial-que-aumento-consiguieron-para-el-ano/",
+        "source": "Infobae Economía",
+        "time": "29/06 17:36",
+        "iso_date": "2026-06-29T20:36:26+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este lunes 29 de junio",
+        "summary": "El billete al público siguió ofrecido a $1.495 para la venta en el Banco Nación. El blue quedó pactado a $1.510. El BCRA compró USD 25 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/06/29/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-lunes-29-de-junio/",
+        "source": "Infobae Economía",
+        "time": "29/06 17:25",
+        "iso_date": "2026-06-29T20:25:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
+        "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 17:00",
+        "iso_date": "2026-06-29T20:00:47+00:00",
+        "tickers": [
+          "AL30",
+          "BMA",
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Banxico incorpora una herramienta de compra de bonos para respaldar liquidez",
+        "summary": "La medida entrará en vigor el 17 de agosto, según un documento independiente publicado por Banxico el lunes.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-incorpora-una-herramienta-de-compra-de-bonos-para-respaldar-liquidez/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 16:55",
+        "iso_date": "2026-06-29T19:55:34+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "La actividad económica cayó 1,5% en abril pero se mantuvo por encima del mismo mes del año pasado",
         "summary": "Tras el repunte de marzo, el Indec dio a conocer que el Estimador Mensual de Actividad Económica (EMAE) tuvo una variación interanual positiva del 1,6% en el cuarto mes del año. Lo que espera Caputo para después de mayo",
@@ -32,16 +88,6 @@
         "source": "El Cronista",
         "time": "29/06 16:26",
         "iso_date": "2026-06-29T19:26:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este lunes 29 de junio",
-        "summary": "El billete al público siguió ofrecido a $1.495 para la venta en el Banco Nación. El blue quedó pactado a $1.510",
-        "link": "https://www.infobae.com/economia/2026/06/29/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-lunes-29-de-junio/",
-        "source": "Infobae Economía",
-        "time": "29/06 16:15",
-        "iso_date": "2026-06-29T19:15:38+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -93,8 +139,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       },
@@ -118,20 +164,6 @@
         "time": "29/06 14:43",
         "iso_date": "2026-06-29T17:43:30+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
-        "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/06 14:05",
-        "iso_date": "2026-06-29T17:05:47+00:00",
-        "tickers": [
-          "AL30",
-          "GD30",
-          "BMA"
-        ],
         "is_general": true
       },
       {
@@ -162,18 +194,6 @@
         "time": "29/06 13:32",
         "iso_date": "2026-06-29T16:32:18+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: suben las acciones argentinas y baja el riesgo país, en un inicio de semana positivo para Wall Street",
-        "summary": "Los indicadores de Nueva York avanzan hasta 1%. El S&P Merval porteño gana 1,8% y los bonos en dólares, un 0,5% en promedio",
-        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
-        "source": "Infobae Economía",
-        "time": "29/06 12:21",
-        "iso_date": "2026-06-29T15:21:37+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -299,26 +319,6 @@
         "iso_date": "2026-06-29T05:10:29+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Inflación: continuó la desaceleración en la cuarta semana y ahora marcan 1,8% para junio",
-        "summary": "Los relevamientos de consultoras marcan leves aumentos de precios en el rubro alimentos y bebidas. Para el índice general se registró un nuevo piso que implicaría volver a los niveles de julio/agosto del 2025",
-        "link": "https://www.infobae.com/economia/2026/06/29/inflacion-continuo-la-desaceleracion-en-la-cuarta-semana-y-ahora-marcan-18-para-junio/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:10",
-        "iso_date": "2026-06-29T05:10:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Qué va a pasar con el dólar?: las expectativas cambiarias para el segundo semestre",
-        "summary": "En junio el tipo de cambio oficial se despertó, con una ganancia de casi 5%, para tocar $1.479, su precio más alto desde noviembre de 2025. Qué muestran las cotizaciones en el mercado de futuros",
-        "link": "https://www.infobae.com/economia/2026/06/29/que-va-a-pasar-con-el-dolar-las-expectativas-cambiarias-para-el-segundo-semestre/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:10",
-        "iso_date": "2026-06-29T05:10:06+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -381,18 +381,6 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "Petróleo en baja: cuál es el precio que enciende luces amarillas sobre la rentabilidad de Vaca Muerta",
-        "summary": "El fin del conflicto geopolítico en Medio Oriente que sostuvo la cotización del crudo durante más de 100 días por arriba de USD 90 el barril obliga a replantear la ecuación de inversiones en la formación neuquina",
-        "link": "https://www.infobae.com/economia/2026/06/27/petroleo-en-baja-cual-es-el-precio-que-enciende-luces-amarillas-sobre-la-rentabilidad-de-vaca-muerta/",
-        "source": "Infobae Economía",
-        "time": "27/06 17:48",
-        "iso_date": "2026-06-27T20:48:10+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -403,12 +391,12 @@
         "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
         "source": "Bloomberg Línea AR",
-        "time": "29/06 14:05",
-        "iso_date": "2026-06-29T17:05:47+00:00",
+        "time": "29/06 17:00",
+        "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "AL30",
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       }
@@ -422,8 +410,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -438,8 +426,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -447,12 +435,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Economía completó la colocación del Bonar 2028 y ya tiene casi todos los dólares para pagar el vencimiento del 9 de julio",
-        "summary": "Este lunes se llevó a cabo la segunda vuelta y la Secretaría de Finanzas obtuvo USD 100 millones. Cuánto hay en la cuenta del Tesoro y qué operación puede hacer el BCRA para los dólares que faltan",
-        "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-ya-tiene-casi-todos-los-dolares-para-pagar-el-vencimiento-del-9-de-julio/",
+        "title": "Mercados: subieron las acciones argentinas y bajó el riesgo país, en un inicio de semana positivo para Wall Street",
+        "summary": "Los indicadores de Nueva York avanzaron hasta 2%. El S&P Merval porteño ganó 1,7% y los bonos en dólares, un 0,4% en promedio",
+        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
         "source": "Infobae Economía",
-        "time": "29/06 14:45",
-        "iso_date": "2026-06-29T17:45:39+00:00",
+        "time": "29/06 17:38",
+        "iso_date": "2026-06-29T20:38:20+00:00",
         "tickers": [
           "AL30"
         ],
@@ -463,22 +451,22 @@
         "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
         "source": "Bloomberg Línea AR",
-        "time": "29/06 14:05",
-        "iso_date": "2026-06-29T17:05:47+00:00",
+        "time": "29/06 17:00",
+        "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "AL30",
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       },
       {
-        "title": "Mercados: suben las acciones argentinas y baja el riesgo país, en un inicio de semana positivo para Wall Street",
-        "summary": "Los indicadores de Nueva York avanzan hasta 1%. El S&P Merval porteño gana 1,8% y los bonos en dólares, un 0,5% en promedio",
-        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
+        "title": "Economía completó la colocación del Bonar 2028 y ya tiene casi todos los dólares para pagar el vencimiento del 9 de julio",
+        "summary": "Este lunes se llevó a cabo la segunda vuelta y la Secretaría de Finanzas obtuvo USD 100 millones. Cuánto hay en la cuenta del Tesoro y qué operación puede hacer el BCRA para los dólares que faltan",
+        "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-ya-tiene-casi-todos-los-dolares-para-pagar-el-vencimiento-del-9-de-julio/",
         "source": "Infobae Economía",
-        "time": "29/06 12:21",
-        "iso_date": "2026-06-29T15:21:37+00:00",
+        "time": "29/06 14:45",
+        "iso_date": "2026-06-29T17:45:39+00:00",
         "tickers": [
           "AL30"
         ],
@@ -527,12 +515,12 @@
         "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
         "source": "Bloomberg Línea AR",
-        "time": "29/06 14:05",
-        "iso_date": "2026-06-29T17:05:47+00:00",
+        "time": "29/06 17:00",
+        "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "AL30",
-          "GD30",
-          "BMA"
+          "BMA",
+          "GD30"
         ],
         "is_general": true
       }
