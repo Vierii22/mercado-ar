@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-29T19:19:53.040649",
-  "updated_str": "29/06/2026 19:19",
+  "updated_at": "2026-06-29T19:48:19.366979",
+  "updated_str": "29/06/2026 19:48",
   "cutoff_hours": 48,
-  "total_news": 153,
+  "total_news": 158,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,28 @@
         "summary": "Tras el repunte de marzo, el Indec dio a conocer que el Estimador Mensual de Actividad Económica (EMAE) tuvo una variación interanual positiva del 1,6% en el cuarto mes del año. Lo que espera Caputo para después de mayo",
         "link": "https://www.infobae.com/economia/2026/06/29/la-actividad-economica-cayo-15-en-abril-pero-se-mantuvo-por-encima-del-mismo-mes-del-ano-pasado/",
         "source": "Infobae Economía",
-        "time": "29/06 16:16",
-        "iso_date": "2026-06-29T19:16:04+00:00",
+        "time": "29/06 16:38",
+        "iso_date": "2026-06-29T19:38:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El BCRA admite que el crédito en pesos está rezagado, pero asegura que la mora llegó a su pico en el segundo trimestre",
+        "summary": "El presidente del BCRA, Vladimir Werning, señaló que los créditos en pesos esperan expandirse con cierto rezago tras alcanzar su pico de mora, mientras que la caída de la inversión en el primer trimestre sería solo temporal.",
+        "link": "https://www.ambito.com/economia/el-bcra-admite-que-el-credito-pesos-esta-rezagado-pero-asegura-que-la-mora-llego-su-pico-el-segundo-trimestre-n6293979",
+        "source": "Ámbito",
+        "time": "29/06 16:35",
+        "iso_date": "2026-06-29T19:35:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Santilli debuta como jefe de Gabinete frente a la celosa mirada de los Milei: la cita que marca un límite",
+        "summary": "Milei evalúa asistir personalmente al encuentro con legisladores que marcará el comienzo de la nueva etapa. La jura del nuevo jefe de Gabinete será este martes, con miembros del PRO presentes, pero el recambio comenzará con reuniones previas entre los equipos de Manuel Adorni ...",
+        "link": "https://www.cronista.com/economia-politica/santilli-debuta-como-jefe-de-gabinete-frente-a-la-celosa-mirada-de-los-milei-la-cita-que-marca-un-limite/",
+        "source": "El Cronista",
+        "time": "29/06 16:26",
+        "iso_date": "2026-06-29T19:26:08+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -73,8 +93,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -299,30 +319,6 @@
         "iso_date": "2026-06-29T05:10:06+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Mucho más territorio y dólares que Vaca Muerta: la agroindustria explica más del 70% de la exportación de la mitad de las provincias argentinas",
-        "summary": "Más aún, en nueve provincias las ventas externas del sector aportan más del 80% y en cinco de ellas más del 90%, precisa un informe privado",
-        "link": "https://www.infobae.com/economia/2026/06/29/mucho-mas-territorio-y-dolares-que-vaca-muerta-la-agroindustria-explica-mas-del-70-de-la-exportacion-de-la-mitad-de-las-provincias-argentinas/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:09",
-        "iso_date": "2026-06-29T05:09:53+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Caputo busca los últimos USD 100 millones con el Bonar 2028 para afrontar el pago de julio a bonistas",
-        "summary": "El ministro de Economía enfrenta la que podría ser la última colocación del bono en dólares. Cuántos dólares ya tiene en el Tesoro y lo que les podría faltar para el vencimiento con bonistas la semana que viene",
-        "link": "https://www.infobae.com/economia/2026/06/29/caputo-busca-los-ultimos-usd-100-millones-con-el-bonar-2028-para-afrontar-el-pago-de-julio-a-bonistas/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:09",
-        "iso_date": "2026-06-29T05:09:06+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -426,8 +422,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -442,8 +438,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       }
