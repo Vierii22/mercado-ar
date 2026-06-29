@@ -1,10 +1,85 @@
 {
-  "updated_at": "2026-06-29T17:27:42.584910",
-  "updated_str": "29/06/2026 17:27",
+  "updated_at": "2026-06-29T17:57:06.536839",
+  "updated_str": "29/06/2026 17:57",
   "cutoff_hours": 48,
-  "total_news": 137,
+  "total_news": 133,
   "news": {
     "GENERAL": [
+      {
+        "title": "Tenaris del Grupo Techint despidió a 150 empleados en Valentín Alsina",
+        "summary": "Los afectados forman parte del personal contratado, y no de la plantilla estable. Representan tes cuartas partes de los operarios que trabajan bajo esa modalidad. La decisión llega luego de que la empresa perdiera dos licitaciones privadas para participar de un megaproyecto de...",
+        "link": "https://www.infobae.com/economia/2026/06/29/tras-perder-dos-licitaciones-para-vaca-muerta-techint-despide-a-150-trabajadores-en-su-unica-planta-de-tubos-del-pais/",
+        "source": "Infobae Economía",
+        "time": "29/06 14:49",
+        "iso_date": "2026-06-29T17:49:08+00:00",
+        "tickers": [
+          "TECO2",
+          "TXAR"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 29 de junio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-29-junio-n6293852",
+        "source": "Ámbito Mercados",
+        "time": "29/06 14:47",
+        "iso_date": "2026-06-29T17:47:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Economía completó la colocación del Bonar 2028 y ya tiene casi todos los dólares para pagar el vencimiento del 9 de julio",
+        "summary": "Este lunes se llevó a cabo la segunda vuelta y la Secretaría de Finanzas obtuvo USD 100 millones. Cuánto hay en la cuenta del Tesoro y qué operación puede hacer el BCRA para los dólares que faltan",
+        "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-ya-tiene-casi-todos-los-dolares-para-pagar-el-vencimiento-del-9-de-julio/",
+        "source": "Infobae Economía",
+        "time": "29/06 14:45",
+        "iso_date": "2026-06-29T17:45:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Wall Street y el petróleo suben tras una nueva tregua entre EEUU e Irán y el fallo sobre la Reserva Federal",
+        "summary": "Los principales índices de Nueva York se recuperaron del desplome tecnológico de la semana pasada. Los precios del crudo moderaron sus ganancias tras confirmarse una ronda de negociaciones en Qatar tras los ataques del fin de semana",
+        "link": "https://www.infobae.com/america/mundo/2026/06/29/wall-street-y-el-petroleo-suben-tras-una-nueva-tregua-entre-eeuu-e-iran-y-el-fallo-sobre-la-reserva-federal/",
+        "source": "Infobae Economía",
+        "time": "29/06 14:43",
+        "iso_date": "2026-06-29T17:43:30+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy: a cuánto cotiza este lunes 29 de junio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-29-junio-n6293826",
+        "source": "Ámbito Mercados",
+        "time": "29/06 14:40",
+        "iso_date": "2026-06-29T17:40:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar blue hoy: a cuánto opera este lunes 29 de junio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-29-junio-n6293827",
+        "source": "Ámbito Mercados",
+        "time": "29/06 14:40",
+        "iso_date": "2026-06-29T17:40:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar oficial avanza y se enfila a cerrar junio con la mayor suba mensual en 11 meses",
+        "summary": "El tipo de cambio oficial ya supera el 5% de aumento en junio. Analistas atribuyen el movimiento a una combinación de factores externos y locales.",
+        "link": "https://www.ambito.com/finanzas/el-dolar-ya-roza-los-1500-y-se-encamina-cerrar-el-mes-su-mayor-valor-del-ano-n6293863",
+        "source": "Ámbito Mercados",
+        "time": "29/06 14:12",
+        "iso_date": "2026-06-29T17:12:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
         "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
@@ -13,25 +88,11 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Tras perder dos licitaciones para Vaca Muerta, Techint despide a 150 trabajadores en su única planta de tubos del país",
-        "summary": "Los afectados son personal contratado y representan tres cuartos de esa modalidad en la planta de Valentín Alsina, que desde abril ya venía con suspensiones por falta de contratos",
-        "link": "https://www.infobae.com/economia/2026/06/29/tras-perder-dos-licitaciones-para-vaca-muerta-techint-despide-a-150-trabajadores-en-su-unica-planta-de-tubos-del-pais/",
-        "source": "Infobae Economía",
-        "time": "29/06 14:00",
-        "iso_date": "2026-06-29T17:00:09+00:00",
-        "tickers": [
-          "TXAR",
-          "YPFD",
-          "TECO2"
-        ],
-        "is_general": false
       },
       {
         "title": "BCRA muestra poder de fuego adicional de US$20.000 millones para el “atípico” 2027 que prevé Caputo",
@@ -180,6 +241,16 @@
         "is_general": true
       },
       {
+        "title": "El dólar global retrocede en medio de las presiones inflacionarias en Estados Unidos",
+        "summary": "La divisa estadounidense cotiza a la baja este lunes, pero sigue rumbo a su mayor ganancia mensual en casi un año.",
+        "link": "https://www.ambito.com/uruguay/el-dolar-global-retrocede-medio-las-presiones-inflacionarias-estados-unidos-n6293861",
+        "source": "Ámbito Mercados",
+        "time": "29/06 08:03",
+        "iso_date": "2026-06-29T11:03:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "Qué impuestos eliminó Milei y cuáles explican más del 90% de la recaudación",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/que-impuestos-elimino-milei-y-cuales-explican-mas-del-90-de-la-recaudacion/",
@@ -252,97 +323,9 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Del conflicto en el Golfo Pérsico, el foco de análisis pasó ahora a la suba del dólar y hay optimismo en el panorama electoral",
-        "summary": "El nivel de riesgo país, el repunte del dólar y el clima político empezaron a ser cada vez más preponderantes para evaluar la marcha y las perspectivas de la economía",
-        "link": "https://www.infobae.com/economia/2026/06/29/del-conflicto-en-el-golfo-persico-el-foco-de-analisis-paso-ahora-a-la-suba-del-dolar-y-hay-optimismo-en-el-panorama-electoral/",
-        "source": "Infobae Economía",
-        "time": "29/06 01:27",
-        "iso_date": "2026-06-29T04:27:20+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La inflación se aceleró con la guerra en Irán: podrá la paz recuperar la calma",
-        "summary": "El acuerdo entre Estados Unidos e Irán comenzó a aliviar las expectativas de los mercados, pero la Reserva Federal mantiene la atención puesta en la inflación y no descarta una suba de tasas antes de fin de año.",
-        "link": "https://www.ambito.com/economia/la-inflacion-se-acelero-la-guerra-iran-podra-la-paz-recuperar-la-calma-n6293733",
-        "source": "Ámbito",
-        "time": "29/06 00:00",
-        "iso_date": "2026-06-29T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Recuerdos del Mundial 2026 por pocos dólares: los mejores souvenirs para traer sin vaciar tu billetera",
-        "summary": "Hay opciones oficiales con precios accesibles que te permiten volver con algún detalle del torneo sin tener que gastar una fortuna.",
-        "link": "https://www.ambito.com/economia/recuerdos-del-mundial-2026-pocos-dolares-los-mejores-souvenirs-traer-vaciar-tu-billetera-n6293150",
-        "source": "Ámbito",
-        "time": "28/06 23:00",
-        "iso_date": "2026-06-29T02:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei: “El riesgo país de mi gobierno, de esta gestión, es 60 puntos básicos”",
-        "summary": "El presidente aseguró que “liquidará” la inflación y que la economía ya entró en un sendero de crecimiento y “va a volar”, impulsada por consumo, inversión y exportaciones. Atribuyó las dificultades, que consideró superadas, a los “ataques” del año pasado",
-        "link": "https://www.infobae.com/economia/2026/06/29/javier-milei-el-riesgo-pais-de-mi-gobierno-de-esta-gestion-es-60-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "28/06 21:38",
-        "iso_date": "2026-06-29T00:38:56+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Karina Milei activa el operativo post Adorni: la reunión clave con legisladores para reordenar la agenda",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/karina-milei-activa-el-operativo-post-adorni-la-reunion-clave-con-legisladores-para-reordenar-la-agenda/",
-        "source": "El Cronista",
-        "time": "28/06 20:35",
-        "iso_date": "2026-06-28T23:35:55+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei confirmó la fusión del Ministerio del Interior con la Jefatura de Gabinete tras designar a Santilli",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/milei-tras-la-designacion-de-santilli-sigo-confiando-en-adorni/",
-        "source": "El Cronista",
-        "time": "28/06 20:30",
-        "iso_date": "2026-06-28T23:30:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Diego Santilli llegó a la Quinta de Olivos para la cumbre con Milei: se define el nuevo jefe de Gabinete",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/diego-santilli-llego-a-la-quinta-de-olivos-para-la-cumbre-con-milei-se-define-el-nuevo-jefe-de-gabinete/",
-        "source": "El Cronista",
-        "time": "28/06 19:29",
-        "iso_date": "2026-06-28T22:29:59+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
-      {
-        "title": "Tras perder dos licitaciones para Vaca Muerta, Techint despide a 150 trabajadores en su única planta de tubos del país",
-        "summary": "Los afectados son personal contratado y representan tres cuartos de esa modalidad en la planta de Valentín Alsina, que desde abril ya venía con suspensiones por falta de contratos",
-        "link": "https://www.infobae.com/economia/2026/06/29/tras-perder-dos-licitaciones-para-vaca-muerta-techint-despide-a-150-trabajadores-en-su-unica-planta-de-tubos-del-pais/",
-        "source": "Infobae Economía",
-        "time": "29/06 14:00",
-        "iso_date": "2026-06-29T17:00:09+00:00",
-        "tickers": [
-          "TXAR",
-          "YPFD",
-          "TECO2"
-        ],
-        "is_general": false
-      },
       {
         "title": "Dos gigantes internacionales se asocian con YPF para el millonario negocio del gas en Vaca Muerta",
         "summary": "La alianza busca acelerar la producción de los bloques de gas en la cuenca neuquina destinados a la exportación de gas natural licuado",
@@ -427,25 +410,24 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
     ],
     "TXAR": [
       {
-        "title": "Tras perder dos licitaciones para Vaca Muerta, Techint despide a 150 trabajadores en su única planta de tubos del país",
-        "summary": "Los afectados son personal contratado y representan tres cuartos de esa modalidad en la planta de Valentín Alsina, que desde abril ya venía con suspensiones por falta de contratos",
+        "title": "Tenaris del Grupo Techint despidió a 150 empleados en Valentín Alsina",
+        "summary": "Los afectados forman parte del personal contratado, y no de la plantilla estable. Representan tes cuartas partes de los operarios que trabajan bajo esa modalidad. La decisión llega luego de que la empresa perdiera dos licitaciones privadas para participar de un megaproyecto de...",
         "link": "https://www.infobae.com/economia/2026/06/29/tras-perder-dos-licitaciones-para-vaca-muerta-techint-despide-a-150-trabajadores-en-su-unica-planta-de-tubos-del-pais/",
         "source": "Infobae Economía",
-        "time": "29/06 14:00",
-        "iso_date": "2026-06-29T17:00:09+00:00",
+        "time": "29/06 14:49",
+        "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -453,22 +435,33 @@
     "ALUA": [],
     "TECO2": [
       {
-        "title": "Tras perder dos licitaciones para Vaca Muerta, Techint despide a 150 trabajadores en su única planta de tubos del país",
-        "summary": "Los afectados son personal contratado y representan tres cuartos de esa modalidad en la planta de Valentín Alsina, que desde abril ya venía con suspensiones por falta de contratos",
+        "title": "Tenaris del Grupo Techint despidió a 150 empleados en Valentín Alsina",
+        "summary": "Los afectados forman parte del personal contratado, y no de la plantilla estable. Representan tes cuartas partes de los operarios que trabajan bajo esa modalidad. La decisión llega luego de que la empresa perdiera dos licitaciones privadas para participar de un megaproyecto de...",
         "link": "https://www.infobae.com/economia/2026/06/29/tras-perder-dos-licitaciones-para-vaca-muerta-techint-despide-a-150-trabajadores-en-su-unica-planta-de-tubos-del-pais/",
         "source": "Infobae Economía",
-        "time": "29/06 14:00",
-        "iso_date": "2026-06-29T17:00:09+00:00",
+        "time": "29/06 14:49",
+        "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Economía completó la colocación del Bonar 2028 y ya tiene casi todos los dólares para pagar el vencimiento del 9 de julio",
+        "summary": "Este lunes se llevó a cabo la segunda vuelta y la Secretaría de Finanzas obtuvo USD 100 millones. Cuánto hay en la cuenta del Tesoro y qué operación puede hacer el BCRA para los dólares que faltan",
+        "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-ya-tiene-casi-todos-los-dolares-para-pagar-el-vencimiento-del-9-de-julio/",
+        "source": "Infobae Economía",
+        "time": "29/06 14:45",
+        "iso_date": "2026-06-29T17:45:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
         "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
@@ -477,9 +470,9 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -541,9 +534,9 @@
         "time": "29/06 14:05",
         "iso_date": "2026-06-29T17:05:47+00:00",
         "tickers": [
-          "AL30",
           "BMA",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
