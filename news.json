@@ -1,28 +1,56 @@
 {
-  "updated_at": "2026-06-29T14:12:00.657807",
-  "updated_str": "29/06/2026 14:12",
+  "updated_at": "2026-06-29T15:23:16.315976",
+  "updated_str": "29/06/2026 15:23",
   "cutoff_hours": 48,
-  "total_news": 114,
+  "total_news": 129,
   "news": {
     "GENERAL": [
       {
-        "title": "Dólar hoy: a cuánto cotiza este lunes 29 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-29-junio-n6293826",
-        "source": "Ámbito Mercados",
-        "time": "29/06 11:10",
-        "iso_date": "2026-06-29T14:10:00+00:00",
+        "title": "Mercados: suben las acciones argentinas y baja el riesgo país, en un inicio de semana positivo para Wall Street",
+        "summary": "Los indicadores de Nueva York avanzan hasta 1%. El S&P Merval porteño gana 1,8% y los bonos en dólares, un 0,5% en promedio",
+        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
+        "source": "Infobae Economía",
+        "time": "29/06 12:21",
+        "iso_date": "2026-06-29T15:21:37+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Impuesto al Cheque: ARCA habilita la exención para billeteras y proveedores cripto",
+        "summary": "El organismo hizo operativa, a través de una resolución general en el Boletín Oficial, una medida decretada hace diez días por el presidente Javier Milei.",
+        "link": "https://www.ambito.com/economia/impuesto-al-cheque-arca-habilita-la-exencion-billeteras-y-proveedores-cripto-n6293949",
+        "source": "Ámbito",
+        "time": "29/06 12:06",
+        "iso_date": "2026-06-29T15:06:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Dólar blue hoy: a cuánto opera este lunes 29 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-29-junio-n6293827",
-        "source": "Ámbito Mercados",
-        "time": "29/06 11:10",
-        "iso_date": "2026-06-29T14:10:00+00:00",
-        "tickers": [],
+        "title": "Dos gigantes internacionales se asocian con YPF para el millonario negocio del gas en Vaca Muerta",
+        "summary": "La alianza busca acelerar la producción de los bloques de gas en la cuenca neuquina destinados a la exportación de gas natural licuado",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/dos-gigantes-internacionales-se-asocian-con-ypf-para-el-millonario-negocio-del-gas-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 11:29",
+        "iso_date": "2026-06-29T14:29:44+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
+        "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 11:25",
+        "iso_date": "2026-06-29T14:25:03+00:00",
+        "tickers": [
+          "BMA",
+          "GD30",
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -30,22 +58,12 @@
         "summary": "La petrolera acordó la incorporación como accionistas de la italiana ENI y la emiratí XRG en la sociedad que desarrollará el plan",
         "link": "https://www.infobae.com/economia/2026/06/29/ypf-cerro-acuerdos-con-dos-empresas-para-avanzar-en-el-megaproyecto-de-exportacion-de-gas-licuado-argentino/",
         "source": "Infobae Economía",
-        "time": "29/06 11:03",
-        "iso_date": "2026-06-29T14:03:22+00:00",
+        "time": "29/06 11:10",
+        "iso_date": "2026-06-29T14:10:22+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 29 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-29-junio-n6293852",
-        "source": "Ámbito Mercados",
-        "time": "29/06 10:58",
-        "iso_date": "2026-06-29T13:58:00+00:00",
-        "tickers": [],
-        "is_general": true
       },
       {
         "title": "Banco Plata inicia contrataciones para lanzar casa de bolsa",
@@ -64,16 +82,6 @@
         "source": "Ámbito",
         "time": "29/06 10:35",
         "iso_date": "2026-06-29T13:35:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar abre a la baja pero se encamina a cerrar el mes en su mayor valor del año",
-        "summary": "El tipo de cambio oficial acumula siete ruedas consecutivas en alza y ya supera el 5% de aumento en junio. Analistas atribuyen el movimiento a una combinación de factores externos y locales.",
-        "link": "https://www.ambito.com/finanzas/el-dolar-ya-roza-los-1500-y-se-encamina-cerrar-el-mes-su-mayor-valor-del-ano-n6293863",
-        "source": "Ámbito Mercados",
-        "time": "29/06 10:34",
-        "iso_date": "2026-06-29T13:34:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -124,16 +132,6 @@
         "source": "Bloomberg Línea AR",
         "time": "29/06 08:24",
         "iso_date": "2026-06-29T11:24:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar global retrocede en medio de las presiones inflacionarias en Estados Unidos",
-        "summary": "La divisa estadounidense cotiza a la baja este lunes, pero sigue rumbo a su mayor ganancia mensual en casi un año.",
-        "link": "https://www.ambito.com/uruguay/el-dolar-global-retrocede-medio-las-presiones-inflacionarias-estados-unidos-n6293861",
-        "source": "Ámbito Mercados",
-        "time": "29/06 08:03",
-        "iso_date": "2026-06-29T11:03:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -234,36 +232,6 @@
         "is_general": true
       },
       {
-        "title": "Real blue: a cuánto opera el lunes 29 de junio",
-        "summary": "La cotización minuto a minuto para la compra y venta de la divisa brasileña en nuestro país.",
-        "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-el-lunes-29-junio-n6293810",
-        "source": "Ámbito Mercados",
-        "time": "29/06 00:00",
-        "iso_date": "2026-06-29T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este lunes 29 de junio",
-        "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-        "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-lunes-29-junio-n6293808",
-        "source": "Ámbito Mercados",
-        "time": "29/06 00:00",
-        "iso_date": "2026-06-29T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar blue hoy: a cuánto opera este domingo 28 de junio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-28-junio-n6293611",
-        "source": "Ámbito Mercados",
-        "time": "28/06 23:39",
-        "iso_date": "2026-06-29T02:39:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Recuerdos del Mundial 2026 por pocos dólares: los mejores souvenirs para traer sin vaciar tu billetera",
         "summary": "Hay opciones oficiales con precios accesibles que te permiten volver con algún detalle del torneo sin tener que gastar una fortuna.",
         "link": "https://www.ambito.com/economia/recuerdos-del-mundial-2026-pocos-dolares-los-mejores-souvenirs-traer-vaciar-tu-billetera-n6293150",
@@ -314,16 +282,70 @@
         "iso_date": "2026-06-28T22:29:59+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "Banco inglés en alerta a pesar del boom de buenas noticias para Milei: \"Los riesgos de reversión política y económica siguen elevados\"",
+        "summary": "EMFI Group ve un boom de buenas noticias para la economía argentina, pero advierte que el próximo test decisivo será el ciclo electoral de 2027.",
+        "link": "https://eleconomista.com.ar/finanzas/banco-ingles-alerta-pesar-boom-buenas-noticias-milei-los-riesgos-reversion-politica-economica-siguen-elevados-n96216",
+        "source": "El Economista",
+        "time": "28/06 18:06",
+        "iso_date": "2026-06-28T21:06:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei llega a la cumbre del Mercosur: el nuevo frente de tensión regional que enfrentará tras la salida de Adorni",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/milei-llega-a-la-cumbre-del-mercosur-el-nuevo-frente-de-tension-regional-que-enfrentara-tras-la-salida-de-adorni/",
+        "source": "El Cronista",
+        "time": "28/06 16:48",
+        "iso_date": "2026-06-28T19:48:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Adorni también dejará su lugar en el directorio de YPF: los pasos a seguir para su reemplazo",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/renuncia-de-adorni-el-exjefe-de-gabinete-tambien-dejara-su-lugar-en-el-directorio-de-ypf/",
+        "source": "El Cronista",
+        "time": "28/06 15:06",
+        "iso_date": "2026-06-28T18:06:47+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Primera señal de Milei tras la salida de Adorni: un posteo que mira al futuro y revive el aviso que anticipó la renuncia",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-primera-senal-de-milei-tras-la-salida-de-adorni-un-posteo-que-mira-al-futuro-y-recuerda-la-advertencia-que-anticipo-la-renuncia/",
+        "source": "El Cronista",
+        "time": "28/06 14:23",
+        "iso_date": "2026-06-28T17:23:04+00:00",
+        "tickers": [],
+        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Dos gigantes internacionales se asocian con YPF para el millonario negocio del gas en Vaca Muerta",
+        "summary": "La alianza busca acelerar la producción de los bloques de gas en la cuenca neuquina destinados a la exportación de gas natural licuado",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/dos-gigantes-internacionales-se-asocian-con-ypf-para-el-millonario-negocio-del-gas-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 11:29",
+        "iso_date": "2026-06-29T14:29:44+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF cerró acuerdos con dos empresas para avanzar en el megaproyecto de exportación de gas licuado argentino",
         "summary": "La petrolera acordó la incorporación como accionistas de la italiana ENI y la emiratí XRG en la sociedad que desarrollará el plan",
         "link": "https://www.infobae.com/economia/2026/06/29/ypf-cerro-acuerdos-con-dos-empresas-para-avanzar-en-el-megaproyecto-de-exportacion-de-gas-licuado-argentino/",
         "source": "Infobae Economía",
-        "time": "29/06 11:03",
-        "iso_date": "2026-06-29T14:03:22+00:00",
+        "time": "29/06 11:10",
+        "iso_date": "2026-06-29T14:10:22+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -380,12 +402,53 @@
     ],
     "GGAL": [],
     "PAMP": [],
-    "BMA": [],
+    "BMA": [
+      {
+        "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
+        "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 11:25",
+        "iso_date": "2026-06-29T14:25:03+00:00",
+        "tickers": [
+          "BMA",
+          "GD30",
+          "AL30"
+        ],
+        "is_general": true
+      }
+    ],
     "TXAR": [],
     "ALUA": [],
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: suben las acciones argentinas y baja el riesgo país, en un inicio de semana positivo para Wall Street",
+        "summary": "Los indicadores de Nueva York avanzan hasta 1%. El S&P Merval porteño gana 1,8% y los bonos en dólares, un 0,5% en promedio",
+        "link": "https://www.infobae.com/economia/2026/06/29/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-en-un-inicio-de-semana-positivo-para-wall-street/",
+        "source": "Infobae Economía",
+        "time": "29/06 12:21",
+        "iso_date": "2026-06-29T15:21:37+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
+        "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 11:25",
+        "iso_date": "2026-06-29T14:25:03+00:00",
+        "tickers": [
+          "BMA",
+          "GD30",
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Caputo busca los últimos USD 100 millones con el Bonar 2028 para afrontar el pago de julio a bonistas",
         "summary": "El ministro de Economía enfrenta la que podría ser la última colocación del bono en dólares. Cuántos dólares ya tiene en el Tesoro y lo que les podría faltar para el vencimiento con bonistas la semana que viene",
@@ -421,20 +484,23 @@
           "AL30"
         ],
         "is_general": true
-      },
+      }
+    ],
+    "GD30": [
       {
-        "title": "Semana financiera: las acciones argentinas se desplomaron y el dólar ratificó la senda alcista",
-        "summary": "El S&P Merval perdió 5% en pesos y 8% en dólares. En Wall Street títulos privado argentinos cedieron hasta 22%. Los bonos quedaron equilibrados, con un riesgo país en 437 puntos. El dólar subió 1%, a $1.495 en el Banco Nación, mientras que el BCRA compró USD 240 millones en el...",
-        "link": "https://www.infobae.com/economia/2026/06/27/semana-financiera-las-acciones-argentinas-se-desplomaron-y-el-dolar-ratifico-la-senda-alcista/",
-        "source": "Infobae Economía",
-        "time": "27/06 12:21",
-        "iso_date": "2026-06-27T15:21:19+00:00",
+        "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
+        "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/efecto-santilli-tras-la-salida-de-adorni-bonos-argentinos-suben-mas-que-pares-regionales/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/06 11:25",
+        "iso_date": "2026-06-29T14:25:03+00:00",
         "tickers": [
+          "BMA",
+          "GD30",
           "AL30"
         ],
         "is_general": true
       }
-    ],
-    "GD30": []
+    ]
   }
 }
