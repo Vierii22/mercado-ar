@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-30T20:26:13.972824",
-  "updated_str": "30/06/2026 20:26",
+  "updated_at": "2026-06-30T20:59:30.858017",
+  "updated_str": "30/06/2026 20:59",
   "summary": {
-    "change": -0.38,
-    "leader": "PAMP",
-    "leader_change": 0.98,
+    "change": -0.57,
+    "leader": "YPFD",
+    "leader_change": 0.78,
     "worst": "TXAR",
-    "worst_change": -2.22,
+    "worst_change": -3.07,
     "hot_count": 0,
     "cold_count": 2
   },
@@ -14,8 +14,8 @@
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 71225.0,
-      "change": 0.92,
+      "price": 71125.0,
+      "change": 0.78,
       "volume": 192317,
       "volume_ratio": 0.69,
       "hot": false,
@@ -30,21 +30,21 @@
         70750.0,
         70050.0,
         70575.0,
-        71225.0
+        71125.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 70680.0,
-      "ma20": 77672.5,
+      "ma5": 70660.0,
+      "ma20": 77667.5,
       "ma_cross": -1,
-      "score": 51,
+      "score": 50,
       "signal": "neutral"
     },
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 7810.0,
-      "change": -0.95,
+      "price": 7790.0,
+      "change": -1.2,
       "volume": 2884836,
       "volume_ratio": 0.8,
       "hot": false,
@@ -59,21 +59,21 @@
         7605.0,
         7715.0,
         7885.0,
-        7810.0
+        7790.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 7728.0,
-      "ma20": 7850.25,
+      "ma5": 7724.0,
+      "ma20": 7849.25,
       "ma_cross": -1,
-      "score": 38,
+      "score": 37,
       "signal": "baja"
     },
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": 5135.0,
-      "change": 0.98,
+      "price": 5120.0,
+      "change": 0.69,
       "volume": 817072,
       "volume_ratio": 0.72,
       "hot": false,
@@ -88,14 +88,14 @@
         4960.0,
         4972.5,
         5085.0,
-        5135.0
+        5120.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 5024.0,
-      "ma20": 5112.25,
+      "ma5": 5021.0,
+      "ma20": 5111.5,
       "ma_cross": -1,
-      "score": 52,
+      "score": 50,
       "signal": "neutral"
     },
     {
@@ -130,13 +130,14 @@
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
-      "price": 662.0,
-      "change": -2.22,
+      "price": 662.5,
+      "change": -3.07,
       "volume": 1453221,
-      "volume_ratio": 1.4,
+      "volume_ratio": 1.39,
       "hot": false,
       "cold": true,
       "trend": [
+        684.0,
         679.0,
         680.5,
         674.5,
@@ -145,15 +146,14 @@
         666.5,
         672.5,
         683.5,
-        677.0,
-        662.0
+        662.5
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 672.3,
-      "ma20": 681.88,
+      "ma5": 673.2,
+      "ma20": 682.6,
       "ma_cross": -1,
-      "score": 29,
+      "score": 23,
       "signal": "fuerte_baja"
     },
     {
