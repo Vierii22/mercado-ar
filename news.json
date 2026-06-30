@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-06-30T16:23:55.940726",
-  "updated_str": "30/06/2026 16:23",
+  "updated_at": "2026-06-30T16:35:03.506582",
+  "updated_str": "30/06/2026 16:35",
   "cutoff_hours": 48,
-  "total_news": 215,
+  "total_news": 217,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno busca retomar la agenda post Adorni: los récords de Caputo y los rojos pendientes",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-gobierno-busca-retomar-la-agenda-post-adorni-los-records-de-caputo-y-los-rojos-pendientes/",
+        "source": "El Cronista",
+        "time": "30/06 13:29",
+        "iso_date": "2026-06-30T16:29:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El Gobierno aprobó la adhesión al RIGI del proyecto Rincón de Aranda, en el que Pampa Energía invertirá USD 4.500 millones",
         "summary": "Es el vigésimo plan aprobado desde que se lanzó el Régimen de Incentivo a las Grandes Inversiones. El yacimiento de Vaca Muerta ya produce 27.000 barriles diarios de petróleo no convencional",
@@ -301,16 +311,6 @@
         "iso_date": "2026-06-30T05:39:37+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cuáles son los tres países europeos que más invierten en la Argentina y cuánto dinero dejaron en el país",
-        "summary": "La Unión Europea concentra 4 de cada 10 dólares de inversión extranjera radicada en el país y en 2025 alcanzó un récord histórico, según un informe de la Bolsa de Comercio de Rosario",
-        "link": "https://www.infobae.com/economia/2026/06/30/cuales-son-los-tres-paises-europeos-que-mas-invierten-en-la-argentina-y-cuanto-dinero-dejaron-en-el-pais/",
-        "source": "Infobae Economía",
-        "time": "30/06 02:39",
-        "iso_date": "2026-06-30T05:39:32+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -413,8 +413,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "BMA",
           "GD30",
+          "BMA",
           "AL30"
         ],
         "is_general": true
@@ -429,8 +429,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -445,8 +445,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -521,8 +521,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "BMA",
           "GD30",
+          "BMA",
           "AL30"
         ],
         "is_general": true
@@ -585,8 +585,8 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "BMA",
           "GD30",
+          "BMA",
           "AL30"
         ],
         "is_general": true
