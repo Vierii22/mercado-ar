@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-30T21:11:03.709213",
-  "updated_str": "30/06/2026 21:11",
+  "updated_at": "2026-06-30T21:23:51.583913",
+  "updated_str": "30/06/2026 21:23",
   "summary": {
-    "change": -0.45,
+    "change": -0.57,
     "leader": "YPFD",
     "leader_change": 0.78,
     "worst": "TXAR",
-    "worst_change": -2.14,
+    "worst_change": -3.07,
     "hot_count": 0,
     "cold_count": 2
   },
@@ -131,12 +131,13 @@
       "ticker": "TXAR",
       "name": "Ternium AR",
       "price": 662.5,
-      "change": -2.14,
+      "change": -3.07,
       "volume": 1453221,
-      "volume_ratio": 1.4,
+      "volume_ratio": 1.39,
       "hot": false,
       "cold": true,
       "trend": [
+        684.0,
         679.0,
         680.5,
         674.5,
@@ -145,15 +146,14 @@
         666.5,
         672.5,
         683.5,
-        677.0,
         662.5
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 672.4,
-      "ma20": 681.9,
+      "ma5": 673.2,
+      "ma20": 682.6,
       "ma_cross": -1,
-      "score": 30,
+      "score": 23,
       "signal": "fuerte_baja"
     },
     {
