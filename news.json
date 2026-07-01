@@ -1,10 +1,228 @@
 {
-  "updated_at": "2026-07-01T03:39:18.362349",
-  "updated_str": "01/07/2026 03:39",
+  "updated_at": "2026-07-01T12:39:24.141614",
+  "updated_str": "01/07/2026 12:39",
   "cutoff_hours": 48,
-  "total_news": 232,
+  "total_news": 248,
   "news": {
     "GENERAL": [
+      {
+        "title": "La inflación de la zona euro retrocede al 2,8% en junio tras cuatro meses al alza",
+        "summary": "Se desaceleró tras el 3,2% de mayo y estuvo por debajo de las previsiones del mercado. El dato marca el fin de cuatro meses de aumentos consecutivos, lo que podría reducir la urgencia del Banco Central Europeo para nuevas subidas de tipos de interés.",
+        "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-retrocede-al-28-junio-cuatro-meses-al-alza-n6294747",
+        "source": "Ámbito",
+        "time": "01/07 08:59",
+        "iso_date": "2026-07-01T11:59:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las consultoras anticipan una inflación de junio por debajo del 2% y el Gobierno espera confirmar la tendencia",
+        "summary": "Las principales consultoras privadas estiman que el Índice de Precios al Consumidor de junio se ubicará entre 1,8% y 1,9%, por debajo del registro de mayo",
+        "link": "https://www.infobae.com/economia/2026/07/01/las-consultoras-anticipan-una-inflacion-de-junio-por-debajo-del-2-y-el-gobierno-espera-confirmar-la-tendencia/",
+        "source": "Infobae Economía",
+        "time": "01/07 08:25",
+        "iso_date": "2026-07-01T11:25:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar fuerte golpeó a América Latina en el primer semestre: las monedas que ganaron y perdieron",
+        "summary": "El fortalecimiento del dólar no impactó por igual a América Latina: exportaciones, remesas, tasas de interés, elecciones y flujos de inversión marcaron el desempeño de las principales monedas de la región.",
+        "link": "https://www.bloomberglinea.com/mercados/dolar-fuerte-golpeo-a-america-latina-en-el-primer-semestre-las-monedas-que-ganaron-y-perdieron/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/07 08:00",
+        "iso_date": "2026-07-01T11:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar vs plazo fijo: cuál fue la mejor inversión en el primer semestre del año",
+        "summary": "El comportamiento del tipo de cambio y de las tasas de interés a lo largo de los últimos seis meses dejó rendimientos muy distintos entre las principales alternativas de ahorro. Qué instrumento dio más ganancias en junio",
+        "link": "https://www.infobae.com/economia/2026/07/01/dolar-vs-plazo-fijo-cual-fue-la-mejor-inversion-en-el-primer-semestre-del-ano/",
+        "source": "Infobae Economía",
+        "time": "01/07 07:37",
+        "iso_date": "2026-07-01T10:37:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Con Adorni fuera del Gobierno, Milei busca retomar la iniciativa: cómo le iría en un eventual balotaje con Kicillof",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/con-adorni-fuera-del-gobierno-milei-busca-retomar-la-iniciativa-como-le-iria-en-un-eventual-balotaje-con-kicillof/",
+        "source": "El Cronista",
+        "time": "01/07 07:10",
+        "iso_date": "2026-07-01T10:10:26+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Por qué la baja del riesgo país no alcanza para que Argentina vuelva a los mercados: la explicación del Gobierno",
+        "summary": "El secretario de Finanzas, Federico Furiase, destacó que la tasa de los bonos de Estados Unidos encarece la salida al mercado internacional. Las críticas a quienes pedían devaluar para que el Banco Central comprara reservas",
+        "link": "https://www.infobae.com/economia/2026/07/01/por-que-la-baja-del-riesgo-pais-no-alcanza-para-que-argentina-vuelva-a-los-mercados-la-explicacion-del-gobierno/",
+        "source": "Infobae Economía",
+        "time": "01/07 07:10",
+        "iso_date": "2026-07-01T10:10:15+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Mundial 2026: ¿puede la economía predecir los resultados del torneo?",
+        "summary": "Un modelo desarrollado por M&G combina datos macroeconómicos y ranking FIFA para proyectar el rendimiento de las selecciones. Contempla variables como población, inflación, PBI y estabilidad macro.",
+        "link": "https://www.ambito.com/economia/mundial-2026-puede-la-predecir-los-resultados-del-torneo-n6294599",
+        "source": "Ámbito",
+        "time": "01/07 07:00",
+        "iso_date": "2026-07-01T10:00:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Debutó Ravier, el nuevo vocero: el sello de Santiago Caputo para “desadornizar” la comunicación",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/debuto-ravier-el-nuevo-vocero-el-sello-de-santiago-caputo-para-desadornizar-la-comunicacion/",
+        "source": "El Cronista",
+        "time": "01/07 06:00",
+        "iso_date": "2026-07-01T09:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Deuda: cuánto debe cubrir el Gobierno hasta fin de año",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/deuda-cuanto-debe-cubrir-el-gobierno-hasta-fin-de-ano/",
+        "source": "El Cronista",
+        "time": "01/07 06:00",
+        "iso_date": "2026-07-01T09:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "En qué invertir en Argentina: los bonos que eligen los expertos para el segundo semestre",
+        "summary": "Analistas y brokers consultados por Bloomberg Línea compartieron sus expectativas para la renta fija argentina en este segundo semestre de 2026 y revelaron en qué instrumentos encuentran mayor valor.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/en-que-invertir-en-argentina-los-bonos-que-eligen-los-expertos-para-el-segundo-semestre/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/07 05:37",
+        "iso_date": "2026-07-01T08:37:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "En qué invertir en 2026: las acciones argentinas que eligen los expertos para el segundo semestre",
+        "summary": "Sectores del S&P Merval llegan al segundo semestre desde puntos de partida distintos y una performance reciente que muestra una marcada dispersión.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/en-que-invertir-en-2026-las-acciones-argentinas-que-eligen-los-expertos-para-el-segundo-semestre/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/07 04:39",
+        "iso_date": "2026-07-01T07:39:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Actividad económica en Argentina: qué esperan los analistas para la segunda mitad de 2026",
+        "summary": "Si bien hay sectores que dinamizan los indicadores generales de la actividad, la lenta recuperación de rubros vinculados al consumo doméstico plantea un desafío para el segundo semestre.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/actividad-economica-en-argentina-que-esperan-los-analistas-para-la-segunda-mitad-de-2026/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/07 04:00",
+        "iso_date": "2026-07-01T07:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cómo sigue la economía: se espera el repunte de los sectores “perdedores” para llegar a un crecimiento de 3% en 2026",
+        "summary": "Después de la caída de abril que divulgó el Indec se espera que mayo arroje una mejora de una magnitud similar. Se proyecta una inflación inferior al 2% para junio, ayudando al repunte",
+        "link": "https://www.infobae.com/economia/2026/07/01/como-sigue-la-economia-se-espera-el-repunte-de-los-sectores-perdedores-para-llegar-a-un-crecimiento-de-3-en-2026/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:54",
+        "iso_date": "2026-07-01T05:54:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Autos 0 km: en qué zonas se venden más y dónde las transacciones están frenadas y son más bajas que a comienzos de la década",
+        "summary": "Las cifras permiten medir el peso de la provincia de Buenos Aires, CABA y Córdoba, los tres distritos que dominan el mercado automotor. Neuquén y Jujuy sintieron la llegada del petróleo y el litio. Otras bajaron su cuota",
+        "link": "https://www.infobae.com/economia/2026/07/01/autos-0-km-en-que-zonas-se-venden-mas-y-donde-las-transacciones-estan-frenadas-y-son-mas-bajas-que-a-comienzos-de-la-decada/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:53",
+        "iso_date": "2026-07-01T05:53:40+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo",
+        "summary": "La formación neuquina explica cada vez una proporción mayor del total nacional, en un contexto de debate por la rentabilidad de los proyectos no convencionales",
+        "link": "https://www.infobae.com/economia/2026/07/01/por-el-boom-de-vaca-muerta-la-produccion-petrolera-supero-los-900000-barriles-diarios-y-marco-un-nuevo-record-en-mayo/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:52",
+        "iso_date": "2026-07-01T05:52:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Inflación de junio: por qué es un dato clave para el pago de Ganancias y el monotributo en el segundo semestre",
+        "summary": "En los próximos días, se conocerá de cuánto fue el aumento de precios en los primeros seis meses del año y con ello, lo que se deben ajustar los parámetros del impuesto y del Régimen de Pequeños Contribuyentes",
+        "link": "https://www.infobae.com/economia/2026/07/01/inflacion-de-junio-por-que-es-un-dato-clave-para-el-pago-de-ganancias-y-el-monotributo-en-el-segundo-semestre/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:52",
+        "iso_date": "2026-07-01T05:52:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Un factor externo potenció la caída del riesgo país, pero el dólar sigue firme y el Gobierno busca matizar la suba",
+        "summary": "La baja del riesgo país respondió al impacto de los bonos del Tesoro de Estados Unidos, mientras el Banco Central intensifica su presencia para evitar saltos bruscos en el tipo de cambio",
+        "link": "https://www.infobae.com/economia/2026/07/01/un-factor-externo-potencio-la-caida-del-riesgo-pais-pero-el-dolar-sigue-firme-y-el-gobierno-busca-matizar-la-suba/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:52",
+        "iso_date": "2026-07-01T05:52:07+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El Banco Central desaceleró la compra de dólares: junio fue el segundo mes con menores adquisiciones del año",
+        "summary": "La autoridad monetaria sumó más de USD 1.400 millones, lejos de los USD 2.500 millones de mayo. El motivo central detrás de la desaceleración del BCRA",
+        "link": "https://www.infobae.com/economia/2026/07/01/el-banco-central-desacelero-la-compra-de-dolares-junio-fue-el-segundo-mes-con-menores-adquisiciones-del-ano/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:51",
+        "iso_date": "2026-07-01T05:51:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Para llegar a ser un país normal es imposible que nada cambie",
+        "summary": "El repunte iniciado en el segundo trimestre de 2024 se apagó desde mediados del año pasado tras la fuga de capitales y la caída del consumo, con un salto inflacionario por menor demanda de pesos",
+        "link": "https://www.infobae.com/opinion/2026/07/01/para-llegar-a-ser-un-pais-normal-es-imposible-que-nada-cambie/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:51",
+        "iso_date": "2026-07-01T05:51:15+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "IPC de junio 2026: cuál es el número de inflación que esperan las consultoras",
+        "summary": "Los analistas del sector privado ya delinearon sus estimaciones para el índice de precios al consumidor de junio. Cuáles son las proyecciones.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipc-de-junio-2026-cual-es-el-numero-de-inflacion-que-esperan-las-consultoras/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/07 02:00",
+        "iso_date": "2026-07-01T05:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Diálogos de Wall Street: la embestida bull va por su cuarto año, ¿qué pasará con las tasas?",
+        "summary": "La Bolsa continúa en alza. El mercado bull cumplirá cuatro años en octubre. ¿Lo festejará junto con una suba de tasas? De momento, no pierde el sueño. ¿Qué es lo que alimenta la fortaleza de Wall Street, Gordon Gekko?",
+        "link": "https://www.ambito.com/economia/dialogos-wall-street-la-embestida-bull-va-su-cuarto-ano-que-pasara-las-tasas-n6294658",
+        "source": "Ámbito",
+        "time": "01/07 00:00",
+        "iso_date": "2026-07-01T03:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Guido Sandleris advirtió sobre el riesgo electoral: “La política puede impactar mucho en la economía en 2027″",
         "summary": "El ex titular del BCRA advirtió que, pese a bases económicas más sólidas bajo la gestión de Javier Milei, el bienestar de la población sigue siendo dispar y la estabilidad dependerá del clima político en el camino a 2027",
@@ -12,6 +230,16 @@
         "source": "Infobae Economía",
         "time": "30/06 21:11",
         "iso_date": "2026-07-01T00:11:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Evitá multas en dólares durante el Mundial 2026: las reglas de tránsito que tenes que conocer",
+        "summary": "Antes de viajar, tenés que revisar las disposiciones vigentes de cada sede para evitar sanciones y manejar sin sorpresas.",
+        "link": "https://www.ambito.com/economia/evita-multas-dolares-el-mundial-2026-las-reglas-transito-que-tenes-que-conocer-n6294221",
+        "source": "Ámbito",
+        "time": "30/06 21:00",
+        "iso_date": "2026-07-01T00:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -86,242 +314,23 @@
         "iso_date": "2026-06-30T21:18:17+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El Gobierno avanza con las concesiones viales y le otorgó a privados la operación de 1.871 kilómetros de rutas",
-        "summary": "Los tramos Pampa y Sur-Atlántico-Acceso Sur dejan de estar bajo control de la empresa estatal Corredores Viales y pasan a manos de los consorcios que se impusieron en la licitación de la Etapa II-A",
-        "link": "https://www.infobae.com/economia/2026/06/30/el-gobierno-avanza-con-las-concesiones-viales-y-le-otorgo-a-privados-la-operacion-de-1871-kilometros-de-rutas/",
-        "source": "Infobae Economía",
-        "time": "30/06 18:04",
-        "iso_date": "2026-06-30T21:04:20+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Dólar hoy en vivo: el minorista volvió a subir y alcanzó los $1.500 por primera vez en ocho meses",
-        "summary": "El billete al público ganó cinco pesos en el Banco Nación. El blue quedó pactado a $1.515. El BCRA compró USD 47 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/06/30/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-30-de-junio/",
-        "source": "Infobae Economía",
-        "time": "30/06 18:02",
-        "iso_date": "2026-06-30T21:02:43+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las exportaciones agroindustriales alcanzaron 53 millones de toneladas y u$s22.383 millones entre enero y mayo",
-        "summary": "El volumen exportado creció un 18% respecto del mismo período de 2025, con 35 de los 54 complejos analizados en alza. Girasol (+142%), trigo (+64%) y pesca (+18%) lideraron el salto, que el ministro Caputo celebró como una nueva marca histórica del campo.",
-        "link": "https://www.ambito.com/economia/las-exportaciones-agroindustriales-alcanzaron-53-millones-toneladas-y-us22383-millones-enero-y-mayo-n6294489",
-        "source": "Ámbito",
-        "time": "30/06 17:54",
-        "iso_date": "2026-06-30T20:54:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Créditos digitales, salarios bajos y empleo precario: por qué los jóvenes son los más expuestos al endeudamiento",
-        "summary": "Los menores de 35 años concentran el mayor nivel de morosidad del sistema financiero. En Infobae a la Tarde, Ricardo Delgado explicó cómo la caída del ingreso disponible y el acceso inmediato al financiamiento modificaron los hábitos de consumo y pago",
-        "link": "https://www.infobae.com/economia/2026/06/30/creditos-digitales-salarios-bajos-y-empleo-precario-por-que-los-jovenes-son-los-mas-expuestos-al-endeudamiento/",
-        "source": "Infobae Economía",
-        "time": "30/06 17:44",
-        "iso_date": "2026-06-30T20:44:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: Wall Street mantuvo el alza en zona récord, pero cayeron las acciones argentinas",
-        "summary": "Los índices de Nueva York subieron hasta 1,5% y el S&P 500 cerró su mejor trimestre en seis años. El S&P Merval bajó 0,3%. El riesgo país cedió a 426 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/06/30/mercados-wall-street-mantuvo-el-alza-en-zona-record-pero-cayeron-las-acciones-argentinas/",
-        "source": "Infobae Economía",
-        "time": "30/06 17:35",
-        "iso_date": "2026-06-30T20:35:16+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "S&P 500 marca su mejor trimestre desde 2020 y el petróleo sufre su mayor caída desde la pandemia",
-        "summary": "Los mercados operan con cautela en el cierre del trimestre, pendientes de la agenda económica, la temporada de resultados corporativos y las señales sobre las tasas de interés",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-con-pocos-cambios-mientras-el-sp-500-apunta-a-su-mejor-trimestre-desde-2020/",
-        "source": "Bloomberg Línea AR",
-        "time": "30/06 17:12",
-        "iso_date": "2026-06-30T20:12:32+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Indec publica el índice de Actividad Económica de abril: el gobierno espera que sea el último dato mensual negativo",
-        "summary": "Tras el repunte de marzo, entre los privados hay consenso de que el EMAE tuvo una recaída y hay una economía bifronte, con situaciones muy distinta por sector. Las medidas con las que aún no cuenta Caputo",
-        "link": "https://www.infobae.com/economia/2026/06/29/el-indec-publica-el-indice-de-actividad-economica-de-abril-el-gobierno-espera-que-sea-el-ultimo-dato-mensual-negativo/",
-        "source": "Infobae Economía",
-        "time": "30/06 16:47",
-        "iso_date": "2026-06-30T19:47:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Desde que asumió Javier Milei, más de 70.000 personas dejaron de trabajar para el Estado",
-        "summary": "El vocero presidencial, Adrián Ravier, aseguró que hubo más de 3.000 despidos en mayo en la administración central. En total, 3.983 personas adhirieron a planes de retiro voluntario en los últimos dos años y medio",
-        "link": "https://www.infobae.com/economia/2026/06/30/desde-que-asumio-javier-milei-mas-de-70000-personas-dejaron-de-trabajar-para-el-estado/",
-        "source": "Infobae Economía",
-        "time": "30/06 16:28",
-        "iso_date": "2026-06-30T19:28:35+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El nuevo tablero de Karina Milei en el Congreso: sesión en suspenso y reformas en stand by",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-nuevo-tablero-de-karina-milei-en-el-congreso-sesion-en-suspenso-y-las-reformas-en-stand-by/",
-        "source": "El Cronista",
-        "time": "30/06 16:02",
-        "iso_date": "2026-06-30T19:02:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cae 38% el petróleo, pero Vaca Muerta sigue firme: así son sus breakevens en dólares",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/cae-38-el-petroleo-pero-vaca-muerta-sigue-firme-asi-son-sus-breakevens-en-dolares/",
-        "source": "El Cronista",
-        "time": "30/06 16:01",
-        "iso_date": "2026-06-30T19:01:34+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El dólar subió 5% en junio y le ganó a la inflación por primera vez desde octubre de 2025",
-        "summary": "El billete al público alcanzó los 1.500 pesos en el Banco Nación, su precio más alto en ocho meses. En la rueda mayorista cerró a $1.482, con un importante volumen de contado por encima de los USD 800 millones",
-        "link": "https://www.infobae.com/economia/2026/06/30/el-dolar-subio-5-en-junio-y-le-gano-a-la-inflacion-por-primera-vez-desde-octubre-de-2025/",
-        "source": "Infobae Economía",
-        "time": "30/06 15:47",
-        "iso_date": "2026-06-30T18:47:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar en $ 1500: cómo es el ‘plan pyme’ del Gobierno para competir “sin devaluar”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/dolar-en-1500-como-es-el-plan-pyme-del-gobierno-para-competir-sin-devaluar/",
-        "source": "El Cronista",
-        "time": "30/06 15:42",
-        "iso_date": "2026-06-30T18:42:32+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cuánto aumentaron los autos 0 km en relación con el resto de los precios de la economía, según un informe privado",
-        "summary": "Una consultora tomó como referencia la información del Indec y del índice de precios del mercado automotor. Afirma que hubo una baja de precios relativos del 26%. Los motivos",
-        "link": "https://www.infobae.com/economia/2026/06/30/cuanto-aumentaron-los-autos-0-km-en-relacion-con-el-resto-de-los-precios-de-la-economia-segun-un-informe-privado/",
-        "source": "Infobae Economía",
-        "time": "30/06 15:38",
-        "iso_date": "2026-06-30T18:38:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólares del colchón: en qué se pueden usar, cuáles son los límites y qué operaciones conviene evitar",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/dolares-del-colchon-en-que-se-pueden-usar-cuales-son-los-limites-y-que-operaciones-conviene-evitar/",
-        "source": "El Cronista",
-        "time": "30/06 15:29",
-        "iso_date": "2026-06-30T18:29:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cuánto cobran los jubilados de Anses en julio 2026",
-        "summary": "Haberes, asignaciones y pensiones ajustan sus montos tras la publicación del último índice de inflación. El bono adicional espera confirmación oficial",
-        "link": "https://www.infobae.com/economia/2026/06/30/cuanto-cobran-los-jubilados-de-anses-en-julio-2026/",
-        "source": "Infobae Economía",
-        "time": "30/06 15:29",
-        "iso_date": "2026-06-30T18:29:03+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Banco central colombiano elevó tasas de interés a 12% en decisión dividida",
-        "summary": "La mayoría de la Junta decidió un incremento de 75 puntos básicos, mientras que 3 codirectores votaron por bajar 50 o dejarla inalterada.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/banco-central-colombiano-elevo-tasas-de-interes-a-12-en-decision-dividida/",
-        "source": "Bloomberg Línea AR",
-        "time": "30/06 15:25",
-        "iso_date": "2026-06-30T18:25:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La dura advertencia de Melconian a Milei: “La seca es fenomenal...”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-dura-advertencia-de-melconian-a-milei-algun-riesgo-va-a-tener-que-correr/",
-        "source": "El Cronista",
-        "time": "30/06 15:14",
-        "iso_date": "2026-06-30T18:14:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno aprobó la adhesión al RIGI del proyecto Rincón de Aranda, en el que Pampa Energía invertirá USD 4.500 millones",
-        "summary": "“La aprobación es muy importante porque nos permite acelerar las inversiones”, dijo Marcelo Mindlin, presidente de la compañía. Es el vigésimo plan aprobado desde que se lanzó el Régimen de Incentivo a las Grandes Inversiones. El yacimiento de Vaca Muerta ya produce 27.000 bar...",
-        "link": "https://www.infobae.com/economia/2026/06/30/el-gobierno-aprobo-la-adhesion-al-rigi-del-proyecto-rincon-de-aranda-en-el-que-pampa-energia-invertira-usd-4500-millones/",
-        "source": "Infobae Economía",
-        "time": "30/06 15:13",
-        "iso_date": "2026-06-30T18:13:28+00:00",
-        "tickers": [
-          "YPFD",
-          "PAMP"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La Justicia anuló un DNU sobre ciudadanía y le marcó un límite a Milei: qué consecuencias tiene",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-justicia-anulo-un-dnu-sobre-ciudadania-y-le-marco-un-limite-a-milei-que-consecuencias-tiene/",
-        "source": "El Cronista",
-        "time": "30/06 15:13",
-        "iso_date": "2026-06-30T18:13:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei participó de la fiesta del 4 de julio en la embajada y se pone en duda su viaje",
-        "summary": "El Presidente participa esta noche del festejo por los 250 años de la independencia estadounidense en la embajada de EE.UU. Está confirmada su participación en el acto del 9 de julio en Tucumán. El operativo para el 4 de julio en Washington, dado por confirmado semanas atrás, ...",
-        "link": "https://www.cronista.com/economia-politica/milei-participa-a-la-noche-de-un-festejo-por-el-4-de-julio-y-se-pone-en-duda-su-viaje-a-eeuu/",
-        "source": "El Cronista",
-        "time": "30/06 14:15",
-        "iso_date": "2026-06-30T17:15:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar volvió a $1.500: ¿hora de comprar o de vender?",
-        "summary": "La cotización de la divisa estadounidense reaviva el debate sobre las estrategias de cobertura y resguardo en un mercado marcado por la volatilidad y los cambios de ciclo",
-        "link": "https://www.infobae.com/economia/2026/06/30/el-dolar-volvio-a-1500-hora-de-comprar-o-de-vender/",
-        "source": "Infobae Economía",
-        "time": "30/06 14:01",
-        "iso_date": "2026-06-30T17:01:31+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Carlos Melconian cruzó a Javier Milei por el plan económico: \"Los dólares de Vaca Muerta terminan en Miami\"",
-        "summary": "Afirmó que \"estamos en una economía gris\" y de dos velocidades distintas. Además, hizo hincapié en la disyuntiva entre inflación y actividad que el Gobierno deberá resolver de cara al año electoral que se avecina.",
-        "link": "https://www.ambito.com/economia/carlos-melconian-cruzo-javier-milei-el-plan-economico-los-dolares-vaca-muerta-terminan-miami-n6294453",
-        "source": "Ámbito",
-        "time": "30/06 13:56",
-        "iso_date": "2026-06-30T16:56:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
       {
-        "title": "Cae 38% el petróleo, pero Vaca Muerta sigue firme: así son sus breakevens en dólares",
+        "title": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo",
+        "summary": "La formación neuquina explica cada vez una proporción mayor del total nacional, en un contexto de debate por la rentabilidad de los proyectos no convencionales",
+        "link": "https://www.infobae.com/economia/2026/07/01/por-el-boom-de-vaca-muerta-la-produccion-petrolera-supero-los-900000-barriles-diarios-y-marco-un-nuevo-record-en-mayo/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:52",
+        "iso_date": "2026-07-01T05:52:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cae 38% el petróleo, pero Vaca Muerta sigue firme: así son sus breakevens",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/cae-38-el-petroleo-pero-vaca-muerta-sigue-firme-asi-son-sus-breakevens-en-dolares/",
         "source": "El Cronista",
@@ -330,7 +339,7 @@
         "tickers": [
           "YPFD"
         ],
-        "is_general": true
+        "is_general": false
       },
       {
         "title": "El Gobierno aprobó la adhesión al RIGI del proyecto Rincón de Aranda, en el que Pampa Energía invertirá USD 4.500 millones",
@@ -340,8 +349,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -404,18 +413,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Mucho más territorio y dólares que Vaca Muerta: la agroindustria explica más del 70% de la exportación de la mitad de las provincias argentinas",
-        "summary": "Más aún, en nueve provincias las ventas externas del sector aportan más del 80% y en cinco de ellas más del 90%, precisa un informe privado",
-        "link": "https://www.infobae.com/economia/2026/06/29/mucho-mas-territorio-y-dolares-que-vaca-muerta-la-agroindustria-explica-mas-del-70-de-la-exportacion-de-la-mitad-de-las-provincias-argentinas/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:09",
-        "iso_date": "2026-06-29T05:09:53+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "GGAL": [],
@@ -440,13 +437,37 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
     ],
     "BMA": [
+      {
+        "title": "Mundial 2026: ¿puede la economía predecir los resultados del torneo?",
+        "summary": "Un modelo desarrollado por M&G combina datos macroeconómicos y ranking FIFA para proyectar el rendimiento de las selecciones. Contempla variables como población, inflación, PBI y estabilidad macro.",
+        "link": "https://www.ambito.com/economia/mundial-2026-puede-la-predecir-los-resultados-del-torneo-n6294599",
+        "source": "Ámbito",
+        "time": "01/07 07:00",
+        "iso_date": "2026-07-01T10:00:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Mundial 2026: ¿puede la economía predecir los resultados del torneo?",
+        "summary": "Un modelo desarrollado por M&G combina datos macroeconómicos y ranking FIFA para proyectar el rendimiento de las selecciones. Contempla variables como población, inflación, PBI y estabilidad macro.",
+        "link": "https://www.ambito.com/economia/mundial-2026-puede-la-predecir-los-resultados-del-torneo-n6294599",
+        "source": "Ámbito Mercados",
+        "time": "01/07 07:00",
+        "iso_date": "2026-07-01T10:00:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
       {
         "title": "¿Efecto Santilli? Tras la salida de Adorni, bonos argentinos suben más que pares regionales",
         "summary": "Los Globales argentinos operaban al alza este lunes y acumulaban ganancias de más de 4% en junio. Analistas debaten cuánto pesó el recambio en la Jefatura de Gabinete y cuánto la mejora macro.",
@@ -456,8 +477,8 @@
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "BMA",
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
@@ -471,8 +492,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -487,14 +508,38 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TXAR",
-          "TECO2"
+          "TECO2",
+          "TXAR"
         ],
         "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Por qué la baja del riesgo país no alcanza para que Argentina vuelva a los mercados: la explicación del Gobierno",
+        "summary": "El secretario de Finanzas, Federico Furiase, destacó que la tasa de los bonos de Estados Unidos encarece la salida al mercado internacional. Las críticas a quienes pedían devaluar para que el Banco Central comprara reservas",
+        "link": "https://www.infobae.com/economia/2026/07/01/por-que-la-baja-del-riesgo-pais-no-alcanza-para-que-argentina-vuelva-a-los-mercados-la-explicacion-del-gobierno/",
+        "source": "Infobae Economía",
+        "time": "01/07 07:10",
+        "iso_date": "2026-07-01T10:10:15+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Un factor externo potenció la caída del riesgo país, pero el dólar sigue firme y el Gobierno busca matizar la suba",
+        "summary": "La baja del riesgo país respondió al impacto de los bonos del Tesoro de Estados Unidos, mientras el Banco Central intensifica su presencia para evitar saltos bruscos en el tipo de cambio",
+        "link": "https://www.infobae.com/economia/2026/07/01/un-factor-externo-potencio-la-caida-del-riesgo-pais-pero-el-dolar-sigue-firme-y-el-gobierno-busca-matizar-la-suba/",
+        "source": "Infobae Economía",
+        "time": "01/07 02:52",
+        "iso_date": "2026-07-01T05:52:07+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Wall Street coronó su mejor trimestre en seis años, las acciones argentinas cayeron y volvió a bajar el riesgo país",
         "summary": "Los índices de Nueva York subieron hasta 1,5%. El S&P Merval bajó 0,3% y los ADR tuvieron mayoría de pérdidas. El dólar en el Banco Nación alcanzó los $1.500 por primera vez en ocho meses. El BCRA compró USD 47 millones en el mercado",
@@ -588,8 +633,8 @@
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "BMA",
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -600,30 +645,6 @@
         "source": "Infobae Economía",
         "time": "29/06 14:45",
         "iso_date": "2026-06-29T17:45:39+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Caputo busca los últimos USD 100 millones con el Bonar 2028 para afrontar el pago de julio a bonistas",
-        "summary": "El ministro de Economía enfrenta la que podría ser la última colocación del bono en dólares. Cuántos dólares ya tiene en el Tesoro y lo que les podría faltar para el vencimiento con bonistas la semana que viene",
-        "link": "https://www.infobae.com/economia/2026/06/29/caputo-busca-los-ultimos-usd-100-millones-con-el-bonar-2028-para-afrontar-el-pago-de-julio-a-bonistas/",
-        "source": "Infobae Economía",
-        "time": "29/06 02:09",
-        "iso_date": "2026-06-29T05:09:06+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Del conflicto en el Golfo Pérsico, el foco de análisis pasó ahora a la suba del dólar y hay optimismo en el panorama electoral",
-        "summary": "El nivel de riesgo país, el repunte del dólar y el clima político empezaron a ser cada vez más preponderantes para evaluar la marcha y las perspectivas de la economía",
-        "link": "https://www.infobae.com/economia/2026/06/29/del-conflicto-en-el-golfo-persico-el-foco-de-analisis-paso-ahora-a-la-suba-del-dolar-y-hay-optimismo-en-el-panorama-electoral/",
-        "source": "Infobae Economía",
-        "time": "29/06 01:27",
-        "iso_date": "2026-06-29T04:27:20+00:00",
         "tickers": [
           "AL30"
         ],
@@ -640,8 +661,8 @@
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "BMA",
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
