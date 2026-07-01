@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-07-01T19:16:13.960352",
-  "updated_str": "01/07/2026 19:16",
+  "updated_at": "2026-07-01T19:43:54.834492",
+  "updated_str": "01/07/2026 19:43",
   "cutoff_hours": 48,
-  "total_news": 255,
+  "total_news": 254,
   "news": {
     "GENERAL": [
+      {
+        "title": "Por qué el Gobierno quiere cambiar la Carta Orgánica del Banco Central que el kirchnerismo reformó en 2012",
+        "summary": "Milei quiere revertir los cambios impulsados en 2012 y que facilitaron el financiamiento al Tesoro mediante emisión monetaria. La iniciativa apunta a restablecer el mandato original de preservar el valor de la moneda",
+        "link": "https://www.infobae.com/economia/2026/07/01/por-que-el-gobierno-quiere-cambiar-la-carta-organica-del-banco-central-que-el-kirchnerismo-reformo-en-2012/",
+        "source": "Infobae Economía",
+        "time": "01/07 16:26",
+        "iso_date": "2026-07-01T19:26:13+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Un banco público lanzó un nuevo plan para regularizar deudas en mora: cómo funciona y quiénes pueden acceder",
+        "summary": "El Banco Provincia presentó “Ponete al día”, un programa que ofrece reducción de tasas y plazos extendidos para facilitar la regularización de deudas de clientes en mora, con foco en sectores vulnerables",
+        "link": "https://www.infobae.com/economia/2026/07/01/un-banco-publico-lanzo-un-nuevo-plan-para-regularizar-deudas-en-mora-como-funciona-y-quienes-pueden-acceder/",
+        "source": "Infobae Economía",
+        "time": "01/07 16:17",
+        "iso_date": "2026-07-01T19:17:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este miércoles 1 de julio",
         "summary": "El billete al público subió a $1.510 para la venta en el Banco Nación, un precio máximo en ocho meses. El blue estuvo pactado a $1.525",
@@ -72,16 +92,6 @@
         "source": "Bloomberg Línea AR",
         "time": "01/07 14:40",
         "iso_date": "2026-07-01T17:40:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por qué el Gobierno quiere cambiar la Carta Orgánica del Banco Central que el kirchnerismo reformó en 2012",
-        "summary": "Milei quier revertir los cambios impulsados en 2012 y que facilitaron el financiamiento al Tesoro mediante emisión monetaria. La iniciativa apunta a restablecer el mandato original de preservar el valor de la moneda",
-        "link": "https://www.infobae.com/economia/2026/07/01/por-que-el-gobierno-quiere-cambiar-la-carta-organica-del-banco-central-que-el-kirchnerismo-reformo-en-2012/",
-        "source": "Infobae Economía",
-        "time": "01/07 14:07",
-        "iso_date": "2026-07-01T17:07:23+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -303,16 +313,6 @@
         "iso_date": "2026-07-01T07:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cómo sigue la economía: se espera el repunte de los sectores “perdedores” para llegar a un crecimiento de 3% en 2026",
-        "summary": "Después de la caída de abril que divulgó el Indec se espera que mayo arroje una mejora de una magnitud similar. Se proyecta una inflación inferior al 2% para junio, ayudando al repunte",
-        "link": "https://www.infobae.com/economia/2026/07/01/como-sigue-la-economia-se-espera-el-repunte-de-los-sectores-perdedores-para-llegar-a-un-crecimiento-de-3-en-2026/",
-        "source": "Infobae Economía",
-        "time": "01/07 02:54",
-        "iso_date": "2026-07-01T05:54:22+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -348,8 +348,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -401,8 +401,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
