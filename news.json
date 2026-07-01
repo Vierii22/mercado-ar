@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-07-01T17:06:48.245327",
-  "updated_str": "01/07/2026 17:06",
+  "updated_at": "2026-07-01T17:26:53.260123",
+  "updated_str": "01/07/2026 17:26",
   "cutoff_hours": 48,
-  "total_news": 270,
+  "total_news": 268,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 1 de julio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-1-julio-n6294725",
+        "source": "Ámbito Mercados",
+        "time": "01/07 14:22",
+        "iso_date": "2026-07-01T17:22:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Por qué el Gobierno quiere cambiar la Carta Orgánica del Banco Central que el kirchnerismo reformó en 2012",
+        "summary": "Milei quier revertir los cambios impulsados en 2012 y que facilitaron el financiamiento al Tesoro mediante emisión monetaria. La iniciativa apunta a restablecer el mandato original de preservar el valor de la moneda",
+        "link": "https://www.infobae.com/economia/2026/07/01/por-que-el-gobierno-quiere-cambiar-la-carta-organica-del-banco-central-que-el-kirchnerismo-reformo-en-2012/",
+        "source": "Infobae Economía",
+        "time": "01/07 14:07",
+        "iso_date": "2026-07-01T17:07:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar blue hoy: a cuánto opera este miércoles 1 de julio",
         "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
@@ -22,16 +42,6 @@
         "source": "Ámbito Mercados",
         "time": "01/07 14:03",
         "iso_date": "2026-07-01T17:03:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 1 de julio",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-1-julio-n6294725",
-        "source": "Ámbito Mercados",
-        "time": "01/07 14:01",
-        "iso_date": "2026-07-01T17:01:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -303,16 +313,6 @@
         "iso_date": "2026-07-01T07:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cómo sigue la economía: se espera el repunte de los sectores “perdedores” para llegar a un crecimiento de 3% en 2026",
-        "summary": "Después de la caída de abril que divulgó el Indec se espera que mayo arroje una mejora de una magnitud similar. Se proyecta una inflación inferior al 2% para junio, ayudando al repunte",
-        "link": "https://www.infobae.com/economia/2026/07/01/como-sigue-la-economia-se-espera-el-repunte-de-los-sectores-perdedores-para-llegar-a-un-crecimiento-de-3-en-2026/",
-        "source": "Infobae Economía",
-        "time": "01/07 02:54",
-        "iso_date": "2026-07-01T05:54:22+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -348,8 +348,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -413,8 +413,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -440,9 +440,9 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "BMA",
           "AL30",
-          "GD30"
+          "GD30",
+          "BMA"
         ],
         "is_general": true
       }
@@ -456,8 +456,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -485,8 +485,8 @@
         "time": "29/06 14:49",
         "iso_date": "2026-06-29T17:49:08+00:00",
         "tickers": [
-          "TECO2",
-          "TXAR"
+          "TXAR",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -621,9 +621,9 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "BMA",
           "AL30",
-          "GD30"
+          "GD30",
+          "BMA"
         ],
         "is_general": true
       },
@@ -649,9 +649,9 @@
         "time": "29/06 17:00",
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
-          "BMA",
           "AL30",
-          "GD30"
+          "GD30",
+          "BMA"
         ],
         "is_general": true
       }
