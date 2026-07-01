@@ -1,17 +1,57 @@
 {
-  "updated_at": "2026-07-01T18:26:27.513604",
-  "updated_str": "01/07/2026 18:26",
+  "updated_at": "2026-07-01T19:00:51.264938",
+  "updated_str": "01/07/2026 19:00",
   "cutoff_hours": 48,
-  "total_news": 254,
+  "total_news": 255,
   "news": {
     "GENERAL": [
       {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este miércoles 1 de julio",
-        "summary": "El billete al público subió a $1.510 para la venta en el Banco Nación, un precio máximo en ocho meses. El blue es pactado a $1.525",
+        "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este miércoles 1 de julio",
+        "summary": "El billete al público subió a $1.510 para la venta en el Banco Nación, un precio máximo en ocho meses. El blue estuvo pactado a $1.525",
         "link": "https://www.infobae.com/economia/2026/07/01/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-1-de-julio/",
         "source": "Infobae Economía",
-        "time": "01/07 15:06",
-        "iso_date": "2026-07-01T18:06:30+00:00",
+        "time": "01/07 15:51",
+        "iso_date": "2026-07-01T18:51:11+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las Siete Magníficas ya no lideran Wall Street y el mercado gira hacia otras acciones",
+        "summary": "Freedom Capital Markets sostiene que el liderazgo del mercado se ha desplazado hacia las compañías que suministran la infraestructura para la inteligencia artificial.",
+        "link": "https://www.bloomberglinea.com/mercados/las-siete-magnificas-ya-no-lideran-wall-street-y-el-mercado-gira-hacia-otras-acciones/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/07 15:50",
+        "iso_date": "2026-07-01T18:50:38+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar subió por tercer día seguido y se consolida por encima de $1.500",
+        "summary": "El billete al público se negoció a $1.510 y ganó 10 pesos, en un nuevo máximo desde el 24 de octubre. El mayorista subió a $1.489, en una plaza con alta demanda y un alto monto de operaciones por encima de los USD 800 millones",
+        "link": "https://www.infobae.com/economia/2026/07/01/el-dolar-subio-por-tercer-dia-seguido-y-se-consolida-por-encima-de-1500/",
+        "source": "Infobae Economía",
+        "time": "01/07 15:44",
+        "iso_date": "2026-07-01T18:44:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Banco Provincia bajó las tasas para refinanciar deudas",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/banco-provincia-bajo-las-tasas-para-refinanciar-deudas/",
+        "source": "El Cronista",
+        "time": "01/07 15:43",
+        "iso_date": "2026-07-01T18:43:43+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cómo refinanciar deudas con el Banco Provincia",
+        "summary": "La banca pública bonaerense mejoró las condiciones de plazos y tasas para el programa de refinanciación de deudas que lanzó a comienzos de año.",
+        "link": "https://eleconomista.com.ar/finanzas/como-refinanciar-deudas-banco-provincia-n96348",
+        "source": "El Economista",
+        "time": "01/07 15:43",
+        "iso_date": "2026-07-01T18:43:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -42,16 +82,6 @@
         "source": "Infobae Economía",
         "time": "01/07 14:07",
         "iso_date": "2026-07-01T17:07:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las Siete Magníficas ya no lideran Wall Street y el mercado gira hacia otras acciones",
-        "summary": "Freedom Capital Markets sostiene que el liderazgo del mercado se ha desplazado hacia las compañías que suministran la infraestructura para la inteligencia artificial.",
-        "link": "https://www.bloomberglinea.com/mercados/las-siete-magnificas-ya-no-lideran-wall-street-y-el-mercado-gira-hacia-otras-acciones/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/07 13:07",
-        "iso_date": "2026-07-01T16:07:43+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -145,8 +175,8 @@
         "time": "01/07 09:52",
         "iso_date": "2026-07-01T12:52:48+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -283,38 +313,6 @@
         "iso_date": "2026-07-01T05:54:22+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Autos 0 km: en qué zonas se venden más y dónde las transacciones están frenadas y son más bajas que a comienzos de la década",
-        "summary": "Las cifras permiten medir el peso de la provincia de Buenos Aires, CABA y Córdoba, los tres distritos que dominan el mercado automotor. Neuquén y Jujuy sintieron la llegada del petróleo y el litio. Otras bajaron su cuota",
-        "link": "https://www.infobae.com/economia/2026/07/01/autos-0-km-en-que-zonas-se-venden-mas-y-donde-las-transacciones-estan-frenadas-y-son-mas-bajas-que-a-comienzos-de-la-decada/",
-        "source": "Infobae Economía",
-        "time": "01/07 02:53",
-        "iso_date": "2026-07-01T05:53:40+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo",
-        "summary": "La formación neuquina explica cada vez una proporción mayor del total nacional, en un contexto de debate por la rentabilidad de los proyectos no convencionales",
-        "link": "https://www.infobae.com/economia/2026/07/01/por-el-boom-de-vaca-muerta-la-produccion-petrolera-supero-los-900000-barriles-diarios-y-marco-un-nuevo-record-en-mayo/",
-        "source": "Infobae Economía",
-        "time": "01/07 02:52",
-        "iso_date": "2026-07-01T05:52:50+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Inflación de junio: por qué es un dato clave para el pago de Ganancias y el monotributo en el segundo semestre",
-        "summary": "En los próximos días, se conocerá de cuánto fue el aumento de precios en los primeros seis meses del año y con ello, lo que se deben ajustar los parámetros del impuesto y del Régimen de Pequeños Contribuyentes",
-        "link": "https://www.infobae.com/economia/2026/07/01/inflacion-de-junio-por-que-es-un-dato-clave-para-el-pago-de-ganancias-y-el-monotributo-en-el-segundo-semestre/",
-        "source": "Infobae Economía",
-        "time": "01/07 02:52",
-        "iso_date": "2026-07-01T05:52:25+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -350,8 +348,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -378,8 +376,8 @@
         "time": "01/07 09:52",
         "iso_date": "2026-07-01T12:52:48+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -403,8 +401,8 @@
         "time": "30/06 15:13",
         "iso_date": "2026-06-30T18:13:28+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -443,8 +441,8 @@
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "GD30",
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
@@ -460,8 +458,8 @@
         "time": "01/07 09:52",
         "iso_date": "2026-07-01T12:52:48+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -597,8 +595,8 @@
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "GD30",
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
@@ -613,8 +611,8 @@
         "iso_date": "2026-06-29T20:00:47+00:00",
         "tickers": [
           "GD30",
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
