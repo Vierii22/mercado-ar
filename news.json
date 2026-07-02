@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-02T18:15:49.018094",
-  "updated_str": "02/07/2026 18:15",
+  "updated_at": "2026-07-02T18:27:38.122293",
+  "updated_str": "02/07/2026 18:27",
   "cutoff_hours": 48,
-  "total_news": 235,
+  "total_news": 234,
   "news": {
     "GENERAL": [
+      {
+        "title": "El dólar oficial retrocedió tras cinco jornadas y extendió la brecha con el CCL",
+        "summary": "Tras cerrar junio con su mayor avance mensual del año, el tipo de cambio oficial cayó por primera vez en julio, pero se mantuvo cerca de máximos desde noviembre de 2025.",
+        "link": "https://www.ambito.com/finanzas/el-dolar-mantiene-la-racha-alcista-al-inicio-del-mes-y-el-mercado-ya-pone-la-mira-un-nuevo-equilibrio-cambiario-n6295210",
+        "source": "Ámbito Mercados",
+        "time": "02/07 15:22",
+        "iso_date": "2026-07-02T18:22:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy: a cuánto cotiza este jueves 2 de julio",
         "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
@@ -72,16 +82,6 @@
         "source": "El Cronista",
         "time": "02/07 13:56",
         "iso_date": "2026-07-02T16:56:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar oficial encadena su cuarta suba al hilo y renueva máximos anuales",
-        "summary": "Tras cerrar junio con su mayor avance mensual del año, el tipo de cambio oficial volvió a subir en el inicio de julio y alcanzó máximos desde noviembre de 2025.",
-        "link": "https://www.ambito.com/finanzas/el-dolar-mantiene-la-racha-alcista-al-inicio-del-mes-y-el-mercado-ya-pone-la-mira-un-nuevo-equilibrio-cambiario-n6295210",
-        "source": "Ámbito Mercados",
-        "time": "02/07 13:28",
-        "iso_date": "2026-07-02T16:28:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -165,8 +165,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -361,8 +361,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -391,8 +391,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       }
