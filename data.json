@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-01T23:04:57.230855",
-  "updated_str": "01/07/2026 23:04",
+  "updated_at": "2026-07-02T03:24:41.307091",
+  "updated_str": "02/07/2026 03:24",
   "summary": {
-    "change": -1.22,
+    "change": NaN,
     "leader": "TXAR",
     "leader_change": 0.3,
     "worst": "BMA",
@@ -43,8 +43,8 @@
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 7685.0,
-      "change": -1.35,
+      "price": NaN,
+      "change": NaN,
       "volume": 2268025,
       "volume_ratio": 0.64,
       "hot": false,
@@ -59,15 +59,15 @@
         7715.0,
         7885.0,
         7790.0,
-        7685.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 7736.0,
-      "ma20": 7866.0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 36,
-      "signal": "baja"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "PAMP",

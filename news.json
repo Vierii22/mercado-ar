@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-07-01T23:05:07.452338",
-  "updated_str": "01/07/2026 23:05",
+  "updated_at": "2026-07-02T03:24:53.424496",
+  "updated_str": "02/07/2026 03:24",
   "cutoff_hours": 48,
   "total_news": 254,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno hace de todo, pero el dólar sigue subiendo",
+        "summary": "El segundo semestres arrancó hoy con subas para todos los dólares. Los bonos se sostuvieron, con el menor riesgo país desde abril de 2018. Pero la Bolsa local y las ADR argentinas siguen bajando.",
+        "link": "https://eleconomista.com.ar/finanzas/el-gobierno-hace-todo-pero-dolar-sigue-subiendo-n96356",
+        "source": "El Economista",
+        "time": "01/07 20:16",
+        "iso_date": "2026-07-01T23:16:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno promete que se recuperarán los salarios en el 2027 electoral: las claves sobre deuda, superávit fiscal, inflación y consumo",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-gobierno-promete-que-se-recuperaran-los-salarios-en-el-2027-electoral-las-claves-sobre-deuda-superavit-fiscal-inflacion-y-consumo/",
+        "source": "El Cronista",
+        "time": "01/07 20:09",
+        "iso_date": "2026-07-01T23:09:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Adorni abandona oficialmente la función pública: presentó su renuncia al directorio de YPF",
         "summary": "",
@@ -57,8 +79,8 @@
         "time": "01/07 18:06",
         "iso_date": "2026-07-01T21:06:17+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       },
@@ -293,26 +315,6 @@
         "iso_date": "2026-07-01T11:59:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Las consultoras anticipan una inflación de junio por debajo del 2% y el Gobierno espera confirmar la tendencia",
-        "summary": "Las principales consultoras privadas estiman que el Índice de Precios al Consumidor de junio se ubicará entre 1,8% y 1,9%, por debajo del registro de mayo",
-        "link": "https://www.infobae.com/economia/2026/07/01/las-consultoras-anticipan-una-inflacion-de-junio-por-debajo-del-2-y-el-gobierno-espera-confirmar-la-tendencia/",
-        "source": "Infobae Economía",
-        "time": "01/07 08:25",
-        "iso_date": "2026-07-01T11:25:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar fuerte golpeó a América Latina en el primer semestre: las monedas que ganaron y perdieron",
-        "summary": "El fortalecimiento del dólar no impactó por igual a América Latina: exportaciones, remesas, tasas de interés, elecciones y flujos de inversión marcaron el desempeño de las principales monedas de la región.",
-        "link": "https://www.bloomberglinea.com/mercados/dolar-fuerte-golpeo-a-america-latina-en-el-primer-semestre-las-monedas-que-ganaron-y-perdieron/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/07 08:00",
-        "iso_date": "2026-07-01T11:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -388,8 +390,8 @@
         "time": "01/07 18:06",
         "iso_date": "2026-07-01T21:06:17+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       },
@@ -456,14 +458,26 @@
         "time": "01/07 18:06",
         "iso_date": "2026-07-01T21:06:17+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El Gobierno hace de todo, pero el dólar sigue subiendo",
+        "summary": "El segundo semestres arrancó hoy con subas para todos los dólares. Los bonos se sostuvieron, con el menor riesgo país desde abril de 2018. Pero la Bolsa local y las ADR argentinas siguen bajando.",
+        "link": "https://eleconomista.com.ar/finanzas/el-gobierno-hace-todo-pero-dolar-sigue-subiendo-n96356",
+        "source": "El Economista",
+        "time": "01/07 20:16",
+        "iso_date": "2026-07-01T23:16:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país pese al día negativo para las bolsas",
         "summary": "Los títulos Globales y Bonares subieron 0,3% y el indicador de JP Morgan cedió a 421 puntos, cerca del piso de 2026. Wall Street operó con leves bajas y el S&P Merval cayó 1,5% por la influencia del exterior. El dólar subió a $1.510 en el Banco Nación",
