@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-03T17:09:21.560769",
-  "updated_str": "03/07/2026 17:09",
+  "updated_at": "2026-07-03T17:58:28.714837",
+  "updated_str": "03/07/2026 17:58",
   "cutoff_hours": 48,
-  "total_news": 232,
+  "total_news": 216,
   "news": {
     "GENERAL": [
+      {
+        "title": "La Nación y las Provincias perdieron $6,5 billones de recaudación en el primer semestre",
+        "summary": "La caída de los ingresos obedece a la menor actividad económica y a la reducción de impuestos. La rebaja de retenciones al campo generó una mayor pérdida en el gobierno federal.",
+        "link": "https://www.ambito.com/economia/la-nacion-y-las-provincias-perdieron-65-billones-recaudacion-el-primer-semestre-n6295779",
+        "source": "Ámbito",
+        "time": "03/07 14:49",
+        "iso_date": "2026-07-03T17:49:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo avanza en la privatización de 2500 kilómetros de más de 10 rutas clave en el país: las empresas que compiten",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/continua-la-privatizacion-de-las-rutas-nacionales-las-empresas-que-pelean-por-quedarse-con-2500-kilometros/",
+        "source": "El Cronista",
+        "time": "03/07 14:25",
+        "iso_date": "2026-07-03T17:25:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Deutsche Bank anticipa más alzas de tasas en Colombia y ve un avance limitado del peso",
+        "summary": "El banco de inversión revisó al alza su expectativa para las tasas de interés en Colombia al anticipar nuevos incrementos en julio y septiembre.",
+        "link": "https://www.bloomberglinea.com/mercados/deutsche-bank-anticipa-mas-alzas-de-tasas-en-colombia-y-ve-un-avance-limitado-del-peso/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/07 13:51",
+        "iso_date": "2026-07-03T16:51:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este viernes 3 de julio",
         "summary": "El billete al público sigue ofrecido a $1.510 para la venta en el Banco Nación, un precio máximo desde octubre último. El blue se vende a $1.515",
@@ -282,38 +312,6 @@
         "iso_date": "2026-07-03T05:49:59+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El riesgo país se aproxima a los 400 puntos y la Argentina queda cerca de poder volver al mercado internacional",
-        "summary": "El indicador financiero alcanzó su nivel más bajo en más de ocho años, impulsado por una menor presión sobre las tasas en Estados Unidos y el buen desempeño de bonos argentinos",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-riesgo-pais-se-aproxima-a-los-400-puntos-y-la-argentina-queda-cerca-de-poder-volver-al-mercado-internacional/",
-        "source": "Infobae Economía",
-        "time": "03/07 02:48",
-        "iso_date": "2026-07-03T05:48:40+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno regularizará deudas por obra pública con bonos: a cuánto asciende la cifra que pagará",
-        "summary": "La Secretaría de Finanzas entregará títulos para saldar compromisos pendientes con empresas contratistas desde enero de 2022 hasta diciembre de 2025. La condición de desistir de reclamos y la cifra incierta",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-gobierno-regularizara-deudas-por-obra-publica-con-bonos-a-cuanto-asciende-la-cifra-que-pagara/",
-        "source": "Infobae Economía",
-        "time": "03/07 02:48",
-        "iso_date": "2026-07-03T05:48:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Lo que se dice en las mesas: Javier y Karina ya se ven otros 4 años en el sillón de Rivadavia, el mercado aún no",
-        "summary": "En las mesas se comenta que el mercado tienen dudas sobre la reelección de Milei. Consideran muy prematuro tomar posiciones al respecto.",
-        "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-javier-y-karina-ya-se-ven-otros-4-anos-el-sillon-rivadavia-el-mercado-aun-no-n6295569",
-        "source": "Ámbito",
-        "time": "03/07 00:00",
-        "iso_date": "2026-07-03T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -400,8 +398,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -418,8 +416,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
