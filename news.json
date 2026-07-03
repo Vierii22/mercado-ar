@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-03T17:58:28.714837",
-  "updated_str": "03/07/2026 17:58",
+  "updated_at": "2026-07-03T18:15:48.690196",
+  "updated_str": "03/07/2026 18:15",
   "cutoff_hours": 48,
-  "total_news": 216,
+  "total_news": 215,
   "news": {
     "GENERAL": [
+      {
+        "title": "Economía presentará el lunes un programa financiero para cubrir los abultados vencimientos de deuda de 2027",
+        "summary": "El ministro de Economía, Luis Caputo, va a compartir el detalle sobre cómo se va a afrontar los compromisos en moneda extranjera hasta el final del mandato de Javier Milei. Lo que ya se sabe y las “opcionalidades” de las que habló el secretario de Finanzas, Federico Furiase",
+        "link": "https://www.infobae.com/economia/2026/07/03/economia-presentara-el-lunes-un-programa-financiero-para-cubrir-los-abultados-vencimientos-de-deuda-de-2027/",
+        "source": "Infobae Economía",
+        "time": "03/07 15:06",
+        "iso_date": "2026-07-03T18:06:13+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "La Nación y las Provincias perdieron $6,5 billones de recaudación en el primer semestre",
         "summary": "La caída de los ingresos obedece a la menor actividad económica y a la reducción de impuestos. La rebaja de retenciones al campo generó una mayor pérdida en el gobierno federal.",
@@ -84,16 +94,6 @@
         "source": "Infobae Economía",
         "time": "03/07 12:45",
         "iso_date": "2026-07-03T15:45:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Economía presentará el lunes un programa financiero para cubrir los abultados vencimientos de deuda de 2027",
-        "summary": "El ministro de Economía, Luis Caputo, va a compartir el detalle sobre cómo se va a afrontar los compromisos en moneda extranjera hasta el final del mandato de Javier Milei. Lo que ya se sabe y las “opcionalidades” de las que habló el secretario de Finanzas, Federico Furiase",
-        "link": "https://www.infobae.com/economia/2026/07/03/economia-presentara-el-lunes-un-programa-financiero-para-cubrir-los-abultados-vencimientos-de-deuda-de-2027/",
-        "source": "Infobae Economía",
-        "time": "03/07 12:23",
-        "iso_date": "2026-07-03T15:23:27+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -398,8 +398,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -416,8 +416,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       }
