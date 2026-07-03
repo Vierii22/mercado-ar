@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-03T15:53:02.203033",
-  "updated_str": "03/07/2026 15:53",
+  "updated_at": "2026-07-03T16:04:11.951251",
+  "updated_str": "03/07/2026 16:04",
   "cutoff_hours": 48,
-  "total_news": 216,
+  "total_news": 217,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno facilitó la importación de tubos de aluminio chinos tras cinco años de protección: los ganadores y perdedores",
+        "summary": "El Ministerio de Economía cerró la revisión del régimen antidumping vigente desde 2020 y eliminó los recargos a las importaciones chinas de tubos de aluminio",
+        "link": "https://www.infobae.com/economia/2026/07/03/el-gobierno-facilito-la-importacion-de-tubos-de-aluminio-chinos-tras-cinco-anos-de-proteccion-los-ganadores-y-perdedores/",
+        "source": "Infobae Economía",
+        "time": "03/07 13:00",
+        "iso_date": "2026-07-03T16:00:11+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "¿Petrobras, Vista, YPF o Ecopetrol? Las petroleras recomendadas por BofA para invertir",
         "summary": "El banco recortó sus previsiones para el petróleo y ajustó los precios objetivo de la mayoría de las petroleras latinoamericanas. Pese a ello, mantiene a Petrobras, PRIO, Vista y YPF entre sus principales apuestas.",
@@ -304,16 +314,6 @@
         "iso_date": "2026-07-03T02:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El futuro del plan económico: tras un primer semestre con mejoras en el frente externo, la city advierte nuevos riesgos",
-        "summary": "A pesar de las recientes noticias financieras favorables, el Gobierno deberá afrontar serios desafíos para llegar con aire a un 2027 con altos vencimientos de deuda y volatilidad electoral.",
-        "link": "https://www.ambito.com/economia/el-futuro-del-plan-economico-un-primer-semestre-mejoras-el-frente-externo-la-city-advierte-nuevos-riesgos-n6295370",
-        "source": "Ámbito",
-        "time": "02/07 21:04",
-        "iso_date": "2026-07-03T00:04:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -400,8 +400,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -418,8 +418,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
