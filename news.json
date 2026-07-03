@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-03T20:18:01.937877",
-  "updated_str": "03/07/2026 20:18",
+  "updated_at": "2026-07-03T20:35:19.059561",
+  "updated_str": "03/07/2026 20:35",
   "cutoff_hours": 48,
-  "total_news": 209,
+  "total_news": 205,
   "news": {
     "GENERAL": [
+      {
+        "title": "Reforma de la Carta Orgánica del BCRA: el punto clave de la ley de Perú que busca replicar Javier Milei",
+        "summary": "El Gobierno pretende eliminar una modificación establecida en 2012 por la entonces presidenta de la autoridad monetaria, Mercedes Marcó del Pont.",
+        "link": "https://www.ambito.com/economia/reforma-la-carta-organica-del-bcra-el-punto-clave-la-ley-peru-que-busca-replicar-javier-milei-n6295845",
+        "source": "Ámbito",
+        "time": "03/07 17:17",
+        "iso_date": "2026-07-03T20:17:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El dato que opone las Tasas de Interés argentinas del resto de la región: por qué podrían subir de acá a fin de año",
         "summary": "",
@@ -12,6 +22,16 @@
         "source": "El Cronista",
         "time": "03/07 17:07",
         "iso_date": "2026-07-03T20:07:36+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Europa cierra en máximo histórico y las acciones globales avanzan con Wall Street cerrado",
+        "summary": "La recuperación del apetito por el riesgo impulsó a las acciones europeas y asiáticas, mientras el dólar retrocedió y los inversionistas ajustaron sus expectativas sobre la política monetaria de la Reserva Federal.",
+        "link": "https://www.bloomberglinea.com/mercados/acciones-globales-avanzan-con-wall-street-cerrado-por-el-dia-de-la-independencia/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/07 17:00",
+        "iso_date": "2026-07-03T20:00:49+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -224,16 +244,6 @@
         "is_general": false
       },
       {
-        "title": "Acciones globales avanzan con Wall Street cerrado por el Día de la Independencia",
-        "summary": "La recuperación del apetito por el riesgo impulsó a las acciones europeas y asiáticas, mientras el dólar retrocedía y los inversionistas ajustaban sus expectativas sobre la política monetaria de la Reserva Federal.",
-        "link": "https://www.bloomberglinea.com/mercados/acciones-globales-avanzan-con-wall-street-cerrado-por-el-dia-de-la-independencia/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 10:35",
-        "iso_date": "2026-07-03T13:35:14+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "El Gobierno se pone plazo para destrabar la reforma política y analiza un pedido de las provincias",
         "summary": "El nuevo jefe de Gabinete busca destrabar el proyecto antes del Presupuesto 2027. La contrapropuesta de las provincias surge como una herramienta de supervivencia que desplaza la idea de las primarias voluntarias y redefine la alianza con Milei.",
         "link": "https://www.cronista.com/economia-politica/el-gobierno-se-pone-un-plazo-para-destrabar-la-reforma-politica-y-analiza-un-pedido-de-las-provincias/",
@@ -302,18 +312,6 @@
         "iso_date": "2026-07-03T09:00:01+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Vaca Muerta: ¿Puede Argentina disputar el podio petrolero regional con México o Venezuela?",
-        "summary": "El avance de los proyectos de infraestructura en la cuenca neuquina reabre el debate sobre el techo productivo del país. Analistas evalúan la viabilidad de Argentina se posicione dentro de los líderes en Latam.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-puede-argentina-disputar-el-podio-petrolero-regional-con-mexico-o-venezuela/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 05:45",
-        "iso_date": "2026-07-03T08:45:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -412,8 +410,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -430,8 +428,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "TECO2",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -529,18 +527,6 @@
         "source": "Infobae Economía",
         "time": "01/07 18:40",
         "iso_date": "2026-07-01T21:40:11+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: las acciones argentinas cerraron en baja por la influencia de Wall Street",
-        "summary": "Los índices de Nueva York negocian con leves pérdidas, a la espera de definiciones sobre las tasas de la Fed de EEUU. El S&P Merval cayó 1,5% y los bonos en dólares subieron 0,3%, con un riesgo país en los 421 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/07/01/mercados-las-acciones-argentinas-operan-dispares-por-la-influencia-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "01/07 17:26",
-        "iso_date": "2026-07-01T20:26:20+00:00",
         "tickers": [
           "AL30"
         ],
