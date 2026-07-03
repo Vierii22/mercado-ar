@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-07-03T20:35:19.059561",
-  "updated_str": "03/07/2026 20:35",
+  "updated_at": "2026-07-03T20:58:46.837655",
+  "updated_str": "03/07/2026 20:58",
   "cutoff_hours": 48,
   "total_news": 205,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este viernes 3 de julio",
+        "summary": "El billete al público siguió ofrecido a $1.510 para la venta en el Banco Nación, un precio máximo desde octubre último. El blue retrocedió a $1.510, ahora al mismo nivel que el minorista. El BCRA compró USD 100 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/07/03/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-3-de-julio/",
+        "source": "Infobae Economía",
+        "time": "03/07 17:42",
+        "iso_date": "2026-07-03T20:42:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar cerró la semana estable pero se mantuvo en su precio más alto desde octubre",
+        "summary": "El billete al público en el Banco Nación quedó a $1.510, mientras que en la rueda mayorista cerró a $1.488,50 con un importante volumen de casi USD 800 millones pese al feriado en los Estados Unidos",
+        "link": "https://www.infobae.com/economia/2026/07/03/el-dolar-cerro-la-semana-estable-pero-se-mantuvo-en-su-precio-mas-alto-desde-octubre/",
+        "source": "Infobae Economía",
+        "time": "03/07 17:40",
+        "iso_date": "2026-07-03T20:40:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Reforma de la Carta Orgánica del BCRA: el punto clave de la ley de Perú que busca replicar Javier Milei",
         "summary": "El Gobierno pretende eliminar una modificación establecida en 2012 por la entonces presidenta de la autoridad monetaria, Mercedes Marcó del Pont.",
@@ -32,26 +52,6 @@
         "source": "Bloomberg Línea AR",
         "time": "03/07 17:00",
         "iso_date": "2026-07-03T20:00:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este viernes 3 de julio",
-        "summary": "El billete al público siguió ofrecido a $1.510 para la venta en el Banco Nación, un precio máximo desde octubre último. El blue retrocedió a $1.510, ahora al mismo nivel que el minorista",
-        "link": "https://www.infobae.com/economia/2026/07/03/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-3-de-julio/",
-        "source": "Infobae Economía",
-        "time": "03/07 15:56",
-        "iso_date": "2026-07-03T18:56:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar cerró la semana estable pero se mantuvo en su precio más alto desde octubre",
-        "summary": "El billete al público en el Banco Nación quedó a $1.510, mientras que en la rueda mayorista cerró a $1.488,50 con un importante volumen de casi USD 800 millones pese al feriado en los Estados Unidos",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-dolar-cerro-la-semana-estable-pero-se-mantuvo-en-su-precio-mas-alto-desde-octubre/",
-        "source": "Infobae Economía",
-        "time": "03/07 15:56",
-        "iso_date": "2026-07-03T18:56:26+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -410,8 +410,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
@@ -428,8 +428,8 @@
         "time": "02/07 10:44",
         "iso_date": "2026-07-02T13:44:46+00:00",
         "tickers": [
-          "TECO2",
-          "PAMP"
+          "PAMP",
+          "TECO2"
         ],
         "is_general": false
       }
