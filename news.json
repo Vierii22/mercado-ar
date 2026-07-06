@@ -1,101 +1,39 @@
 {
-  "updated_at": "2026-07-03T22:55:56.346443",
-  "updated_str": "03/07/2026 22:55",
+  "updated_at": "2026-07-06T03:21:50.737048",
+  "updated_str": "06/07/2026 03:21",
   "cutoff_hours": 48,
-  "total_news": 202,
+  "total_news": 99,
   "news": {
     "GENERAL": [
       {
-        "title": "Jornada financiera: las acciones y los bonos argentinos subieron, pero sin la referencia de Wall Street",
-        "summary": "Sin la referencia de Wall Street por un feriado en EE.UU., el S&P Merval subió 1,2% y los bonos en dólares ganaron 0,3% en promedio. El dólar se sostuvo a $1.510 en el Banco Nación y el BCRA compró USD 100 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/03/jornada-financiera-las-acciones-y-los-bonos-argentinos-subieron-pero-sin-la-referencia-de-wall-street/",
+        "title": "Las distintas caras de un dato macroeconómico: consumo privado récord, pero ¿dónde, en qué, de quiénes?",
+        "summary": "Dos informes privados analizaron la diferencia entre la estadística macro y la realidad micro. Cambio de precios relativos, de canales de venta, de geografías y del peso del turismo y el consumo de bienes importados detrás de una divergencia que puede tener efecto político",
+        "link": "https://www.infobae.com/economia/2026/07/05/las-distintas-caras-de-un-dato-macroeconomico-consumo-privado-record-pero-donde-en-que-de-quienes/",
         "source": "Infobae Economía",
-        "time": "03/07 18:35",
-        "iso_date": "2026-07-03T21:35:27+00:00",
+        "time": "05/07 20:31",
+        "iso_date": "2026-07-05T23:31:12+00:00",
         "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Inflación en Chile habría cerrado junio con una caída del 0,17%, según Scotiabank",
-        "summary": "Un informe de Scotiabank Chile ubica las proyecciones mensuales en torno a -0,2%. En tanto, la cuenta interanual estará por encima de 4%.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/chile/inflacion-en-chile-habria-cerrado-junio-con-una-caida-del-017-segun-scotiabank/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 18:16",
-        "iso_date": "2026-07-03T21:16:03+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este viernes 3 de julio",
-        "summary": "El billete al público siguió ofrecido a $1.510 para la venta en el Banco Nación, un precio máximo desde octubre último. El blue retrocedió a $1.510, ahora al mismo nivel que el minorista. El BCRA compró USD 100 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/03/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-3-de-julio/",
-        "source": "Infobae Economía",
-        "time": "03/07 17:42",
-        "iso_date": "2026-07-03T20:42:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar cerró la semana estable pero se mantuvo en su precio más alto desde octubre",
-        "summary": "El billete al público en el Banco Nación quedó a $1.510, mientras que en la rueda mayorista cerró a $1.488,50 con un importante volumen de casi USD 800 millones pese al feriado en los Estados Unidos",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-dolar-cerro-la-semana-estable-pero-se-mantuvo-en-su-precio-mas-alto-desde-octubre/",
-        "source": "Infobae Economía",
-        "time": "03/07 17:40",
-        "iso_date": "2026-07-03T20:40:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Reforma de la Carta Orgánica del BCRA: el punto clave de la ley de Perú que busca replicar Javier Milei",
-        "summary": "El Gobierno pretende eliminar una modificación establecida en 2012 por la entonces presidenta de la autoridad monetaria, Mercedes Marcó del Pont.",
-        "link": "https://www.ambito.com/economia/reforma-la-carta-organica-del-bcra-el-punto-clave-la-ley-peru-que-busca-replicar-javier-milei-n6295845",
-        "source": "Ámbito",
-        "time": "03/07 17:17",
-        "iso_date": "2026-07-03T20:17:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dato que opone las Tasas de Interés argentinas del resto de la región: por qué podrían subir de acá a fin de año",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-dato-que-opone-las-tasas-de-interes-argentinas-del-resto-de-la-region-por-que-podrian-subir-de-aca-a-fin-de-ano/",
-        "source": "El Cronista",
-        "time": "03/07 17:07",
-        "iso_date": "2026-07-03T20:07:36+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Europa cierra en máximo histórico y las acciones globales avanzan con Wall Street cerrado",
-        "summary": "La recuperación del apetito por el riesgo impulsó a las acciones europeas y asiáticas, mientras el dólar retrocedió y los inversionistas ajustaron sus expectativas sobre la política monetaria de la Reserva Federal.",
-        "link": "https://www.bloomberglinea.com/mercados/acciones-globales-avanzan-con-wall-street-cerrado-por-el-dia-de-la-independencia/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 17:00",
-        "iso_date": "2026-07-03T20:00:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cuántos puestos de trabajo va a generar Vaca Muerta y el rol de YPF, según Marín",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/cuantos-puestos-de-trabajo-va-a-generar-vaca-muerta-y-el-rol-de-ypf-segun-marin/",
-        "source": "El Cronista",
-        "time": "03/07 15:43",
-        "iso_date": "2026-07-03T18:43:25+00:00",
-        "tickers": [
-          "YPFD"
+          "BMA"
         ],
         "is_general": false
       },
       {
-        "title": "El ajuste llegó al corazón del plan nuclear: la oposición busca frenar los despidos de Milei",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-ajuste-llego-al-corazon-del-plan-nuclear-la-oposicion-busca-frenar-los-despidos-de-milei/",
-        "source": "El Cronista",
-        "time": "03/07 15:40",
-        "iso_date": "2026-07-03T18:40:21+00:00",
+        "title": "El Gobierno presentará este lunes la hoja de ruta para el pago de la deuda hasta el final del mandato",
+        "summary": "El secretario de Finanzas, Federico Furiase, adelantó que el anuncio incluirá el cronograma de vencimientos en dólares y las fuentes de financiamiento.",
+        "link": "https://www.ambito.com/economia/el-gobierno-presentara-este-lunes-la-hoja-ruta-el-pago-la-deuda-el-final-del-mandato-n6296422",
+        "source": "Ámbito",
+        "time": "05/07 19:31",
+        "iso_date": "2026-07-05T22:31:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Los alquileres en la Ciudad de Buenos Aires subieron 1,4% en junio y acumulan casi 16% en el año",
+        "summary": "El incremento del primer semestre se ubicó por debajo de la inflación y un monoambiente ya cuesta $755.935 mensuales en territorio porteño.",
+        "link": "https://www.ambito.com/economia/los-alquileres-la-ciudad-buenos-aires-subieron-14-junio-y-acumulan-casi-16-el-ano-n6296410",
+        "source": "Ámbito",
+        "time": "05/07 18:50",
+        "iso_date": "2026-07-05T21:50:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -104,262 +42,286 @@
         "summary": "El ministro de Economía, Luis Caputo, va a compartir el detalle sobre cómo se va a afrontar los compromisos en moneda extranjera hasta el final del mandato de Javier Milei. Lo que ya se sabe y las “opcionalidades” de las que habló el secretario de Finanzas, Federico Furiase",
         "link": "https://www.infobae.com/economia/2026/07/03/economia-presentara-el-lunes-un-programa-financiero-para-cubrir-los-abultados-vencimientos-de-deuda-de-2027/",
         "source": "Infobae Economía",
-        "time": "03/07 15:06",
-        "iso_date": "2026-07-03T18:06:13+00:00",
+        "time": "05/07 17:43",
+        "iso_date": "2026-07-05T20:43:30+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "La Nación y las Provincias perdieron $6,5 billones de recaudación en el primer semestre",
-        "summary": "La caída de los ingresos obedece a la menor actividad económica y a la reducción de impuestos. La rebaja de retenciones al campo generó una mayor pérdida en el gobierno federal.",
-        "link": "https://www.ambito.com/economia/la-nacion-y-las-provincias-perdieron-65-billones-recaudacion-el-primer-semestre-n6295779",
-        "source": "Ámbito",
-        "time": "03/07 14:49",
-        "iso_date": "2026-07-03T17:49:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo avanza en la privatización de 2500 kilómetros de más de 10 rutas clave en el país: las empresas que compiten",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/continua-la-privatizacion-de-las-rutas-nacionales-las-empresas-que-pelean-por-quedarse-con-2500-kilometros/",
-        "source": "El Cronista",
-        "time": "03/07 14:25",
-        "iso_date": "2026-07-03T17:25:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Deutsche Bank anticipa más alzas de tasas en Colombia y ve un avance limitado del peso",
-        "summary": "El banco de inversión revisó al alza su expectativa para las tasas de interés en Colombia al anticipar nuevos incrementos en julio y septiembre.",
-        "link": "https://www.bloomberglinea.com/mercados/deutsche-bank-anticipa-mas-alzas-de-tasas-en-colombia-y-ve-un-avance-limitado-del-peso/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 13:51",
-        "iso_date": "2026-07-03T16:51:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La industria textil opera con 4 de cada 10 máquinas y lidera en despidos, pero es la que menos sube precios",
-        "summary": "Según un informe privado, es la rama que más empleo perdió en la era Milei y su producción sufrió una baja del 23% interanual en abril.",
-        "link": "https://www.ambito.com/economia/la-industria-textil-opera-4-cada-10-maquinas-y-lidera-despidos-pero-es-la-que-menos-sube-precios-n6295757",
-        "source": "Ámbito",
-        "time": "03/07 13:16",
-        "iso_date": "2026-07-03T16:16:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno facilitó la importación de tubos de aluminio chinos tras cinco años de protección: los ganadores y perdedores",
-        "summary": "El Ministerio de Economía cerró la revisión del régimen antidumping vigente desde 2020 y eliminó los recargos a las importaciones chinas de tubos de aluminio",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-gobierno-facilito-la-importacion-de-tubos-de-aluminio-chinos-tras-cinco-anos-de-proteccion-los-ganadores-y-perdedores/",
+        "title": "Arde la interna en la SRA: la oposición acusó al oficialismo de tapar un fiasco de USD 4,5 millones y denunció que el tesorero pagó menos del 40% de una multa",
+        "summary": "En un comunicado, la lista opositora Renovación con Unidad responsabilizó a tres directivos cercanos al actual titular por el colapso del sistema de registros genealógicos y reveló una auto-condonación de deuda",
+        "link": "https://www.infobae.com/economia/2026/07/05/arde-la-interna-en-la-sra-la-oposicion-acuso-al-oficialismo-de-tapar-un-fiasco-de-usd-45-millones-y-denuncio-que-el-tesorero-pago-menos-del-40-de-una-multa/",
         "source": "Infobae Economía",
-        "time": "03/07 13:00",
-        "iso_date": "2026-07-03T16:00:11+00:00",
+        "time": "05/07 17:30",
+        "iso_date": "2026-07-05T20:30:59+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "¿Petrobras, Vista, YPF o Ecopetrol? Las petroleras recomendadas por BofA para invertir",
-        "summary": "El banco recortó sus previsiones para el petróleo y ajustó los precios objetivo de la mayoría de las petroleras latinoamericanas. Pese a ello, mantiene a Petrobras, PRIO, Vista y YPF entre sus principales apuestas.",
-        "link": "https://www.bloomberglinea.com/mercados/petrobras-vista-ypf-o-ecopetrol-las-petroleras-recomendadas-por-bofa-para-invertir/",
+        "title": "Alemania tiene previsto aumentar el endeudamiento en 2027 debido al escaso recaudo fiscal",
+        "summary": "Alemania tiene previsto aumentar el nuevo endeudamiento neto para 2027 hasta los 118.000 millones de euros (US$135.000 millones), lo que supone aproximadamente un 7% más de lo previsto en abril.",
+        "link": "https://www.bloomberglinea.com/mundo/alemania-tiene-previsto-aumentar-el-endeudamiento-en-2027-debido-al-escaso-recaudo-fiscal/",
         "source": "Bloomberg Línea AR",
-        "time": "03/07 12:51",
-        "iso_date": "2026-07-03T15:51:43+00:00",
+        "time": "05/07 14:59",
+        "iso_date": "2026-07-05T17:59:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La “Santilleta” sale a la cancha y Milei baja línea: enfermedad holandesa, modelo suizo y campaña 2027",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-santilleta-sale-a-la-cancha-y-milei-baja-linea-enfermedad-holandesa-modelo-suizo-y-campana-2027/",
+        "source": "El Cronista",
+        "time": "05/07 14:11",
+        "iso_date": "2026-07-05T17:11:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Oppenheimer, de Goldman, prevé que las subidas bursátiles se generalicen en el segundo semestre",
+        "summary": "Las acciones mundiales parecen dispuestas a prolongar su vertiginoso repunte del segundo trimestre, impulsadas principalmente por el crecimiento de los beneficios de las empresas tecnológicas, según Peter Oppenheimer, de Goldman Sachs Group, Inc.",
+        "link": "https://www.bloomberglinea.com/mundo/oppenheimer-de-goldman-preve-que-las-subidas-bursatiles-se-generalicen-en-el-segundo-semestre/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/07 13:21",
+        "iso_date": "2026-07-05T16:21:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Economía a dos velocidades: el cambio estructural del modelo de Javier Milei, ventajas y riesgos",
+        "summary": "Los datos de actividad y recaudación de 2026 reflejan la vigencia del auge exportador en paralelo a un deterioro del consumo interno, en un esquema que se consolida con oportunidades y desafíos",
+        "link": "https://www.infobae.com/economia/2026/07/05/economia-a-dos-velocidades-el-cambio-estructural-del-modelo-de-javier-milei-ventajas-y-riesgos/",
+        "source": "Infobae Economía",
+        "time": "05/07 13:13",
+        "iso_date": "2026-07-05T16:13:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La ruta del petróleo en medio de boom de Vaca Muerta: cómo se calculan las regalías y cuánto cobran las provincias",
+        "summary": "Una alícuota del 12% sobre el valor del crudo en boca de pozo es la fórmula que une el subsuelo con las cajas de ocho provincias, en un año marcado por récords de producción y precios que cambian en minutos",
+        "link": "https://www.infobae.com/economia/2026/07/05/la-ruta-del-petroleo-en-medio-de-boom-de-vaca-muerta-como-se-calculan-las-regalias-y-cuanto-cobran-las-provincias/",
+        "source": "Infobae Economía",
+        "time": "05/07 12:33",
+        "iso_date": "2026-07-05T15:33:18+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "El BCRA refinanció préstamos con bancos por USD 6.000 y extendió sus vencimientos hasta después de las elecciones presidenciales",
-        "summary": "La autoridad monetaria realizó una operación de pase pasivo que modifica el horizonte de pagos en moneda extranjera y suma nuevas entidades internacionales al esquema",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-bcra-refinancio-prestamos-con-bancos-por-usd-6000-y-extendio-sus-vencimientos-hasta-despues-de-las-elecciones-presidenciales/",
+        "title": "La suba del dólar duplicó a la inflación de junio: cuánto impactará en el próximo índice de precios",
+        "summary": "Los analistas no ven ninguna alarma cambiaria, pero aseguran que un tipo de cambio más alto traerá consecuencias sobre el proceso de desinflación",
+        "link": "https://www.infobae.com/economia/2026/07/05/la-suba-del-dolar-duplico-a-la-inflacion-de-junio-cuanto-impactara-en-el-proximo-indice-de-precios/",
         "source": "Infobae Economía",
-        "time": "03/07 12:45",
-        "iso_date": "2026-07-03T15:45:30+00:00",
+        "time": "05/07 11:03",
+        "iso_date": "2026-07-05T14:03:48+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Salario mínimo en Colombia 2027: Nuevo MinHacienda de De la Espriella ya dio indicios",
-        "summary": "Miguel Gómez Martínez criticó el incremento de 23% del salario mínimo para 2026, al considerar que este tipo de alzas no pueden mantenerse cuando superan ampliamente el comportamiento de la inflación.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/salario-minimo-en-colombia-2027-nuevo-minhacienda-de-de-la-espriella-ya-dio-indicios/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 12:15",
-        "iso_date": "2026-07-03T15:15:41+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno anunciará el lunes cómo se pagará la deuda hasta fin de mandato",
+        "title": "La mejor noticia para Milei: una consultora líder registró un dato que podría cambiar la inflación de junio",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-gobierno-anunciara-el-lunes-como-se-pagara-la-deuda-hasta-fin-de-mandato/",
+        "link": "https://www.cronista.com/economia-politica/la-mejor-noticia-para-milei-una-consultora-lider-registro-un-dato-que-podria-cambiar-la-inflacion-de-junio/",
         "source": "El Cronista",
-        "time": "03/07 12:08",
-        "iso_date": "2026-07-03T15:08:04+00:00",
+        "time": "05/07 09:35",
+        "iso_date": "2026-07-05T12:35:04+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Estados Unidos cumple 250 años: cómo Wall Street construyó el mayor dominio bursátil del mundo",
-        "summary": "La capacidad de los mercados de capitales estadounidenses para canalizar inversión hacia cada revolución tecnológica explica por qué Wall Street sigue dominando las finanzas mundiales 250 años después de la independencia de EE.UU.",
-        "link": "https://www.bloomberglinea.com/mercados/estados-unidos-cumple-250-anos-como-wall-street-construyo-el-mayor-dominio-bursatil-del-mundo/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 11:48",
-        "iso_date": "2026-07-03T14:48:55+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "BCRA renueva préstamos repo con bancos internacionales por US$6.000 millones",
-        "summary": "La entidad que preside Santiago Bausili comunicó este viernes que alcanzó un acuerdo con entidades para refinanciar los compromisos que vencían antes de las elecciones de 2027.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/bcra-renueva-prestamos-repo-con-bancos-internacionales-por-us6000-millones/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 11:33",
-        "iso_date": "2026-07-03T14:33:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cuánto cuesta llenar el tanque: qué lugar ocupa Argentina en el ranking de precios de nafta de Latinoamérica",
-        "summary": "El litro acumula una suba de 18% en dólares durante el primer semestre del año, pese a que el barril de crudo retrocedió al valor que tenía antes de la guerra entre Estados Unidos e Irán",
-        "link": "https://www.infobae.com/economia/2026/07/03/cuanto-cuesta-llenar-el-tanque-que-lugar-ocupa-argentina-en-el-ranking-de-precios-de-nafta-de-latinoamerica/",
-        "source": "Infobae Economía",
-        "time": "03/07 11:32",
-        "iso_date": "2026-07-03T14:32:34+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Golpe a los querellantes de LIBRA: por qué el juez los aparta y qué significa para Milei",
+        "title": "Salarios, pesimismo económico y desgaste de Milei: qué revela una encuesta sobre el clima social",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/golpe-a-los-querellantes-de-libra-por-que-el-juez-los-aparta-y-que-significa-para-milei/",
+        "link": "https://www.cronista.com/economia-politica/salarios-pesimismo-economico-y-desgaste-de-milei-que-revela-una-encuesta-sobre-el-clima-social/",
         "source": "El Cronista",
-        "time": "03/07 11:32",
-        "iso_date": "2026-07-03T14:32:03+00:00",
+        "time": "05/07 09:10",
+        "iso_date": "2026-07-05T12:10:17+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria",
-        "summary": "La demanda por las bajas temperaturas volvió a exponer las limitaciones del sistema energético. Mientras el consumo residencial tiene prioridad, cientos de empresas enfrentan restricciones, mayores costos y la necesidad de recurrir a combustibles más caros",
-        "link": "https://www.infobae.com/economia/2026/07/03/la-paradoja-del-gas-vaca-muerta-produce-mas-pero-faltan-gasoductos-y-vuelven-los-cortes-a-la-industria/",
+        "title": "Cuánto rinde invertir $1.000.000 a 30 días, según las tasas de los bancos en julio",
+        "summary": "Así se organizan los expertos en cuidar el bolsillo para poder obtener la mejor renta dentro de las opciones ofrecidas por las entidades bancarias",
+        "link": "https://www.ambito.com/economia/cuanto-rinde-invertir-1000000-30-dias-segun-las-tasas-los-bancos-julio-n6295829",
+        "source": "Ámbito",
+        "time": "05/07 09:00",
+        "iso_date": "2026-07-05T12:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Cómo el capital de IA está cambiando al mundo financiero? Esto ve un gigante de Wall Street",
+        "summary": "Goldman Sachs sostiene que el despliegue global de la inteligencia artificial está modificando las fuentes de financiamiento y acelerando la aparición de nuevos instrumentos para sostener inversiones en infraestructura.",
+        "link": "https://www.bloomberglinea.com/mercados/como-el-capital-de-ia-esta-cambiando-al-mundo-financiero-esto-ve-un-gigante-de-wall-street/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/07 08:00",
+        "iso_date": "2026-07-05T11:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Acciones HALO ganan protagonismo en los mercados emergentes",
+        "summary": "Compañías de activos pesados con baja obsolescencia atraen flujo inversor por expansión de infraestructura asociada a inteligencia artificial global hoy demandada",
+        "link": "https://www.bloomberglinea.com/mercados/acciones-halo-ganan-protagonismo-en-los-mercados-emergentes/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/07 05:00",
+        "iso_date": "2026-07-05T08:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación inferior al 2% y recomposición de los ingresos: encuestas muestran una recuperación de la imagen de Milei",
+        "summary": "La consultora Atlas Intel, que siguen de cerca los inversores, muestra al mismo tiempo una fuerte caída de los referentes kirchneristas. El gobierno busca despejar el horizonte financiero para pasar las elecciones sin sobresaltos",
+        "link": "https://www.infobae.com/economia/2026/07/05/inflacion-inferior-al-2-y-recomposicion-de-los-ingresos-encuestas-muestran-una-recuperacion-de-la-imagen-de-milei/",
         "source": "Infobae Economía",
-        "time": "03/07 10:53",
-        "iso_date": "2026-07-03T13:53:03+00:00",
+        "time": "05/07 00:54",
+        "iso_date": "2026-07-05T03:54:27+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Clima de Negocios: hace un año Galperín le pidió licencia al BCRA, pero el sector duda sobre cuándo llegará el banco de Mercado Libre",
+        "summary": "En el mundo financiero sostienen que el expediente avanza sin plazos claros ni señales públicas relevantes. Creen que el gigante del comercio electrónico y también la fintech más grande del país lo demora adrede porque no le conviene convertirse en una empresa que tenga que cu...",
+        "link": "https://www.infobae.com/economia/2026/07/05/clima-de-negocios-hace-un-ano-galperin-le-pidio-licencia-al-bcra-pero-el-sector-duda-sobre-cuando-llegara-el-banco-de-mercado-libre/",
+        "source": "Infobae Economía",
+        "time": "05/07 00:52",
+        "iso_date": "2026-07-05T03:52:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Daniel Marx: “No deberíamos ver un tipo de cambio que llegue al techo de la banda”",
+        "summary": "El ex secretario de Finanzas habló con Infobae sobre la desinflación, el superávit fiscal, la acumulación de reservas, el índice de riesgo país, el plan financiero del Tesoro y las condiciones que, a su juicio, mejorarían la previsibilidad del rumbo económico",
+        "link": "https://www.infobae.com/economia/2026/07/05/daniel-marx-no-deberiamos-ver-un-tipo-de-cambio-que-llegue-al-techo-de-la-banda/",
+        "source": "Infobae Economía",
+        "time": "05/07 00:51",
+        "iso_date": "2026-07-05T03:51:17+00:00",
         "tickers": [
-          "YPFD"
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Entre el crecimiento macro y los cuellos de botella microeconómicos",
+        "summary": "El repunte de la actividad no alcanzó para reactivar el gasto cotidiano: mientras el PBI avanza, los indicadores de compras en supermercados y comercios de cercanía siguieron en terreno negativo",
+        "link": "https://www.infobae.com/opinion/2026/07/05/entre-el-crecimiento-macro-y-los-cuellos-de-botella-microeconomicos/",
+        "source": "Infobae Economía",
+        "time": "05/07 00:50",
+        "iso_date": "2026-07-05T03:50:14+00:00",
+        "tickers": [
+          "BMA"
         ],
         "is_general": false
       },
       {
-        "title": "El Gobierno dio otro paso para la privatización de rutas nacionales y el lunes se conocerán las ofertas",
-        "summary": "El oficialismo avanzó con la concesión de 2.500 km de rutas en Buenos Aires, La Pampa, Santa Fe, Córdoba y San Luis. El detalle de los cuatro tramos que serán gestionados por el sector privado.",
-        "link": "https://www.ambito.com/economia/el-gobierno-dio-otro-paso-la-privatizacion-rutas-nacionales-y-el-lunes-se-conoceran-las-ofertas-n6295703",
+        "title": "Que no te estafen con dólares falsos: las aplicaciones que te ayudan a detectarlos rápidamente",
+        "summary": "Existe una serie de herramientas que te permite revisar billetes desde el celular antes de efectuar cualquier operación.",
+        "link": "https://www.ambito.com/economia/que-no-te-estafen-dolares-falsos-las-aplicaciones-que-te-ayudan-detectarlos-rapidamente-n6295460",
         "source": "Ámbito",
-        "time": "03/07 10:38",
-        "iso_date": "2026-07-03T13:38:00+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Gobierno se pone plazo para destrabar la reforma política y analiza un pedido de las provincias",
-        "summary": "El nuevo jefe de Gabinete busca destrabar el proyecto antes del Presupuesto 2027. La contrapropuesta de las provincias surge como una herramienta de supervivencia que desplaza la idea de las primarias voluntarias y redefine la alianza con Milei.",
-        "link": "https://www.cronista.com/economia-politica/el-gobierno-se-pone-un-plazo-para-destrabar-la-reforma-politica-y-analiza-un-pedido-de-las-provincias/",
-        "source": "El Cronista",
-        "time": "03/07 09:32",
-        "iso_date": "2026-07-03T12:32:55+00:00",
+        "time": "04/07 23:00",
+        "iso_date": "2026-07-05T02:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "ARCA cambió las reglas para regularizar deudas: a quiénes alcanza el nuevo plan de pagos especial",
+        "title": "Sin PASO y con la interna abierta: la jugada de Milei que puede dejar al peronismo contra las cuerdas",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/arca-cambio-las-reglas-para-regularizar-deudas-a-quienes-alcanza-el-nuevo-plan-de-pagos-especial/",
+        "link": "https://www.cronista.com/economia-politica/sin-paso-y-con-la-interna-abierta-la-jugada-de-milei-que-puede-dejar-al-peronismo-contra-las-cuerdas/",
         "source": "El Cronista",
-        "time": "03/07 08:53",
-        "iso_date": "2026-07-03T11:53:16+00:00",
+        "time": "04/07 22:48",
+        "iso_date": "2026-07-05T01:48:07+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Milei eliminó el Ministerio del Interior y creó secretarías: el nuevo mapa del Gobierno",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/milei-elimino-el-ministerio-del-interior-y-creo-nuevas-secretarias-el-nuevo-mapa-del-gobierno-tras-la-salida-de-adorni/",
+        "title": "“Traidores a la patria”: Milei saludó a EE.UU. por el Día de la Independencia con un fuerte mensaje a la oposición",
+        "summary": "El presidente se pronunció a través de su cuenta oficial en X. El saludo a Donald Trump y la crítica a los detractores.",
+        "link": "https://www.cronista.com/economia-politica/traidores-a-la-patria-milei-saludo-a-eeuu-por-el-dia-de-la-independencia-con-un-fuerte-mensaje-a-la-oposicion/",
         "source": "El Cronista",
-        "time": "03/07 07:49",
-        "iso_date": "2026-07-03T10:49:09+00:00",
+        "time": "04/07 22:07",
+        "iso_date": "2026-07-05T01:07:54+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "La recuperación no llega a los barrios populares: se reducen alimentos para llegar a fin de mes y crece la deuda",
-        "summary": "La variable de ajuste en los sectores más bajos continúa siendo la reducción de porciones y/o la supresión involuntaria de comidas. Asimismo, saldar deudas crece como una prioridad de las familias.",
-        "link": "https://www.ambito.com/economia/la-recuperacion-no-llega-los-barrios-populares-se-reducen-alimentos-llegar-fin-mes-y-crece-la-deuda-n6295068",
+        "title": "Especialista de Wall Street advirtió por el valor del dólar y pidió \"tolerar un punto de cambio más alto\"",
+        "summary": "El economista Alberto Ades también señaló que \"el mercado de crédito soberano lee mejora, mientras el cambiario lee presión\".",
+        "link": "https://www.ambito.com/economia/especialista-wall-street-advirtio-el-valor-del-dolar-y-pidio-tolerar-un-punto-cambio-mas-alto-n6296203",
         "source": "Ámbito",
-        "time": "03/07 07:00",
-        "iso_date": "2026-07-03T10:00:00+00:00",
+        "time": "04/07 21:33",
+        "iso_date": "2026-07-05T00:33:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Dólar barato les pasa factura a los exportadores colombianos: sector privado pide bajar costos",
-        "summary": "Entre el primero de enero de 2025 y el primero de julio de 2026, el dólar pasó de COP$4.409,15 a COP$3.440,83, registrando una apreciación del peso colombiana cercana al 22%.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/dolar-barato-le-pasa-factura-a-los-exportadores-colombianos-sector-privado-pide-bajar-costos/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 07:00",
-        "iso_date": "2026-07-03T10:00:00+00:00",
+        "title": "Las deudas de los argentinos: las cifras de mora de familias y empresas, los planes de los bancos para reducirlas y lo que espera el Gobierno",
+        "summary": "La falta de acceso a financiamiento formal y las dificultades para encauzar el problema impulsaron a bancos públicos y provincias a lanzar programas de refinanciación, en un escenario atravesado por la presión inflacionaria y la preocupación por el consumo",
+        "link": "https://www.infobae.com/economia/2026/07/04/las-deudas-de-los-argentinos-las-cifras-de-mora-de-familias-y-empresas-los-planes-de-los-bancos-para-reducirlas-y-lo-que-espera-el-gobierno/",
+        "source": "Infobae Economía",
+        "time": "04/07 20:31",
+        "iso_date": "2026-07-04T23:31:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "A un año del “comprá, campeón”: un decálogo de frases desafiantes de Caputo y cómo le fue desde entonces al dólar",
+        "summary": "Un repaso por definiciones llamativas del ministro de Economía en los últimos doce meses, y el contexto económico y político de cada una",
+        "link": "https://www.infobae.com/economia/2026/07/04/a-un-ano-del-compra-campeon-un-decalogo-de-frases-desafiantes-de-caputo-y-como-le-fue-desde-entonces-al-dolar/",
+        "source": "Infobae Economía",
+        "time": "04/07 17:58",
+        "iso_date": "2026-07-04T20:58:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El mentor económico de Javier Milei anticipó una mayor dolarización y vinculó el futuro económico al respaldo político",
+        "summary": "El economista Orlando Ferereres sostuvo que los ahorristas ya comenzaron a refugiarse en el dólar ante la percepción de un tipo de cambio barato. Además, comparó el escenario actual con la \"tablita\" de Martínez de Hoz.",
+        "link": "https://www.ambito.com/economia/el-mentor-economico-javier-milei-anticipo-una-mayor-dolarizacion-y-vinculo-el-futuro-economico-al-respaldo-politico-n6296090",
+        "source": "Ámbito",
+        "time": "04/07 14:22",
+        "iso_date": "2026-07-04T17:22:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Ambivalencia con el dólar: por qué el peso fue una de las monedas que más se apreció en lo que va del año y de las que más se depreció en los últimos dos meses",
+        "summary": "Más grano en silobolsas, más compras del BCRA y la reciente apreciación global de la moneda de EEUU fueron, según un informe privado, las 3 razones detrás del fenómeno",
+        "link": "https://www.infobae.com/economia/2026/07/04/por-que-el-peso-fue-una-de-las-monedas-que-mas-se-aprecio-en-lo-que-va-del-ano-y-de-las-que-mas-se-deprecio-en-los-ultimos-dos-meses/",
+        "source": "Infobae Economía",
+        "time": "04/07 12:51",
+        "iso_date": "2026-07-04T15:51:08+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Por qué no arranca el crédito en Argentina? El círculo vicioso que frena el consumo en 2026",
+        "summary": "El crédito en pesos sigue estancado por un círculo vicioso de alta morosidad y tasas al 85% para familias. ¿Qué pasará, según Invecq, en la segunda mitad de 2026?",
+        "link": "https://eleconomista.com.ar/finanzas/por-arranca-credito-argentina-circulo-vicioso-frena-consumo-2026-n96452",
+        "source": "El Economista",
+        "time": "04/07 09:51",
+        "iso_date": "2026-07-04T12:51:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "“Proceso de dolarización”: la sorpresiva proyección del mentor de Milei para el año electoral",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/proceso-de-dolarizacion-el-mentor-de-milei-sorprendio-con-su-proyeccion-para-el-ano-electoral/",
+        "source": "El Cronista",
+        "time": "04/07 09:03",
+        "iso_date": "2026-07-04T12:03:06+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
       {
-        "title": "Cuántos puestos de trabajo va a generar Vaca Muerta y el rol de YPF, según Marín",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/cuantos-puestos-de-trabajo-va-a-generar-vaca-muerta-y-el-rol-de-ypf-segun-marin/",
-        "source": "El Cronista",
-        "time": "03/07 15:43",
-        "iso_date": "2026-07-03T18:43:25+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "¿Petrobras, Vista, YPF o Ecopetrol? Las petroleras recomendadas por BofA para invertir",
-        "summary": "El banco recortó sus previsiones para el petróleo y ajustó los precios objetivo de la mayoría de las petroleras latinoamericanas. Pese a ello, mantiene a Petrobras, PRIO, Vista y YPF entre sus principales apuestas.",
-        "link": "https://www.bloomberglinea.com/mercados/petrobras-vista-ypf-o-ecopetrol-las-petroleras-recomendadas-por-bofa-para-invertir/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 12:51",
-        "iso_date": "2026-07-03T15:51:43+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria",
-        "summary": "La demanda por las bajas temperaturas volvió a exponer las limitaciones del sistema energético. Mientras el consumo residencial tiene prioridad, cientos de empresas enfrentan restricciones, mayores costos y la necesidad de recurrir a combustibles más caros",
-        "link": "https://www.infobae.com/economia/2026/07/03/la-paradoja-del-gas-vaca-muerta-produce-mas-pero-faltan-gasoductos-y-vuelven-los-cortes-a-la-industria/",
+        "title": "La ruta del petróleo en medio de boom de Vaca Muerta: cómo se calculan las regalías y cuánto cobran las provincias",
+        "summary": "Una alícuota del 12% sobre el valor del crudo en boca de pozo es la fórmula que une el subsuelo con las cajas de ocho provincias, en un año marcado por récords de producción y precios que cambian en minutos",
+        "link": "https://www.infobae.com/economia/2026/07/05/la-ruta-del-petroleo-en-medio-de-boom-de-vaca-muerta-como-se-calculan-las-regalias-y-cuanto-cobran-las-provincias/",
         "source": "Infobae Economía",
-        "time": "03/07 10:53",
-        "iso_date": "2026-07-03T13:53:03+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Vaca Muerta: ¿Puede Argentina disputar el podio petrolero regional con México o Venezuela?",
-        "summary": "El avance de los proyectos de infraestructura en la cuenca neuquina reabre el debate sobre el techo productivo del país. Analistas evalúan la viabilidad de Argentina se posicione dentro de los líderes en Latam.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-puede-argentina-disputar-el-podio-petrolero-regional-con-mexico-o-venezuela/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/07 05:45",
-        "iso_date": "2026-07-03T08:45:00+00:00",
+        "time": "05/07 12:33",
+        "iso_date": "2026-07-05T15:33:18+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -367,156 +329,69 @@
       }
     ],
     "GGAL": [],
-    "PAMP": [
+    "PAMP": [],
+    "BMA": [
       {
-        "title": "El Gobierno dio otro paso para la privatización de rutas nacionales y el lunes se conocerán las ofertas",
-        "summary": "El oficialismo avanzó con la concesión de 2.500 km de rutas en Buenos Aires, La Pampa, Santa Fe, Córdoba y San Luis. El detalle de los cuatro tramos que serán gestionados por el sector privado.",
-        "link": "https://www.ambito.com/economia/el-gobierno-dio-otro-paso-la-privatizacion-rutas-nacionales-y-el-lunes-se-conoceran-las-ofertas-n6295703",
-        "source": "Ámbito",
-        "time": "03/07 10:38",
-        "iso_date": "2026-07-03T13:38:00+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Gobierno dio otro paso para la privatización de rutas nacionales y el lunes se conocerán las ofertas",
-        "summary": "El oficialismo avanzó con la concesión de 2.500 km de rutas en Buenos Aires, La Pampa, Santa Fe, Córdoba y San Luis. El detalle de los cuatro tramos que serán gestionados por el sector privado.",
-        "link": "https://www.ambito.com/economia/el-gobierno-dio-otro-paso-la-privatizacion-rutas-nacionales-y-el-lunes-se-conoceran-las-ofertas-n6295703",
-        "source": "Ámbito Mercados",
-        "time": "03/07 10:38",
-        "iso_date": "2026-07-03T13:38:00+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Luego de suspender a todo su personal, un frigorífico retomó su actividad y reincorporó a 450 empleados",
-        "summary": "La firma de la familia Lowenstein, paralizada desde fines de 2025 y en concurso preventivo desde marzo, reactivó su planta de La Pampa de la mano de un operador argentino",
-        "link": "https://www.infobae.com/economia/2026/07/01/luego-de-suspender-a-todo-su-personal-el-frigorifico-creador-de-paty-retomo-su-actividad-y-reincorporo-a-450-empleados/",
+        "title": "Las distintas caras de un dato macroeconómico: consumo privado récord, pero ¿dónde, en qué, de quiénes?",
+        "summary": "Dos informes privados analizaron la diferencia entre la estadística macro y la realidad micro. Cambio de precios relativos, de canales de venta, de geografías y del peso del turismo y el consumo de bienes importados detrás de una divergencia que puede tener efecto político",
+        "link": "https://www.infobae.com/economia/2026/07/05/las-distintas-caras-de-un-dato-macroeconomico-consumo-privado-record-pero-donde-en-que-de-quienes/",
         "source": "Infobae Economía",
-        "time": "02/07 10:44",
-        "iso_date": "2026-07-02T13:44:46+00:00",
+        "time": "05/07 20:31",
+        "iso_date": "2026-07-05T23:31:12+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2"
+          "BMA"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Entre el crecimiento macro y los cuellos de botella microeconómicos",
+        "summary": "El repunte de la actividad no alcanzó para reactivar el gasto cotidiano: mientras el PBI avanza, los indicadores de compras en supermercados y comercios de cercanía siguieron en terreno negativo",
+        "link": "https://www.infobae.com/opinion/2026/07/05/entre-el-crecimiento-macro-y-los-cuellos-de-botella-microeconomicos/",
+        "source": "Infobae Economía",
+        "time": "05/07 00:50",
+        "iso_date": "2026-07-05T03:50:14+00:00",
+        "tickers": [
+          "BMA"
         ],
         "is_general": false
       }
     ],
-    "BMA": [],
     "TXAR": [],
     "ALUA": [],
-    "TECO2": [
-      {
-        "title": "Luego de suspender a todo su personal, un frigorífico retomó su actividad y reincorporó a 450 empleados",
-        "summary": "La firma de la familia Lowenstein, paralizada desde fines de 2025 y en concurso preventivo desde marzo, reactivó su planta de La Pampa de la mano de un operador argentino",
-        "link": "https://www.infobae.com/economia/2026/07/01/luego-de-suspender-a-todo-su-personal-el-frigorifico-creador-de-paty-retomo-su-actividad-y-reincorporo-a-450-empleados/",
-        "source": "Infobae Economía",
-        "time": "02/07 10:44",
-        "iso_date": "2026-07-02T13:44:46+00:00",
-        "tickers": [
-          "PAMP",
-          "TECO2"
-        ],
-        "is_general": false
-      }
-    ],
+    "TECO2": [],
     "CEPU": [],
     "AL30": [
       {
-        "title": "Jornada financiera: las acciones y los bonos argentinos subieron, pero sin la referencia de Wall Street",
-        "summary": "Sin la referencia de Wall Street por un feriado en EE.UU., el S&P Merval subió 1,2% y los bonos en dólares ganaron 0,3% en promedio. El dólar se sostuvo a $1.510 en el Banco Nación y el BCRA compró USD 100 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/03/jornada-financiera-las-acciones-y-los-bonos-argentinos-subieron-pero-sin-la-referencia-de-wall-street/",
+        "title": "Daniel Marx: “No deberíamos ver un tipo de cambio que llegue al techo de la banda”",
+        "summary": "El ex secretario de Finanzas habló con Infobae sobre la desinflación, el superávit fiscal, la acumulación de reservas, el índice de riesgo país, el plan financiero del Tesoro y las condiciones que, a su juicio, mejorarían la previsibilidad del rumbo económico",
+        "link": "https://www.infobae.com/economia/2026/07/05/daniel-marx-no-deberiamos-ver-un-tipo-de-cambio-que-llegue-al-techo-de-la-banda/",
         "source": "Infobae Economía",
-        "time": "03/07 18:35",
-        "iso_date": "2026-07-03T21:35:27+00:00",
+        "time": "05/07 00:51",
+        "iso_date": "2026-07-05T03:51:17+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país se aproxima a los 400 puntos y la Argentina queda cerca de poder volver al mercado internacional",
-        "summary": "El indicador financiero alcanzó su nivel más bajo en más de ocho años, impulsado por una menor presión sobre las tasas en Estados Unidos y el buen desempeño de bonos argentinos",
-        "link": "https://www.infobae.com/economia/2026/07/03/el-riesgo-pais-se-aproxima-a-los-400-puntos-y-la-argentina-queda-cerca-de-poder-volver-al-mercado-internacional/",
+        "title": "Semana financiera: con el riesgo ya cerca de 400 puntos, el Banco Central desaceleró la compra de reservas",
+        "summary": "Los bonos argentinos sostuvieron las ganancias y el indicador de JP Morgan tocó un nuevo piso en ocho años. Las acciones tuvieron desempeño desparejo pese al envión alcista de Wall Street. El dólar subió a $1.410 en el BNA, un máximo desde octubre",
+        "link": "https://www.infobae.com/economia/2026/07/04/semana-financiera-con-el-riesgo-ya-cerca-de-400-puntos-el-banco-central-desacelero-la-compra-de-reservas/",
         "source": "Infobae Economía",
-        "time": "03/07 02:48",
-        "iso_date": "2026-07-03T05:48:40+00:00",
+        "time": "04/07 00:37",
+        "iso_date": "2026-07-04T03:37:53+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Un dato puntual cambió el clima y el riesgo país sigue bajando",
-        "summary": "EE.UU. informó que su creación de empleo disminuyó y eso bastó para desarmar la expectativa de que la nueva Fed de Warsh vaya a subir su tasa de interés.",
-        "link": "https://eleconomista.com.ar/finanzas/un-dato-puntual-cambio-clima-riesgo-pais-sigue-bajando-n96401",
-        "source": "El Economista",
-        "time": "02/07 20:01",
-        "iso_date": "2026-07-02T23:01:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el riesgo país bajó por cuarta rueda seguida y tocó un nuevo mínimo desde 2018",
-        "summary": "Los bonos en dólares ganaron 0,2% y el indicador de JP Morgan cedió a 415 puntos. El S&P Merval ganó 1,1% y los ADR exhibieron mayoría de alzas. El dólar quedó estable a $1.510 en el Banco Nación y las reservas recuperaron el nivel de USD 48.000 millones",
-        "link": "https://www.infobae.com/economia/2026/07/02/jornada-financiera-el-riesgo-pais-bajo-por-cuarta-rueda-seguida-y-toco-un-nuevo-minimo-desde-2018/",
+        "title": "Después de un comienzo de año flojo para el Merval, ¿lo mejor está por venir?",
+        "summary": "El principal referente bursátil argentino perdió casi toda la ganancia acumulada tras superar los USD 2.200 en junio, pese a un contexto local de menor riesgo país, desinflación y mejora en la nota soberana",
+        "link": "https://www.infobae.com/opinion/2026/07/04/despues-de-un-comienzo-de-ano-flojo-para-el-merval-lo-mejor-esta-por-venir/",
         "source": "Infobae Economía",
-        "time": "02/07 17:57",
-        "iso_date": "2026-07-02T20:57:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: se afirmaron las acciones y los bonos argentinos mientras el riesgo país se acercó a los 400 puntos",
-        "summary": "El S&P Merval ganó 1,1% y los ADR avanzaron hasta 4% en Wall Street. Los títulos públicos subieron 0,2% y el indicador de JP Morgan cayó a 415 unidades, un piso desde abril de 2018",
-        "link": "https://www.infobae.com/economia/2026/07/02/mercados-se-afirman-las-acciones-y-los-bonos-argentinos-mientras-el-riesgo-pais-se-acerca-a-los-400-puntos/",
-        "source": "Infobae Economía",
-        "time": "02/07 17:45",
-        "iso_date": "2026-07-02T20:45:16+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país en América Latina: toda la región mejoró en el primer semestre",
-        "summary": "Venezuela, Argentina, Ecuador y Bolivia continuaron recortando rendimientos. También mejoró el spread de Colombia, donde el giro promercado de las elecciones fue un catalizador para los bonos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/riesgo-pais-en-america-latina-toda-la-region-mejoro-en-el-primer-semestre/",
-        "source": "Bloomberg Línea AR",
-        "time": "02/07 08:00",
-        "iso_date": "2026-07-02T11:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país tocó mínimos en ocho años: ¿pueden seguir subiendo los bonos argentinos en dólares?",
-        "summary": "Ayer finalizó a 421 puntos y todavía hay margen de compresión para alcanzar a países de similar calificación. La expectativa es ahora el pago de USD 4.200 millones de Bonares la semana que viene, que en parte podría ser reinvertido",
-        "link": "https://www.infobae.com/economia/2026/07/02/el-riesgo-pais-toco-minimos-en-ocho-anos-pueden-seguir-subiendo-los-bonos-argentinos-en-dolares/",
-        "source": "Infobae Economía",
-        "time": "02/07 01:40",
-        "iso_date": "2026-07-02T04:40:58+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno hace de todo, pero el dólar sigue subiendo",
-        "summary": "El segundo semestre arrancó hoy con subas para todos los dólares. Los bonos se sostuvieron, con el menor riesgo país desde abril de 2018. Pero la Bolsa local y las ADR argentinas siguen bajando.",
-        "link": "https://eleconomista.com.ar/finanzas/el-gobierno-hace-todo-pero-dolar-sigue-subiendo-n96356",
-        "source": "El Economista",
-        "time": "01/07 20:16",
-        "iso_date": "2026-07-01T23:16:00+00:00",
+        "time": "04/07 00:36",
+        "iso_date": "2026-07-04T03:36:42+00:00",
         "tickers": [
           "AL30"
         ],
