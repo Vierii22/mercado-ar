@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-07-10T21:02:20.937534",
-  "updated_str": "10/07/2026 21:02",
+  "updated_at": "2026-07-10T22:53:27.989410",
+  "updated_str": "10/07/2026 22:53",
   "cutoff_hours": 48,
   "total_news": 130,
   "news": {
     "GENERAL": [
+      {
+        "title": "“Hay una especie de debilidad cambiaria”: un ex viceministro de Economía de Caputo pidió la liberación total del cepo al dólar",
+        "summary": "Joaquín Cottani consideró que la falta de una liberalización total del cepo genera incertidumbre en los mercados y limita la llegada de inversiones",
+        "link": "https://www.infobae.com/economia/2026/07/10/hay-una-especie-de-debilidad-cambiaria-un-ex-viceministro-de-economia-de-caputo-pidio-la-liberacion-total-del-cepo-al-dolar/",
+        "source": "Infobae Economía",
+        "time": "10/07 19:29",
+        "iso_date": "2026-07-10T22:29:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: el riesgo país quedó al borde de los 400 puntos y tocó un nuevo mínimo en más de ocho años",
+        "summary": "El S&P Merval subió 2,4% y el indicador de riesgo país cayó a 402 unidades, un mínimo desde abril de 2018. Por el feriado parcial no hubo operaciones en el mercado de cambios. Los títulos bancarios lideraron la tendencia de los activos argentinos",
+        "link": "https://www.infobae.com/economia/2026/07/10/jornada-financiera-el-riesgo-pais-quedo-al-borde-de-los-400-puntos-y-toco-un-nuevo-minimo-en-mas-de-ocho-anos/",
+        "source": "Infobae Economía",
+        "time": "10/07 18:03",
+        "iso_date": "2026-07-10T21:03:07+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las acciones argentinas subieron hasta 9% en Wall Street, mientras la plaza local operó con límites por el feriado “puente”",
         "summary": "Los títulos financieros encabezaron la tendencia positiva de los ADR con ganancias hasta 9%. Los bonos ganaron 0,5%, mientras que el riesgo país cedió a 402 puntos básicos",
@@ -64,6 +86,16 @@
         "source": "El Cronista",
         "time": "10/07 15:28",
         "iso_date": "2026-07-10T18:28:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Plazo fijo: cuánto tengo que invertir para generar $50.000 a 30 días",
+        "summary": "Las tasas bancarias tienen un rendimiento muy bajo y los montos necesarios para alcanzar altas ganancias es muy elevado.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-tengo-que-invertir-generar-50000-30-dias-n6297585",
+        "source": "Ámbito",
+        "time": "10/07 14:00",
+        "iso_date": "2026-07-10T17:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -247,8 +279,8 @@
         "time": "10/07 01:25",
         "iso_date": "2026-07-10T04:25:49+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -291,36 +323,6 @@
         "iso_date": "2026-07-09T20:56:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El ingreso disponible de los argentinos cortó una racha de cinco caídas al hilo en abril",
-        "summary": "Las principales mejoras se vieron entre trabajadores informales y formales del sector privado. En la era Milei mejoraron los ingresos de los más ricos, pero empeoraron en los hogares pobres.",
-        "link": "https://www.ambito.com/economia/el-ingreso-disponible-los-argentinos-corto-una-racha-cinco-caidas-al-hilo-abril-n6297998",
-        "source": "Ámbito",
-        "time": "09/07 17:26",
-        "iso_date": "2026-07-09T20:26:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street sube impulsado por las acciones de semiconductores mientras cae el petróleo",
-        "summary": "Los inversionistas respaldaron nuevamente a las empresas vinculadas con inteligencia artificial, mientras evaluaron la caída del petróleo, la evolución del conflicto entre Estados Unidos e Irán y el inicio de la temporada de resultados corporativos.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-avanza-impulsado-por-las-tecnologicas-mientras-persisten-tensiones-con-iran/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/07 17:12",
-        "iso_date": "2026-07-09T20:12:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Minuta de Banxico: miembros mantienen cautela en tasa y examinan diferencial con la Fed",
-        "summary": "La Minuta arroja un consenso de la Junta de Gobierno sobre que la inflación general ha descendido recientemente hasta colocarse dentro del intervalo de variabilidad.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/minuta-de-banxico-miembros-mantienen-cautela-en-tasa-y-examinan-diferencial-con-la-fed/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/07 16:03",
-        "iso_date": "2026-07-09T19:03:42+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -332,8 +334,8 @@
         "time": "10/07 01:25",
         "iso_date": "2026-07-10T04:25:49+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -375,8 +377,8 @@
         "time": "10/07 01:25",
         "iso_date": "2026-07-10T04:25:49+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -385,6 +387,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: el riesgo país quedó al borde de los 400 puntos y tocó un nuevo mínimo en más de ocho años",
+        "summary": "El S&P Merval subió 2,4% y el indicador de riesgo país cayó a 402 unidades, un mínimo desde abril de 2018. Por el feriado parcial no hubo operaciones en el mercado de cambios. Los títulos bancarios lideraron la tendencia de los activos argentinos",
+        "link": "https://www.infobae.com/economia/2026/07/10/jornada-financiera-el-riesgo-pais-quedo-al-borde-de-los-400-puntos-y-toco-un-nuevo-minimo-en-mas-de-ocho-anos/",
+        "source": "Infobae Economía",
+        "time": "10/07 18:03",
+        "iso_date": "2026-07-10T21:03:07+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las acciones argentinas subieron hasta 9% en Wall Street, mientras la plaza local operó con límites por el feriado “puente”",
         "summary": "Los títulos financieros encabezaron la tendencia positiva de los ADR con ganancias hasta 9%. Los bonos ganaron 0,5%, mientras que el riesgo país cedió a 402 puntos básicos",
