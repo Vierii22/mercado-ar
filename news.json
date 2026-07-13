@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-07-13T20:36:39.863980",
-  "updated_str": "13/07/2026 20:36",
+  "updated_at": "2026-07-13T20:53:01.303555",
+  "updated_str": "13/07/2026 20:53",
   "cutoff_hours": 48,
   "total_news": 136,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este lunes 13 de julio",
+        "summary": "El billete al público quedó negociado con baja de cinco pesos a $1.505 para la venta en el Banco Nación. El blue subió a $1.525. El BCRA compró USD 280 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/07/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-13-de-julio/",
+        "source": "Infobae Economía",
+        "time": "13/07 17:48",
+        "iso_date": "2026-07-13T20:48:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: cayeron los bonos soberanos y las acciones argentinas tras el recrudecimiento del conflicto en Ormuz",
+        "summary": "Los índices de Nueva York cayeron hasta 1,6%, mientras que el petróleo avanzó casi 10% por el renovado conflicto bélico. El S&P Merval cedió 1,4% y el riesgo país subió a 405 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/07/13/mercados-caen-los-bonos-soberanos-y-las-acciones-argentinas-no-definen-un-rumbo-tras-el-recrudecimiento-del-conflicto-en-ormuz/",
+        "source": "Infobae Economía",
+        "time": "13/07 17:38",
+        "iso_date": "2026-07-13T20:38:13+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El Banco Central realizó una fuerte compra de dólares y acumuló 125 jornadas seguidas con saldo positivo",
         "summary": "La autoridad monetaria adquirió USD 280 millones, el monto más elevado en un mes y medio. Las reservas internacionales volvieron a caer tras el pago de un vencimiento de deuda",
@@ -23,8 +45,8 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": true
       },
@@ -35,16 +57,6 @@
         "source": "Infobae Economía",
         "time": "13/07 17:27",
         "iso_date": "2026-07-13T20:27:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este lunes 13 de julio",
-        "summary": "El billete al público quedó negociado con baja de cinco pesos a $1.505 para la venta en el Banco Nación. El blue subió a $1.525",
-        "link": "https://www.infobae.com/economia/2026/07/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-13-de-julio/",
-        "source": "Infobae Economía",
-        "time": "13/07 16:33",
-        "iso_date": "2026-07-13T19:33:58+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -106,18 +118,6 @@
         "time": "13/07 12:49",
         "iso_date": "2026-07-13T15:49:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: caen los bonos soberanos y las acciones argentinas no definen un rumbo tras el recrudecimiento del conflicto en Ormuz",
-        "summary": "Los índices de Nueva York caen hasta 1,1%, mientras que el petróleo avanza más de 3% por el renovado conflicto bélico. El S&P Merval cede 0,2% y el riesgo país sube a 405 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/07/13/mercados-caen-los-bonos-soberanos-y-las-acciones-argentinas-no-definen-un-rumbo-tras-el-recrudecimiento-del-conflicto-en-ormuz/",
-        "source": "Infobae Economía",
-        "time": "13/07 12:43",
-        "iso_date": "2026-07-13T15:43:42+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -326,8 +326,8 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": true
       },
@@ -427,8 +427,8 @@
         "time": "12/07 03:51",
         "iso_date": "2026-07-12T06:51:47+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
@@ -445,20 +445,20 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": true
       }
     ],
     "AL30": [
       {
-        "title": "Mercados: caen los bonos soberanos y las acciones argentinas no definen un rumbo tras el recrudecimiento del conflicto en Ormuz",
-        "summary": "Los índices de Nueva York caen hasta 1,1%, mientras que el petróleo avanza más de 3% por el renovado conflicto bélico. El S&P Merval cede 0,2% y el riesgo país sube a 405 puntos básicos",
+        "title": "Mercados: cayeron los bonos soberanos y las acciones argentinas tras el recrudecimiento del conflicto en Ormuz",
+        "summary": "Los índices de Nueva York cayeron hasta 1,6%, mientras que el petróleo avanzó casi 10% por el renovado conflicto bélico. El S&P Merval cedió 1,4% y el riesgo país subió a 405 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/07/13/mercados-caen-los-bonos-soberanos-y-las-acciones-argentinas-no-definen-un-rumbo-tras-el-recrudecimiento-del-conflicto-en-ormuz/",
         "source": "Infobae Economía",
-        "time": "13/07 12:43",
-        "iso_date": "2026-07-13T15:43:42+00:00",
+        "time": "13/07 17:38",
+        "iso_date": "2026-07-13T20:38:13+00:00",
         "tickers": [
           "AL30"
         ],
@@ -520,8 +520,8 @@
         "time": "12/07 03:51",
         "iso_date": "2026-07-12T06:51:47+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
