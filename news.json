@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-07-13T20:19:35.307335",
-  "updated_str": "13/07/2026 20:19",
+  "updated_at": "2026-07-13T20:36:39.863980",
+  "updated_str": "13/07/2026 20:36",
   "cutoff_hours": 48,
-  "total_news": 134,
+  "total_news": 136,
   "news": {
     "GENERAL": [
       {
-        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este lunes 13 de julio",
-        "summary": "El billete al público quedó negociado con baja de cinco pesos a $1.505 para la venta en el Banco Nación. El blue subió a $1.525",
-        "link": "https://www.infobae.com/economia/2026/07/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-13-de-julio/",
+        "title": "El Banco Central realizó una fuerte compra de dólares y acumuló 125 jornadas seguidas con saldo positivo",
+        "summary": "La autoridad monetaria adquirió USD 280 millones, el monto más elevado en un mes y medio. Las reservas internacionales volvieron a caer tras el pago de un vencimiento de deuda",
+        "link": "https://www.infobae.com/economia/2026/07/13/el-banco-central-realizo-una-fuerte-compra-de-dolares-y-acumulo-125-jornadas-seguidas-con-saldo-positivo/",
         "source": "Infobae Economía",
-        "time": "13/07 16:33",
-        "iso_date": "2026-07-13T19:33:58+00:00",
+        "time": "13/07 17:32",
+        "iso_date": "2026-07-13T20:32:49+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "IPO: YPF Luz solicita salir a cotizar en las bolsas de Nueva York y Buenos Aires",
+        "summary": "Firmó un acuerdo con Central Puerto para avanzar en el estudio y desarrollo de la construcción de una línea de alta tensión. Buscan abastecer a los proyectos de Salta y Catamarca. Sería inscripto al RIGI",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipo-ypf-luz-solicita-salir-a-cotizar-en-las-bolsas-de-nueva-york-y-buenos-aires/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/07 17:30",
+        "iso_date": "2026-07-13T20:30:48+00:00",
+        "tickers": [
+          "CEPU",
+          "YPFD"
+        ],
         "is_general": true
       },
       {
@@ -20,8 +33,18 @@
         "summary": "El mayorista cedió a $1.482, el mismo precio del 30 de junio, y al público en el Banco Nación cedió a $1.505 para la venta",
         "link": "https://www.infobae.com/economia/2026/07/13/el-dolar-bajo-por-segundo-dia-y-borro-toda-la-suba-que-acumulaba-en-julio/",
         "source": "Infobae Economía",
-        "time": "13/07 16:28",
-        "iso_date": "2026-07-13T19:28:25+00:00",
+        "time": "13/07 17:27",
+        "iso_date": "2026-07-13T20:27:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este lunes 13 de julio",
+        "summary": "El billete al público quedó negociado con baja de cinco pesos a $1.505 para la venta en el Banco Nación. El blue subió a $1.525",
+        "link": "https://www.infobae.com/economia/2026/07/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-13-de-julio/",
+        "source": "Infobae Economía",
+        "time": "13/07 16:33",
+        "iso_date": "2026-07-13T19:33:58+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -292,29 +315,22 @@
         "iso_date": "2026-07-13T07:30:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La preocupante predicción de un CEO que reina en el mundo de los chips: hasta cuándo habrá escasez de memorias para celulares y autos",
-        "summary": "El número 1 de SK Hynix, compañía coreana que acaba de empezar a cotizar en Wall Street, generó dudas cuando proyectó que la actual crisis durará mucho más de los esperado hasta el momento",
-        "link": "https://www.infobae.com/economia/2026/07/13/la-preocupante-prediccion-de-un-ceo-que-reina-en-el-mundo-de-los-chips-hasta-cuando-habra-escasez-de-memorias-para-celulares-y-autos/",
-        "source": "Infobae Economía",
-        "time": "13/07 03:03",
-        "iso_date": "2026-07-13T06:03:58+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Qué va a pasar con los precios?: a cuánto podría llegar la inflación de julio según las consultoras del mercado",
-        "summary": "La suba de precios continúa moderándose y se mantendría en niveles similares a los del mes pasado, pese a las presiones del transporte, los regulados y el turismo",
-        "link": "https://www.infobae.com/economia/2026/07/13/que-va-a-pasar-con-los-precios-a-cuanto-podria-llegar-la-inflacion-de-julio-segun-las-consultoras-del-mercado/",
-        "source": "Infobae Economía",
-        "time": "13/07 02:26",
-        "iso_date": "2026-07-13T05:26:25+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "IPO: YPF Luz solicita salir a cotizar en las bolsas de Nueva York y Buenos Aires",
+        "summary": "Firmó un acuerdo con Central Puerto para avanzar en el estudio y desarrollo de la construcción de una línea de alta tensión. Buscan abastecer a los proyectos de Salta y Catamarca. Sería inscripto al RIGI",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipo-ypf-luz-solicita-salir-a-cotizar-en-las-bolsas-de-nueva-york-y-buenos-aires/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/07 17:30",
+        "iso_date": "2026-07-13T20:30:48+00:00",
+        "tickers": [
+          "CEPU",
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Vaca Muerta: la grieta que no existe y la oportunidad que la Argentina no puede desperdiciar",
         "summary": "Con una producción que ya bate récords y exportaciones que podrían superar los 40.000 millones de dólares hacia 2031, Vaca Muerta logró algo que pocos temas consiguen en la Argentina: un consenso que atraviesa gobiernos, sectores e ideologías",
@@ -420,7 +436,21 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [],
-    "CEPU": [],
+    "CEPU": [
+      {
+        "title": "IPO: YPF Luz solicita salir a cotizar en las bolsas de Nueva York y Buenos Aires",
+        "summary": "Firmó un acuerdo con Central Puerto para avanzar en el estudio y desarrollo de la construcción de una línea de alta tensión. Buscan abastecer a los proyectos de Salta y Catamarca. Sería inscripto al RIGI",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipo-ypf-luz-solicita-salir-a-cotizar-en-las-bolsas-de-nueva-york-y-buenos-aires/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/07 17:30",
+        "iso_date": "2026-07-13T20:30:48+00:00",
+        "tickers": [
+          "CEPU",
+          "YPFD"
+        ],
+        "is_general": true
+      }
+    ],
     "AL30": [
       {
         "title": "Mercados: caen los bonos soberanos y las acciones argentinas no definen un rumbo tras el recrudecimiento del conflicto en Ormuz",
