@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-13T17:06:50.394044",
-  "updated_str": "13/07/2026 17:06",
+  "updated_at": "2026-07-13T17:27:18.980437",
+  "updated_str": "13/07/2026 17:27",
   "summary": {
-    "change": -0.22,
+    "change": -0.36,
     "leader": "YPFD",
-    "leader_change": 3.63,
+    "leader_change": 3.49,
     "worst": "BMA",
     "worst_change": -3.38,
     "hot_count": 2,
@@ -14,10 +14,10 @@
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 77100.0,
-      "change": 3.63,
-      "volume": 153968,
-      "volume_ratio": 0.61,
+      "price": 77000.0,
+      "change": 3.49,
+      "volume": 156403,
+      "volume_ratio": 0.62,
       "hot": true,
       "cold": false,
       "trend": [
@@ -30,23 +30,23 @@
         74425.0,
         75775.0,
         74400.0,
-        77100.0
+        77000.0
       ],
       "trend_dir": "up",
       "trend_streak": 4,
-      "ma5": 74870.0,
-      "ma20": 73958.75,
+      "ma5": 74850.0,
+      "ma20": 73953.75,
       "ma_cross": 1,
-      "score": 90,
+      "score": 89,
       "signal": "fuerte_suba"
     },
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 8175.0,
-      "change": -1.92,
-      "volume": 887266,
-      "volume_ratio": 0.32,
+      "price": 8130.0,
+      "change": -2.46,
+      "volume": 1026388,
+      "volume_ratio": 0.37,
       "hot": false,
       "cold": false,
       "trend": [
@@ -59,14 +59,14 @@
         7880.0,
         7880.0,
         8335.0,
-        8175.0
+        8130.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 8063.0,
-      "ma20": 8005.69,
+      "ma5": 8054.0,
+      "ma20": 8003.44,
       "ma_cross": 1,
-      "score": 42,
+      "score": 38,
       "signal": "baja"
     },
     {
@@ -74,8 +74,8 @@
       "name": "Pampa Energía",
       "price": 5270.0,
       "change": 1.74,
-      "volume": 502439,
-      "volume_ratio": 0.56,
+      "volume": 537567,
+      "volume_ratio": 0.6,
       "hot": true,
       "cold": false,
       "trend": [
@@ -103,8 +103,8 @@
       "name": "Banco Macro",
       "price": 14300.0,
       "change": -3.38,
-      "volume": 77254,
-      "volume_ratio": 0.27,
+      "volume": 85782,
+      "volume_ratio": 0.3,
       "hot": false,
       "cold": true,
       "trend": [
@@ -132,8 +132,8 @@
       "name": "Ternium AR",
       "price": 668.5,
       "change": -0.37,
-      "volume": 250922,
-      "volume_ratio": 0.25,
+      "volume": 259954,
+      "volume_ratio": 0.26,
       "hot": false,
       "cold": false,
       "trend": [
@@ -161,8 +161,8 @@
       "name": "Aluar",
       "price": 977.5,
       "change": 0.21,
-      "volume": 203340,
-      "volume_ratio": 0.48,
+      "volume": 230643,
+      "volume_ratio": 0.54,
       "hot": false,
       "cold": false,
       "trend": [
@@ -188,10 +188,10 @@
     {
       "ticker": "TECO2",
       "name": "Telecom AR",
-      "price": 4235.0,
-      "change": -0.24,
-      "volume": 123483,
-      "volume_ratio": 0.54,
+      "price": 4230.0,
+      "change": -0.35,
+      "volume": 127929,
+      "volume_ratio": 0.56,
       "hot": false,
       "cold": false,
       "trend": [
@@ -204,12 +204,12 @@
         4120.0,
         4120.0,
         4245.0,
-        4235.0
+        4230.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 4160.0,
-      "ma20": 4100.0,
+      "ma5": 4159.0,
+      "ma20": 4099.75,
       "ma_cross": 1,
       "score": 53,
       "signal": "neutral"
@@ -217,10 +217,10 @@
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": 2362.0,
-      "change": -1.42,
-      "volume": 236233,
-      "volume_ratio": 0.32,
+      "price": 2353.0,
+      "change": -1.79,
+      "volume": 259318,
+      "volume_ratio": 0.35,
       "hot": false,
       "cold": false,
       "trend": [
@@ -233,14 +233,14 @@
         2315.0,
         2315.0,
         2396.0,
-        2362.0
+        2353.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 2343.4,
-      "ma20": 2326.25,
+      "ma5": 2341.6,
+      "ma20": 2325.8,
       "ma_cross": 1,
-      "score": 45,
+      "score": 42,
       "signal": "baja"
     }
   ]
