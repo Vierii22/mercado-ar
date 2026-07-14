@@ -1,27 +1,89 @@
 {
-  "updated_at": "2026-07-14T19:08:30.084592",
-  "updated_str": "14/07/2026 19:08",
+  "updated_at": "2026-07-14T19:50:32.661499",
+  "updated_str": "14/07/2026 19:50",
   "cutoff_hours": 48,
-  "total_news": 208,
+  "total_news": 212,
   "news": {
     "GENERAL": [
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este martes 14 de julio",
-        "summary": "El billete al público restó diez pesos y quedó negociado a $1.495 para la venta en el Banco Nación. El blue cayó a $1.520. El mayorista bajó por tercer día operativo",
-        "link": "https://www.infobae.com/economia/2026/07/14/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-martes-14-de-julio/",
-        "source": "Infobae Economía",
-        "time": "14/07 16:05",
-        "iso_date": "2026-07-14T19:05:21+00:00",
-        "tickers": [],
-        "is_general": true
-      },
       {
         "title": "La inflación en junio fue de 1,9% y acumuló 33,5% en los últimos doce meses",
         "summary": "El índice nacional de precios al consumidor registró una caída de 0,2 puntos porcentuales respecto a mayo y el nivel más bajo en diez meses. Además, acumuló un alza de 16,8% en el año",
         "link": "https://www.infobae.com/economia/2026/07/14/la-inflacion-en-junio-fue-de-19-y-acumulo-335-en-los-ultimos-doce-meses/",
         "source": "Infobae Economía",
-        "time": "14/07 16:04",
-        "iso_date": "2026-07-14T19:04:12+00:00",
+        "time": "14/07 16:43",
+        "iso_date": "2026-07-14T19:43:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Aumenta el transporte público: cuánto costarán colectivos, subtes y peajes desde el 1° de agosto",
+        "summary": "La suba será del 3,9% y el ajuste combina el 1,9% del Índice de Precios al Consumidor (IPC) de mayo mas un 2% adicional.",
+        "link": "https://www.ambito.com/economia/aumenta-el-transporte-publico-cuanto-costaran-colectivos-subtes-y-peajes-el-1-agosto-n6299463",
+        "source": "Ámbito",
+        "time": "14/07 16:43",
+        "iso_date": "2026-07-14T19:43:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Metrogas anuncia dividendos por primera vez en 25 años y sus acciones suben más de 5%",
+        "summary": "“La decisión marca un hito en la historia reciente de la compañía y representa un nuevo paso en su proceso de consolidación como una empresa más sustentable a largo plazo”, sostuvo en un comunicado.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/metrogas-anuncia-dividendos-por-primera-vez-en-25-anos-y-sus-acciones-suben-mas-de-5/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/07 16:41",
+        "iso_date": "2026-07-14T19:41:59+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "A Vaca Muerta: Georgieva del FMI quiere ver la fuente de dólares de la Argentina, ¿cómo será su agenda?",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/a-vaca-muerta-georgieva-del-fmi-quiere-ver-la-fuente-de-dolares-de-la-argentina-como-sera-su-agenda/",
+        "source": "El Cronista",
+        "time": "14/07 16:28",
+        "iso_date": "2026-07-14T19:28:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La canasta básica se aceleró al 2,2% en junio: una familia necesitó más de $1.500.000 para no ser pobre",
+        "summary": "Sucedió pese la desaceleración de la canasta alimentaria y de la inflación general.",
+        "link": "https://www.ambito.com/economia/la-canasta-basica-se-acelero-al-22-junio-una-familia-necesito-mas-1500000-no-ser-pobre-n6299461",
+        "source": "Ámbito",
+        "time": "14/07 16:25",
+        "iso_date": "2026-07-14T19:25:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este martes 14 de julio",
+        "summary": "El billete al público restó diez pesos y quedó negociado a $1.495 para la venta en el Banco Nación. El blue cayó a $1.520. El mayorista bajó por tercer día operativo",
+        "link": "https://www.infobae.com/economia/2026/07/14/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-martes-14-de-julio/",
+        "source": "Infobae Economía",
+        "time": "14/07 16:21",
+        "iso_date": "2026-07-14T19:21:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Carta Orgánica BCRA: Milei enviará el proyecto en agosto y realizará un anuncio oficial",
+        "summary": "El Presidente anunciará oficialmente el proyecto en las próximas semanas, antes de remitirlo al Congreso para el mes de agosto. Durante la Mesa Política también se delineó la agenda para la inminente visita de Kristalina Georgieva, el envío del proyecto de Inocencia Fiscal y l...",
+        "link": "https://www.cronista.com/economia-politica/se-reune-la-mesa-politica-en-la-previa-del-receso-legislativo-ultima-sesion-en-el-senado-y-desacuerdos-por-las-paso/",
+        "source": "El Cronista",
+        "time": "14/07 16:18",
+        "iso_date": "2026-07-14T19:18:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar bajó por tercer día y en el Banco Nación quedó debajo de los 1.500 pesos",
+        "summary": "El dólar mayorista cedió a $1.471,50, el precio más bajo desde el 23 de junio. Al público cedió a $1.495 para la venta",
+        "link": "https://www.infobae.com/economia/2026/07/14/el-dolar-bajo-por-tercer-dia-y-en-el-banco-nacion-quedo-debajo-de-los-1500-pesos/",
+        "source": "Infobae Economía",
+        "time": "14/07 16:17",
+        "iso_date": "2026-07-14T19:17:28+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -32,6 +94,16 @@
         "source": "Bloomberg Línea AR",
         "time": "14/07 16:04",
         "iso_date": "2026-07-14T19:04:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La inflación se desaceleró al 1,9% en junio, con una fuerte moderación de alimentos",
+        "summary": "En el primer semestre, el IPC acumuló un alza de 16,8%, mientras que la variación interanual subió al 33,5%. La inflación Núcleo se desaceleró del 1,9% al 1,6%.",
+        "link": "https://www.ambito.com/economia/la-inflacion-perforo-el-2-junio-primera-vez-10-meses-una-fuerte-desaceleracion-alimentos-n6299457",
+        "source": "Ámbito",
+        "time": "14/07 16:04",
+        "iso_date": "2026-07-14T19:04:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -246,79 +318,21 @@
         "iso_date": "2026-07-14T12:24:17+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Caputo siguió ajustando en el primer semestre, pero en junio aumentó el gasto para subsidios y programas sociales",
-        "summary": "Un informe privado expuso que en los primeros seis meses las erogaciones públicas se redujeron 2,3% real en comparación con 2025, pero en junio subieron 3,7%. La tensión entre la caída en la recaudación y la necesidad de mantener el superávit fiscal",
-        "link": "https://www.infobae.com/economia/2026/07/14/caputo-siguio-ajustando-en-el-primer-semestre-pero-en-junio-aumento-el-gasto-para-subsidios-y-programas-sociales/",
-        "source": "Infobae Economía",
-        "time": "14/07 09:04",
-        "iso_date": "2026-07-14T12:04:26+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Revés para Donald Trump: EEUU reembolsa u$s81.000 millones a importadores en aranceles anulados por la Corte Suprema",
-        "summary": "Los aranceles eran una herramienta clave de la política económica del presidente Donald Trump. A su vez, la decisión judicial provocó un aumento del 2% en el déficit fiscal estadounidense.",
-        "link": "https://www.ambito.com/economia/eeuu-reembolsa-us81000-millones-importadores-aranceles-anulados-la-corte-suprema-n6299209",
-        "source": "Ámbito",
-        "time": "14/07 09:02",
-        "iso_date": "2026-07-14T12:02:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación esperada para las principales economías de América Latina: esto pronostica el mercado",
-        "summary": "Las encuestas que llevan a cabo los bancos centrales de la región funcionan como termómetro de lo que esperan los operadores hacia adelante.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-esperada-para-las-principales-economias-de-america-latina-esto-pronostica-el-mercado/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/07 09:00",
-        "iso_date": "2026-07-14T12:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "ARCA lanzó un nuevo plan de pagos para mipymes, pequeños contribuyentes y entidades sin fines de lucro: cómo acceder y cuáles son las condiciones",
-        "summary": "La medida permite regularizar deudas impositivas, aduaneras y de la seguridad social. Prevé planes de hasta 18 cuotas, según el tipo de contribuyente.",
-        "link": "https://www.ambito.com/economia/arca-lanzo-un-nuevo-plan-pagos-mipymes-pequenos-contribuyentes-y-entidades-fines-lucro-como-acceder-y-cuales-son-las-condiciones-n6299168",
-        "source": "Ámbito",
-        "time": "14/07 08:24",
-        "iso_date": "2026-07-14T11:24:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mientras avanza con las privatizaciones, el Gobierno aprobó los presupuestos de ARSAT y Nucleoeléctrica",
-        "summary": "El Ministerio de Economía aprobó los presupuestos 2026 de Nucleoeléctrica, ARSAT, COVIARA y AGP, con superávit financiero proyectado para las cuatro empresas públicas",
-        "link": "https://www.ambito.com/economia/mientras-avanza-las-privatizaciones-el-gobierno-aprobo-los-presupuestos-arsat-y-nucleoelectrica-n6299167",
-        "source": "Ámbito",
-        "time": "14/07 07:56",
-        "iso_date": "2026-07-14T10:56:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Deuda: ¿Luis Caputo no sale porque no quiere o porque no puede?",
-        "summary": "Los mercados voluntarios de deuda internacionales continuaron abiertos el mes pasado, y en particular para países de economías emergentes. Pero las nuevas condiciones del mercado pueden complicar el futuro accionar del equipo del “Toto” en cuanto a potenciales colocaciones.",
-        "link": "https://www.ambito.com/economia/deuda-luis-caputo-no-sale-porque-no-quiere-o-no-puede-n6299134",
-        "source": "Ámbito",
-        "time": "14/07 07:00",
-        "iso_date": "2026-07-14T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Colcap se mantiene al alza ante volatilidad global y esto está moviendo a la bolsa colombiana",
-        "summary": "En junio, el Colcap avanzó 4,2% a 2.269,1 puntos, en medio del avance en las negociaciones entre EE.UU. e Irán, aún en desarrollo, y resultados electorales locales, que favorecieron un cambio en la línea de gobierno.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colcap-se-mantiene-al-alza-ante-volatilidad-global-y-esto-esta-moviendo-a-la-bolsa-colombiana/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/07 07:00",
-        "iso_date": "2026-07-14T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "A Vaca Muerta: Georgieva del FMI quiere ver la fuente de dólares de la Argentina, ¿cómo será su agenda?",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/a-vaca-muerta-georgieva-del-fmi-quiere-ver-la-fuente-de-dolares-de-la-argentina-como-sera-su-agenda/",
+        "source": "El Cronista",
+        "time": "14/07 16:28",
+        "iso_date": "2026-07-14T19:28:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Metrogas repartirá dividendos por primera vez desde 2001, mientras YPF define su venta",
         "summary": "El directorio de la distribuidora de gas más grande del área metropolitana aprobó un pago de $100.000 millones. El Estado debe definir si extiende la licencia de distribución hasta 2047 y 13 empresas compiten por quedarse con la compañía",
@@ -363,8 +377,8 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -396,8 +410,8 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": true
       }
