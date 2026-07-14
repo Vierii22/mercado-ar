@@ -1,17 +1,119 @@
 {
-  "updated_at": "2026-07-14T11:37:29.559563",
-  "updated_str": "14/07/2026 11:37",
+  "updated_at": "2026-07-14T12:59:10.961109",
+  "updated_str": "14/07/2026 12:59",
   "cutoff_hours": 48,
-  "total_news": 168,
+  "total_news": 164,
   "news": {
     "GENERAL": [
       {
-        "title": "ARCA lanzó un nuevo plan de pagos para MiPyMEs, pequeños contribuyentes y entidades sin fines de lucro: cómo acceder y cuáles son las condiciones",
+        "title": "El INDEC publica la inflación de junio: de cuánto fue el IPC el mes pasado",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/se-conoce-la-inflacion-de-junio-que-numero-esperan-las-principales-consultoras/",
+        "source": "El Cronista",
+        "time": "14/07 09:54",
+        "iso_date": "2026-07-14T12:54:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 14 de julio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-14-julio-n6299176",
+        "source": "Ámbito Mercados",
+        "time": "14/07 09:51",
+        "iso_date": "2026-07-14T12:51:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La bolsa de Corea del Sur perdió un cuarto de su valor desde sus máximos: ¿hay chances de recuperación?",
+        "summary": "El KOSPI llegó a subir más de 116% en el año, pero tras una caída cercana al 9% quedó 25% por debajo de su pico reciente. Deutsche Bank advierte que el mercado enfrenta una disyuntiva entre acciones subvaluadas y expectativas de ganancias excesivamente optimistas.",
+        "link": "https://www.ambito.com/finanzas/la-bolsa-corea-del-sur-perdio-un-cuarto-su-valor-sus-maximos-hay-chances-recuperacion-n6299219",
+        "source": "Ámbito Mercados",
+        "time": "14/07 09:33",
+        "iso_date": "2026-07-14T12:33:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Venezuela mantendrá la reestructuración de la deuda externa pese al impacto del doble terremoto",
+        "summary": "El vicepresidente sectorial de Economía, Calixto Ortega, dijo que el plan seguirá en marcha mientras se ajustan proyecciones y criterios de pago, con el costo del sismo incluido",
+        "link": "https://www.infobae.com/venezuela/2026/07/14/venezuela-mantendra-la-reestructuracion-de-la-deuda-externa-pese-al-impacto-del-doble-terremoto/",
+        "source": "Infobae Economía",
+        "time": "14/07 09:25",
+        "iso_date": "2026-07-14T12:25:43+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La balanza comercial paraguaya marcó un superávit de 746 millones de dólares en el primer semestre",
+        "summary": "Este resultado contrasta con el déficit de 697,9 millones de dólares observado en el mismo período de 2025",
+        "link": "https://www.infobae.com/america/mundo/2026/07/14/la-balanza-comercial-paraguaya-marco-un-superavit-de-746-millones-de-dolares-en-el-primer-semestre/",
+        "source": "Infobae Economía",
+        "time": "14/07 09:24",
+        "iso_date": "2026-07-14T12:24:17+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo siguió ajustando en el primer semestre, pero en junio aumentó el gasto para subsidios y programas sociales",
+        "summary": "Un informe privado expuso que en los primeros seis meses las erogaciones públicas se redujeron 2,3% real en comparación con 2025, pero en junio subieron 3,7%. La tensión entre la caída en la recaudación y la necesidad de mantener el superávit fiscal",
+        "link": "https://www.infobae.com/economia/2026/07/14/caputo-siguio-ajustando-en-el-primer-semestre-pero-en-junio-aumento-el-gasto-para-subsidios-y-programas-sociales/",
+        "source": "Infobae Economía",
+        "time": "14/07 09:04",
+        "iso_date": "2026-07-14T12:04:26+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Revés para Donald Trump: EEUU reembolsa u$s81.000 millones a importadores en aranceles anulados por la Corte Suprema",
+        "summary": "Los aranceles eran una herramienta clave de la política económica del presidente Donald Trump. A su vez, la decisión judicial provocó un aumento del 2% en el déficit fiscal estadounidense.",
+        "link": "https://www.ambito.com/economia/eeuu-reembolsa-us81000-millones-importadores-aranceles-anulados-la-corte-suprema-n6299209",
+        "source": "Ámbito",
+        "time": "14/07 09:02",
+        "iso_date": "2026-07-14T12:02:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación esperada para las principales economías de América Latina: esto pronostica el mercado",
+        "summary": "Las encuestas que llevan a cabo los bancos centrales de la región funcionan como termómetro de lo que esperan los operadores hacia adelante.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-esperada-para-las-principales-economias-de-america-latina-esto-pronostica-el-mercado/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/07 09:00",
+        "iso_date": "2026-07-14T12:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar se tomó un respiro y la city ahora evalúa cómo continúa la tendencia",
+        "summary": "El tipo de cambio oficial retrocedió y amplió la distancia con el techo de la banda cambiaria, mientras el BCRA realizó su mayor compra de divisas en un mes.",
+        "link": "https://www.ambito.com/finanzas/el-dolar-se-tomo-un-respiro-y-la-city-ahora-evalua-como-continua-la-tendencia-n6299188",
+        "source": "Ámbito Mercados",
+        "time": "14/07 08:35",
+        "iso_date": "2026-07-14T11:35:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "ARCA lanzó un nuevo plan de pagos para mipymes, pequeños contribuyentes y entidades sin fines de lucro: cómo acceder y cuáles son las condiciones",
         "summary": "La medida permite regularizar deudas impositivas, aduaneras y de la seguridad social. Prevé planes de hasta 18 cuotas, según el tipo de contribuyente.",
         "link": "https://www.ambito.com/economia/arca-lanzo-un-nuevo-plan-pagos-mipymes-pequenos-contribuyentes-y-entidades-fines-lucro-como-acceder-y-cuales-son-las-condiciones-n6299168",
         "source": "Ámbito",
         "time": "14/07 08:24",
         "iso_date": "2026-07-14T11:24:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar global retrocede a la espera de un dato clave del mercado",
+        "summary": "Los inversores aguardan por la publicación de la inflación en Estados Unidos y esperan por un guiño del presidente de la Fed, Kevin Warsh.",
+        "link": "https://www.ambito.com/uruguay/el-dolar-global-retrocede-la-espera-un-dato-clave-del-mercado-n6299185",
+        "source": "Ámbito Mercados",
+        "time": "14/07 08:02",
+        "iso_date": "2026-07-14T11:02:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -26,7 +128,7 @@
         "is_general": true
       },
       {
-        "title": "Deuda: ¿Luis Caputo no sale porque no quiere, o no puede?",
+        "title": "Deuda: ¿Luis Caputo no sale porque no quiere o porque no puede?",
         "summary": "Los mercados voluntarios de deuda internacionales continuaron abiertos el mes pasado, y en particular para países de economías emergentes. Pero las nuevas condiciones del mercado pueden complicar el futuro accionar del equipo del “Toto” en cuanto a potenciales colocaciones.",
         "link": "https://www.ambito.com/economia/deuda-luis-caputo-no-sale-porque-no-quiere-o-no-puede-n6299134",
         "source": "Ámbito",
@@ -53,6 +155,19 @@
         "time": "14/07 07:00",
         "iso_date": "2026-07-14T10:00:00+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Obligaciones Negociables: cuáles recomiendan los analistas para cobrar una renta en dólares todos los meses",
+        "summary": "El pago de capital e intereses de Bonares y Globales abrió la discusión sobre el destino de los fondos que recibieron los inversores. En ese contexto, las recomendaciones se concentran en deuda corporativa argentina en dólares, bajo Ley Nueva York y con predominio de empresas ...",
+        "link": "https://www.ambito.com/finanzas/obligaciones-negociables-cuales-recomiendan-los-analistas-cobrar-una-renta-dolares-todos-los-meses-n6299109",
+        "source": "Ámbito Mercados",
+        "time": "14/07 07:00",
+        "iso_date": "2026-07-14T10:00:00+00:00",
+        "tickers": [
+          "GD30",
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -146,10 +261,40 @@
         "is_general": true
       },
       {
+        "title": "Dólar blue hoy: a cuánto opera este martes 14 de julio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-14-julio-n6299159",
+        "source": "Ámbito Mercados",
+        "time": "14/07 00:07",
+        "iso_date": "2026-07-14T03:07:35+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy: a cuánto cotiza este martes 14 de julio",
+        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+        "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-14-julio-n6299158",
+        "source": "Ámbito Mercados",
+        "time": "14/07 00:07",
+        "iso_date": "2026-07-14T03:07:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "El INDEC da a conocer la inflación de junio, con la expectativa de que quiebre el 2%",
         "summary": "El IPC de CABA, que sirve como termómetro de la inflación nacional, se ubicó en el 1,8% en junio. Se destacaron aumentos en gastos de vivienda, tarifas del transporte público, y el costo de las cuotas de medicina paga.",
         "link": "https://www.ambito.com/INDEC-inflacion-junio",
         "source": "Ámbito",
+        "time": "14/07 00:00",
+        "iso_date": "2026-07-14T03:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Real blue: a cuánto opera este martes 14 de julio",
+        "summary": "La cotización minuto a minuto para la compra y venta de la divisa brasileña en nuestro país.",
+        "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-martes-14-julio-n6299097",
+        "source": "Ámbito Mercados",
         "time": "14/07 00:00",
         "iso_date": "2026-07-14T03:00:00+00:00",
         "tickers": [],
@@ -162,152 +307,6 @@
         "source": "Ámbito",
         "time": "13/07 23:30",
         "iso_date": "2026-07-14T02:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plazo fijo en julio: ¿cuánto tengo que invertir para alcanzar un rendimiento de seis cifras?",
-        "summary": "La baja de las tasas obliga a destinar un capital cada vez mayor para obtener una ganancia mensual de $100.000 con esta herrmienta",
-        "link": "https://www.ambito.com/economia/plazo-fijo-julio-cuanto-tengo-que-invertir-alcanzar-un-rendimiento-seis-cifras-n6298987",
-        "source": "Ámbito",
-        "time": "13/07 22:00",
-        "iso_date": "2026-07-14T01:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación en CABA: los precios desaceleran, pero los servicios siguen golpeando el bolsillo porteño",
-        "summary": "El IPC porteño subió 1,81% en junio y consolidó una desaceleración en los últimos tres meses. Sin embargo, los servicios continúan creciendo por encima de los bienes y limitan una baja más marcada de la inflación.",
-        "link": "https://www.ambito.com/economia/inflacion-caba-los-precios-desaceleran-pero-los-servicios-siguen-golpeando-el-bolsillo-porteno-n6299126",
-        "source": "Ámbito",
-        "time": "13/07 20:32",
-        "iso_date": "2026-07-13T23:32:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La UCA advirtió un cambio en el mercado laboral: cada vez más desocupados terminan en el autoempleo informal",
-        "summary": "Agustín Salvia, director del Observatorio de la Deuda Social Argentina de la UCA, analizó en Infobae al Regreso la pérdida de empleo asalariado, el avance de la precarización y la creciente brecha entre los sectores más productivos y los trabajadores informales",
-        "link": "https://www.infobae.com/economia/2026/07/13/la-uca-advirtio-un-cambio-en-el-mercado-laboral-cada-vez-mas-desocupados-terminan-en-el-autoempleo-informal/",
-        "source": "Infobae Economía",
-        "time": "13/07 19:57",
-        "iso_date": "2026-07-13T22:57:26+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación de los trabajadores desaceleró al 1,7%, pero los aumentos golpearon a un sector sensible",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ganadores-y-perdedores-del-17-el-informe-que-muestra-como-la-inflacion-sigue-golpeando-a-los-jubilados/",
-        "source": "El Cronista",
-        "time": "13/07 19:33",
-        "iso_date": "2026-07-13T22:33:29+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el petróleo saltó 10%, cayeron las acciones argentinas y el riesgo país no pudo perforar los 400 puntos",
-        "summary": "El crudo se disparó a sus máximos en un mes por la renovada escalada militar en Ormuz. Los índices de Wall Street perdieron hasta 1,6% y el S&P Merval cayó 1,4%. El BCRA compró USD 280 millones en la plaza mayorista y dólar bajó a $1.505 en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/07/13/jornada-financiera-el-petroleo-salto-10-cayeron-las-acciones-argentinas-y-el-riesgo-pais-no-pudo-perforar-los-400-puntos/",
-        "source": "Infobae Economía",
-        "time": "13/07 19:22",
-        "iso_date": "2026-07-13T22:22:39+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno girará esta semana el proyecto para desregular el mercado inmobiliario",
-        "summary": "Según pudo saber Infobae, en las próximas horas se anunciará el envío al Congreso del paquete de iniciativas que diseñó el ministro de Desregulación, Federico Sturzenegger. Qué dice la letra chica",
-        "link": "https://www.infobae.com/economia/2026/07/13/el-gobierno-girara-esta-semana-el-proyecto-para-desregular-el-mercado-inmobiliario/",
-        "source": "Infobae Economía",
-        "time": "13/07 19:19",
-        "iso_date": "2026-07-13T22:19:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La empresa de energía eléctrica de YPF inició los trámites para comenzar a cotizar en Wall Street",
-        "summary": "Se trata de YPF Luz, quien presento la solicitud ante la Comisión de Bolsa y Valores de EEUU SEC. Cotizará de manera separada a su empresa madre",
-        "link": "https://www.infobae.com/economia/2026/07/13/la-empresa-de-energia-electrica-de-ypf-inicio-los-tramites-para-comenzar-a-cotizar-en-wall-street/",
-        "source": "Infobae Economía",
-        "time": "13/07 18:49",
-        "iso_date": "2026-07-13T21:49:31+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Milei delineó los 6 ejes de la reforma al BCRA ante diputados y senadores",
-        "summary": "A partir de las 15, el Presidente reúne a los legisladores en Casa Rosada para alinear la estrategia parlamentaria. El proyecto busca prohibir el financiamiento al Tesoro, blindar el mandato único de la entidad y garantizar la independencia del Banco Central.",
-        "link": "https://www.cronista.com/economia-politica/milei-vuelve-a-reunirse-con-diputados-y-senadores-por-la-reforma-de-la-carta-organica-del-banco-central/",
-        "source": "El Cronista",
-        "time": "13/07 18:42",
-        "iso_date": "2026-07-13T21:42:26+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar: el BCRA compró el mayor monto en 30 ruedas y se quedó con el 57% del volumen del MLC",
-        "summary": "La autoridad monetaria adquirió u$s280 millones y elevó el saldo comprador de julio a u$s767 millones. Sin embargo, las reservas brutas cayeron u$s517 millones, afectadas por el pago de deuda y por el impacto negativo del oro.",
-        "link": "https://www.ambito.com/economia/dolar-el-bcra-compro-el-mayor-monto-30-ruedas-y-se-quedo-el-57-del-volumen-del-mlc-n6299066",
-        "source": "Ámbito",
-        "time": "13/07 18:31",
-        "iso_date": "2026-07-13T21:31:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Bolivia prevé que el dólar se estabilice en las próximas semanas tras adoptar un tipo de cambio flexible",
-        "summary": "El ministro de Economía, Gabriel Espinoza, anticipó que el dólar tenderá a bajar y explicó los planes del Gobierno para aumentar la producción de combustibles.",
-        "link": "https://www.bloomberglinea.com/mercados/bolivia-preve-que-el-dolar-se-estabilice-en-las-proximas-semanas-tras-adoptar-un-tipo-de-cambio-flexible/",
-        "source": "Bloomberg Línea AR",
-        "time": "13/07 18:03",
-        "iso_date": "2026-07-13T21:03:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar bajó por segundo día y borró toda la suba que acumulaba en julio",
-        "summary": "El mayorista cedió a $1.482, el mismo precio del 30 de junio, y al público en el Banco Nación cedió a $1.505 para la venta",
-        "link": "https://www.infobae.com/economia/2026/07/13/el-dolar-bajo-por-segundo-dia-y-borro-toda-la-suba-que-acumulaba-en-julio/",
-        "source": "Infobae Economía",
-        "time": "13/07 17:53",
-        "iso_date": "2026-07-13T20:53:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este lunes 13 de julio",
-        "summary": "El billete al público quedó negociado con baja de cinco pesos a $1.505 para la venta en el Banco Nación. El blue subió a $1.525. El BCRA compró USD 280 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/13/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-13-de-julio/",
-        "source": "Infobae Economía",
-        "time": "13/07 17:48",
-        "iso_date": "2026-07-13T20:48:03+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: cayeron los bonos soberanos y las acciones argentinas tras el recrudecimiento del conflicto en Ormuz",
-        "summary": "Los índices de Nueva York cayeron hasta 1,6%, mientras que el petróleo avanzó casi 10% por el renovado conflicto bélico. El S&P Merval cedió 1,4% y el riesgo país subió a 405 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/07/13/mercados-caen-los-bonos-soberanos-y-las-acciones-argentinas-no-definen-un-rumbo-tras-el-recrudecimiento-del-conflicto-en-ormuz/",
-        "source": "Infobae Economía",
-        "time": "13/07 17:38",
-        "iso_date": "2026-07-13T20:38:13+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El Banco Central realizó una fuerte compra de dólares y acumuló 125 jornadas seguidas con saldo positivo",
-        "summary": "La autoridad monetaria adquirió USD 280 millones, el monto más elevado en un mes y medio. Las reservas internacionales volvieron a caer tras el pago de un vencimiento de deuda",
-        "link": "https://www.infobae.com/economia/2026/07/13/el-banco-central-realizo-una-fuerte-compra-de-dolares-y-acumulo-125-jornadas-seguidas-con-saldo-positivo/",
-        "source": "Infobae Economía",
-        "time": "13/07 17:32",
-        "iso_date": "2026-07-13T20:32:49+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -333,8 +332,8 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -349,60 +348,11 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "La balanza energética logró un superávit récord en el primer semestre y Vaca Muerta impulsa el salto exportador",
-        "summary": "Entre enero y junio, el saldo positivo del sector superó los US$6.987 millones, el mayor registrado para un primer semestre.",
-        "link": "https://www.ambito.com/economia/la-balanza-energetica-logro-un-superavit-record-el-primer-semestre-y-vaca-muerta-impulsa-el-salto-exportador-n6298634",
-        "source": "Ámbito",
-        "time": "12/07 15:56",
-        "iso_date": "2026-07-12T18:56:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La balanza energética logró un superávit récord en el primer semestre y Vaca Muerta impulsa el salto exportador",
-        "summary": "Entre enero y junio, el saldo positivo del sector superó los US$6.987 millones, el mayor registrado para un primer semestre.",
-        "link": "https://www.ambito.com/economia/la-balanza-energetica-logro-un-superavit-record-el-primer-semestre-y-vaca-muerta-impulsa-el-salto-exportador-n6298634",
-        "source": "Ámbito Mercados",
-        "time": "12/07 15:56",
-        "iso_date": "2026-07-12T18:56:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
     "PAMP": [],
-    "BMA": [
-      {
-        "title": "La paradoja del crédito: mejora la macro, pero crece la morosidad",
-        "summary": "La desaceleración de la inflación y la estabilidad cambiaria no alcanzan para revertir el deterioro en la capacidad de pago. Bancos y fintech siguen de cerca la evolución de la mora.",
-        "link": "https://www.ambito.com/economia/la-paradoja-del-credito-mejora-la-macro-pero-crece-la-morosidad-n6298576",
-        "source": "Ámbito",
-        "time": "12/07 10:33",
-        "iso_date": "2026-07-12T13:33:00+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La paradoja del crédito: mejora la macro, pero crece la morosidad",
-        "summary": "La desaceleración de la inflación y la estabilidad cambiaria no alcanzan para revertir el deterioro en la capacidad de pago. Bancos y fintech siguen de cerca la evolución de la mora.",
-        "link": "https://www.ambito.com/economia/la-paradoja-del-credito-mejora-la-macro-pero-crece-la-morosidad-n6298576",
-        "source": "Ámbito Mercados",
-        "time": "12/07 10:33",
-        "iso_date": "2026-07-12T13:33:00+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": true
-      }
-    ],
+    "BMA": [],
     "TXAR": [],
     "ALUA": [],
     "TECO2": [],
@@ -415,13 +365,26 @@
         "time": "13/07 17:30",
         "iso_date": "2026-07-13T20:30:48+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": true
       }
     ],
     "AL30": [
+      {
+        "title": "Obligaciones Negociables: cuáles recomiendan los analistas para cobrar una renta en dólares todos los meses",
+        "summary": "El pago de capital e intereses de Bonares y Globales abrió la discusión sobre el destino de los fondos que recibieron los inversores. En ese contexto, las recomendaciones se concentran en deuda corporativa argentina en dólares, bajo Ley Nueva York y con predominio de empresas ...",
+        "link": "https://www.ambito.com/finanzas/obligaciones-negociables-cuales-recomiendan-los-analistas-cobrar-una-renta-dolares-todos-los-meses-n6299109",
+        "source": "Ámbito Mercados",
+        "time": "14/07 07:00",
+        "iso_date": "2026-07-14T10:00:00+00:00",
+        "tickers": [
+          "GD30",
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: el petróleo saltó 10%, cayeron las acciones argentinas y el riesgo país no pudo perforar los 400 puntos",
         "summary": "El crudo se disparó a sus máximos en un mes por la renovada escalada militar en Ormuz. Los índices de Wall Street perdieron hasta 1,6% y el S&P Merval cayó 1,4%. El BCRA compró USD 280 millones en la plaza mayorista y dólar bajó a $1.505 en el Banco Nación",
@@ -495,6 +458,32 @@
         "is_general": true
       }
     ],
-    "GD30": []
+    "GD30": [
+      {
+        "title": "Venezuela mantendrá la reestructuración de la deuda externa pese al impacto del doble terremoto",
+        "summary": "El vicepresidente sectorial de Economía, Calixto Ortega, dijo que el plan seguirá en marcha mientras se ajustan proyecciones y criterios de pago, con el costo del sismo incluido",
+        "link": "https://www.infobae.com/venezuela/2026/07/14/venezuela-mantendra-la-reestructuracion-de-la-deuda-externa-pese-al-impacto-del-doble-terremoto/",
+        "source": "Infobae Economía",
+        "time": "14/07 09:25",
+        "iso_date": "2026-07-14T12:25:43+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Obligaciones Negociables: cuáles recomiendan los analistas para cobrar una renta en dólares todos los meses",
+        "summary": "El pago de capital e intereses de Bonares y Globales abrió la discusión sobre el destino de los fondos que recibieron los inversores. En ese contexto, las recomendaciones se concentran en deuda corporativa argentina en dólares, bajo Ley Nueva York y con predominio de empresas ...",
+        "link": "https://www.ambito.com/finanzas/obligaciones-negociables-cuales-recomiendan-los-analistas-cobrar-una-renta-dolares-todos-los-meses-n6299109",
+        "source": "Ámbito Mercados",
+        "time": "14/07 07:00",
+        "iso_date": "2026-07-14T10:00:00+00:00",
+        "tickers": [
+          "GD30",
+          "AL30"
+        ],
+        "is_general": true
+      }
+    ]
   }
 }
