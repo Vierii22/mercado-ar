@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15T19:00:21.784252",
-  "updated_str": "15/07/2026 19:00",
+  "updated_at": "2026-07-15T19:44:02.253600",
+  "updated_str": "15/07/2026 19:44",
   "cutoff_hours": 48,
-  "total_news": 242,
+  "total_news": 240,
   "news": {
     "GENERAL": [
       {
@@ -48,13 +48,15 @@
         "is_general": true
       },
       {
-        "title": "Licitación: el Tesoro adjudicó $5,44 billones con un rollover del 183%",
-        "summary": "Por su parte, la colocación del AO26 tuvo una tasa de corte del 7,99% TNA, lo que implica que el Tesoro se financió en dólares abajo del 8%.",
+        "title": "Deuda: Economía captó u$s470 millones con el nuevo Bonar 2029 y logró un rollover en pesos del 183%",
+        "summary": "El debut del nuevo título en dólares despertó una demanda que más que duplicó el monto finalmente adjudicado, mientras que la colocación en moneda local volvió a concentrarse en instrumentos de corto y mediano plazo.",
         "link": "https://www.ambito.com/economia/licitacion-el-tesoro-adjudico-544-billones-lo-que-implica-un-rollover-del-183-n6299914",
         "source": "Ámbito",
         "time": "15/07 15:33",
         "iso_date": "2026-07-15T18:33:00+00:00",
-        "tickers": [],
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -416,6 +418,30 @@
         "source": "Infobae Economía",
         "time": "15/07 15:56",
         "iso_date": "2026-07-15T18:56:31+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Deuda: Economía captó u$s470 millones con el nuevo Bonar 2029 y logró un rollover en pesos del 183%",
+        "summary": "El debut del nuevo título en dólares despertó una demanda que más que duplicó el monto finalmente adjudicado, mientras que la colocación en moneda local volvió a concentrarse en instrumentos de corto y mediano plazo.",
+        "link": "https://www.ambito.com/economia/licitacion-el-tesoro-adjudico-544-billones-lo-que-implica-un-rollover-del-183-n6299914",
+        "source": "Ámbito",
+        "time": "15/07 15:33",
+        "iso_date": "2026-07-15T18:33:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Deuda: Economía captó u$s470 millones con el nuevo Bonar 2029 y logró un rollover en pesos del 183%",
+        "summary": "El debut del nuevo título en dólares despertó una demanda que más que duplicó el monto finalmente adjudicado, mientras que la colocación en moneda local volvió a concentrarse en instrumentos de corto y mediano plazo.",
+        "link": "https://www.ambito.com/economia/licitacion-el-tesoro-adjudico-544-billones-lo-que-implica-un-rollover-del-183-n6299914",
+        "source": "Ámbito Mercados",
+        "time": "15/07 15:33",
+        "iso_date": "2026-07-15T18:33:00+00:00",
         "tickers": [
           "AL30"
         ],
