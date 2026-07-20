@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-20T20:25:33.834524",
-  "updated_str": "20/07/2026 20:25",
+  "updated_at": "2026-07-20T20:46:06.147202",
+  "updated_str": "20/07/2026 20:46",
   "cutoff_hours": 48,
-  "total_news": 143,
+  "total_news": 137,
   "news": {
     "GENERAL": [
       {
@@ -10,9 +10,21 @@
         "summary": "El poder adquisitivo de los empleados formales se redujo durante el quinto mes del año, cuando la inflación arrojó un 2,1 por ciento. Cómo evolucionó el ingreso de los trabajadores informales",
         "link": "https://www.infobae.com/economia/2026/07/20/los-salarios-registrados-aumentaron-18-en-mayo-y-quedaron-por-debajo-de-la-inflacion/",
         "source": "Infobae Economía",
-        "time": "20/07 17:20",
-        "iso_date": "2026-07-20T20:20:42+00:00",
+        "time": "20/07 17:36",
+        "iso_date": "2026-07-20T20:36:27+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: subieron las acciones argentinas y cedió el riesgo país por la firmeza de los bonos",
+        "summary": "Mientras los índices de Nueva York descontaron las ganancias de la mañana, con la expectativa puesta en los balances trimestrales, los ADR y el S&P Merval exhibieron ligeras tendencias positivas",
+        "link": "https://www.infobae.com/economia/2026/07/20/mercados-caen-las-acciones-argentinas-y-cede-el-riesgo-pais-por-la-firmeza-de-los-bonos/",
+        "source": "Infobae Economía",
+        "time": "20/07 17:31",
+        "iso_date": "2026-07-20T20:31:03+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -58,18 +70,6 @@
         "is_general": true
       },
       {
-        "title": "Mercados: suben las acciones argentinas y cede el riesgo país por la firmeza de los bonos",
-        "summary": "Mientras los índices de Nueva York descuentan las ganancias de la mañana, con la expectativa puesta en los balances trimestrales, los ADR y el S&P Merval exhiben ligeras tendencias positivas",
-        "link": "https://www.infobae.com/economia/2026/07/20/mercados-caen-las-acciones-argentinas-y-cede-el-riesgo-pais-por-la-firmeza-de-los-bonos/",
-        "source": "Infobae Economía",
-        "time": "20/07 16:22",
-        "iso_date": "2026-07-20T19:22:18+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Balanza comercial argentina arroja nuevo superávit en junio: así cerró el primer semestre",
         "summary": "La cifra representó un incremento de US$1.314 millones respecto del mismo mes de 2025, según el Indec",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/balanza-comercial-argentina-arroja-nuevo-superavit-en-junio-asi-cerro-el-primer-semestre/",
@@ -81,7 +81,7 @@
       },
       {
         "title": "Los salarios registrados volvieron a caer en mayo y acumulan una pérdida real del 4,2% en nueve meses",
-        "summary": "Pese a la desaceleración de la inflación, los salarios no lograron recomponerse en mayo. Aumentaron 1,8% y anotaron su octava caída en nueve meses.",
+        "summary": "La desaceleración de la inflación no alcanzó para recomponer los salarios en mayo. Aumentaron 1,8% y anotaron su octava caída en nueve meses.",
         "link": "https://www.ambito.com/economia/los-salarios-registrados-cayeron-ocho-los-ultimos-nueve-meses-n6301656",
         "source": "Ámbito",
         "time": "20/07 16:05",
@@ -166,8 +166,8 @@
         "summary": "El Ministerio de Economía proyecta obtener u$s2.300 millones entre 2026 y 2027 mediante la venta de activos estatales. La apuesta a dos bandas de Luis Caputo para sumar dólares y apuntalar el frente fiscal.",
         "link": "https://www.ambito.com/economia/privatizaciones-que-el-gobierno-busca-acelerar-los-procesos-y-cuales-son-los-proximos-pasos-n6299768",
         "source": "Ámbito",
-        "time": "20/07 12:07",
-        "iso_date": "2026-07-20T15:07:14+00:00",
+        "time": "20/07 12:02",
+        "iso_date": "2026-07-20T15:02:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -386,12 +386,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: suben las acciones argentinas y cede el riesgo país por la firmeza de los bonos",
-        "summary": "Mientras los índices de Nueva York descuentan las ganancias de la mañana, con la expectativa puesta en los balances trimestrales, los ADR y el S&P Merval exhiben ligeras tendencias positivas",
+        "title": "Mercados: subieron las acciones argentinas y cedió el riesgo país por la firmeza de los bonos",
+        "summary": "Mientras los índices de Nueva York descontaron las ganancias de la mañana, con la expectativa puesta en los balances trimestrales, los ADR y el S&P Merval exhibieron ligeras tendencias positivas",
         "link": "https://www.infobae.com/economia/2026/07/20/mercados-caen-las-acciones-argentinas-y-cede-el-riesgo-pais-por-la-firmeza-de-los-bonos/",
         "source": "Infobae Economía",
-        "time": "20/07 16:22",
-        "iso_date": "2026-07-20T19:22:18+00:00",
+        "time": "20/07 17:31",
+        "iso_date": "2026-07-20T20:31:03+00:00",
         "tickers": [
           "AL30"
         ],
