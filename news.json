@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-07-20T17:14:30.108382",
-  "updated_str": "20/07/2026 17:14",
+  "updated_at": "2026-07-20T18:30:21.756168",
+  "updated_str": "20/07/2026 18:30",
   "cutoff_hours": 48,
-  "total_news": 124,
+  "total_news": 130,
   "news": {
     "GENERAL": [
+      {
+        "title": "“Domada” la inflación, cuál es la variable que ya empieza a preocupar al mercado",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/domada-la-inflacion-cual-es-la-variable-que-ya-empieza-a-preocupar-al-mercado/",
+        "source": "El Cronista",
+        "time": "20/07 14:43",
+        "iso_date": "2026-07-20T17:43:17+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Economías regionales: la brecha entre las que crecen gracias a las exportaciones y las que siguen en crisis de costos",
+        "summary": "Mientras sectores ligados a las ventas externas y a Vaca Muerta aceleran, otros siguen presionados por baja competitividad y precios rezagados, en un escenario que ahora suma el acuerdo Mercosur-Unión Europea",
+        "link": "https://www.infobae.com/economia/2026/07/20/economias-regionales-la-brecha-entre-las-que-crecen-gracias-a-las-exportaciones-y-las-que-siguen-en-crisis-de-costos/",
+        "source": "Infobae Economía",
+        "time": "20/07 14:27",
+        "iso_date": "2026-07-20T17:27:42+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "El costo de la construcción se encareció en pesos pero bajó medido en dólares",
         "summary": "Luego de dos años condicionados por la apreciación cambiaria, el sector registró una leve mejora a partir del repunte del tipo de cambio en junio",
@@ -292,29 +314,21 @@
         "iso_date": "2026-07-19T14:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Midieron a los principales dirigentes: Milei mejora y Kicillof acorta distancias, pero ninguno de los dos lidera el podio",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/midieron-a-los-principales-dirigentes-milei-mejora-y-kicillof-acorta-distancias-pero-ninguno-de-los-dos-lidera-el-podio/",
-        "source": "El Cronista",
-        "time": "19/07 08:49",
-        "iso_date": "2026-07-19T11:49:41+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Bonos de empresas con grado de inversión quedan rezagados frente a las acciones en 2026",
-        "summary": "El banco señala que la beta entre ambos mercados alcanzó un máximo histórico y explica las diferencias de desempeño observadas durante 2026.",
-        "link": "https://www.bloomberglinea.com/mundo/estados-unidos/bonos-de-empresas-con-grado-de-inversion-quedan-rezagados-frente-a-las-acciones-en-2026/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/07 08:00",
-        "iso_date": "2026-07-19T11:00:01+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Economías regionales: la brecha entre las que crecen gracias a las exportaciones y las que siguen en crisis de costos",
+        "summary": "Mientras sectores ligados a las ventas externas y a Vaca Muerta aceleran, otros siguen presionados por baja competitividad y precios rezagados, en un escenario que ahora suma el acuerdo Mercosur-Unión Europea",
+        "link": "https://www.infobae.com/economia/2026/07/20/economias-regionales-la-brecha-entre-las-que-crecen-gracias-a-las-exportaciones-y-las-que-siguen-en-crisis-de-costos/",
+        "source": "Infobae Economía",
+        "time": "20/07 14:27",
+        "iso_date": "2026-07-20T17:27:42+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "La obra clave para ganar el Mundial de Vaca Muerta",
         "summary": "",
