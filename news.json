@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-07-21T17:04:49.324822",
-  "updated_str": "21/07/2026 17:04",
+  "updated_at": "2026-07-21T17:54:27.371535",
+  "updated_str": "21/07/2026 17:54",
   "cutoff_hours": 48,
-  "total_news": 186,
+  "total_news": 200,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno se refirió a la llegada de Lanari al Banco Nación: “Imagino que si fue puesto en ese lugar, será la persona adecuada”",
+        "summary": "El vocero presidencial, Adrián Ravier, fue consultado sobre el nombramiento y argumentó que la administración de Javier Milei no designa militantes",
+        "link": "https://www.infobae.com/economia/2026/07/21/el-gobierno-se-refirio-a-la-llegada-de-lanari-al-banco-nacion-imagino-que-si-fue-puesto-en-ese-lugar-sera-la-persona-adecuada/",
+        "source": "Infobae Economía",
+        "time": "21/07 14:49",
+        "iso_date": "2026-07-21T17:49:38+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las empresas aplican la reforma laboral con demoras mientras sigue cayendo el empleo",
+        "summary": "Un reporte indica que solo el 1% de las empresas aplica salarios dinámicos, el 9% usa el banco de horas y solo el 10% blanqueó personal.",
+        "link": "https://www.ambito.com/economia/las-empresas-aplican-la-reforma-laboral-demoras-mientras-sigue-cayendo-el-empleo-n6302021",
+        "source": "Ámbito",
+        "time": "21/07 14:40",
+        "iso_date": "2026-07-21T17:40:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta todavía no supera al campo: la provincia de Buenos Aires fue la que más exportó en el primer semestre",
         "summary": "Aunque los distritos vinculados a la energía, como Neuquén, mejoraron su desempeño, permanecen lejos de los niveles bonaerenses",
@@ -51,14 +73,14 @@
       },
       {
         "title": "Vista pide y Pampa recibe luz verde: el RIGI suma dos nuevos hitos para el desarrollo de Vaca Muerta",
-        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500.",
+        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500 millones.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-pide-y-pampa-recibe-luz-verde-el-rigi-suma-dos-nuevos-hitos-para-el-desarrollo-de-vaca-muerta/",
         "source": "Bloomberg Línea AR",
         "time": "21/07 13:25",
         "iso_date": "2026-07-21T16:25:52+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -115,7 +137,7 @@
         "is_general": true
       },
       {
-        "title": "Qué es la “economía en K”, el diagnóstico que le hacen al modelo de Milei y por qué lo rechaza",
+        "title": "Qué es la economía de “dos velocidades”, el diagnóstico que le hacen al modelo de Milei y por qué lo rechaza",
         "summary": "",
         "link": "https://www.cronista.com/finanzas-mercados/que-es-la-economia-en-k-el-modelo-que-le-atribuyen-a-milei-y-por-que-divide-a-los-analistas/",
         "source": "El Cronista",
@@ -214,8 +236,8 @@
         "time": "21/07 10:26",
         "iso_date": "2026-07-21T13:26:24+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -302,26 +324,6 @@
         "iso_date": "2026-07-21T11:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Mercados emergentes: los inversores se refugian en bonos y le dan la espalda a las acciones",
-        "summary": "El último bimestre confirmó la divergencia entre el comportamiento de los flujos de capitales internacionales hacia bonos y acciones de mercados emergentes. Lo que haga la Fed tendrá mucha influencia en el futuro próximo.",
-        "link": "https://www.ambito.com/economia/emergentes-inversores-prefieren-bonos-mas-que-acciones-n6301747",
-        "source": "Ámbito",
-        "time": "21/07 07:00",
-        "iso_date": "2026-07-21T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Clave para la minería: Argentina y Canadá buscan actualizar un convenio de los años 90 para atraer inversiones",
-        "summary": "El embajador de Canadá en el país, Stewart Wheeler, afirmó que el clima de negocios mejoró con la llegada de Javier Milei y sus reformas económicas. \"Probablemente soy el primer embajador canadiense en una generación que es optimista en Argentina\", afirmó.",
-        "link": "https://www.ambito.com/economia/clave-la-mineria-argentina-y-canada-buscan-actualizar-un-convenio-los-anos-90-atraer-inversiones-n6300729",
-        "source": "Ámbito",
-        "time": "21/07 07:00",
-        "iso_date": "2026-07-21T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -339,14 +341,14 @@
       },
       {
         "title": "Vista pide y Pampa recibe luz verde: el RIGI suma dos nuevos hitos para el desarrollo de Vaca Muerta",
-        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500.",
+        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500 millones.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-pide-y-pampa-recibe-luz-verde-el-rigi-suma-dos-nuevos-hitos-para-el-desarrollo-de-vaca-muerta/",
         "source": "Bloomberg Línea AR",
         "time": "21/07 13:25",
         "iso_date": "2026-07-21T16:25:52+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -358,8 +360,8 @@
         "time": "21/07 10:26",
         "iso_date": "2026-07-21T13:26:24+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -416,14 +418,14 @@
     "PAMP": [
       {
         "title": "Vista pide y Pampa recibe luz verde: el RIGI suma dos nuevos hitos para el desarrollo de Vaca Muerta",
-        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500.",
+        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500 millones.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-pide-y-pampa-recibe-luz-verde-el-rigi-suma-dos-nuevos-hitos-para-el-desarrollo-de-vaca-muerta/",
         "source": "Bloomberg Línea AR",
         "time": "21/07 13:25",
         "iso_date": "2026-07-21T16:25:52+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -435,8 +437,8 @@
         "time": "21/07 10:26",
         "iso_date": "2026-07-21T13:26:24+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -458,6 +460,30 @@
     "ALUA": [],
     "TECO2": [
       {
+        "title": "Las empresas aplican la reforma laboral con demoras mientras sigue cayendo el empleo",
+        "summary": "Un reporte indica que solo el 1% de las empresas aplica salarios dinámicos, el 9% usa el banco de horas y solo el 10% blanqueó personal.",
+        "link": "https://www.ambito.com/economia/las-empresas-aplican-la-reforma-laboral-demoras-mientras-sigue-cayendo-el-empleo-n6302021",
+        "source": "Ámbito",
+        "time": "21/07 14:40",
+        "iso_date": "2026-07-21T17:40:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Las empresas aplican la reforma laboral con demoras mientras sigue cayendo el empleo",
+        "summary": "Un reporte indica que solo el 1% de las empresas aplica salarios dinámicos, el 9% usa el banco de horas y solo el 10% blanqueó personal.",
+        "link": "https://www.ambito.com/economia/las-empresas-aplican-la-reforma-laboral-demoras-mientras-sigue-cayendo-el-empleo-n6302021",
+        "source": "Ámbito Mercados",
+        "time": "21/07 14:40",
+        "iso_date": "2026-07-21T17:40:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
         "title": "El gobierno nacional oficializó un suplemento salarial por título en las Fuerzas Armadas",
         "summary": "El Ejecutivo introduce reglas nuevas para el cálculo de haberes militares, autoriza a los jefes de cada fuerza a definir títulos válidos y extiende el beneficio a personal retirado y familiares con derecho a pensión",
         "link": "https://www.infobae.com/politica/2026/07/21/el-gobierno-nacional-oficializo-un-suplemento-salarial-por-titulo-en-las-fuerzas-armadas/",
@@ -476,6 +502,30 @@
         "source": "Bloomberg Línea AR",
         "time": "20/07 16:52",
         "iso_date": "2026-07-20T19:52:47+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Personal de las Fuerzas Armadas cobrarán un plus salarial de suplemento por título: quiénes lo cobran y cómo acceder",
+        "summary": "El Poder Ejecutivo modificó la reglamentación de la Ley para el Personal Militar para incorporar el suplemento por título, definir los criterios para su otorgamiento y actualizar la liquidación de haberes del personal de las Fuerzas Armadas.",
+        "link": "https://www.ambito.com/economia/personal-las-fuerzas-armadas-cobraran-un-plus-salarial-suplemento-titulo-quienes-lo-cobran-y-como-acceder-n6301400",
+        "source": "Ámbito",
+        "time": "20/07 07:36",
+        "iso_date": "2026-07-20T10:36:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Personal de las Fuerzas Armadas cobrarán un plus salarial de suplemento por título: quiénes lo cobran y cómo acceder",
+        "summary": "El Poder Ejecutivo modificó la reglamentación de la Ley para el Personal Militar para incorporar el suplemento por título, definir los criterios para su otorgamiento y actualizar la liquidación de haberes del personal de las Fuerzas Armadas.",
+        "link": "https://www.ambito.com/economia/personal-las-fuerzas-armadas-cobraran-un-plus-salarial-suplemento-titulo-quienes-lo-cobran-y-como-acceder-n6301400",
+        "source": "Ámbito Mercados",
+        "time": "20/07 07:36",
+        "iso_date": "2026-07-20T10:36:00+00:00",
         "tickers": [
           "TECO2"
         ],
