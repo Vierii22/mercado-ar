@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-07-23T16:19:50.658015",
-  "updated_str": "23/07/2026 16:19",
+  "updated_at": "2026-07-23T16:54:03.190314",
+  "updated_str": "23/07/2026 16:54",
   "cutoff_hours": 48,
-  "total_news": 214,
+  "total_news": 206,
   "news": {
     "GENERAL": [
+      {
+        "title": "El riesgo país cayó después de la mejora de calificación de Moody’s y se volvió a acercar a los 400 puntos",
+        "summary": "Los bonos públicos ganaron 0,2% en promedio y el indicador cedió a 410 puntos, cerca de su nivel mínimo en ocho años",
+        "link": "https://www.infobae.com/economia/2026/07/22/el-riesgo-pais-cae-despues-de-la-mejora-de-calificacion-de-moodys-y-se-vuelve-a-acercar-a-los-400-puntos/",
+        "source": "Infobae Economía",
+        "time": "23/07 13:39",
+        "iso_date": "2026-07-23T16:39:32+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La tensión en los mercados globales y el salto del petróleo hicieron subir al riesgo país, que se aleja de los 400 puntos",
         "summary": "Las bolsas internacionales caen fuerte y el petróleo Brent regresa a la zona de USD 100 el barril por el recrudecimiento de las hostilidades en Oriente Medio. Bajan los bonos y las acciones de la Argentina",
@@ -307,16 +319,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "La industria y el comercio volvieron a mostrar preocupación por la débil demanda y la falta de crédito",
-        "summary": "Los relevamientos del INDEC mostraron que la actividad y el empleo continúan bajo presión. En tanto, la escasez de pedidos y las restricciones financieras todavía impiden que el repunte se consolide.",
-        "link": "https://www.ambito.com/economia/la-industria-y-el-comercio-volvieron-mostrar-preocupacion-la-debil-demanda-y-la-falta-credito-n6302535",
-        "source": "Ámbito",
-        "time": "22/07 17:58",
-        "iso_date": "2026-07-22T20:58:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -429,31 +431,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Vaca Muerta todavía no supera al campo: la provincia de Buenos Aires fue la que más exportó en el primer semestre",
-        "summary": "Aunque los distritos vinculados a la energía, como Neuquén, mejoraron su desempeño, permanecen lejos de los niveles bonaerenses",
-        "link": "https://www.infobae.com/economia/2026/07/21/vaca-muerta-todavia-no-supera-al-campo-la-provincia-de-buenos-aires-fue-la-que-mas-exporto-en-el-primer-semestre/",
-        "source": "Infobae Economía",
-        "time": "21/07 13:50",
-        "iso_date": "2026-07-21T16:50:14+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Vista pide y Pampa recibe luz verde: el RIGI suma dos nuevos hitos para el desarrollo de Vaca Muerta",
-        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500 millones.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-pide-y-pampa-recibe-luz-verde-el-rigi-suma-dos-nuevos-hitos-para-el-desarrollo-de-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/07 13:25",
-        "iso_date": "2026-07-21T16:25:52+00:00",
-        "tickers": [
-          "PAMP",
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -495,19 +472,6 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "Vista pide y Pampa recibe luz verde: el RIGI suma dos nuevos hitos para el desarrollo de Vaca Muerta",
-        "summary": "Mientras Vista Energy presentó una solicitud para incorporar un proyecto de US$5.800 millones al régimen de incentivos, el Gobierno oficializó la aprobación del plan de inversiones de Pampa Energía (PAM) por US$4.500 millones.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-pide-y-pampa-recibe-luz-verde-el-rigi-suma-dos-nuevos-hitos-para-el-desarrollo-de-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/07 13:25",
-        "iso_date": "2026-07-21T16:25:52+00:00",
-        "tickers": [
-          "PAMP",
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "BMA": [],
@@ -525,22 +489,22 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "El gobierno nacional oficializó un suplemento salarial por título en las Fuerzas Armadas",
-        "summary": "El Ejecutivo introduce reglas nuevas para el cálculo de haberes militares, autoriza a los jefes de cada fuerza a definir títulos válidos y extiende el beneficio a personal retirado y familiares con derecho a pensión",
-        "link": "https://www.infobae.com/politica/2026/07/21/el-gobierno-nacional-oficializo-un-suplemento-salarial-por-titulo-en-las-fuerzas-armadas/",
-        "source": "Infobae Economía",
-        "time": "21/07 13:28",
-        "iso_date": "2026-07-21T16:28:18+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país cayó después de la mejora de calificación de Moody’s y se volvió a acercar a los 400 puntos",
+        "summary": "Los bonos públicos ganaron 0,2% en promedio y el indicador cedió a 410 puntos, cerca de su nivel mínimo en ocho años",
+        "link": "https://www.infobae.com/economia/2026/07/22/el-riesgo-pais-cae-despues-de-la-mejora-de-calificacion-de-moodys-y-se-vuelve-a-acercar-a-los-400-puntos/",
+        "source": "Infobae Economía",
+        "time": "23/07 13:39",
+        "iso_date": "2026-07-23T16:39:32+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La tensión en los mercados globales y el salto del petróleo hicieron subir al riesgo país, que se aleja de los 400 puntos",
         "summary": "Las bolsas internacionales caen fuerte y el petróleo Brent regresa a la zona de USD 100 el barril por el recrudecimiento de las hostilidades en Oriente Medio. Bajan los bonos y las acciones de la Argentina",
@@ -572,18 +536,6 @@
         "source": "Infobae Economía",
         "time": "22/07 18:09",
         "iso_date": "2026-07-22T21:09:03+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país cayó después de la mejora de calificación de Moody’s y se volvió a acercar a los 400 puntos",
-        "summary": "Los bonos públicos ganaron 0,2% en promedio y el indicador cedió a 410 puntos, cerca de su nivel mínimo en ocho años",
-        "link": "https://www.infobae.com/economia/2026/07/22/el-riesgo-pais-cae-despues-de-la-mejora-de-calificacion-de-moodys-y-se-vuelve-a-acercar-a-los-400-puntos/",
-        "source": "Infobae Economía",
-        "time": "22/07 17:26",
-        "iso_date": "2026-07-22T20:26:21+00:00",
         "tickers": [
           "AL30"
         ],
