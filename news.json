@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-24T18:21:53.158264",
-  "updated_str": "24/07/2026 18:21",
+  "updated_at": "2026-07-24T18:53:49.086928",
+  "updated_str": "24/07/2026 18:53",
   "cutoff_hours": 48,
-  "total_news": 215,
+  "total_news": 212,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este viernes 24 de julio",
+        "summary": "El billete al público subió a un récord nominal de $1.520 en el Banco Nación. El mayorista rozó los $1.500, y el “liqui”, los 1.600 pesos",
+        "link": "https://www.infobae.com/economia/2026/07/24/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-24-de-julio/",
+        "source": "Infobae Economía",
+        "time": "24/07 15:49",
+        "iso_date": "2026-07-24T18:49:34+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El mal clima internacional golpea a los activos argentinos y empuja al riesgo país al borde de los 450 puntos",
         "summary": "Wall Street negocia dispar por la tensión en Oriente Medio y las dudas sobre el sector tecnológico. El s&P Merval pierde 0,7% y los títulos públicos caen 0,3%. El indicador de JP Morgan sube a 442 unidades",
@@ -46,16 +56,6 @@
         "source": "Infobae Economía",
         "time": "24/07 13:18",
         "iso_date": "2026-07-24T16:18:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este viernes 24 de julio",
-        "summary": "El billete al público se vende a $1.515 en el Banco Nación. El blue se paga a $1.540. El BCRA compró ayer USD 45 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/24/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-24-de-julio/",
-        "source": "Infobae Economía",
-        "time": "24/07 13:14",
-        "iso_date": "2026-07-24T16:14:59+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -264,6 +264,16 @@
         "is_general": true
       },
       {
+        "title": "Ganancias: los cambios que propone Sturzenegger en un sector clave para la actividad y empleo",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/ganancias-los-cambios-que-propone-sturzenegger-en-un-sector-clave-para-la-actividad-y-empleo/",
+        "source": "El Cronista",
+        "time": "24/07 06:00",
+        "iso_date": "2026-07-24T09:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "Mientras vuela Vaca Muerta, se hunden los proveedores del petróleo",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/mientras-vuela-vaca-muerta-se-hunden-los-proveedores-del-petroleo/",
@@ -274,16 +284,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Ganancias: los cambios que propone Sturzenegger en un sector clave para la actividad y empleo",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ganancias-los-cambios-que-propone-sturzenegger-en-un-sector-clave-para-la-actividad-y-empleo/",
-        "source": "El Cronista",
-        "time": "24/07 06:00",
-        "iso_date": "2026-07-24T09:00:01+00:00",
-        "tickers": [],
-        "is_general": true
       },
       {
         "title": "De manera sorpresiva, el petróleo volvió a los USD 100: cuáles son los pros y las contras para la Argentina",
@@ -445,8 +445,8 @@
         "time": "23/07 01:44",
         "iso_date": "2026-07-23T04:44:19+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -461,18 +461,6 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "El presidente y CEO de YPF advirtió que no habrá una baja inmediata en el precio de la nafta: “No llegamos al equilibrio”",
-        "summary": "El máximo directivo de la empresa estatal analizó el impacto del conflicto internacional y dio detalles sobre la estrategia para amortiguar la volatilidad de los precios",
-        "link": "https://www.infobae.com/economia/2026/07/22/el-presidente-y-ceo-de-ypf-advirtio-que-no-habra-una-baja-inmediata-en-el-precio-de-la-nafta-no-llegamos-al-equilibrio/",
-        "source": "Infobae Economía",
-        "time": "22/07 15:49",
-        "iso_date": "2026-07-22T18:49:28+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -485,8 +473,8 @@
         "time": "23/07 01:44",
         "iso_date": "2026-07-23T04:44:19+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
