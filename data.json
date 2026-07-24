@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T02:30:22.008351",
-  "updated_str": "24/07/2026 02:30",
+  "updated_at": "2026-07-24T11:47:19.676123",
+  "updated_str": "24/07/2026 11:47",
   "summary": {
-    "change": -0.98,
+    "change": -1.11,
     "leader": "TXAR",
     "leader_change": 1.8,
     "worst": "BMA",
@@ -11,35 +11,6 @@
     "cold_count": 2
   },
   "stocks": [
-    {
-      "ticker": "YPFD",
-      "name": "YPF",
-      "price": 82475.0,
-      "change": -0.03,
-      "volume": 235244,
-      "volume_ratio": 1.0,
-      "hot": false,
-      "cold": false,
-      "trend": [
-        74400.0,
-        77175.0,
-        77775.0,
-        78550.0,
-        76075.0,
-        77900.0,
-        79200.0,
-        80625.0,
-        82500.0,
-        82475.0
-      ],
-      "trend_dir": "up",
-      "trend_streak": 4,
-      "ma5": 80540.0,
-      "ma20": 75450.0,
-      "ma_cross": 1,
-      "score": 65,
-      "signal": "baja"
-    },
     {
       "ticker": "GGAL",
       "name": "Galicia",
