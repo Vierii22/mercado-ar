@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T20:27:54.410913",
-  "updated_str": "29/07/2026 20:27",
+  "updated_at": "2026-07-29T20:49:11.639365",
+  "updated_str": "29/07/2026 20:49",
   "summary": {
-    "change": -1.04,
+    "change": -1.11,
     "leader": "YPFD",
     "leader_change": 0.31,
     "worst": "CEPU",
     "worst_change": -1.88,
     "hot_count": 0,
-    "cold_count": 1
+    "cold_count": 2
   },
   "stocks": [
     {
@@ -72,12 +72,12 @@
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": 5380.0,
-      "change": -1.28,
+      "price": 5370.0,
+      "change": -1.47,
       "volume": 1107821,
       "volume_ratio": 1.27,
       "hot": false,
-      "cold": false,
+      "cold": true,
       "trend": [
         5110.0,
         5170.0,
@@ -88,14 +88,14 @@
         5515.0,
         5475.0,
         5450.0,
-        5380.0
+        5370.0
       ],
       "trend_dir": "down",
       "trend_streak": 4,
-      "ma5": 5490.0,
-      "ma20": 5297.0,
+      "ma5": 5488.0,
+      "ma20": 5296.5,
       "ma_cross": 1,
-      "score": 36,
+      "score": 35,
       "signal": "baja"
     },
     {
@@ -161,7 +161,7 @@
       "name": "Aluar",
       "price": 973.0,
       "change": -1.52,
-      "volume": 251486,
+      "volume": 251489,
       "volume_ratio": 0.75,
       "hot": false,
       "cold": false,
@@ -188,8 +188,8 @@
     {
       "ticker": "TECO2",
       "name": "Telecom AR",
-      "price": 4305.0,
-      "change": -0.69,
+      "price": 4290.0,
+      "change": -1.04,
       "volume": 23256,
       "volume_ratio": 0.14,
       "hot": false,
@@ -204,14 +204,14 @@
         4380.0,
         4490.0,
         4335.0,
-        4305.0
+        4290.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 4367.0,
-      "ma20": 4225.25,
+      "ma5": 4364.0,
+      "ma20": 4224.5,
       "ma_cross": 1,
-      "score": 50,
+      "score": 48,
       "signal": "neutral"
     },
     {
