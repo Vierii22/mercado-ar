@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-30T16:20:27.914995",
-  "updated_str": "30/07/2026 16:20",
+  "updated_at": "2026-07-30T16:57:25.645807",
+  "updated_str": "30/07/2026 16:57",
   "cutoff_hours": 48,
-  "total_news": 228,
+  "total_news": 242,
   "news": {
     "GENERAL": [
+      {
+        "title": "Sube la expectativa de inflación y ya roza el 36% para los próximos 12 meses",
+        "summary": "La expectativa de inflación anual creció en CABA, GBA e Interior. Además, la brecha de expectativas entre hogares de mayores y menores ingresos se redujo a 2,9 puntos.",
+        "link": "https://www.ambito.com/economia/sube-la-expectativa-inflacion-y-ya-roza-el-36-los-proximos-12-meses-n6305297",
+        "source": "Ámbito",
+        "time": "30/07 13:20",
+        "iso_date": "2026-07-30T16:20:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Milei graba hoy la cadena nacional por la reforma del BCRA con el equipo económico y durará unos 20 minutos",
         "summary": "El Presidente presentará esta noche, a las 20, el proyecto para modificar la Carta Orgánica del Banco Central. Tal como adelantó El Cronista, la grabación será en la Casa Rosada y lo acompañará el equipo económico. El discurso durará unos 20 minutos.",
@@ -298,18 +308,6 @@
         "iso_date": "2026-07-30T06:07:16+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Salarios dinámicos y premios por productividad: cómo es el acuerdo paritario que cerró el sector más pujante de la economía",
-        "summary": "El Sindicato de Petroleros de Chubut y el gremio de Río Negro, Neuquén y La Pampa cerraron convenios con distintas cámaras empresarias. Uno actualiza las gratificaciones salariales mes a mes; el otro premia el rendimiento de los equipos de Work Over",
-        "link": "https://www.infobae.com/economia/2026/07/30/salarios-dinamicos-y-premios-por-productividad-como-es-el-acuerdo-paritario-que-cerro-el-sector-mas-pujante-de-la-economia/",
-        "source": "Infobae Economía",
-        "time": "30/07 03:06",
-        "iso_date": "2026-07-30T06:06:46+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -336,6 +334,30 @@
           "YPFD"
         ],
         "is_general": true
+      },
+      {
+        "title": "Desde Suiza a Filipinas: ¿a qué país se parece el PBI per cápita de las provincias argentinas?",
+        "summary": "La heterogeneidad en Argentina se expresa tanto a nivel sectorial como regional. Gracias a Vaca Muerta, Neuquén lidera el crecimiento.",
+        "link": "https://www.ambito.com/economia/desde-suiza-filipinas-a-que-pais-se-parece-el-pbi-per-capita-las-provincias-argentinas-n6304587",
+        "source": "Ámbito",
+        "time": "28/07 19:24",
+        "iso_date": "2026-07-28T22:24:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Desde Suiza a Filipinas: ¿a qué país se parece el PBI per cápita de las provincias argentinas?",
+        "summary": "La heterogeneidad en Argentina se expresa tanto a nivel sectorial como regional. Gracias a Vaca Muerta, Neuquén lidera el crecimiento.",
+        "link": "https://www.ambito.com/economia/desde-suiza-filipinas-a-que-pais-se-parece-el-pbi-per-capita-las-provincias-argentinas-n6304587",
+        "source": "Ámbito Mercados",
+        "time": "28/07 19:24",
+        "iso_date": "2026-07-28T22:24:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "Georgieva recorrió Vaca Muerta: qué información se lleva el FMI de la fuente de dólares",
