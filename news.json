@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-30T19:59:26.176468",
-  "updated_str": "30/07/2026 19:59",
+  "updated_at": "2026-07-30T20:18:02.711543",
+  "updated_str": "30/07/2026 20:18",
   "cutoff_hours": 48,
-  "total_news": 244,
+  "total_news": 230,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street cierra con fuertes alzas tras un día histórico para Microsoft en bolsa",
+        "summary": "Los inversionistas celebraron los resultados de Microsoft y asimilaron nuevas cifras de crecimiento e inflación.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-repunta-impulsado-por-microsoft-y-nuevos-datos-economicos-en-estados-unidos/",
+        "source": "Bloomberg Línea AR",
+        "time": "30/07 17:12",
+        "iso_date": "2026-07-30T20:12:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Euforia en el Gobierno por el impacto digital del DNU anti-odio frente a las dudas sobre su aplicación",
         "summary": "La decisión de deportar a quienes emitan discursos de odio por nacionalidad surgió directamente de Milei, según confirmaron a El Cronista. Pese a ganar la conversación pública, la norma enfrenta cuestionamientos por arrogarse facultades penales que complican su implementación.",
@@ -26,7 +36,7 @@
         "is_general": true
       },
       {
-        "title": "Carta Orgánica del BCRA: la reforma que, según Palma Cané, debe blindar al Banco Central del poder político",
+        "title": "Independencia, emisión y control financiero: la hoja de ruta que Palma Cané plantea para reformar el BCRA",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/carta-organica-del-bcra-la-reforma-que-segun-palma-cane-debe-blindar-al-banco-central-del-poder-politico/",
         "source": "El Cronista",
@@ -239,7 +249,7 @@
       },
       {
         "title": "En cadena nacional, Javier Milei presenta la reforma de la Carta Orgánica del BCRA: los puntos clave del proyecto",
-        "summary": "El gobierno libertario enviará un proyecto al Congreso para modificar la ley que regula el funcionamiento del BCRA. Los detalles, en la nota.",
+        "summary": "El gobierno libertario enviará un proyecto al Congreso para modificar la ley que regula el funcionamiento del organismo. Los detalles, en la nota.",
         "link": "https://www.ambito.com/economia/que-es-la-carta-organica-del-bcra-y-cuales-son-los-cambios-que-impulsa-javier-milei-la-reforma-n6304751",
         "source": "Ámbito",
         "time": "30/07 10:50",
@@ -254,16 +264,6 @@
         "source": "Bloomberg Línea AR",
         "time": "30/07 10:47",
         "iso_date": "2026-07-30T13:47:48+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street repunta impulsado por Microsoft y nuevos datos económicos en Estados Unidos",
-        "summary": "La atención del mercado se concentra en los resultados de las grandes tecnológicas, los datos que reflejan la fortaleza del consumo en Estados Unidos y las señales de la Reserva Federal sobre el rumbo de las tasas de interés.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-repunta-impulsado-por-microsoft-y-nuevos-datos-economicos-en-estados-unidos/",
-        "source": "Bloomberg Línea AR",
-        "time": "30/07 10:42",
-        "iso_date": "2026-07-30T13:42:15+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -332,30 +332,6 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "Desde Suiza a Filipinas: ¿a qué país se parece el PBI per cápita de las provincias argentinas?",
-        "summary": "La heterogeneidad en Argentina se expresa tanto a nivel sectorial como regional. Gracias a Vaca Muerta, Neuquén lidera el crecimiento.",
-        "link": "https://www.ambito.com/economia/desde-suiza-filipinas-a-que-pais-se-parece-el-pbi-per-capita-las-provincias-argentinas-n6304587",
-        "source": "Ámbito",
-        "time": "28/07 19:24",
-        "iso_date": "2026-07-28T22:24:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Desde Suiza a Filipinas: ¿a qué país se parece el PBI per cápita de las provincias argentinas?",
-        "summary": "La heterogeneidad en Argentina se expresa tanto a nivel sectorial como regional. Gracias a Vaca Muerta, Neuquén lidera el crecimiento.",
-        "link": "https://www.ambito.com/economia/desde-suiza-filipinas-a-que-pais-se-parece-el-pbi-per-capita-las-provincias-argentinas-n6304587",
-        "source": "Ámbito Mercados",
-        "time": "28/07 19:24",
-        "iso_date": "2026-07-28T22:24:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -434,18 +410,6 @@
         "source": "Infobae Economía",
         "time": "29/07 01:41",
         "iso_date": "2026-07-29T04:41:23+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: volvióa subir el riesgo país en medio de la caída de bonos y acciones locales",
-        "summary": "La tendencia oscilante de Wall Street y la baja del crudo pusieron techo a la recuperación de activos domésticos. El S&P Merval cayó 1,5% y los bonos en dólares restaron 0,2%. El indicador de JP Morgan tocó los 450 puntos",
-        "link": "https://www.infobae.com/economia/2026/07/28/mercados-vuelve-a-subir-el-riesgo-pais-en-medio-de-la-caida-de-bonos-y-acciones-locales/",
-        "source": "Infobae Economía",
-        "time": "28/07 17:17",
-        "iso_date": "2026-07-28T20:17:28+00:00",
         "tickers": [
           "AL30"
         ],
