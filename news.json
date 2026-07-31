@@ -1,17 +1,51 @@
 {
-  "updated_at": "2026-07-31T19:14:06.752676",
-  "updated_str": "31/07/2026 19:14",
+  "updated_at": "2026-07-31T20:00:33.207650",
+  "updated_str": "31/07/2026 20:00",
   "cutoff_hours": 48,
-  "total_news": 216,
+  "total_news": 212,
   "news": {
     "GENERAL": [
       {
-        "title": "El dólar bajó por tercer día consecutivo y volvió a quedar por debajo de la inflación en julio",
-        "summary": "El billete mayorista cedió a $1.485 redujo a la suba del mes a solo tres pesos o 0,2%. Al público continuó a $1.510 en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/07/31/el-dolar-bajo-por-tercer-dia-consecutivo-y-volvio-a-quedar-por-debajo-de-la-inflacion-en-julio/",
+        "title": "Reforma del BCRA: Mercedes Marcó del Pont le contestó a Milei y lo acusó de decir \"falsedades\" y \"cifras estrafalarias que nadie entiende\"",
+        "summary": "El Presidente acusó a la extitular del Banco Central y a la expresidenta Cristina Kirchner de \"robarle\" a los argentinos a través de la emisión monetaria y otras políticas económicas.",
+        "link": "https://www.ambito.com/economia/reforma-del-bcra-mercedes-marco-del-pont-le-contesto-milei-y-lo-acuso-decir-falsedades-y-cifras-estrafalarias-que-nadie-entiende-n6305832",
+        "source": "Ámbito",
+        "time": "31/07 16:53",
+        "iso_date": "2026-07-31T19:53:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Se aprobó un nuevo RIGI: Pampa Energía invertirá USD 2.700 millones para construir una de las plantas de urea más grandes del mundo",
+        "summary": "Las autoridades de la firma presentaron la iniciativa en un encuentro con el presidente Javier Milei en Casa Rosada. La compañía proyecta una capacidad anual de 2,1 millones de toneladas desde fines de 2029",
+        "link": "https://www.infobae.com/economia/2026/07/31/se-aprobo-un-nuevo-rigi-pampa-energia-invertira-usd-2700-millones-para-construir-una-de-las-plantas-de-urea-mas-grandes-del-mundo/",
         "source": "Infobae Economía",
-        "time": "31/07 16:04",
-        "iso_date": "2026-07-31T19:04:09+00:00",
+        "time": "31/07 16:45",
+        "iso_date": "2026-07-31T19:45:48+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: caen las acciones y suben bonos argentinos en un contexto internacional inestable",
+        "summary": "Wall Street revirtió las perdidas en medio de balances corporativos y la suba del crudo. Los ADR operan con mayoría de bajas. El riesgo país cede con la escalada de tasas de los bonos del Tesoro de EEUU",
+        "link": "https://www.infobae.com/economia/2026/07/31/mercados-caen-las-acciones-y-los-bonos-argentinos-en-un-contexto-internacional-adverso/",
+        "source": "Infobae Economía",
+        "time": "31/07 16:41",
+        "iso_date": "2026-07-31T19:41:45+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Bueno para el dólar: los precios del comercio exterior son los más altos en casi 80 años",
+        "summary": "Los términos de intercambio marcaron su segundo máximo desde 1900, impulsados principalmente por el fuerte aumento de los precios de la energía tras la guerra entre Estados Unidos e Irán.",
+        "link": "https://www.ambito.com/economia/bueno-el-dolar-los-precios-del-comercio-exterior-son-los-mas-altos-casi-80-anos-n6305842",
+        "source": "Ámbito",
+        "time": "31/07 16:40",
+        "iso_date": "2026-07-31T19:40:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -20,8 +54,18 @@
         "summary": "El billete al público siguió ofrecido a $1.510 para la venta en el Banco Nación. El dólar blue quedó operado a $1.560",
         "link": "https://www.infobae.com/economia/2026/07/30/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-30-de-julio/",
         "source": "Infobae Economía",
-        "time": "31/07 16:00",
-        "iso_date": "2026-07-31T19:00:37+00:00",
+        "time": "31/07 16:17",
+        "iso_date": "2026-07-31T19:17:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar bajó por tercer día consecutivo y volvió a quedar por debajo de la inflación en julio",
+        "summary": "El billete mayorista cedió a $1.485 redujo a la suba del mes a solo tres pesos o 0,2%. Al público continuó a $1.510 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/07/31/el-dolar-bajo-por-tercer-dia-consecutivo-y-volvio-a-quedar-por-debajo-de-la-inflacion-en-julio/",
+        "source": "Infobae Economía",
+        "time": "31/07 16:15",
+        "iso_date": "2026-07-31T19:15:40+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -200,18 +244,6 @@
         "is_general": true
       },
       {
-        "title": "Mercados: caen las acciones y los bonos argentinos en un contexto internacional adverso",
-        "summary": "Wall Street opera en baja en medio de balances corporativos y la suba del crudo. Los ADR restan hasta 4%, aunque el S&P Merval gana 0,3%, apuntalado por las petroleras. El riesgo país cede por la escalada de tasas de los bonos del Tesoro de EEUU",
-        "link": "https://www.infobae.com/economia/2026/07/31/mercados-caen-las-acciones-y-los-bonos-argentinos-en-un-contexto-internacional-adverso/",
-        "source": "Infobae Economía",
-        "time": "31/07 11:50",
-        "iso_date": "2026-07-31T14:50:31+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Milei salió al cruce por la ayuda de EE.UU.: “Es deshonesto decir que nos salvó”",
         "summary": "El presidente se refirió al rol del gobierno de Donald Trump para sostener su programa económico. Sus principales definiciones.",
         "link": "https://www.cronista.com/economia-politica/milei-salio-al-cruce-por-la-ayuda-de-eeuu-es-deshonesto-decir-que-nos-salvo/",
@@ -280,36 +312,6 @@
         "iso_date": "2026-07-31T13:30:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Alejandro Vanoli dijo que “es una hipocresía el institucionalismo que plantea el Gobierno” para reformar el BCRA",
-        "summary": "El ex presidente de la autoridad monetaria durante el kirchnerismo criticó el proyecto del Gobierno y aseguró que resulta extremo",
-        "link": "https://www.infobae.com/economia/2026/07/31/alejandro-vanoli-dijo-que-es-una-hipocresia-el-institucionalismo-que-plantea-el-gobierno-para-reformar-el-bcra/",
-        "source": "Infobae Economía",
-        "time": "31/07 10:02",
-        "iso_date": "2026-07-31T13:02:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno suspende embargos y ejecuciones fiscales para dos sectores clave: a quiénes beneficia",
-        "summary": "El Ministerio de Economía extendió hasta el 31 de diciembre de este año el plazo durante el cual ARCA no podrá iniciar juicios de ejecución fiscal ni trabar medidas cautelares contra estos contribuyentes.",
-        "link": "https://www.cronista.com/economia-politica/el-gobierno-suspende-embargos-y-ejecuciones-fiscales-para-dos-sectores-clave-a-quienes-beneficia/",
-        "source": "El Cronista",
-        "time": "31/07 09:25",
-        "iso_date": "2026-07-31T12:25:50+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Santilli pidió la renuncia de Villarruel tras sus dichos sobre Milei: “Paso al costado”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/santilli-pidio-que-villarruel-renuncie-tras-sus-dichos-sobre-milei-que-de-un-paso-al-costado/",
-        "source": "El Cronista",
-        "time": "31/07 09:20",
-        "iso_date": "2026-07-31T12:20:05+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -366,6 +368,18 @@
     "GGAL": [],
     "PAMP": [
       {
+        "title": "Se aprobó un nuevo RIGI: Pampa Energía invertirá USD 2.700 millones para construir una de las plantas de urea más grandes del mundo",
+        "summary": "Las autoridades de la firma presentaron la iniciativa en un encuentro con el presidente Javier Milei en Casa Rosada. La compañía proyecta una capacidad anual de 2,1 millones de toneladas desde fines de 2029",
+        "link": "https://www.infobae.com/economia/2026/07/31/se-aprobo-un-nuevo-rigi-pampa-energia-invertira-usd-2700-millones-para-construir-una-de-las-plantas-de-urea-mas-grandes-del-mundo/",
+        "source": "Infobae Economía",
+        "time": "31/07 16:45",
+        "iso_date": "2026-07-31T19:45:48+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": true
+      },
+      {
         "title": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas",
         "summary": "El proyecto tiene como objetivo recaudar fondos para frenar el deterioro de la infraestructura vial",
         "link": "https://www.infobae.com/economia/2026/07/31/la-pampa-quiere-cobrarle-peajes-a-los-camiones-que-vayan-a-vaca-muerta-por-el-impacto-sobre-sus-rutas/",
@@ -398,12 +412,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: caen las acciones y los bonos argentinos en un contexto internacional adverso",
-        "summary": "Wall Street opera en baja en medio de balances corporativos y la suba del crudo. Los ADR restan hasta 4%, aunque el S&P Merval gana 0,3%, apuntalado por las petroleras. El riesgo país cede por la escalada de tasas de los bonos del Tesoro de EEUU",
+        "title": "Mercados: caen las acciones y suben bonos argentinos en un contexto internacional inestable",
+        "summary": "Wall Street revirtió las perdidas en medio de balances corporativos y la suba del crudo. Los ADR operan con mayoría de bajas. El riesgo país cede con la escalada de tasas de los bonos del Tesoro de EEUU",
         "link": "https://www.infobae.com/economia/2026/07/31/mercados-caen-las-acciones-y-los-bonos-argentinos-en-un-contexto-internacional-adverso/",
         "source": "Infobae Economía",
-        "time": "31/07 11:50",
-        "iso_date": "2026-07-31T14:50:31+00:00",
+        "time": "31/07 16:41",
+        "iso_date": "2026-07-31T19:41:45+00:00",
         "tickers": [
           "AL30"
         ],
