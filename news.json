@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-07-31T18:05:30.199569",
-  "updated_str": "31/07/2026 18:05",
+  "updated_at": "2026-07-31T18:22:58.504356",
+  "updated_str": "31/07/2026 18:22",
   "cutoff_hours": 48,
-  "total_news": 215,
+  "total_news": 217,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno eliminó regulaciones para mejorar la competitividad del comercio exterior",
+        "summary": "Según el ministro de Desregulación, Federico Sturzenegger, el sistema generaba barreras a la entrada que limitaban la competencia y aumentaban los precios.",
+        "link": "https://www.ambito.com/economia/el-gobierno-elimino-regulaciones-mejorar-la-competitividad-del-comercio-exterior-n6305816",
+        "source": "Ámbito",
+        "time": "31/07 15:18",
+        "iso_date": "2026-07-31T18:18:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Nuevos destinos del petróleo argentino: el cierre del estrecho de Ormuz reconfiguró las exportaciones de crudo",
+        "summary": "La guerra en Medio Oriente y sus consecuencias sobre el valor del barril abrieron nuevas oportunidades comerciales para el récord productivo de Vaca Muerta. Los países en crisis energética derivada del conflicto encontraron alivio en Argentina.",
+        "link": "https://www.ambito.com/economia/nuevos-destinos-del-petroleo-argentino-el-cierre-del-estrecho-ormuz-reconfiguro-las-exportaciones-crudo-n6304876",
+        "source": "Ámbito",
+        "time": "31/07 15:14",
+        "iso_date": "2026-07-31T18:14:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Sturzenegger negocia con un gobernador clave para abrir el cabotaje y pone en alerta al sector",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/sturzenegger-negocia-con-un-gobernador-clave-para-abrir-el-cabotaje-y-pone-en-alerta-al-sector/",
+        "source": "El Cronista",
+        "time": "31/07 15:06",
+        "iso_date": "2026-07-31T18:06:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mesa política, reunión con aliados y los primeros desafíos: el Gobierno prepara el debate del nuevo BCRA",
         "summary": "A la vuelta del receso legislativo, se activará la agenda para aprobar la nueva Carta Orgánica de Milei. Menem ya convocó a jefes de bloque para el próximo martes y evalúan cuáles son las comisiones que intervendrán. Las primeras reacciones de los aliados.",
@@ -277,43 +309,37 @@
         "time": "31/07 08:16",
         "iso_date": "2026-07-31T11:16:21+00:00",
         "tickers": [
-          "PAMP",
+          "YPFD",
+          "PAMP"
+        ],
+        "is_general": false
+      }
+    ],
+    "YPFD": [
+      {
+        "title": "Nuevos destinos del petróleo argentino: el cierre del estrecho de Ormuz reconfiguró las exportaciones de crudo",
+        "summary": "La guerra en Medio Oriente y sus consecuencias sobre el valor del barril abrieron nuevas oportunidades comerciales para el récord productivo de Vaca Muerta. Los países en crisis energética derivada del conflicto encontraron alivio en Argentina.",
+        "link": "https://www.ambito.com/economia/nuevos-destinos-del-petroleo-argentino-el-cierre-del-estrecho-ormuz-reconfiguro-las-exportaciones-crudo-n6304876",
+        "source": "Ámbito",
+        "time": "31/07 15:14",
+        "iso_date": "2026-07-31T18:14:00+00:00",
+        "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "El Gobierno prorroga hasta fin de año la suspensión de ejecuciones fiscales para ONG y el sector salud",
-        "summary": "A través de una resolución publicada este viernes en el Boletín Oficial, el Ministerio de Economía extendió hasta el 31 de diciembre el plazo durante el cual la ARCA no podrá iniciar juicios de ejecución fiscal ni trabar medidas cautelares contra esos contribuyentes.",
-        "link": "https://www.ambito.com/economia/el-gobierno-prorroga-fin-ano-la-suspension-ejecuciones-fiscales-ong-y-el-sector-salud-n6305563",
-        "source": "Ámbito",
-        "time": "31/07 08:10",
-        "iso_date": "2026-07-31T11:10:00+00:00",
-        "tickers": [],
-        "is_general": true
+        "title": "Nuevos destinos del petróleo argentino: el cierre del estrecho de Ormuz reconfiguró las exportaciones de crudo",
+        "summary": "La guerra en Medio Oriente y sus consecuencias sobre el valor del barril abrieron nuevas oportunidades comerciales para el récord productivo de Vaca Muerta. Los países en crisis energética derivada del conflicto encontraron alivio en Argentina.",
+        "link": "https://www.ambito.com/economia/nuevos-destinos-del-petroleo-argentino-el-cierre-del-estrecho-ormuz-reconfiguro-las-exportaciones-crudo-n6304876",
+        "source": "Ámbito Mercados",
+        "time": "31/07 15:14",
+        "iso_date": "2026-07-31T18:14:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
-      {
-        "title": "Combustibles: el Gobierno volvió a postergar la suba de impuestos para contener el impacto en inflación",
-        "summary": "El Ejecutivo modificó el cronograma de actualización de los impuestos sobre naftas y gasoil, y postergó una parte de los incrementos pendientes hasta el 1° de septiembre.",
-        "link": "https://www.cronista.com/economia-politica/combustibles-el-gobierno-volvio-a-postergar-la-suba-de-impuestos-para-contener-el-impacto-en-inflacion/",
-        "source": "El Cronista",
-        "time": "31/07 08:06",
-        "iso_date": "2026-07-31T11:06:57+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El precio del dólar se debilita en julio y América Latina tiene la moneda más fuerte del mundo",
-        "summary": "La pausa de la Reserva Federal debilitó al dólar en el cierre de julio, mientras el carry trade, las materias primas y factores internos impulsaron a varias divisas latinoamericanas.",
-        "link": "https://www.bloomberglinea.com/mercados/el-precio-del-dolar-se-debilita-en-julio-y-america-latina-tiene-la-moneda-mas-fuerte-del-mundo/",
-        "source": "Bloomberg Línea AR",
-        "time": "31/07 08:00",
-        "iso_date": "2026-07-31T11:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
       {
         "title": "Georgieva habló sobre su viaje a la Argentina: Messi, Milei, Vaca Muerta, sus dólares en una lata y la maquilladora con 3 trabajos",
         "summary": "La directora del FMI compartió anécdotas personales, referencias deportivas y mensajes económicos sobre el presente y las perspectivas del país, en una publicación que reunió historias cotidianas y cifras clave",
@@ -334,8 +360,8 @@
         "time": "31/07 08:16",
         "iso_date": "2026-07-31T11:16:21+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -350,8 +376,8 @@
         "time": "31/07 08:16",
         "iso_date": "2026-07-31T11:16:21+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
