@@ -1,473 +1,397 @@
 {
-  "updated_at": "2026-07-31T22:53:14.534188",
-  "updated_str": "31/07/2026 22:53",
+  "updated_at": "2026-08-03T02:37:07.581506",
+  "updated_str": "03/08/2026 02:37",
   "cutoff_hours": 48,
-  "total_news": 237,
+  "total_news": 102,
   "news": {
     "GENERAL": [
       {
-        "title": "Alivio: julio terminó mucho mejor que como empezó",
-        "summary": "La buena licitación del miércoles más las intervenciones indirectas sobre el mercado cambiario hicieron que el mercado financiero argentino terminara el mes con una rueda tranquila. El BCRA compró dólares, pero perdió reservas.",
-        "link": "https://eleconomista.com.ar/finanzas/alivio-julio-termino-mucho-mejor-como-empezo-n97088",
-        "source": "El Economista",
-        "time": "31/07 19:30",
-        "iso_date": "2026-07-31T22:30:00+00:00",
+        "title": "“Conmigo no”: Milei descartó un “plan platita” para el año electoral",
+        "summary": "Afirmó que no impulsará medidas orientadas a estimular el consumo por razones de campaña y ratificó que mantendrá la disciplina fiscal y monetaria, con foco en una estrategia de largo plazo",
+        "link": "https://www.infobae.com/politica/2026/08/03/conmigo-no-milei-descarto-un-plan-platita-para-el-ano-electoral/",
+        "source": "Infobae Economía",
+        "time": "02/08 21:52",
+        "iso_date": "2026-08-03T00:52:37+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Jornada financiera: las acciones argentinas cayeron hasta 6% en Wall Street, pero los bonos rebotaron y bajó el riesgo país",
-        "summary": "Los títulos bancarios encabezaron las pérdidas, aunque las acciones petroleras avanzaron por el encarecimiento del crudo. El dólar siguió a $1.510 en el Banco Nación y el BCRA compró USD 46 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/31/jornada-financiera-las-acciones-argentinas-cayeron-hasta-6-en-wall-street-pero-los-bonos-rebotaron-y-bajo-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "31/07 19:05",
-        "iso_date": "2026-07-31T22:05:25+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Creció la demanda de dólares en junio y los argentinos compraron más USD 14.000 millones en el primer semestre",
-        "summary": "El Banco Central informó que 1,5 millones de personas adquirieron divisas el mes pasado, mientras que 715.000 optaron por vender USD 428 millones",
-        "link": "https://www.infobae.com/economia/2026/07/31/crecio-la-demanda-de-dolares-en-junio-los-argentinos-compraron-mas-de-usd-2400-millones/",
-        "source": "Infobae Economía",
-        "time": "31/07 18:43",
-        "iso_date": "2026-07-31T21:43:13+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación de julio: sin consenso, algunas consultoras anticipan un freno al proceso de desaceleración",
-        "summary": "Si bien las estimaciones de las diferentes consultoras privadas son dispares, el factor estacional de las vacaciones de invierno y la aceleración de los alimentos podría jugar un rol clave en la suba del IPC.",
-        "link": "https://www.ambito.com/economia/inflacion-julio-consenso-algunas-consultoras-anticipan-un-freno-al-proceso-desaceleracion-n6305877",
-        "source": "Ámbito",
-        "time": "31/07 18:37",
-        "iso_date": "2026-07-31T21:37:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto se negociaron todas las cotizaciones minuto a minuto este viernes 31 de julio",
-        "summary": "El billete al público siguió ofrecido a $1.510 para la venta en el Banco Nación. El dólar blue quedó operado a $1.560. El BCRA compró USD 46 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/30/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-30-de-julio/",
-        "source": "Infobae Economía",
-        "time": "31/07 18:36",
-        "iso_date": "2026-07-31T21:36:27+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: cayeron las acciones y subieron los bonos argentinos en un contexto internacional inestable",
-        "summary": "Wall Street revirtió las perdidas en medio de balances corporativos y la suba del crudo. Los ADR operaron con mayoría de bajas. El riesgo país cedió a 430 puntos con la escalada de tasas de los bonos del Tesoro de EEUU",
-        "link": "https://www.infobae.com/economia/2026/07/31/mercados-caen-las-acciones-y-los-bonos-argentinos-en-un-contexto-internacional-adverso/",
-        "source": "Infobae Economía",
-        "time": "31/07 18:24",
-        "iso_date": "2026-07-31T21:24:01+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La compra de dólar ahorro subió en junio y en el primer semestre superó los u$s15.000 millones",
-        "summary": "El 40% de la salida neta de billetes y divisas quedó depositado en bancos locales, aunque comenzó a subir la porción que se saca del sistema financiero.",
-        "link": "https://www.ambito.com/economia/la-compra-dolar-ahorro-subio-junio-y-el-primer-semestre-supero-los-us15000-millones-n6305876",
-        "source": "Ámbito",
-        "time": "31/07 18:04",
-        "iso_date": "2026-07-31T21:04:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Se aprobó un nuevo RIGI: Pampa Energía invertirá USD 2.700 millones para construir una de las plantas de urea más grandes del mundo",
-        "summary": "Las autoridades de la firma presentaron la iniciativa en un encuentro con el presidente Javier Milei en Casa Rosada. La compañía proyecta una capacidad anual de 2,1 millones de toneladas desde fines de 2029",
-        "link": "https://www.infobae.com/economia/2026/07/31/se-aprobo-un-nuevo-rigi-pampa-energia-invertira-usd-2700-millones-para-construir-una-de-las-plantas-de-urea-mas-grandes-del-mundo/",
-        "source": "Infobae Economía",
-        "time": "31/07 18:01",
-        "iso_date": "2026-07-31T21:01:15+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El Banco Central aceleró la compra de dólares en julio y acumula más de USD 13.300 millones en 2026",
-        "summary": "La autoridad monetaria adquirió USD 46 millones este viernes y acumula adquisiciones por más de USD 13.200 millones a lo largo de 2026",
-        "link": "https://www.infobae.com/economia/2026/07/31/el-banco-central-acelero-la-compra-de-dolares-en-julio-y-acumula-mas-de-usd-13300-millones-en-2026/",
-        "source": "Infobae Economía",
-        "time": "31/07 17:52",
-        "iso_date": "2026-07-31T20:52:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Avanza la visita del papa León XIV a la Argentina: Milei recibió las cartas credenciales del nuncio",
+        "title": "Milei redobla la apuesta contra Lula: “Es un corrupto, salió por un recurso administrativo”",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/avanza-la-visita-del-papa-leon-xiv-a-la-argentina-milei-recibio-las-cartas-credenciales-del-nuncio/",
+        "link": "https://www.cronista.com/economia-politica/milei-redobla-la-apuesta-contra-lula-es-un-corrupto-salio-por-un-recurso-administrativo/",
         "source": "El Cronista",
-        "time": "31/07 17:51",
-        "iso_date": "2026-07-31T20:51:02+00:00",
+        "time": "02/08 21:51",
+        "iso_date": "2026-08-03T00:51:59+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Lacunza respaldó a Milei y abrió otra discusión en el PRO: el lugar de Macri en la interna",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/lacunza-elogio-los-anuncios-de-milei-y-se-anoto-para-una-interna-con-macri-en-la-ciudad/",
-        "source": "El Cronista",
-        "time": "31/07 17:05",
-        "iso_date": "2026-07-31T20:05:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Con elogios a Messi, Georgieva destaca avances en Argentina y pide convertir la estabilidad en prosperidad duradera",
-        "summary": "La directora gerente del FMI publicó una reseña sobre su reciente visita al país. Elogió a Messi, destacó la estabilización de la economía y señaló cuál es a su entender “la señal más alentadora de todas”.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/con-elogios-a-messi-georgieva-destaca-avances-en-argentina-y-pide-convertir-la-estabilidad-en-prosperidad-duradera/",
-        "source": "Bloomberg Línea AR",
-        "time": "31/07 16:59",
-        "iso_date": "2026-07-31T19:59:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Reforma del BCRA: Mercedes Marcó del Pont le contestó a Milei y lo acusó de decir \"falsedades\" y \"cifras estrafalarias que nadie entiende\"",
-        "summary": "El Presidente acusó a la extitular del Banco Central y a la expresidenta Cristina Kirchner de \"robarle\" a los argentinos a través de la emisión monetaria y otras políticas económicas.",
-        "link": "https://www.ambito.com/economia/reforma-del-bcra-mercedes-marco-del-pont-le-contesto-milei-y-lo-acuso-decir-falsedades-y-cifras-estrafalarias-que-nadie-entiende-n6305832",
-        "source": "Ámbito",
-        "time": "31/07 16:53",
-        "iso_date": "2026-07-31T19:53:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Bueno para el dólar: los precios del comercio exterior son los más altos en casi 80 años",
-        "summary": "Los términos de intercambio marcaron su segundo máximo desde 1900, impulsados principalmente por el fuerte aumento de los precios de la energía tras la guerra entre Estados Unidos e Irán.",
-        "link": "https://www.ambito.com/economia/bueno-el-dolar-los-precios-del-comercio-exterior-son-los-mas-altos-casi-80-anos-n6305842",
-        "source": "Ámbito",
-        "time": "31/07 16:40",
-        "iso_date": "2026-07-31T19:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar bajó por tercer día consecutivo y volvió a quedar por debajo de la inflación en julio",
-        "summary": "El billete mayorista cedió a $1.485 redujo a la suba del mes a solo tres pesos o 0,2%. Al público continuó a $1.510 en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/07/31/el-dolar-bajo-por-tercer-dia-consecutivo-y-volvio-a-quedar-por-debajo-de-la-inflacion-en-julio/",
+        "title": "Javier Milei: “Las reformas apuntan al corazón de la decadencia argentina de los últimos 91 años”",
+        "summary": "En una entrevista televisiva, el presidente se refirió al proyecto oficial para reformar la Carta Orgánica del Banco Central y los mercados de Seguros y de Capitales",
+        "link": "https://www.infobae.com/economia/2026/08/02/javier-milei-las-reformas-apuntan-al-corazon-de-la-decadencia-argentina-de-los-ultimos-91-anos/",
         "source": "Infobae Economía",
-        "time": "31/07 16:15",
-        "iso_date": "2026-07-31T19:15:40+00:00",
+        "time": "02/08 21:42",
+        "iso_date": "2026-08-03T00:42:36+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Banco central colombiano mantuvo inalterada la tasa de interés en 12%",
-        "summary": "Cuatro codirectores estuvieron a favor de la decisión y tres optaron por un alza de 50 puntos básicos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/banco-central-colombiano-mantuvo-inalterada-la-tasa-de-interes-en-12/",
-        "source": "Bloomberg Línea AR",
-        "time": "31/07 15:51",
-        "iso_date": "2026-07-31T18:51:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno eliminó regulaciones para mejorar la competitividad del comercio exterior",
-        "summary": "Según el ministro de Desregulación, Federico Sturzenegger, el sistema generaba barreras a la entrada que limitaban la competencia y aumentaban los precios.",
-        "link": "https://www.ambito.com/economia/el-gobierno-elimino-regulaciones-mejorar-la-competitividad-del-comercio-exterior-n6305816",
+        "title": "Gastos en dólares durante un viaje: qué tener en cuenta al pagar consumos en el exterior",
+        "summary": "Antes de salir del país, conocé las alternativas disponibles y elegí la opción más conveniente para cuidar el presupuesto",
+        "link": "https://www.ambito.com/economia/gastos-dolares-un-viaje-que-tener-cuenta-al-pagar-consumos-el-exterior-n6305573",
         "source": "Ámbito",
-        "time": "31/07 15:18",
-        "iso_date": "2026-07-31T18:18:00+00:00",
+        "time": "02/08 18:00",
+        "iso_date": "2026-08-02T21:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Nuevos destinos del petróleo argentino: el cierre del estrecho de Ormuz reconfiguró las exportaciones de crudo",
-        "summary": "La guerra en Medio Oriente y sus consecuencias sobre el valor del barril abrieron nuevas oportunidades comerciales para el récord productivo de Vaca Muerta. Los países en crisis energética derivada del conflicto encontraron alivio en Argentina.",
-        "link": "https://www.ambito.com/economia/nuevos-destinos-del-petroleo-argentino-el-cierre-del-estrecho-ormuz-reconfiguro-las-exportaciones-crudo-n6304876",
+        "title": "En los últimos 12 meses el boleto de colectivo aumentó más que la inflación en 40 ciudades argentinas y en 4 de ellas se duplicó",
+        "summary": "Un relevamiento de la asociación de empresas de transporte automotor demostró que en algunas jurisdicciones los pasajes no cambiaron mientras que en otras hubo incrementos de más del 100 por ciento",
+        "link": "https://www.infobae.com/economia/2026/08/02/en-los-ultimos-12-meses-el-boleto-de-colectivo-aumento-mas-que-la-inflacion-en-40-ciudades-argentinas-y-en-4-de-ellas-se-duplico/",
+        "source": "Infobae Economía",
+        "time": "02/08 16:58",
+        "iso_date": "2026-08-02T19:58:43+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Agenda económica de la semana: se publica el REM y nueve empresas argentinas presentan balance",
+        "summary": "La semana estará marcada por la publicación del Relevamiento de Expectativas de Mercado (REM) del Banco Central, los datos de actividad de junio y la recaudación tributaria de julio. En el plano internacional, el foco estará en el informe de empleo de Estados Unidos.",
+        "link": "https://www.ambito.com/economia/agenda-economica-la-semana-se-publica-el-rem-y-nueve-acciones-argentinas-presentan-balance-n6306218",
         "source": "Ámbito",
-        "time": "31/07 15:14",
-        "iso_date": "2026-07-31T18:14:00+00:00",
+        "time": "02/08 16:14",
+        "iso_date": "2026-08-02T19:14:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
+        "summary": "El transporte de crudo no sufrió interrupciones y la hipótesis más fuerte señala a atacantes extranjeros como responsables del incidente. La propia empresa lo informó a la CNV como “hecho relevante”",
+        "link": "https://www.infobae.com/economia/2026/08/02/la-operadora-del-oleoducto-por-el-que-circula-el-75-del-petroleo-de-vaca-muerta-sufrio-un-ciberataque-en-sus-sistemas/",
+        "source": "Infobae Economía",
+        "time": "02/08 16:11",
+        "iso_date": "2026-08-02T19:11:01+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Sturzenegger negocia con un gobernador clave para abrir el cabotaje y pone en alerta al sector",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/sturzenegger-negocia-con-un-gobernador-clave-para-abrir-el-cabotaje-y-pone-en-alerta-al-sector/",
-        "source": "El Cronista",
-        "time": "31/07 15:06",
-        "iso_date": "2026-07-31T18:06:25+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mesa política, reunión con aliados y los primeros desafíos: el Gobierno prepara el debate del nuevo BCRA",
-        "summary": "A la vuelta del receso legislativo, se activará la agenda para aprobar la nueva Carta Orgánica de Milei. Menem ya convocó a jefes de bloque para el próximo martes y evalúan cuáles son las comisiones que intervendrán. Las primeras reacciones de los aliados.",
-        "link": "https://www.cronista.com/economia-politica/mesa-politica-reunion-con-aliados-y-los-primeros-desafios-el-gobierno-prepara-el-debate-del-nuevo-bcra/",
-        "source": "El Cronista",
-        "time": "31/07 15:03",
-        "iso_date": "2026-07-31T18:03:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Banco Nación lanza refinanciaciones de deuda 100% digitales y autogestivas",
-        "summary": "La entidad ya alcanzó más de 62.000 refinanciaciones por más de $310.000 millones en 2026 y sumó una nueva modalidad 100% digital y autogestiva que permitió concretar más de 7.500 operaciones en sus primeras 24 horas.",
-        "link": "https://www.ambito.com/economia/el-banco-nacion-lanza-refinanciaciones-deuda-100-digitales-y-autogestivas-n6305782",
+        "title": "Gasto primario: para cumplir con el FMI, el Gobierno debería continuar con la \"motosierra\" en lo que queda del año",
+        "summary": "De acuerdo a un análisis, aun bajo un escenario más favorable para la recaudación, el Gobierno deberá profundizar el recorte del gasto no indexado para alcanzar un superávit primario del 1,4% del PBI.",
+        "link": "https://www.ambito.com/economia/gasto-primario-cumplir-el-fmi-el-gobierno-deberia-continuar-la-motosierra-lo-que-queda-del-ano-n6306215",
         "source": "Ámbito",
-        "time": "31/07 14:27",
-        "iso_date": "2026-07-31T17:27:00+00:00",
+        "time": "02/08 15:57",
+        "iso_date": "2026-08-02T18:57:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Impuestos y costo de la deuda de Pemex presionan ganancias por altos precios del crudo",
-        "summary": "Pemex reportó un beneficio de US$1.000 millones, unos MXN$18.000 millones, después de una pérdida el año pasado de US$3.400 millones.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/impuestos-y-costo-de-la-deuda-de-pemex-presionan-ganancias-por-altos-precios-del-crudo/",
-        "source": "Bloomberg Línea AR",
-        "time": "31/07 13:56",
-        "iso_date": "2026-07-31T16:56:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Plazo fijo si o no? Cuánto rinde una inversión de $2.000.000 a 30 días",
-        "summary": "Las tasas siguen mostrando diferencias importantes entre entidades, por lo que comparar antes de decidir puede mejorar significativamente la ganancia.",
-        "link": "https://www.ambito.com/economia/plazo-fijo-si-o-no-cuanto-rinde-una-inversion-2000000-30-dias-n6305672",
+        "title": "Salarios: uno a uno, cuáles son los gremios que acordaron aumentos en agosto",
+        "summary": "La desaceleración de la inflación permitió acuerdos salariales levemente por encima para este mes, con sumas fijas de hasta $100.000. Sin embargo, los ingresos continúan bajo presión. Qué gremios acordaron aumentos.",
+        "link": "https://www.ambito.com/economia/salarios-uno-uno-cuales-son-los-gremios-que-acordaron-aumentos-agosto-n6306191",
         "source": "Ámbito",
-        "time": "31/07 13:30",
-        "iso_date": "2026-07-31T16:30:00+00:00",
+        "time": "02/08 14:49",
+        "iso_date": "2026-08-02T17:49:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Divisiones en la Fed: dos de los miembros disidentes promueven una pronta suba de tasas para frenar la inflación",
-        "summary": "Hammack y Kashkari expresaron su preferencia por actuar de manera inmediata y gradual, respectivamente, en la última reunión de política monetaria. Los detalles, en la nota.",
-        "link": "https://www.ambito.com/economia/divisiones-la-fed-dos-los-miembros-disidentes-promueven-una-pronta-suba-tasas-frenar-la-inflacion-n6305747",
-        "source": "Ámbito",
-        "time": "31/07 13:24",
-        "iso_date": "2026-07-31T16:24:53+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Georgieva habló sobre su viaje a la Argentina: Messi, Milei, Vaca Muerta, sus dólares en una lata y la maquilladora con 3 trabajos",
-        "summary": "La directora del FMI compartió anécdotas personales, referencias deportivas y mensajes económicos sobre el presente y las perspectivas del país, en una publicación que reunió historias cotidianas y cifras clave",
-        "link": "https://www.infobae.com/economia/2026/07/31/georgieva-hablo-sobre-su-viaje-a-la-argentina-messi-milei-vaca-muerta-sus-dolares-en-una-lata-y-la-maquilladora-con-3-trabajos/",
+        "title": "¿Conviene ahora viajar para comprar celulares y electrónica en países vecinos?: precios y todo lo que hay que saber",
+        "summary": "Un relevamiento de Infobae comparó en dólares diez productos en Argentina, Chile, Uruguay, Paraguay y Brasil, mientras especialistas analizan el impacto del acceso al mercado cambiario y el nuevo esquema de compras online",
+        "link": "https://www.infobae.com/economia/2026/08/02/conviene-ahora-viajar-para-comprar-celulares-y-electronica-en-paises-vecinos-precios-y-todo-lo-que-hay-que-saber/",
         "source": "Infobae Economía",
-        "time": "31/07 13:13",
-        "iso_date": "2026-07-31T16:13:20+00:00",
+        "time": "02/08 14:34",
+        "iso_date": "2026-08-02T17:34:17+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "En medio de la pelea con Villarruel, Milei habló de su candidato a vicepresidente para 2027",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/en-medio-de-la-pelea-con-villarruel-milei-hablo-de-su-proximo-candidato-a-vicepresidente-para-2027/",
+        "source": "El Cronista",
+        "time": "02/08 13:15",
+        "iso_date": "2026-08-02T16:15:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Aumenta el transporte público en agosto: cuánto costarán colectivos, trenes y subtes",
+        "summary": "Las nuevas tarifas se aplicarán por los mecanismos de actualización automática establecidos por la Ciudad y la Provincia de Buenos Aires, vinculados a la evolución de la inflación.",
+        "link": "https://www.ambito.com/economia/aumenta-el-transporte-publico-agosto-cuanto-costaran-colectivos-trenes-y-subtes-n6306173",
+        "source": "Ámbito",
+        "time": "02/08 12:22",
+        "iso_date": "2026-08-02T15:22:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Reforma del BCRA: amplio respaldo para los límites a la emisión y algunos reparos sobre el mandato único",
+        "summary": "Economistas y consultores respaldan la idea de dotar de mayor autonomía a la autoridad monetaria. La Fed, el sistema de bancos centrales de la Unión Europea e Israel, entre los casos en los que se le otorga a la entidad más de un objetivo.",
+        "link": "https://www.ambito.com/economia/reforma-del-bcra-amplio-respaldo-los-limites-la-emision-y-algunos-reparos-el-mandato-unico-n6305701",
+        "source": "Ámbito",
+        "time": "02/08 11:46",
+        "iso_date": "2026-08-02T14:46:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación de julio: consultoras prevén un freno en la desaceleración y un IPC cercano al 2%",
+        "summary": "Las estimaciones privadas para julio son dispares, aunque la mayoría ubica la inflación entre 1,9% y 2,1%. Los analistas atribuyen la aceleración al impacto estacional de las vacaciones de invierno y al mayor ritmo de aumento en alimentos",
+        "link": "https://www.ambito.com/economia/inflacion-julio-consultoras-preven-un-freno-la-desaceleracion-y-un-ipc-cercano-al-2-n6306131",
+        "source": "Ámbito",
+        "time": "02/08 09:32",
+        "iso_date": "2026-08-02T12:32:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La contracara de la ropa barata: qué hay detrás de los precios que aumentan menos que la inflación",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-contracara-de-la-ropa-barata-que-hay-detras-de-los-precios-que-aumentan-menos-que-la-inflacion/",
+        "source": "El Cronista",
+        "time": "02/08 09:13",
+        "iso_date": "2026-08-02T12:13:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Japón anunciará una intervención conjunta con EEUU para frenar la caída del yen",
+        "summary": "El Gobierno japonés anunciará que coordinó con Estados Unidos una intervención en el mercado cambiario para detener la fuerte depreciación del yen, que tocó su nivel más bajo frente al dólar en cuatro décadas. La operación, que sería la primera acción conjunta de ambos países ...",
+        "link": "https://www.ambito.com/economia/japon-anunciara-una-intervencion-conjunta-eeuu-frenar-la-caida-del-yen-n6306126",
+        "source": "Ámbito",
+        "time": "02/08 08:54",
+        "iso_date": "2026-08-02T11:54:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mientras busca que los argentinos saquen los “dólares del colchón”, Caputo se armó su propio colchón de pesos",
+        "summary": "Un informe resaltó tres logros del manejo de la deuda en moneda local, uno de los cuales facilitará pagar “gastos eventuales” como la compra de moneda extranjera",
+        "link": "https://www.infobae.com/economia/2026/08/02/mientras-busca-que-los-argentinos-saquen-los-dolares-del-colchon-caputo-se-armo-su-propio-colchon-de-pesos/",
+        "source": "Infobae Economía",
+        "time": "02/08 07:25",
+        "iso_date": "2026-08-02T10:25:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno quiere darle más fortaleza al peso y Caputo frenó con éxito la presión del mercado sobre el dólar",
+        "summary": "El Central y el Tesoro dejaron en claro que tienen mucho poder de fuego para contener el tipo de cambio. Kristalina Georgieva pidió “paciencia” para esperar los resultados del plan, pero los tiempos se acortan",
+        "link": "https://www.infobae.com/economia/2026/08/02/el-gobierno-quiere-darle-mas-fortaleza-al-peso-y-caputo-freno-con-exito-la-presion-del-mercado-sobre-el-dolar/",
+        "source": "Infobae Economía",
+        "time": "02/08 00:35",
+        "iso_date": "2026-08-02T03:35:46+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas",
+        "summary": "La directora gerente del FMI destacó el desempeño del petróleo y la minería y planteó medidas para impulsar sectores rezagados como la construcción, los servicios y la logística. Economistas consultados plantearon sus reparos sobre el alcance del “efecto derrame”",
+        "link": "https://www.infobae.com/economia/2026/08/02/georgieva-pidio-que-vaca-muerta-impulse-la-economia-real-que-se-necesita-para-lograr-un-efecto-derrame-segun-los-analistas/",
+        "source": "Infobae Economía",
+        "time": "02/08 00:29",
+        "iso_date": "2026-08-02T03:29:07+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": true
       },
       {
-        "title": "La evaluación de Kristalina Georgieva de su visita a la Argentina: \"El desafío es mantener el rumbo\"",
-        "summary": "La titular del FMI destacó los avances económicos de Argentina y pidió sostener las reformas para consolidar la estabilidad. Georgieva advirtió que el desafío es transformar esos logros en crecimiento, inversiones y mejores oportunidades para la población.",
-        "link": "https://www.ambito.com/economia/la-evaluacion-kristalina-georgieva-su-visita-la-argentina-el-desafio-es-mantener-el-rumbo-n6305755",
+        "title": "Reforma de la Carta Orgánica e independencia del BCRA: qué tiene que ocurrir para que realmente funcione",
+        "summary": "Estudios internacionales apuntan a que una entidad a salvo de presiones políticas es más eficaz para reducir la inflación y alcanzar la estabilidad monetaria y cambiaria. El caso de Perú y las malas experiencias de la Argentina",
+        "link": "https://www.infobae.com/economia/2026/08/02/reforma-de-la-carta-organica-e-independencia-del-bcra-que-tiene-que-ocurrir-para-que-realmente-funcione/",
+        "source": "Infobae Economía",
+        "time": "02/08 00:28",
+        "iso_date": "2026-08-02T03:28:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Aportes y límites de una nueva Carta Orgánica del Banco Central",
+        "summary": "El diagnóstico del presidente Milei es correcto. Su solución es incompleta, con cambios necesarios, pero no suficientes. Qué falta",
+        "link": "https://www.infobae.com/opinion/2026/08/02/aportes-y-limites-de-una-nueva-carta-organica-del-banco-central/",
+        "source": "Infobae Economía",
+        "time": "02/08 00:27",
+        "iso_date": "2026-08-02T03:27:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Bernardo Kosacoff: \"La desindustrialización en la Argentina ya está sucediendo, es de largo plazo\"",
+        "summary": "El economista especializado en desarrollo y competitividad entiende que el punto de partida es la estabilización macro, pero advierte que el Gobierno debe ahondar en la diversidad de la industria nacional.",
+        "link": "https://www.ambito.com/economia/bernardo-kosacoff-la-desindustrializacion-la-argentina-ya-esta-sucediendo-es-largo-plazo-n6306061",
         "source": "Ámbito",
-        "time": "31/07 13:05",
-        "iso_date": "2026-07-31T16:05:00+00:00",
+        "time": "02/08 00:06",
+        "iso_date": "2026-08-02T03:06:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Evitar estafas en dólares: engaños frecuentes a turistas y cómo proteger el dinero al viajar",
+        "summary": "Antes de salir al exterior, te conviene conocer todas las maniobras de fraude para reducir los riesgos mientras conoces lugares nuevos.",
+        "link": "https://www.ambito.com/economia/evitar-estafas-dolares-enganos-frecuentes-turistas-y-como-proteger-el-dinero-al-viajar-n6305414",
+        "source": "Ámbito",
+        "time": "01/08 22:00",
+        "iso_date": "2026-08-02T01:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Georgieva del FMI opinó sobre la carta orgánica del BCRA e hizo su balance de Argentina: tango, Messi y qué falta para crecer",
+        "title": "Un motor central de la economía también opera “a dos velocidades” y condiciona la reactivación del consumo",
+        "summary": "La mora récord, la caída de ingresos y las tasas de interés altas limitan el crédito en pesos mientras el financiamiento en moneda extranjera crece impulsado por la demanda del agro, la energía y la minería",
+        "link": "https://www.infobae.com/economia/2026/08/01/un-motor-central-de-la-economia-tambien-opera-a-dos-velocidades-y-condiciona-la-reactivacion-del-consumo/",
+        "source": "Infobae Economía",
+        "time": "01/08 19:36",
+        "iso_date": "2026-08-01T22:36:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país e inflación en baja: los tres frentes que el plan de Milei todavía debe superar",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/georgieva-del-fmi-opino-sobre-la-carta-organica-del-bcra-e-hizo-su-balance-de-argentina-la-leccion-de-messi-y-que-falta-para-crecer/",
+        "link": "https://www.cronista.com/economia-politica/riesgo-pais-e-inflacion-en-baja-los-tres-frentes-que-el-plan-de-milei-todavia-debe-superar/",
         "source": "El Cronista",
-        "time": "31/07 13:03",
-        "iso_date": "2026-07-31T16:03:58+00:00",
+        "time": "01/08 18:56",
+        "iso_date": "2026-08-01T21:56:10+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Sorpresa en el mercado argentino: qué tipo de auto deprimió las ventas de 0 km y llevó a una mayor caída en julio",
+        "summary": "Argentina se caracteriza por combinar modelos de distintos segmentos entre los más vendidos. Pero los números de julio arrojaron un resultado inesperado: una categoría muy importante cayó casi 15 por ciento",
+        "link": "https://www.infobae.com/economia/2026/08/01/sorpresa-en-el-mercado-argentino-que-tipo-de-auto-empujo-las-ventas-de-los-0-km-a-una-baja-mayor-en-julio/",
+        "source": "Infobae Economía",
+        "time": "01/08 18:49",
+        "iso_date": "2026-08-01T21:49:11+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Deudas bancarias y 230 cheques rechazados: la empresa de Solo Empanadas pidió otra vez concurso preventivo",
-        "summary": "La reconocida cadena dejó de poder cumplir con sus obligaciones como consecuencia del deterioro de la situación macroeconómica",
-        "link": "https://www.infobae.com/economia/2026/07/31/deudas-bancarias-y-230-cheques-rechazados-la-empresa-de-solo-empanadas-pidio-otra-vez-concurso-preventivo/",
-        "source": "Infobae Economía",
-        "time": "31/07 13:03",
-        "iso_date": "2026-07-31T16:03:01+00:00",
+        "title": "Luis Caputo descartó ayuda para las familias endeudadas: \"Es un tema entre privados\"",
+        "summary": "El funcionario sostuvo que la problemática se irá solucionando porque los bancos están \"haciendo un esfuerzo\" para refinanciar a tasas más bajas y razonables.",
+        "link": "https://www.ambito.com/economia/luis-caputo-descarto-ayuda-las-familias-endeudadas-es-un-tema-privados-n6306066",
+        "source": "Ámbito",
+        "time": "01/08 18:17",
+        "iso_date": "2026-08-01T21:17:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "De cuánto serán las Pensiones No Contributivas de ANSES en agosto 2026",
-        "summary": "La actualización de haberes responde al IPC de junio y rige para jubilados, titulares de asignaciones y distintas prestaciones del sistema previsional argentino",
-        "link": "https://www.infobae.com/economia/2026/07/31/de-cuanto-seran-las-pensiones-no-contributivas-de-anses-en-agosto-2026/",
-        "source": "Infobae Economía",
-        "time": "31/07 12:57",
-        "iso_date": "2026-07-31T15:57:27+00:00",
+        "title": "Luis Caputo defendió la reforma del BCRA y aseguró que Javier Milei \"no tiene reemplazo\"",
+        "summary": "El ministro de Economía defendió la prohibición de financiar al Estado mediante emisión monetaria y descartó cambios en el programa fiscal durante 2027. También aseguró que actualmente existe un excedente de divisas.",
+        "link": "https://www.ambito.com/economia/luis-caputo-defendio-la-reforma-del-bcra-y-aseguro-que-javier-milei-no-tiene-reemplazo-n6306058",
+        "source": "Ámbito",
+        "time": "01/08 17:22",
+        "iso_date": "2026-08-01T20:22:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Qué dice el proyecto de reforma del BCRA enviado al Congreso: punto por punto, los cambios que quiere hacer Milei",
-        "summary": "La iniciativa presentada al Congreso redefine el mandato de la institución, deroga el financiamiento al Tesoro y cambia los mecanismos para remover a las autoridades de la entidad",
-        "link": "https://www.infobae.com/economia/2026/07/31/que-dice-el-proyecto-de-reforma-del-bcra-enviado-al-congreso-punto-por-punto-los-cambios-que-quiere-hacer-milei/",
-        "source": "Infobae Economía",
-        "time": "31/07 12:50",
-        "iso_date": "2026-07-31T15:50:15+00:00",
+        "title": "Dólar, inflación y tasas: qué espera el mercado para agosto y qué estrategias recomiendan para las inversiones",
+        "summary": "El BCRA sostuvo la acumulación de reservas y la desinflación aportó estabilidad a las variables financieras. Sin embargo, la demanda de cobertura y el menor margen de las tasas limitaron el atractivo del carry.",
+        "link": "https://www.ambito.com/dolar-inflacion-y-tasas-que-espera-el-mercado-agosto-y-que-estrategias-recomiendan-las-inversiones-n6305915",
+        "source": "Ámbito",
+        "time": "01/08 16:05",
+        "iso_date": "2026-08-01T19:05:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuánto rinde un plazo fijo en agosto: las mejores tasas",
+        "summary": "La elección de entidad donde vamos a hacer la inversión puede representar varios miles de pesos más o menos al finalizar el periodo pactado.",
+        "link": "https://www.ambito.com/economia/cuanto-rinde-un-plazo-fijo-agosto-las-mejores-tasas-n6305302",
+        "source": "Ámbito",
+        "time": "01/08 16:00",
+        "iso_date": "2026-08-01T19:00:00+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
       {
-        "title": "Nuevos destinos del petróleo argentino: el cierre del estrecho de Ormuz reconfiguró las exportaciones de crudo",
-        "summary": "La guerra en Medio Oriente y sus consecuencias sobre el valor del barril abrieron nuevas oportunidades comerciales para el récord productivo de Vaca Muerta. Los países en crisis energética derivada del conflicto encontraron alivio en Argentina.",
-        "link": "https://www.ambito.com/economia/nuevos-destinos-del-petroleo-argentino-el-cierre-del-estrecho-ormuz-reconfiguro-las-exportaciones-crudo-n6304876",
-        "source": "Ámbito",
-        "time": "31/07 15:14",
-        "iso_date": "2026-07-31T18:14:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Nuevos destinos del petróleo argentino: el cierre del estrecho de Ormuz reconfiguró las exportaciones de crudo",
-        "summary": "La guerra en Medio Oriente y sus consecuencias sobre el valor del barril abrieron nuevas oportunidades comerciales para el récord productivo de Vaca Muerta. Los países en crisis energética derivada del conflicto encontraron alivio en Argentina.",
-        "link": "https://www.ambito.com/economia/nuevos-destinos-del-petroleo-argentino-el-cierre-del-estrecho-ormuz-reconfiguro-las-exportaciones-crudo-n6304876",
-        "source": "Ámbito Mercados",
-        "time": "31/07 15:14",
-        "iso_date": "2026-07-31T18:14:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Georgieva habló sobre su viaje a la Argentina: Messi, Milei, Vaca Muerta, sus dólares en una lata y la maquilladora con 3 trabajos",
-        "summary": "La directora del FMI compartió anécdotas personales, referencias deportivas y mensajes económicos sobre el presente y las perspectivas del país, en una publicación que reunió historias cotidianas y cifras clave",
-        "link": "https://www.infobae.com/economia/2026/07/31/georgieva-hablo-sobre-su-viaje-a-la-argentina-messi-milei-vaca-muerta-sus-dolares-en-una-lata-y-la-maquilladora-con-3-trabajos/",
+        "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
+        "summary": "El transporte de crudo no sufrió interrupciones y la hipótesis más fuerte señala a atacantes extranjeros como responsables del incidente. La propia empresa lo informó a la CNV como “hecho relevante”",
+        "link": "https://www.infobae.com/economia/2026/08/02/la-operadora-del-oleoducto-por-el-que-circula-el-75-del-petroleo-de-vaca-muerta-sufrio-un-ciberataque-en-sus-sistemas/",
         "source": "Infobae Economía",
-        "time": "31/07 13:13",
-        "iso_date": "2026-07-31T16:13:20+00:00",
+        "time": "02/08 16:11",
+        "iso_date": "2026-08-02T19:11:01+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas",
+        "summary": "La directora gerente del FMI destacó el desempeño del petróleo y la minería y planteó medidas para impulsar sectores rezagados como la construcción, los servicios y la logística. Economistas consultados plantearon sus reparos sobre el alcance del “efecto derrame”",
+        "link": "https://www.infobae.com/economia/2026/08/02/georgieva-pidio-que-vaca-muerta-impulse-la-economia-real-que-se-necesita-para-lograr-un-efecto-derrame-segun-los-analistas/",
+        "source": "Infobae Economía",
+        "time": "02/08 00:29",
+        "iso_date": "2026-08-02T03:29:07+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas",
-        "summary": "El proyecto tiene como objetivo recaudar fondos para frenar el deterioro de la infraestructura vial",
-        "link": "https://www.infobae.com/economia/2026/07/31/la-pampa-quiere-cobrarle-peajes-a-los-camiones-que-vayan-a-vaca-muerta-por-el-impacto-sobre-sus-rutas/",
-        "source": "Infobae Economía",
-        "time": "31/07 08:16",
-        "iso_date": "2026-07-31T11:16:21+00:00",
-        "tickers": [
-          "PAMP",
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
-    "PAMP": [
+    "PAMP": [],
+    "BMA": [
       {
-        "title": "Se aprobó un nuevo RIGI: Pampa Energía invertirá USD 2.700 millones para construir una de las plantas de urea más grandes del mundo",
-        "summary": "Las autoridades de la firma presentaron la iniciativa en un encuentro con el presidente Javier Milei en Casa Rosada. La compañía proyecta una capacidad anual de 2,1 millones de toneladas desde fines de 2029",
-        "link": "https://www.infobae.com/economia/2026/07/31/se-aprobo-un-nuevo-rigi-pampa-energia-invertira-usd-2700-millones-para-construir-una-de-las-plantas-de-urea-mas-grandes-del-mundo/",
-        "source": "Infobae Economía",
-        "time": "31/07 18:01",
-        "iso_date": "2026-07-31T21:01:15+00:00",
+        "title": "Bernardo Kosacoff: \"La desindustrialización en la Argentina ya está sucediendo, es de largo plazo\"",
+        "summary": "El economista especializado en desarrollo y competitividad entiende que el punto de partida es la estabilización macro, pero advierte que el Gobierno debe ahondar en la diversidad de la industria nacional.",
+        "link": "https://www.ambito.com/economia/bernardo-kosacoff-la-desindustrializacion-la-argentina-ya-esta-sucediendo-es-largo-plazo-n6306061",
+        "source": "Ámbito",
+        "time": "02/08 00:06",
+        "iso_date": "2026-08-02T03:06:00+00:00",
         "tickers": [
-          "PAMP"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas",
-        "summary": "El proyecto tiene como objetivo recaudar fondos para frenar el deterioro de la infraestructura vial",
-        "link": "https://www.infobae.com/economia/2026/07/31/la-pampa-quiere-cobrarle-peajes-a-los-camiones-que-vayan-a-vaca-muerta-por-el-impacto-sobre-sus-rutas/",
-        "source": "Infobae Economía",
-        "time": "31/07 08:16",
-        "iso_date": "2026-07-31T11:16:21+00:00",
-        "tickers": [
-          "PAMP",
-          "YPFD"
+          "BMA"
         ],
         "is_general": false
       },
       {
-        "title": "Salarios dinámicos y premios por productividad: cómo es el acuerdo paritario que cerró el sector más pujante de la economía",
-        "summary": "El Sindicato de Petroleros de Chubut y el gremio de Río Negro, Neuquén y La Pampa cerraron convenios con distintas cámaras empresarias. Uno actualiza las gratificaciones salariales mes a mes; el otro premia el rendimiento de los equipos de Work Over",
-        "link": "https://www.infobae.com/economia/2026/07/30/salarios-dinamicos-y-premios-por-productividad-como-es-el-acuerdo-paritario-que-cerro-el-sector-mas-pujante-de-la-economia/",
-        "source": "Infobae Economía",
-        "time": "30/07 03:06",
-        "iso_date": "2026-07-30T06:06:46+00:00",
+        "title": "Bernardo Kosacoff: \"La desindustrialización en la Argentina ya está sucediendo, es de largo plazo\"",
+        "summary": "El economista especializado en desarrollo y competitividad entiende que el punto de partida es la estabilización macro, pero advierte que el Gobierno debe ahondar en la diversidad de la industria nacional.",
+        "link": "https://www.ambito.com/economia/bernardo-kosacoff-la-desindustrializacion-la-argentina-ya-esta-sucediendo-es-largo-plazo-n6306061",
+        "source": "Ámbito Mercados",
+        "time": "02/08 00:06",
+        "iso_date": "2026-08-02T03:06:00+00:00",
         "tickers": [
-          "PAMP"
+          "BMA"
         ],
         "is_general": false
       }
     ],
-    "BMA": [],
     "TXAR": [],
     "ALUA": [],
     "TECO2": [],
     "CEPU": [],
     "AL30": [
       {
-        "title": "Jornada financiera: las acciones argentinas cayeron hasta 6% en Wall Street, pero los bonos rebotaron y bajó el riesgo país",
-        "summary": "Los títulos bancarios encabezaron las pérdidas, aunque las acciones petroleras avanzaron por el encarecimiento del crudo. El dólar siguió a $1.510 en el Banco Nación y el BCRA compró USD 46 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/07/31/jornada-financiera-las-acciones-argentinas-cayeron-hasta-6-en-wall-street-pero-los-bonos-rebotaron-y-bajo-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "31/07 19:05",
-        "iso_date": "2026-07-31T22:05:25+00:00",
+        "title": "Riesgo país e inflación en baja: los tres frentes que el plan de Milei todavía debe superar",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/riesgo-pais-e-inflacion-en-baja-los-tres-frentes-que-el-plan-de-milei-todavia-debe-superar/",
+        "source": "El Cronista",
+        "time": "01/08 18:56",
+        "iso_date": "2026-08-01T21:56:10+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Mercados: cayeron las acciones y subieron los bonos argentinos en un contexto internacional inestable",
-        "summary": "Wall Street revirtió las perdidas en medio de balances corporativos y la suba del crudo. Los ADR operaron con mayoría de bajas. El riesgo país cedió a 430 puntos con la escalada de tasas de los bonos del Tesoro de EEUU",
-        "link": "https://www.infobae.com/economia/2026/07/31/mercados-caen-las-acciones-y-los-bonos-argentinos-en-un-contexto-internacional-adverso/",
+        "title": "Semana financiera: acciones y bonos argentinos se mantuvieron firmes en medio del arrastre negativo de Wall Street",
+        "summary": "El S&P Merval ganó 1,8%, apuntalado por las acciones petroleras. Los bonos quedaron estables y el riesgo país cedió a 430 puntos. El dólar bajó diez pesos, a $1.510 en el Banco Nación y el BCRA compró USD 226 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/08/01/semana-financiera-acciones-y-bonos-argentinos-se-mantuvieron-firmes-en-medio-del-arrastre-negativo-de-wall-street/",
         "source": "Infobae Economía",
-        "time": "31/07 18:24",
-        "iso_date": "2026-07-31T21:24:01+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas subieron hasta 8% en Wall Street y cayó el riesgo país",
-        "summary": "Los índices de Nueva York ganaron hasta 2,8%, con los valores tecnológicos al frente, y el S&P Merval avanzó 2,2%. Cedió el indicador de JP Morgan por la suba de tasas de la deuda norteamericana. El dólar bajó a $1.510 en el Banco Nación y el BCRA compró USD 117 millones en el...",
-        "link": "https://www.infobae.com/economia/2026/07/30/jornada-financiera-las-acciones-argentinas-subieron-hasta-8-en-wall-street-y-cayo-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "30/07 18:38",
-        "iso_date": "2026-07-30T21:38:48+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: las acciones y los bonos argentinos se sumaron a la tendencia alcista de las bolsas del exterior",
-        "summary": "Los índices de Wall Street ascendieron hasta 2,8% y los ADR argentinos avanzaron hasta 8% en dólares. El S&P Merval subió 2,2% y el riesgo país bajó a 441 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/07/30/mercados-las-acciones-y-los-bonos-argentinos-se-suman-a-la-tendencia-alcista-de-las-bolsas-del-exterior/",
-        "source": "Infobae Economía",
-        "time": "30/07 17:58",
-        "iso_date": "2026-07-30T20:58:32+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país vuelve a rozar los 450 puntos: hay causas externas que lo impulsan, pero también factores locales",
-        "summary": "El clima en los mercados internacionales, y especialmente en Wall Street, empeoró en las últimas semanas, entre el nuevo aumento del petróleo y la suba de tasas de largo plazo. El deterioro de los índices de apoyo al Gobierno también repercuten en los bonos",
-        "link": "https://www.infobae.com/economia/2026/07/30/el-riesgo-pais-vuelve-a-rozar-los-450-puntos-hay-causas-externas-que-lo-impulsan-pero-tambien-factores-locales/",
-        "source": "Infobae Economía",
-        "time": "30/07 03:08",
-        "iso_date": "2026-07-30T06:08:42+00:00",
+        "time": "01/08 01:40",
+        "iso_date": "2026-08-01T04:40:10+00:00",
         "tickers": [
           "AL30"
         ],
