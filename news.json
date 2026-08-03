@@ -1,10 +1,54 @@
 {
-  "updated_at": "2026-08-03T17:04:31.276972",
-  "updated_str": "03/08/2026 17:04",
+  "updated_at": "2026-08-03T17:22:55.309271",
+  "updated_str": "03/08/2026 17:22",
   "cutoff_hours": 48,
-  "total_news": 137,
+  "total_news": 139,
   "news": {
     "GENERAL": [
+      {
+        "title": "Suben los bonos argentinos y el riesgo país cae 5%, detrás del rebote de Wall Street",
+        "summary": "El barril de crudo cae 6% y los indicadores de Nueva York avanzan hasta 2%. Los títulos públicos ganan 0,5% y el indicador de JP Morgan cede a 412 puntos. El S&P Merval baja 0,4% y los ADR cotizan dispares",
+        "link": "https://www.infobae.com/economia/2026/08/03/mercados-con-el-petroleo-en-baja-sube-la-bolsa-en-wall-street-y-cae-el-riesgo-pais-argentino/",
+        "source": "Infobae Economía",
+        "time": "03/08 14:10",
+        "iso_date": "2026-08-03T17:10:58+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Ley de Tierras en Argentina: proyecto oficialista aumentaría tope de venta a extranjeros al 25%",
+        "summary": "El Gobierno de Javier Milei cedería en su objetivo de permitir la extranjerización de tierras sin límites. Patricia Bullrich anunciaría los cambios este martes en conferencia de prensa, antes de la sesión del jueves en el Senado.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ley-de-tierras-en-argentina-proyecto-oficialista-aumentaria-tope-de-venta-a-extranjeros-al-25/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/08 14:03",
+        "iso_date": "2026-08-03T17:03:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El conflicto de los prácticos escala y frena un buque destinado a Vaca Muerta",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-conflicto-de-los-practicos-escala-y-frena-un-buque-destinado-a-vaca-muerta/",
+        "source": "El Cronista",
+        "time": "03/08 14:00",
+        "iso_date": "2026-08-03T17:00:47+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Bancos internacionales prevén que siga la volatilidad en el precio del petróleo: ¿cómo impactará en la inflación local?",
+        "summary": "Mientras las principales entidades financieras globales estiman que la volatilidad continuará durante el resto del año, economistas locales analizan hasta qué punto el Brent en torno a los u$s80 puede o no, impactar en el IPC.",
+        "link": "https://www.ambito.com/economia/bancos-internacionales-preven-que-siga-la-volatilidad-el-precio-del-petroleo-como-impactara-la-inflacion-local-n6306423",
+        "source": "Ámbito",
+        "time": "03/08 14:00",
+        "iso_date": "2026-08-03T17:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este lunes 3 de agosto",
         "summary": "El billete al público sube a $1.515 para la venta en el Banco Nación. El dólar blue es operado a $1.555. El BCRA compró más de USD 2.100 millones en julio",
@@ -48,25 +92,13 @@
         "is_general": true
       },
       {
-        "title": "La señal que complica a Milei: 6 de cada 10 argentinos piden cambios, ¿cómo afecta sus chances electorales?",
+        "title": "Milei, ante su peor señal política: la encuesta que muestra a la oposición arriba por primera vez",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/la-senal-que-complica-a-milei-6-de-cada-10-argentinos-piden-cambios-como-afecta-sus-chances-electorales/",
         "source": "El Cronista",
         "time": "03/08 12:27",
         "iso_date": "2026-08-03T15:27:43+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: con el petróleo en baja, sube la Bolsa en Wall Street y cae el riesgo país argentino",
-        "summary": "El barril de crudo cae 6% y los indicadores de Nueva York rebotan hasta 1,5%. Los títulos públicos ganan 0,4% y el indicador de JP Morgan cede a 420 puntos. El S&P Merval baja 0,2% y los ADR cotizan dispares",
-        "link": "https://www.infobae.com/economia/2026/08/03/mercados-con-el-petroleo-en-baja-sube-la-bolsa-en-wall-street-y-cae-el-riesgo-pais-argentino/",
-        "source": "Infobae Economía",
-        "time": "03/08 12:02",
-        "iso_date": "2026-08-03T15:02:52+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -284,41 +316,21 @@
         "iso_date": "2026-08-03T05:59:22+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Swap con China: vence el jueves y el BCRA apunta a extenderlo por tres años más",
-        "summary": "Se trata de un acuerdo de intercambio de monedas que se inició en 2009 y se fue renovando desde entonces. El objetivo oficial es renovarlo hasta agosto de 2029",
-        "link": "https://www.infobae.com/economia/2026/08/03/swap-con-china-vence-el-jueves-y-el-bcra-apunta-a-extenderlo-por-tres-anos-mas/",
-        "source": "Infobae Economía",
-        "time": "03/08 02:59",
-        "iso_date": "2026-08-03T05:59:11+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Vaca Muerta mirando al norte: ya produce allí 80.000 barriles diarios de petróleo, más que Santa Cruz, Mendoza y Río Negro",
-        "summary": "Se trata de un área a 150 km de Añelo: reúne 7 bloques operados por 5 compañías que proyectan multiplicar la extracción de crudo. Además, hay estudios sobre el potencial en Mendoza",
-        "link": "https://www.infobae.com/economia/2026/08/03/vaca-muerta-mirando-al-norte-ya-produce-alli-80000-barriles-diarios-de-petroleo-mas-que-santa-cruz-mendoza-y-rio-negro/",
-        "source": "Infobae Economía",
-        "time": "03/08 02:58",
-        "iso_date": "2026-08-03T05:58:50+00:00",
+        "title": "El conflicto de los prácticos escala y frena un buque destinado a Vaca Muerta",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-conflicto-de-los-practicos-escala-y-frena-un-buque-destinado-a-vaca-muerta/",
+        "source": "El Cronista",
+        "time": "03/08 14:00",
+        "iso_date": "2026-08-03T17:00:47+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
-      {
-        "title": "La Fed no tocó las tasas, pero disgustó a los mercados",
-        "summary": "El titular de la Fed, Kevin Warsh, mantuvo las tasas. Agitados por un mar de dudas, el corolario inmediato en los mercados fue propiciar un simulacro de soplo inflacionario.",
-        "link": "https://www.ambito.com/economia/la-fed-no-toco-las-tasas-pero-disgusto-los-mercados-n6306278",
-        "source": "Ámbito",
-        "time": "03/08 00:00",
-        "iso_date": "2026-08-03T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
       {
         "title": "Se viene el “split” de YPF: qué es el desdoblamiento de acciones y cómo afecta a los inversores",
         "summary": "Este martes la compañía dividirá el precio de sus acciones en una relación de 10 a 1 para hacer más accesibles las transacciones en el mercado de capitales",
@@ -438,12 +450,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: con el petróleo en baja, sube la Bolsa en Wall Street y cae el riesgo país argentino",
-        "summary": "El barril de crudo cae 6% y los indicadores de Nueva York rebotan hasta 1,5%. Los títulos públicos ganan 0,4% y el indicador de JP Morgan cede a 420 puntos. El S&P Merval baja 0,2% y los ADR cotizan dispares",
+        "title": "Suben los bonos argentinos y el riesgo país cae 5%, detrás del rebote de Wall Street",
+        "summary": "El barril de crudo cae 6% y los indicadores de Nueva York avanzan hasta 2%. Los títulos públicos ganan 0,5% y el indicador de JP Morgan cede a 412 puntos. El S&P Merval baja 0,4% y los ADR cotizan dispares",
         "link": "https://www.infobae.com/economia/2026/08/03/mercados-con-el-petroleo-en-baja-sube-la-bolsa-en-wall-street-y-cae-el-riesgo-pais-argentino/",
         "source": "Infobae Economía",
-        "time": "03/08 12:02",
-        "iso_date": "2026-08-03T15:02:52+00:00",
+        "time": "03/08 14:10",
+        "iso_date": "2026-08-03T17:10:58+00:00",
         "tickers": [
           "AL30"
         ],
