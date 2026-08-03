@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-08-03T19:01:47.489566",
-  "updated_str": "03/08/2026 19:01",
+  "updated_at": "2026-08-03T19:22:35.693374",
+  "updated_str": "03/08/2026 19:22",
   "cutoff_hours": 48,
-  "total_news": 173,
+  "total_news": 175,
   "news": {
     "GENERAL": [
+      {
+        "title": "Blindaje para las elecciones: a cuánto llega el poder de fuego para contener el dólar en 2027 según Javier Milei",
+        "summary": "El presidente sostuvo que el Banco Central puede llegar a comprar USD 20.000 millones en el año y que va a contar con el swap de Estados Unidos y China para el año que viene. El primer mandatario llevó a esa cifra mucho más allá",
+        "link": "https://www.infobae.com/economia/2026/08/03/blindaje-para-las-elecciones-a-cuanto-llega-el-poder-de-fuego-para-contener-el-dolar-en-2027-segun-javier-milei/",
+        "source": "Infobae Economía",
+        "time": "03/08 16:18",
+        "iso_date": "2026-08-03T19:18:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Suben los bonos argentinos y el riesgo país cae 5%, detrás del rebote de Wall Street",
+        "summary": "El barril de crudo baja 6% y los indicadores de Nueva York avanzan hasta 2,2%. Los títulos públicos ganan 0,5% y el indicador de JP Morgan cede a 411 puntos. El S&P Merval baja 0,5% y los ADR cotizan dispares",
+        "link": "https://www.infobae.com/economia/2026/08/03/mercados-con-el-petroleo-en-baja-sube-la-bolsa-en-wall-street-y-cae-el-riesgo-pais-argentino/",
+        "source": "Infobae Economía",
+        "time": "03/08 16:16",
+        "iso_date": "2026-08-03T19:16:22+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El dólar mayorista comenzó agosto en alza y volvió a acercarse a los 1.500 pesos",
         "summary": "El billete mayorista subió a $1.495, mientras que al público en el Banco Nación cerró a $1.515 para la venta",
@@ -43,18 +65,6 @@
         "time": "03/08 14:54",
         "iso_date": "2026-08-03T17:54:39+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Suben los bonos argentinos y el riesgo país cae 5%, detrás del rebote de Wall Street",
-        "summary": "El barril de crudo cae 6% y los indicadores de Nueva York avanzan hasta 2%. Los títulos públicos ganan 0,5% y el indicador de JP Morgan cede a 412 puntos. El S&P Merval baja 0,4% y los ADR cotizan dispares",
-        "link": "https://www.infobae.com/economia/2026/08/03/mercados-con-el-petroleo-en-baja-sube-la-bolsa-en-wall-street-y-cae-el-riesgo-pais-argentino/",
-        "source": "Infobae Economía",
-        "time": "03/08 14:10",
-        "iso_date": "2026-08-03T17:10:58+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -304,16 +314,6 @@
         "iso_date": "2026-08-03T10:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Alivio impositivo: Caputo prometió una medida clave para las pymes",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/alivio-impositivo-caputo-prometio-una-medida-clave-para-las-pymes/",
-        "source": "El Cronista",
-        "time": "03/08 06:00",
-        "iso_date": "2026-08-03T09:00:01+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -474,11 +474,11 @@
     "AL30": [
       {
         "title": "Suben los bonos argentinos y el riesgo país cae 5%, detrás del rebote de Wall Street",
-        "summary": "El barril de crudo cae 6% y los indicadores de Nueva York avanzan hasta 2%. Los títulos públicos ganan 0,5% y el indicador de JP Morgan cede a 412 puntos. El S&P Merval baja 0,4% y los ADR cotizan dispares",
+        "summary": "El barril de crudo baja 6% y los indicadores de Nueva York avanzan hasta 2,2%. Los títulos públicos ganan 0,5% y el indicador de JP Morgan cede a 411 puntos. El S&P Merval baja 0,5% y los ADR cotizan dispares",
         "link": "https://www.infobae.com/economia/2026/08/03/mercados-con-el-petroleo-en-baja-sube-la-bolsa-en-wall-street-y-cae-el-riesgo-pais-argentino/",
         "source": "Infobae Economía",
-        "time": "03/08 14:10",
-        "iso_date": "2026-08-03T17:10:58+00:00",
+        "time": "03/08 16:16",
+        "iso_date": "2026-08-03T19:16:22+00:00",
         "tickers": [
           "AL30"
         ],
