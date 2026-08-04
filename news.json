@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-04T17:26:54.804242",
-  "updated_str": "04/08/2026 17:26",
+  "updated_at": "2026-08-04T18:12:20.416271",
+  "updated_str": "04/08/2026 18:12",
   "cutoff_hours": 48,
-  "total_news": 201,
+  "total_news": 241,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street celebra avances sobre Ormuz con récord del S&P 500 y rally del Dow Jones",
+        "summary": "El descenso del petróleo, impulsado por las expectativas de un acuerdo entre Estados Unidos e Irán sobre el estrecho de Ormuz, se suma a una sólida temporada de resultados corporativos.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-alcanza-un-record-impulsado-por-la-posibilidad-de-un-acuerdo-entre-iran-y-estados-unidos/",
+        "source": "Bloomberg Línea AR",
+        "time": "04/08 14:46",
+        "iso_date": "2026-08-04T17:46:46+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Nuevo recibo de sueldo: las claves para leer el formato con los cambios de Milei",
         "summary": "",
@@ -142,16 +152,6 @@
         "is_general": false
       },
       {
-        "title": "S&P 500 alcanza un récord impulsado por la posibilidad de un acuerdo entre Irán y Estados Unidos",
-        "summary": "Wall Street encuentra respaldo en una temporada de resultados mejor de lo esperado, mientras la posibilidad de un acuerdo entre Estados Unidos e Irán presionaba al petróleo.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-alcanza-un-record-impulsado-por-la-posibilidad-de-un-acuerdo-entre-iran-y-estados-unidos/",
-        "source": "Bloomberg Línea AR",
-        "time": "04/08 10:47",
-        "iso_date": "2026-08-04T13:47:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Estos son los precios objetivo de Wall Street para las acciones de MercadoLibre previo a su balance",
         "summary": "Los bancos estadounidenses mantienen un optimismo moderado respecto del gigante latinoamericano del e-commerce, que presenta sus resultados del segundo trimestre esta semana.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/estos-son-los-precios-objetivo-de-wall-street-para-las-acciones-de-mercadolibre-previo-a-su-balance/",
@@ -236,9 +236,9 @@
         "is_general": false
       },
       {
-        "title": "Preocupación en Wall Street: directivos y grandes accionistas muestran el mayor pesimismo en 21 años",
-        "summary": "Según el accionar de los directivos y principales accionistas respecto de las acciones de sus empresas cotizantes, no habían sido tan pesimistas en más de 20 años. Para algunos analistas es una señal de advertencia sobre la evolución del mercado bursátil.",
-        "link": "https://www.ambito.com/economia/preocupacion-wall-street-directivos-y-grandes-accionistas-muestran-el-mayor-pesimismo-21-anos-n6306695",
+        "title": "Alerta dólar: el pago de dividendos superó los u$s1.000 millones en junio, récord desde 2010",
+        "summary": "Esta demanda de las empresas se transformó en otro factor de presión sobre el tio de cambio, junto a la compra para atesoramiento, las importaciones y los vencimientos de deuda pública.",
+        "link": "https://www.ambito.com/economia/alerta-dolar-el-pago-dividendos-supero-los-us1000-millones-junio-record-2010-n6306675",
         "source": "Ámbito",
         "time": "04/08 07:00",
         "iso_date": "2026-08-04T10:00:00+00:00",
@@ -246,9 +246,9 @@
         "is_general": true
       },
       {
-        "title": "Alerta dólar: el pago de dividendos superó los u$s1.000 millones en junio, récord desde 2010",
-        "summary": "Esta demanda de las empresas se transformó en otro factor de presión sobre el tio de cambio, junto a la compra para atesoramiento, las importaciones y los vencimientos de deuda pública.",
-        "link": "https://www.ambito.com/economia/alerta-dolar-el-pago-dividendos-supero-los-us1000-millones-junio-record-2010-n6306675",
+        "title": "Preocupación en Wall Street: directivos y grandes accionistas muestran el mayor pesimismo en 21 años",
+        "summary": "Según el accionar de los directivos y principales accionistas respecto de las acciones de sus empresas cotizantes, no habían sido tan pesimistas en más de 20 años. Para algunos analistas es una señal de advertencia sobre la evolución del mercado bursátil.",
+        "link": "https://www.ambito.com/economia/preocupacion-wall-street-directivos-y-grandes-accionistas-muestran-el-mayor-pesimismo-21-anos-n6306695",
         "source": "Ámbito",
         "time": "04/08 07:00",
         "iso_date": "2026-08-04T10:00:00+00:00",
@@ -408,6 +408,54 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
+      {
+        "title": "Impuestos: cuánto pueden ahorrar en un año las pymes que aplican a los beneficios del RIMI, el RIFL y el FAL",
+        "summary": "Dependiendo de la empresa y su personal, el uso combinado de los tres programas le puede generar ahorros considerables o generarle liquidez inmediata por devolución de IVA.",
+        "link": "https://www.ambito.com/economia/impuestos-cuanto-pueden-ahorrar-un-ano-las-pymes-que-aplican-los-beneficios-del-rimi-el-rifl-y-el-fal-n6306436",
+        "source": "Ámbito",
+        "time": "03/08 13:06",
+        "iso_date": "2026-08-03T16:06:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Impuestos: cuánto pueden ahorrar en un año las pymes que aplican a los beneficios del RIMI, el RIFL y el FAL",
+        "summary": "Dependiendo de la empresa y su personal, el uso combinado de los tres programas le puede generar ahorros considerables o generarle liquidez inmediata por devolución de IVA.",
+        "link": "https://www.ambito.com/economia/impuestos-cuanto-pueden-ahorrar-un-ano-las-pymes-que-aplican-los-beneficios-del-rimi-el-rifl-y-el-fal-n6306436",
+        "source": "Ámbito Mercados",
+        "time": "03/08 13:06",
+        "iso_date": "2026-08-03T16:06:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Salarios: el Gobierno otorgó un bono extraordinario de $50.000 para las Fuerzas Armadas y de seguridad federal",
+        "summary": "La suma será abonada por única vez con los haberes de agosto. Tendrá carácter remunerativo y no bonificable y alcanzará al personal en actividad de las Fuerzas Armadas, Gendarmería, Prefectura, Policía Federal, PSA, SPF y otras áreas.",
+        "link": "https://www.ambito.com/economia/salarios-el-gobierno-otorgo-un-bono-extraordinario-50000-las-fuerzas-armadas-y-seguridad-federal-n6306314",
+        "source": "Ámbito",
+        "time": "03/08 07:48",
+        "iso_date": "2026-08-03T10:48:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Salarios: el Gobierno otorgó un bono extraordinario de $50.000 para las Fuerzas Armadas y de seguridad federal",
+        "summary": "La suma será abonada por única vez con los haberes de agosto. Tendrá carácter remunerativo y no bonificable y alcanzará al personal en actividad de las Fuerzas Armadas, Gendarmería, Prefectura, Policía Federal, PSA, SPF y otras áreas.",
+        "link": "https://www.ambito.com/economia/salarios-el-gobierno-otorgo-un-bono-extraordinario-50000-las-fuerzas-armadas-y-seguridad-federal-n6306314",
+        "source": "Ámbito Mercados",
+        "time": "03/08 07:48",
+        "iso_date": "2026-08-03T10:48:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Fuerzas Armadas: reducción de personal, salarios paralizados y achicamiento",
         "summary": "",
