@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T20:35:05.329682",
-  "updated_str": "05/08/2026 20:35",
+  "updated_at": "2026-08-05T20:41:42.128664",
+  "updated_str": "05/08/2026 20:41",
   "summary": {
     "change": -0.2,
     "leader": "TXAR",
@@ -133,25 +133,25 @@
       "price": 681.0,
       "change": 5.66,
       "volume": 9240860,
-      "volume_ratio": 9.3,
+      "volume_ratio": 8.85,
       "hot": true,
       "cold": false,
       "trend": [
-        668.0,
         680.0,
         674.0,
         674.0,
         669.0,
         658.0,
         648.0,
+        659.5,
         654.5,
         644.5,
         681.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 657.2,
-      "ma20": 666.2,
+      "ma5": 657.5,
+      "ma20": 665.95,
       "ma_cross": -1,
       "score": 90,
       "signal": "fuerte_suba"
@@ -220,28 +220,28 @@
       "price": 2263.0,
       "change": -1.52,
       "volume": 573508,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.92,
       "hot": false,
       "cold": true,
       "trend": [
-        2411.0,
         2420.0,
         2365.0,
         2383.0,
         2335.0,
         2291.0,
         2404.0,
+        2396.0,
         2370.0,
         2298.0,
         2263.0
       ],
       "trend_dir": "down",
       "trend_streak": 4,
-      "ma5": 2325.2,
-      "ma20": 2335.45,
-      "ma_cross": -1,
-      "score": 24,
-      "signal": "fuerte_baja"
+      "ma5": 2346.2,
+      "ma20": 2339.5,
+      "ma_cross": 1,
+      "score": 34,
+      "signal": "baja"
     }
   ]
 }
