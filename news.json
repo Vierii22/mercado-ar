@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07T15:44:13.193175",
-  "updated_str": "07/08/2026 15:44",
+  "updated_at": "2026-08-07T16:13:53.438486",
+  "updated_str": "07/08/2026 16:13",
   "cutoff_hours": 48,
-  "total_news": 237,
+  "total_news": 222,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,40 @@
         "summary": "El índice de precios de la Ciudad de Buenos Aires volvió a quedar por encima de las expectativas y abrió interrogantes sobre el índice nacional",
         "link": "https://www.infobae.com/economia/2026/08/07/por-que-se-disparo-la-inflacion-en-caba-y-que-anticipa-para-el-dato-del-indec-segun-los-analistas/",
         "source": "Infobae Economía",
+        "time": "07/08 13:13",
+        "iso_date": "2026-08-07T16:13:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo destacó una inversión minera por casi u$s 10.000 millones: más exportaciones e impacto en San Juan",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/caputo-destaco-una-inversion-minera-por-casi-us-10000-millones-mas-exportaciones-e-impacto-en-san-juan/",
+        "source": "El Cronista",
+        "time": "07/08 13:03",
+        "iso_date": "2026-08-07T16:03:15+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: el riesgo país argentino vuelve a subir, mientras Wall Street retoma el alza",
+        "summary": "Las bolsas de Nueva York operan cerca de sus niveles máximos tras un reporte de empleo en los EEUU. Los ADR exhiben mayoría de bajas y el indicador de JP Morgan alcanza los 450 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/08/07/mercados-el-riesgo-pais-argentino-vuelve-a-subir-mientras-wall-street-retoma-el-alza/",
+        "source": "Infobae Economía",
+        "time": "07/08 12:57",
+        "iso_date": "2026-08-07T15:57:21+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Desaprobación de Milei sube al 62,4% según una encuesta de AtlasIntel para Bloomberg",
+        "summary": "El nivel de desaprobado subió 4,4 puntos respecto de la medición anterior. Al mismo tiempo, cayó la aprobación.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/desaprobacion-de-milei-sube-al-624-segun-una-encuesta-de-atlasintel-para-bloomberg/",
+        "source": "Bloomberg Línea AR",
         "time": "07/08 12:32",
-        "iso_date": "2026-08-07T15:32:49+00:00",
+        "iso_date": "2026-08-07T15:32:21+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -280,38 +312,6 @@
         "iso_date": "2026-08-06T21:17:44+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Presidente del BCRA dice que no ve necesaria una baja de encajes para reactivar el crédito",
-        "summary": "En conferencia de prensa, Santiago Bausili aseguró que no prevén bajar el nivel de exigencias de efectivo mínimo para bancos en el corto plazo por considerar que se encuentran en un nivel “adecuado”",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/presidente-del-bcra-dice-que-no-ve-necesaria-una-baja-de-encajes-para-reactivar-el-credito/",
-        "source": "Bloomberg Línea AR",
-        "time": "06/08 18:07",
-        "iso_date": "2026-08-06T21:07:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Argentina paga intereses al FMI y reservas del BCRA quedan por debajo de los US$50.000 millones",
-        "summary": "El pago al organismo fue confirmado a Bloomberg Línea por una persona con conocimiento directo del asunto. Las reservas brutas del Banco Central pasaron de US$50.059 millones el miércoles a US$48.835 millones el jueves.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-paga-intereses-al-fmi-y-reservas-del-bcra-quedan-por-debajo-de-los-us50000-millones/",
-        "source": "Bloomberg Línea AR",
-        "time": "06/08 17:52",
-        "iso_date": "2026-08-06T20:52:20+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: la Bolsa argentina cayó por quinta rueda seguida y el riesgo país tocó un máximo de dos meses",
-        "summary": "Wall Street revirtió la tendencia alcista y arrastró a los activos argentinos. El S&P Merval cedió 1,8% y los bonos soberanos recortaron un 1,5% en promedio. El indicador de JP Morgan saltó a 446 puntos",
-        "link": "https://www.infobae.com/economia/2026/08/06/mercados-la-bolsa-argentina-opera-en-alza-tras-cuatro-bajas-consecutivas-y-ceden-los-bonos/",
-        "source": "Infobae Economía",
-        "time": "06/08 17:51",
-        "iso_date": "2026-08-06T20:51:28+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -434,6 +434,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: el riesgo país argentino vuelve a subir, mientras Wall Street retoma el alza",
+        "summary": "Las bolsas de Nueva York operan cerca de sus niveles máximos tras un reporte de empleo en los EEUU. Los ADR exhiben mayoría de bajas y el indicador de JP Morgan alcanza los 450 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/08/07/mercados-el-riesgo-pais-argentino-vuelve-a-subir-mientras-wall-street-retoma-el-alza/",
+        "source": "Infobae Economía",
+        "time": "07/08 12:57",
+        "iso_date": "2026-08-07T15:57:21+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El conflicto en Medio Oriente reactiva la volatilidad del mercado y complica a los activos argentinos",
         "summary": "La escalada del enfrentamiento afecta al comportamiento de los inversores y anticipa caídas en bonos y acciones, suba del riesgo país y presiones sobre el dólar y las tasas de interés",
