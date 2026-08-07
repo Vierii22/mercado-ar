@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-08-07T15:14:55.189205",
-  "updated_str": "07/08/2026 15:14",
+  "updated_at": "2026-08-07T15:44:13.193175",
+  "updated_str": "07/08/2026 15:44",
   "cutoff_hours": 48,
-  "total_news": 220,
+  "total_news": 237,
   "news": {
     "GENERAL": [
       {
-        "title": "Inflación porteña sorprende al alza en julio y marca su nivel más alto desde marzo",
-        "summary": "El IPCBA se aceleró en el inicio del segundo semestre del año impulsado por los bienes y servicios Estacionales e interrumpió el descenso que había mostrado en los tres meses previos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-portena-sorprende-al-alza-en-julio-y-marca-su-nivel-mas-alto-desde-marzo/",
-        "source": "Bloomberg Línea AR",
-        "time": "07/08 12:09",
-        "iso_date": "2026-08-07T15:09:49+00:00",
+        "title": "Por qué se disparó la inflación en CABA y qué anticipa para el dato del Indec según los analistas",
+        "summary": "El índice de precios de la Ciudad de Buenos Aires volvió a quedar por encima de las expectativas y abrió interrogantes sobre el índice nacional",
+        "link": "https://www.infobae.com/economia/2026/08/07/por-que-se-disparo-la-inflacion-en-caba-y-que-anticipa-para-el-dato-del-indec-segun-los-analistas/",
+        "source": "Infobae Economía",
+        "time": "07/08 12:32",
+        "iso_date": "2026-08-07T15:32:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El costo estructural de la nueva Carta Orgánica del BCRA: por qué esta estabilidad no es neutral",
+        "summary": "El proyecto oficial para modificar la ley que rige a la autoridad monetaria abre un debate clave para el futuro del país",
+        "link": "https://www.infobae.com/opinion/2026/08/07/el-costo-estructural-de-la-nueva-carta-organica-del-bcra-por-que-esta-estabilidad-no-es-neutral/",
+        "source": "Infobae Economía",
+        "time": "07/08 12:25",
+        "iso_date": "2026-08-07T15:25:47+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -20,8 +30,18 @@
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/la-inflacion-en-caba-fue-de-29-en-julio-y-acumula-332-en-los-ultimos-12-meses/",
         "source": "El Cronista",
-        "time": "07/08 12:06",
-        "iso_date": "2026-08-07T15:06:02+00:00",
+        "time": "07/08 12:20",
+        "iso_date": "2026-08-07T15:20:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación porteña sorprende al alza en julio y marca su nivel más alto desde marzo",
+        "summary": "El IPCBA se aceleró en el inicio del segundo semestre del año impulsado por los bienes y servicios Estacionales e interrumpió el descenso que había mostrado en los tres meses previos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-portena-sorprende-al-alza-en-julio-y-marca-su-nivel-mas-alto-desde-marzo/",
+        "source": "Bloomberg Línea AR",
+        "time": "07/08 12:09",
+        "iso_date": "2026-08-07T15:09:49+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -291,26 +311,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "Tasas hipotecarias en Estados Unidos: suben a 6,69% y los precios de casas muestran las primeras señales de ajuste",
-        "summary": "Freddie Mac informó que el promedio a 30 años avanzó desde 6,66% y quedó en el nivel más alto en más de un año, mientras el inventario comienza a recuperarse tras un período prolongado de oferta limitada",
-        "link": "https://www.infobae.com/estados-unidos/2026/08/06/tasas-hipotecarias-en-estados-unidos-suben-a-669-y-los-precios-de-casas-muestran-las-primeras-senales-de-ajuste/",
-        "source": "Infobae Economía",
-        "time": "06/08 17:42",
-        "iso_date": "2026-08-06T20:42:27+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones de Mercado Libre cayeron 6% en Wall Street tras la presentación del balance trimestral",
-        "summary": "El gigante del comercio electrónico superó los USD 10.000 millones en ingresos por primera vez, pero los inversores objetaron la compresión de márgenes que viene mostrando la compañía en los últimos trimestres",
-        "link": "https://www.infobae.com/economia/2026/08/06/las-acciones-de-mercado-libre-caen-6-en-wall-street-tras-la-presentacion-del-balance-trimestral/",
-        "source": "Infobae Economía",
-        "time": "06/08 17:33",
-        "iso_date": "2026-08-06T20:33:08+00:00",
-        "tickers": [],
         "is_general": true
       }
     ],
