@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-10T17:27:44.871659",
-  "updated_str": "10/08/2026 17:27",
+  "updated_at": "2026-08-10T17:53:33.759183",
+  "updated_str": "10/08/2026 17:53",
   "cutoff_hours": 48,
-  "total_news": 124,
+  "total_news": 127,
   "news": {
     "GENERAL": [
+      {
+        "title": "Karina Milei reúne a legisladores bonaerenses de LLA: el invitado de peso que sumó para marcar la cancha",
+        "summary": "La secretaria general recibirá en dos tandas a los senadores y diputados de la provincia de Buenos Aires. Estará presente el jefe de Gabinete, quien encabezó la lista en el 2025 y se pondera como el principal elegido para la gobernación. Las reformas en carpeta",
+        "link": "https://www.cronista.com/economia-politica/karina-milei-reune-a-legisladores-bonaerenses-de-lla-el-invitado-de-peso-que-sumo-para-marcar-la-cancha/",
+        "source": "El Cronista",
+        "time": "10/08 14:47",
+        "iso_date": "2026-08-10T17:47:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "¿Oro a US$5.000? El precio sube 9% en un mes y Wall Street ve espacio para volver a ese nivel",
         "summary": "Las compras de bancos centrales, una eventual caída de las tasas reales y un dólar más débil sostienen las perspectivas alcistas de Wall Street para el oro.",
@@ -304,18 +314,6 @@
         "iso_date": "2026-08-09T19:31:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Los récords de Vaca Muerta acercan a la Argentina al 1% de la producción petrolera mundial",
-        "summary": "El último dato de junio mostró un salto interanual de 17,1% y dejó al país a menos de 90.000 barriles diarios de superar la barrera del millón",
-        "link": "https://www.infobae.com/economia/2026/08/09/los-records-de-vaca-muerta-acercan-a-la-argentina-al-1-de-la-produccion-petrolera-mundial/",
-        "source": "Infobae Economía",
-        "time": "09/08 15:03",
-        "iso_date": "2026-08-09T18:03:01+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -355,8 +353,8 @@
         "time": "09/08 04:06",
         "iso_date": "2026-08-09T07:06:42+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
@@ -435,8 +433,8 @@
         "time": "09/08 04:06",
         "iso_date": "2026-08-09T07:06:42+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
