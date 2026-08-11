@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-11T15:26:59.672897",
-  "updated_str": "11/08/2026 15:26",
+  "updated_at": "2026-08-11T15:50:19.934787",
+  "updated_str": "11/08/2026 15:50",
   "cutoff_hours": 48,
-  "total_news": 188,
+  "total_news": 189,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: baja la Bolsa argentina y también el riesgo país",
+        "summary": "El S&P Merval pierde 0,4% y los títulos públicos ganan un 0,2% en promedio. El indicador de JP Morgan cede a 462 puntos básicos. El petróleo opera nuevamente al alza",
+        "link": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "11/08 12:45",
+        "iso_date": "2026-08-11T15:45:34+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Wall Street sube y el petróleo cae ante avances en el diálogo entre Estados Unidos e Irán",
         "summary": "El mercado sigue las señales de un posible acuerdo entre Washington y Teherán, mientras espera el dato de inflación de Estados Unidos previsto para el miércoles.",
@@ -314,18 +326,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Telecom Argentina revierte pérdidas tras compra de Telefónica y enfrenta ahora la desinversión",
-        "summary": "La compañía ganó ARS$869.038 millones en el primer semestre de 2026, frente a una pérdida de ARS$100.900 millones un año atrás. La incorporación de Telefónica Móviles Argentina impulsó los ingresos aunque el salto de la utilidad estuvo explicado por el resultado financiero.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/telecom-argentina-revierte-perdidas-tras-compra-de-telefonica-y-enfrenta-ahora-la-desinversion/",
-        "source": "Bloomberg Línea AR",
-        "time": "10/08 18:08",
-        "iso_date": "2026-08-10T21:08:35+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -484,6 +484,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: baja la Bolsa argentina y también el riesgo país",
+        "summary": "El S&P Merval pierde 0,4% y los títulos públicos ganan un 0,2% en promedio. El indicador de JP Morgan cede a 462 puntos básicos. El petróleo opera nuevamente al alza",
+        "link": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "11/08 12:45",
+        "iso_date": "2026-08-11T15:45:34+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El deterioro del humor social pasa factura y el riesgo país se aleja de los 400 puntos",
         "summary": "Aumenta el nerviosismo de los inversores ante la caída del apoyo al Gobierno y el incremento de la incertidumbre de cara a las elecciones del año próximo. Se aleja la posibilidad de volver a financiarse en los mercados internacionales",
