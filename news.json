@@ -1,13 +1,57 @@
 {
-  "updated_at": "2026-08-11T20:08:02.197835",
-  "updated_str": "11/08/2026 20:08",
+  "updated_at": "2026-08-11T20:37:38.128241",
+  "updated_str": "11/08/2026 20:37",
   "cutoff_hours": 48,
-  "total_news": 219,
+  "total_news": 223,
   "news": {
     "GENERAL": [
       {
+        "title": "Inocencia Fiscal II: el Gobierno confirmó que buscará que los funcionarios no puedan sacar sus dólares del colchón",
+        "summary": "La idea que circula en despachos oficiales es que las personas políticamente expuestas puedan adherirse al Régimen Simplificado de Ganancias pero no a la exteriorización de fondos en negro",
+        "link": "https://www.infobae.com/economia/2026/08/11/inocencia-fiscal-ii-el-gobierno-confirmo-que-buscara-que-los-funcionarios-no-puedan-sacar-sus-dolares-del-colchon/",
+        "source": "Infobae Economía",
+        "time": "11/08 17:30",
+        "iso_date": "2026-08-11T20:30:08+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Wall Street cayó tras nuevas tensiones entre EE.UU. e Irán y antes del dato de inflación",
+        "summary": "El mercado cerró con cautela ante el repunte del crudo y las tensiones en Medio Oriente, mientras el IPC del miércoles puede redefinir las apuestas sobre las tasas de la Fed.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-sube-y-el-petroleo-cae-ante-avances-en-el-dialogo-entre-estados-unidos-e-iran/",
+        "source": "Bloomberg Línea AR",
+        "time": "11/08 17:27",
+        "iso_date": "2026-08-11T20:27:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: la Bolsa argentina cayó 3% y subió el riesgo país",
+        "summary": "El S&P Merval quedó cerca de los 3 millones de puntos y los títulos públicos operaron mixtos. El indicador de JP Morgan avanzó a 466 puntos básicos. El petróleo operó nuevamente al alza",
+        "link": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "11/08 17:13",
+        "iso_date": "2026-08-11T20:13:56+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "México espera solicitud formal de Colombia para enviar ayuda por terremoto",
+        "summary": "El Gobierno de México preparó el Operativo Calí con 255 militares especializados en búsqueda y rescate, médicos y personal de sanidad.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-espera-solicitud-formal-de-colombia-para-enviar-ayuda-por-terremoto/",
+        "source": "Bloomberg Línea AR",
+        "time": "11/08 17:13",
+        "iso_date": "2026-08-11T20:13:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
         "title": "La Mesa Política definió cuál es el próximo proyecto desregulador que enviarán al Congreso",
-        "summary": "La secretaria general, Karina Milei, y sus espadas políticas se enfrentaron con el ministro de Desregulación para delinear una nueva estrategia de negociación con los aliados, tras la caída de Tierras. En paralelo, se agilizan reuniones con gobernadores por las reformas.",
+        "summary": "La secretaria general, Karina Milei, y sus espadas políticas se enfrentaron con el ministro Sturzenegger para delinear una nueva estrategia de negociación con los aliados, tras la caída de Tierras. Resignaron la idea de un paquete desregulador y definieron una prioridad. En pa...",
         "link": "https://www.cronista.com/economia-politica/la-mesa-politica-se-reunio-con-sturzenegger-para-acomodar-la-estrategia-legislativa/",
         "source": "El Cronista",
         "time": "11/08 16:15",
@@ -82,18 +126,6 @@
         "is_general": true
       },
       {
-        "title": "Mercados: baja la Bolsa argentina y sube el riesgo país",
-        "summary": "El S&P Merval pierde 3% y los títulos públicos operan mixtos. El indicador de JP Morgan avanza a 467 puntos básicos. El petróleo opera nuevamente al alza",
-        "link": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "11/08 14:51",
-        "iso_date": "2026-08-11T17:51:07+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Se conoce la inflación de EEUU: por qué es importante para la Fed y la economía global",
         "summary": "El IPC norteamericano podría reducir aún más las expectativas de que la Reserva Federal suba las tasas o, al contrario, revertirlas. El impacto en los precios de la energía será clave.",
         "link": "https://www.ambito.com/economia/se-conoce-la-inflacion-eeuu-que-es-importante-la-fed-y-la-global-n6309568",
@@ -160,16 +192,6 @@
         "source": "Bloomberg Línea AR",
         "time": "11/08 12:07",
         "iso_date": "2026-08-11T15:07:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street sube y el petróleo cae ante avances en el diálogo entre Estados Unidos e Irán",
-        "summary": "El mercado sigue las señales de un posible acuerdo entre Washington y Teherán, mientras espera el dato de inflación de Estados Unidos previsto para el miércoles.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-sube-y-el-petroleo-cae-ante-avances-en-el-dialogo-entre-estados-unidos-e-iran/",
-        "source": "Bloomberg Línea AR",
-        "time": "11/08 11:57",
-        "iso_date": "2026-08-11T14:57:45+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -298,26 +320,6 @@
           "BMA"
         ],
         "is_general": false
-      },
-      {
-        "title": "¿Qué opciones tiene el gobierno de Javier Milei para estimular la economía?",
-        "summary": "Un informe privado evalúa caminos mediante los cuales el Ejecutivo podría dar un empujón a la actividad, aunque el mismo documento reconoce que es difícil que el oficialismo recurra a estos mecanismos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/que-opciones-tiene-el-gobierno-de-javier-milei-para-estimular-la-economia/",
-        "source": "Bloomberg Línea AR",
-        "time": "11/08 05:00",
-        "iso_date": "2026-08-11T08:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mora récord y finanzas públicas: la postura de los bancos permite a Economía colocar deuda que vence más allá de 2027",
-        "summary": "Si bien el Gobierno sostiene que la morosidad es un problema entre privados y que el Estado no debe intervenir, el Tesoro aprovecha para captar los fondos de bancos privados y extender los plazos de sus bonos en pesos",
-        "link": "https://www.infobae.com/economia/2026/08/11/mora-record-y-finanzas-publicas-la-postura-de-los-bancos-permite-a-economia-colocar-deuda-que-vence-mas-alla-de-2027/",
-        "source": "Infobae Economía",
-        "time": "11/08 02:40",
-        "iso_date": "2026-08-11T05:40:04+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -426,6 +428,18 @@
     "ALUA": [],
     "TECO2": [
       {
+        "title": "México espera solicitud formal de Colombia para enviar ayuda por terremoto",
+        "summary": "El Gobierno de México preparó el Operativo Calí con 255 militares especializados en búsqueda y rescate, médicos y personal de sanidad.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mexico-espera-solicitud-formal-de-colombia-para-enviar-ayuda-por-terremoto/",
+        "source": "Bloomberg Línea AR",
+        "time": "11/08 17:13",
+        "iso_date": "2026-08-11T20:13:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
         "title": "La fortuna de Jhon Arias en 2026, el futbolista originario de Quibdó, Colombia",
         "summary": "El jugador del Palmeiras de Brasil reveló que destinó recursos propios para enviar una aeronave con insumos y personal médico que apoyara las labores de rescate.",
         "link": "https://www.bloomberglinea.com/estilo-de-vida/la-fortuna-de-jhon-arias-en-2026-el-futbolista-originario-de-quibdo-colombia/",
@@ -477,24 +491,24 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Caputo cambió de estrategia: cuál es la nueva modalidad que usará para conseguir dólares en el mercado local",
-        "summary": "El ministro de Economía bajó el cupo de colocación del Bonar 2029 a USD 100 millones en un contexto de suba de tasas. La explicación para los analistas y cuál es el poder de fuego del Tesoro",
-        "link": "https://www.infobae.com/economia/2026/08/11/caputo-cambio-de-estrategia-cual-es-la-nueva-modalidad-que-usara-para-conseguir-dolares-en-el-mercado-local/",
+        "title": "Mercados: la Bolsa argentina cayó 3% y subió el riesgo país",
+        "summary": "El S&P Merval quedó cerca de los 3 millones de puntos y los títulos públicos operaron mixtos. El indicador de JP Morgan avanzó a 466 puntos básicos. El petróleo operó nuevamente al alza",
+        "link": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
         "source": "Infobae Economía",
-        "time": "11/08 15:03",
-        "iso_date": "2026-08-11T18:03:51+00:00",
+        "time": "11/08 17:13",
+        "iso_date": "2026-08-11T20:13:56+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Mercados: baja la Bolsa argentina y sube el riesgo país",
-        "summary": "El S&P Merval pierde 3% y los títulos públicos operan mixtos. El indicador de JP Morgan avanza a 467 puntos básicos. El petróleo opera nuevamente al alza",
-        "link": "https://www.infobae.com/economia/2026/08/11/mercados-baja-la-bolsa-argentina-y-tambien-el-riesgo-pais/",
+        "title": "Caputo cambió de estrategia: cuál es la nueva modalidad que usará para conseguir dólares en el mercado local",
+        "summary": "El ministro de Economía bajó el cupo de colocación del Bonar 2029 a USD 100 millones en un contexto de suba de tasas. La explicación para los analistas y cuál es el poder de fuego del Tesoro",
+        "link": "https://www.infobae.com/economia/2026/08/11/caputo-cambio-de-estrategia-cual-es-la-nueva-modalidad-que-usara-para-conseguir-dolares-en-el-mercado-local/",
         "source": "Infobae Economía",
-        "time": "11/08 14:51",
-        "iso_date": "2026-08-11T17:51:07+00:00",
+        "time": "11/08 15:03",
+        "iso_date": "2026-08-11T18:03:51+00:00",
         "tickers": [
           "AL30"
         ],
