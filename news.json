@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-08-13T19:33:27.700901",
-  "updated_str": "13/08/2026 19:33",
+  "updated_at": "2026-08-13T19:57:30.767516",
+  "updated_str": "13/08/2026 19:57",
   "cutoff_hours": 48,
-  "total_news": 224,
+  "total_news": 225,
   "news": {
     "GENERAL": [
+      {
+        "title": "La inflación en julio fue de 2,1% y acumuló 33,8% en los últimos doce meses",
+        "summary": "El índice nacional de precios al consumidor experimentó una aceleración de 0,2 puntos porcentuales respecto a junio y arrojó una variación acumulada de 19,3% en el año",
+        "link": "https://www.infobae.com/economia/2026/08/13/la-inflacion-en-julio-fue-de-21-y-acumulo-338-en-los-ultimos-doce-meses/",
+        "source": "Infobae Economía",
+        "time": "13/08 16:39",
+        "iso_date": "2026-08-13T19:39:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Una familia tipo necesita más de $1.560.000 para no ser pobre",
+        "summary": "La Canasta Básica Total y la Canasta Básica Alimentaria aceleraron su ritmo de aumento en julio y volvieron a crecer por encima de la inflación general, según el último informe del Indec",
+        "link": "https://www.infobae.com/economia/2026/08/13/una-familia-tipo-necesita-mas-de-1560000-para-no-ser-pobre/",
+        "source": "Infobae Economía",
+        "time": "13/08 16:38",
+        "iso_date": "2026-08-13T19:38:35+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina LNG: cómo es el megaproyecto de US$50.000 millones que YPF pide adherir hoy al RIGI",
+        "summary": "La petrolera llevará este jueves al esquema de beneficios fiscales, aduaneros y cambiarios la mayor inversión presentada hasta ahora bajo el régimen. Desarrolla el proyecto junto a Eni y XRG: busca transformar el gas de Vaca Muerta en un negocio exportador de escala mundial.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-lng-como-es-el-megaproyecto-de-us50000-millones-que-ypf-pide-adherir-hoy-al-rigi/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/08 16:36",
+        "iso_date": "2026-08-13T19:36:06+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "La fuerte oferta en el mercado de cambios mantuvo al dólar mayorista alejado de los 1.500 pesos",
         "summary": "El tipo de cambio oficial cerró a 1.492 pesos, con más de USD 600 millones negociados en el segmento de contado. Al público finalizó sin variantes, a $1.515 para la venta en el Banco Nación",
@@ -12,16 +44,6 @@
         "source": "Infobae Economía",
         "time": "13/08 16:20",
         "iso_date": "2026-08-13T19:20:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación en julio fue de 2,1% y acumuló 33,8% en los últimos doce meses",
-        "summary": "El índice nacional de precios al consumidor experimentó una aceleración de 0,2 puntos porcentuales respecto a junio y arrojó una variación acumulada de 19,3% en el año",
-        "link": "https://www.infobae.com/economia/2026/08/13/la-inflacion-en-julio-fue-de-21-y-acumulo-338-en-los-ultimos-doce-meses/",
-        "source": "Infobae Economía",
-        "time": "13/08 16:20",
-        "iso_date": "2026-08-13T19:20:49+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -298,29 +320,21 @@
         "iso_date": "2026-08-13T13:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Peso mexicano alcanza su nivel más fuerte frente al dólar desde 2024: ¿qué lo está impulsando?",
-        "summary": "La divisa conserva el respaldo de tasas atractivas y una política monetaria estable, pero su próximo movimiento dependerá de la Fed, el dólar y la revisión del T-MEC.",
-        "link": "https://www.bloomberglinea.com/mercados/peso-mexicano-alcanza-su-nivel-mas-fuerte-frente-al-dolar-desde-2024-que-lo-esta-impulsando/",
-        "source": "Bloomberg Línea AR",
-        "time": "13/08 09:23",
-        "iso_date": "2026-08-13T12:23:29+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación en Venezuela subió 6,1 puntos en julio y llegó al 19,9%",
-        "summary": "El incremento de precios se atribuyó al impacto de los terremotos ocurridos en junio, que complicaron la distribución de productos básicos y servicios",
-        "link": "https://www.infobae.com/venezuela/2026/08/13/la-inflacion-en-venezuela-subio-61-puntos-en-julio-y-llego-al-199/",
-        "source": "Infobae Economía",
-        "time": "13/08 08:56",
-        "iso_date": "2026-08-13T11:56:41+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Argentina LNG: cómo es el megaproyecto de US$50.000 millones que YPF pide adherir hoy al RIGI",
+        "summary": "La petrolera llevará este jueves al esquema de beneficios fiscales, aduaneros y cambiarios la mayor inversión presentada hasta ahora bajo el régimen. Desarrolla el proyecto junto a Eni y XRG: busca transformar el gas de Vaca Muerta en un negocio exportador de escala mundial.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-lng-como-es-el-megaproyecto-de-us50000-millones-que-ypf-pide-adherir-hoy-al-rigi/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/08 16:36",
+        "iso_date": "2026-08-13T19:36:06+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Con una inversión de USD 50.000 millones, YPF presenta al RIGI el mayor proyecto de su historia para exportar gas de Vaca Muerta",
         "summary": "La petrolera estatal y sus socios, la italiana Eni y la emiratí ADNOC, formalizarán hoy la adhesión al régimen de incentivos del mayor proyecto de exportación de gas licuado de la historia argentina",
