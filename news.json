@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-08-13T18:14:52.377104",
-  "updated_str": "13/08/2026 18:14",
+  "updated_at": "2026-08-13T18:53:14.339840",
+  "updated_str": "13/08/2026 18:53",
   "cutoff_hours": 48,
-  "total_news": 222,
+  "total_news": 223,
   "news": {
     "GENERAL": [
       {
         "title": "El Gobierno flexibilizó el crédito en dólares para empresas: “Los bancos podrán prestar hasta el 15% de sus depósitos”",
-        "summary": "El ministro de Economía, Luis Caputo, precisó cómo funcionará el nuevo esquema de financiamiento en moneda extranjera para compañías",
+        "summary": "El ministro de Economía, Luis Caputo, precisó cómo funcionará el nuevo esquema de financiamiento en moneda extranjera para compañías. Y aseguró que ellos siempre han sido empáticos con el problema de la mora",
         "link": "https://www.infobae.com/economia/2026/08/13/el-gobierno-flexibilizo-el-credito-en-dolares-para-empresas-los-bancos-podran-prestar-hasta-el-15-de-sus-depositos/",
         "source": "Infobae Economía",
-        "time": "13/08 15:14",
-        "iso_date": "2026-08-13T18:14:05+00:00",
+        "time": "13/08 15:51",
+        "iso_date": "2026-08-13T18:51:34+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno habilitó créditos en dólares para todas las empresas: los bancos podrán prestar hasta el 15% de sus depósitos",
+        "summary": "El ministro de Economía sostuvo que hay que generar incentivos para que los dólares de los argentinos permanezcan en el sistema financiero.",
+        "link": "https://www.ambito.com/economia/el-gobierno-habilito-creditos-dolares-todas-las-empresas-los-bancos-podran-prestar-el-15-sus-depositos-n6310497",
+        "source": "Ámbito",
+        "time": "13/08 15:41",
+        "iso_date": "2026-08-13T18:41:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -20,12 +30,22 @@
         "summary": "La petrolera estatal y sus socios, la italiana Eni y la emiratí ADNOC, formalizarán hoy la adhesión al régimen de incentivos del mayor proyecto de exportación de gas licuado de la historia argentina",
         "link": "https://www.infobae.com/economia/2026/08/13/con-una-inversion-de-usd-50000-millones-ypf-presenta-al-rigi-el-mayor-proyecto-de-su-historia-para-exportar-gas-de-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "13/08 15:13",
-        "iso_date": "2026-08-13T18:13:05+00:00",
+        "time": "13/08 15:16",
+        "iso_date": "2026-08-13T18:16:44+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
+      },
+      {
+        "title": "Caputo flexibiliza límites para prestar dólares a empresas en busca de mayor dinamismo del crédito",
+        "summary": "En conferencia de prensa desde el microcine del Palacio de Hacienda, el ministro de Economía argentino presenta los detalles de la medida.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-flexibiliza-limites-para-prestar-dolares-a-empresas-en-busca-de-mayor-dinamismo-del-credito/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/08 15:13",
+        "iso_date": "2026-08-13T18:13:35+00:00",
+        "tickers": [],
+        "is_general": true
       },
       {
         "title": "Alianza a nivel nacional: tras el llamado con Macri, Karina Milei busca sumar un escalón con el PRO",
@@ -40,7 +60,7 @@
         "is_general": true
       },
       {
-        "title": "Créditos para empresas: Caputo anuncia cambios para flexibilizar préstamos en dólares",
+        "title": "Caputo anunció que los bancos podrán prestar dólares de sus clientes a todas las empresas",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/creditos-para-empresas-caputo-anuncia-cambios-para-flexibilizar-prestamos-en-dolares/",
         "source": "El Cronista",
@@ -298,26 +318,6 @@
         "iso_date": "2026-08-13T09:14:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Línea F, Fórmula 1 y nuevas emisiones de deuda porteñas: las definiciones clave de Gustavo Arengo",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/linea-f-formula-1-y-nuevas-emisiones-de-deuda-portenas-las-definiciones-clave-de-gustavo-arengo/",
-        "source": "El Cronista",
-        "time": "13/08 06:00",
-        "iso_date": "2026-08-13T09:00:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Hoy el Indec da a conocer el dato de inflación de julio: qué adelantan las consultoras",
-        "summary": "Este jueves se va a dar a conocer el Índice de Precios al Consumidor (IPC) del séptimo mes del año. Los privados consideran que existió una aceleración respecto a junio por factores estacionales",
-        "link": "https://www.infobae.com/economia/2026/08/13/hoy-el-indec-da-a-conocer-el-dato-de-inflacion-de-julio-que-adelantan-las-consultoras/",
-        "source": "Infobae Economía",
-        "time": "13/08 01:18",
-        "iso_date": "2026-08-13T04:18:54+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -326,8 +326,8 @@
         "summary": "La petrolera estatal y sus socios, la italiana Eni y la emiratí ADNOC, formalizarán hoy la adhesión al régimen de incentivos del mayor proyecto de exportación de gas licuado de la historia argentina",
         "link": "https://www.infobae.com/economia/2026/08/13/con-una-inversion-de-usd-50000-millones-ypf-presenta-al-rigi-el-mayor-proyecto-de-su-historia-para-exportar-gas-de-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "13/08 15:13",
-        "iso_date": "2026-08-13T18:13:05+00:00",
+        "time": "13/08 15:16",
+        "iso_date": "2026-08-13T18:16:44+00:00",
         "tickers": [
           "YPFD"
         ],
