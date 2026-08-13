@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-08-13T16:14:37.094884",
-  "updated_str": "13/08/2026 16:14",
+  "updated_at": "2026-08-13T16:42:14.441560",
+  "updated_str": "13/08/2026 16:42",
   "cutoff_hours": 48,
-  "total_news": 227,
+  "total_news": 225,
   "news": {
     "GENERAL": [
+      {
+        "title": "La contundente definición del Gurú del Blue sobre la deuda: “A la gente la engañaron”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-contundente-definicion-del-guru-del-blue-sobre-la-deuda-a-la-gente-la-enganaron/",
+        "source": "El Cronista",
+        "time": "13/08 13:30",
+        "iso_date": "2026-08-13T16:30:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: las acciones y los bonos argentinos retoman las bajas mientras Wall Street anota un nuevo máximo",
+        "summary": "Mientras la cotización del petróleo retrocede 1%, el índice S&P 500 de Nueva York gana 0,8%, en un máximo histórico. El Merval porteño cae 1% y el riesgo país sube a 473 puntos",
+        "link": "https://www.infobae.com/economia/2026/08/13/mercados-rebotan-las-acciones-y-los-bonos-argentinos-de-la-mano-de-una-sesion-favorable-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "13/08 13:30",
+        "iso_date": "2026-08-13T16:30:43+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Uruguay profundiza la desdolarización de su deuda",
         "summary": "Uruguay profundiza la desdolarización de su deuda: captó US$2.144 millones en el mercado doméstico en los primeros siete meses de 2026, 102% más que en igual período de 2025. El 57% correspondió a emisiones en pesos nominales.",
@@ -33,18 +55,6 @@
         "time": "13/08 12:28",
         "iso_date": "2026-08-13T15:28:42+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: rebotan las acciones y los bonos argentinos, de la mano de una sesión favorable de Wall Street",
-        "summary": "Mientras la cotización del petróleo retrocede 3%, el índice S&P 500 de Nueva York gana 0,8% y anota un nuevo récord. El Merval porteño sube 0,5% y los bonos en dólares progresan también 0,5% en promedio, con un riesgo país en los 469 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/08/13/mercados-rebotan-las-acciones-y-los-bonos-argentinos-de-la-mano-de-una-sesion-favorable-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "13/08 12:25",
-        "iso_date": "2026-08-13T15:25:35+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -306,16 +316,6 @@
         "iso_date": "2026-08-13T00:26:43+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "José Luis Daza: \"Vamos a llegar a 2027 en condiciones diferentes a las de 2025, con u$s20.000 millones más de reservas\"",
-        "summary": "La mano derecha de Luis Caputo pronosticó que el Gobierno tendrá el año que viene mejores cuentas externas y fiscales, inflación en baja y actividad en crecimiento.",
-        "link": "https://www.ambito.com/economia/jose-luis-daza-vamos-llegar-2027-condiciones-diferentes-las-2025-us20000-millones-mas-reservas-n6310163",
-        "source": "Ámbito",
-        "time": "12/08 19:34",
-        "iso_date": "2026-08-12T22:34:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -414,12 +414,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: rebotan las acciones y los bonos argentinos, de la mano de una sesión favorable de Wall Street",
-        "summary": "Mientras la cotización del petróleo retrocede 3%, el índice S&P 500 de Nueva York gana 0,8% y anota un nuevo récord. El Merval porteño sube 0,5% y los bonos en dólares progresan también 0,5% en promedio, con un riesgo país en los 469 puntos básicos",
+        "title": "Mercados: las acciones y los bonos argentinos retoman las bajas mientras Wall Street anota un nuevo máximo",
+        "summary": "Mientras la cotización del petróleo retrocede 1%, el índice S&P 500 de Nueva York gana 0,8%, en un máximo histórico. El Merval porteño cae 1% y el riesgo país sube a 473 puntos",
         "link": "https://www.infobae.com/economia/2026/08/13/mercados-rebotan-las-acciones-y-los-bonos-argentinos-de-la-mano-de-una-sesion-favorable-de-wall-street/",
         "source": "Infobae Economía",
-        "time": "13/08 12:25",
-        "iso_date": "2026-08-13T15:25:35+00:00",
+        "time": "13/08 13:30",
+        "iso_date": "2026-08-13T16:30:43+00:00",
         "tickers": [
           "AL30"
         ],
