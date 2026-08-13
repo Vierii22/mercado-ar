@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-13T15:28:04.610804",
-  "updated_str": "13/08/2026 15:28",
+  "updated_at": "2026-08-13T15:50:09.527637",
+  "updated_str": "13/08/2026 15:50",
   "summary": {
-    "change": -0.08,
-    "leader": "CEPU",
-    "leader_change": 0.57,
+    "change": -0.27,
+    "leader": "TECO2",
+    "leader_change": 0.47,
     "worst": "TXAR",
     "worst_change": -0.73,
     "hot_count": 1,
-    "cold_count": 2
+    "cold_count": 4
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 7720.0,
-      "change": -0.64,
-      "volume": 646836,
-      "volume_ratio": 0.31,
+      "price": 7740.0,
+      "change": -0.39,
+      "volume": 801642,
+      "volume_ratio": 0.38,
       "hot": false,
       "cold": true,
       "trend": [
@@ -30,23 +30,23 @@
         8065.0,
         7790.0,
         7770.0,
-        7720.0
+        7740.0
       ],
       "trend_dir": "down",
       "trend_streak": 4,
-      "ma5": 7824.0,
-      "ma20": 7976.5,
+      "ma5": 7828.0,
+      "ma20": 7977.5,
       "ma_cross": -1,
-      "score": 30,
-      "signal": "fuerte_baja"
+      "score": 32,
+      "signal": "baja"
     },
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 7055.0,
-      "change": 0.5,
-      "volume": 1126632,
-      "volume_ratio": 0.56,
+      "price": 7035.0,
+      "change": 0.21,
+      "volume": 1276837,
+      "volume_ratio": 0.64,
       "hot": false,
       "cold": false,
       "trend": [
@@ -59,14 +59,14 @@
         7360.0,
         7035.0,
         7020.0,
-        7055.0
+        7035.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 7157.0,
-      "ma20": 7685.66,
+      "ma5": 7153.0,
+      "ma20": 7684.66,
       "ma_cross": -1,
-      "score": 48,
+      "score": 46,
       "signal": "neutral"
     },
     {
@@ -74,8 +74,8 @@
       "name": "Pampa Energía",
       "price": 5030.0,
       "change": -0.4,
-      "volume": 164889,
-      "volume_ratio": 0.19,
+      "volume": 235730,
+      "volume_ratio": 0.26,
       "hot": false,
       "cold": false,
       "trend": [
@@ -101,12 +101,12 @@
     {
       "ticker": "BMA",
       "name": "Banco Macro",
-      "price": 12640.0,
-      "change": 0.16,
-      "volume": 57299,
-      "volume_ratio": 0.26,
+      "price": 12590.0,
+      "change": -0.24,
+      "volume": 63208,
+      "volume_ratio": 0.29,
       "hot": false,
-      "cold": false,
+      "cold": true,
       "trend": [
         14470.0,
         14610.0,
@@ -117,23 +117,23 @@
         13390.0,
         12740.0,
         12620.0,
-        12640.0
+        12590.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": 12932.0,
-      "ma20": 14070.0,
+      "trend_dir": "down",
+      "trend_streak": 4,
+      "ma5": 12922.0,
+      "ma20": 14067.5,
       "ma_cross": -1,
-      "score": 46,
-      "signal": "neutral"
+      "score": 33,
+      "signal": "baja"
     },
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
       "price": 744.5,
       "change": -0.73,
-      "volume": 142727,
-      "volume_ratio": 0.09,
+      "volume": 158269,
+      "volume_ratio": 0.1,
       "hot": false,
       "cold": false,
       "trend": [
@@ -159,10 +159,10 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": 927.0,
-      "change": -0.43,
-      "volume": 23928,
-      "volume_ratio": 0.08,
+      "price": 926.5,
+      "change": -0.48,
+      "volume": 33154,
+      "volume_ratio": 0.11,
       "hot": false,
       "cold": true,
       "trend": [
@@ -175,12 +175,12 @@
         951.5,
         949.5,
         931.0,
-        927.0
+        926.5
       ],
       "trend_dir": "down",
       "trend_streak": 4,
-      "ma5": 938.7,
-      "ma20": 959.1,
+      "ma5": 938.6,
+      "ma20": 959.08,
       "ma_cross": -1,
       "score": 32,
       "signal": "baja"
@@ -188,10 +188,10 @@
     {
       "ticker": "TECO2",
       "name": "Telecom AR",
-      "price": 4285.0,
-      "change": 0.35,
-      "volume": 21896,
-      "volume_ratio": 0.22,
+      "price": 4290.0,
+      "change": 0.47,
+      "volume": 24476,
+      "volume_ratio": 0.25,
       "hot": true,
       "cold": false,
       "trend": [
@@ -204,27 +204,27 @@
         4520.0,
         4262.5,
         4270.0,
-        4285.0
+        4290.0
       ],
       "trend_dir": "up",
       "trend_streak": 4,
-      "ma5": 4343.5,
-      "ma20": 4331.38,
+      "ma5": 4344.5,
+      "ma20": 4331.62,
       "ma_cross": 1,
-      "score": 67,
+      "score": 68,
       "signal": "suba"
     },
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": 2111.0,
-      "change": 0.57,
-      "volume": 135627,
-      "volume_ratio": 0.24,
+      "price": 2087.0,
+      "change": -0.57,
+      "volume": 165164,
+      "volume_ratio": 0.29,
       "hot": false,
-      "cold": false,
+      "cold": true,
       "trend": [
-        2404.0,
+        2396.0,
         2370.0,
         2298.0,
         2263.0,
@@ -233,15 +233,15 @@
         2188.0,
         2117.0,
         2099.0,
-        2111.0
+        2087.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": 2144.6,
-      "ma20": 2279.65,
+      "trend_dir": "down",
+      "trend_streak": 4,
+      "ma5": 2139.8,
+      "ma20": 2285.25,
       "ma_cross": -1,
-      "score": 49,
-      "signal": "neutral"
+      "score": 31,
+      "signal": "baja"
     }
   ]
 }
