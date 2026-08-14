@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-08-14T11:02:54.571687",
-  "updated_str": "14/08/2026 11:02",
+  "updated_at": "2026-08-14T12:34:28.541357",
+  "updated_str": "14/08/2026 12:34",
   "cutoff_hours": 48,
   "total_news": 225,
   "news": {
     "GENERAL": [
+      {
+        "title": "La inflación volvió a subir y crece la presión sobre restaurantes y hoteles: “El margen del negocio no te permite tomar crédito”",
+        "summary": "El dueño de 24 locales gastronómicos y un hotel en Mar del Plata advirtió por la caída del consumo, el aumento de los costos y las dificultades para trasladar las subas a los precios",
+        "link": "https://www.infobae.com/economia/2026/08/14/la-inflacion-volvio-a-subir-y-crece-la-presion-sobre-restaurantes-y-hoteles-el-margen-del-negocio-no-te-permite-tomar-credito/",
+        "source": "Infobae Economía",
+        "time": "14/08 08:36",
+        "iso_date": "2026-08-14T11:36:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Horacio Marín, sobre el proyecto RIGI de YPF: \"Va a generar 20.000 puestos de trabajo\"",
+        "summary": "El CEO y presidente de la empresa estatal de energía dio detalles sobre el acuerdo anunciado el pasado jueves. Además, aseguró que tendrá un fuerte impacto en el empleo, creando 20.000 puestos nuevos.",
+        "link": "https://www.ambito.com/economia/horacio-marin-el-proyecto-rigi-ypf-este-proyecto-va-generar-20000-puestos-trabajo-n6310740",
+        "source": "Ámbito",
+        "time": "14/08 08:16",
+        "iso_date": "2026-08-14T11:16:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cuánto cuesta construir una vivienda de 100 m2 y qué cantidad de años de un salario promedio se necesita para pagarla",
+        "summary": "El valor del metro cuadrado en la provincia de Buenos Aires supera los $2,2 millones y acumula un aumento del 14,61% en el año, aunque se mantiene por debajo del índice de inflación general",
+        "link": "https://www.infobae.com/economia/2026/08/14/cuanto-cuesta-construir-una-vivienda-de-100-m2-y-que-cantidad-de-anos-de-un-salario-promedio-se-necesitan-para-pagarla/",
+        "source": "Infobae Economía",
+        "time": "14/08 08:11",
+        "iso_date": "2026-08-14T11:11:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "A cuánto puede llegar el dólar en septiembre sin intervención del Gobierno según la nueva banda cambiaria",
         "summary": "La inflación de julio, del 2,11%, definió el nuevo límite máximo que podrá alcanzar la cotización mayorista antes de que el Banco Central esté obligado a intervenir en el mercado de cambios",
@@ -282,39 +314,33 @@
         "iso_date": "2026-08-13T20:04:04+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Se acelera la destrucción de empresas: ya se perdieron más de 30.000 durante el gobierno de Javier Milei",
-        "summary": "La caída de empresas durante el último año fue de 15.069 (-3,03%). Es decir, casi la mitad de la destrucción de unidades productivas de la administración libertaria (-30.633 compañías) se explica por la baja del último año, según datos de la SRT.",
-        "link": "https://www.ambito.com/economia/se-acelera-la-destruccion-empresas-ya-se-perdieron-mas-30000-el-gobierno-javier-milei-n6310550",
-        "source": "Ámbito",
-        "time": "13/08 16:58",
-        "iso_date": "2026-08-13T19:58:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación en julio fue de 2,1% y acumuló 33,8% en los últimos doce meses",
-        "summary": "El índice nacional de precios al consumidor experimentó una aceleración de 0,2 puntos porcentuales respecto a junio y arrojó una variación acumulada de 19,3% en el año",
-        "link": "https://www.infobae.com/economia/2026/08/13/la-inflacion-en-julio-fue-de-21-y-acumulo-338-en-los-ultimos-doce-meses/",
-        "source": "Infobae Economía",
-        "time": "13/08 16:39",
-        "iso_date": "2026-08-13T19:39:48+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Una familia tipo necesita más de $1.560.000 para no ser pobre",
-        "summary": "La Canasta Básica Total y la Canasta Básica Alimentaria aceleraron su ritmo de aumento en julio y volvieron a crecer por encima de la inflación general, según el último informe del Indec",
-        "link": "https://www.infobae.com/economia/2026/08/13/una-familia-tipo-necesita-mas-de-1560000-para-no-ser-pobre/",
-        "source": "Infobae Economía",
-        "time": "13/08 16:38",
-        "iso_date": "2026-08-13T19:38:35+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Horacio Marín, sobre el proyecto RIGI de YPF: \"Va a generar 20.000 puestos de trabajo\"",
+        "summary": "El CEO y presidente de la empresa estatal de energía dio detalles sobre el acuerdo anunciado el pasado jueves. Además, aseguró que tendrá un fuerte impacto en el empleo, creando 20.000 puestos nuevos.",
+        "link": "https://www.ambito.com/economia/horacio-marin-el-proyecto-rigi-ypf-este-proyecto-va-generar-20000-puestos-trabajo-n6310740",
+        "source": "Ámbito",
+        "time": "14/08 08:16",
+        "iso_date": "2026-08-14T11:16:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Horacio Marín, sobre el proyecto RIGI de YPF: \"Va a generar 20.000 puestos de trabajo\"",
+        "summary": "El CEO y presidente de la empresa estatal de energía dio detalles sobre el acuerdo anunciado el pasado jueves. Además, aseguró que tendrá un fuerte impacto en el empleo, creando 20.000 puestos nuevos.",
+        "link": "https://www.ambito.com/economia/horacio-marin-el-proyecto-rigi-ypf-este-proyecto-va-generar-20000-puestos-trabajo-n6310740",
+        "source": "Ámbito Mercados",
+        "time": "14/08 08:16",
+        "iso_date": "2026-08-14T11:16:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF presentó su proyecto de GNL al RIGI por u$s 51.000 millones: qué obras abarca",
         "summary": "",
