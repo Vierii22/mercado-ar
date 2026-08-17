@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T12:16:12.317045",
-  "updated_str": "17/08/2026 12:16",
+  "updated_at": "2026-08-17T14:28:06.549118",
+  "updated_str": "17/08/2026 14:28",
   "summary": {
     "change": -1.6,
     "leader": "YPFD",
@@ -8,7 +8,7 @@
     "worst": "BMA",
     "worst_change": -3.85,
     "hot_count": 0,
-    "cold_count": 6
+    "cold_count": 5
   },
   "stocks": [
     {
@@ -46,7 +46,7 @@
       "price": 6850.0,
       "change": -3.45,
       "volume": 1746579,
-      "volume_ratio": 0.84,
+      "volume_ratio": 0.85,
       "hot": false,
       "cold": true,
       "trend": [
@@ -75,7 +75,7 @@
       "price": 4990.0,
       "change": -0.2,
       "volume": 1057097,
-      "volume_ratio": 1.16,
+      "volume_ratio": 1.15,
       "hot": false,
       "cold": true,
       "trend": [
@@ -104,27 +104,27 @@
       "price": 12240.0,
       "change": -3.85,
       "volume": 280605,
-      "volume_ratio": 1.26,
+      "volume_ratio": 1.29,
       "hot": false,
       "cold": true,
       "trend": [
+        14470.0,
         14610.0,
         14460.0,
         14130.0,
         13620.0,
         13270.0,
-        13390.0,
         12740.0,
         12620.0,
         12730.0,
         12240.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": 12744.0,
-      "ma20": 13977.0,
+      "trend_dir": "down",
+      "trend_streak": 4,
+      "ma5": 12720.0,
+      "ma20": 14017.0,
       "ma_cross": -1,
-      "score": 18,
+      "score": 8,
       "signal": "fuerte_baja"
     },
     {
@@ -133,7 +133,7 @@
       "price": 728.0,
       "change": -1.62,
       "volume": 426318,
-      "volume_ratio": 0.25,
+      "volume_ratio": 0.26,
       "hot": false,
       "cold": false,
       "trend": [
@@ -151,7 +151,7 @@
       "trend_dir": "neutral",
       "trend_streak": 0,
       "ma5": 747.6,
-      "ma20": 689.65,
+      "ma20": 689.88,
       "ma_cross": 1,
       "score": 44,
       "signal": "baja"
@@ -162,16 +162,16 @@
       "price": 898.0,
       "change": -1.32,
       "volume": 226233,
-      "volume_ratio": 0.71,
+      "volume_ratio": 0.75,
       "hot": false,
       "cold": true,
       "trend": [
+        977.5,
         966.5,
         933.0,
         940.0,
         936.0,
         934.5,
-        951.5,
         949.5,
         931.0,
         910.0,
@@ -179,8 +179,8 @@
       ],
       "trend_dir": "down",
       "trend_streak": 4,
-      "ma5": 928.0,
-      "ma20": 955.67,
+      "ma5": 924.6,
+      "ma20": 955.58,
       "ma_cross": -1,
       "score": 26,
       "signal": "fuerte_baja"
@@ -191,7 +191,7 @@
       "price": 4187.5,
       "change": -1.59,
       "volume": 66021,
-      "volume_ratio": 0.66,
+      "volume_ratio": 0.65,
       "hot": false,
       "cold": true,
       "trend": [
@@ -220,28 +220,28 @@
       "price": 2072.0,
       "change": -1.33,
       "volume": 1032491,
-      "volume_ratio": 1.75,
+      "volume_ratio": 1.81,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
+        2404.0,
         2370.0,
         2298.0,
         2263.0,
         2177.0,
         2208.0,
-        2188.0,
         2117.0,
         2099.0,
         2100.0,
         2072.0
       ],
-      "trend_dir": "down",
-      "trend_streak": 4,
-      "ma5": 2115.2,
-      "ma20": 2269.7,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": 2119.2,
+      "ma20": 2273.3,
       "ma_cross": -1,
-      "score": 30,
-      "signal": "fuerte_baja"
+      "score": 41,
+      "signal": "baja"
     }
   ]
 }
