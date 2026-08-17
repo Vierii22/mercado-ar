@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-17T18:28:12.817601",
-  "updated_str": "17/08/2026 18:28",
+  "updated_at": "2026-08-17T19:06:31.933711",
+  "updated_str": "17/08/2026 19:06",
   "cutoff_hours": 48,
-  "total_news": 103,
+  "total_news": 105,
   "news": {
     "GENERAL": [
+      {
+        "title": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón a 30 días",
+        "summary": "Las entidades financieras ajustan sus tasas para colocaciones a corto plazo en un rango de 16% a 22,5%, lo que impacta en los rendimientos que puede obtener un ahorrista en el sistema bancario",
+        "link": "https://www.infobae.com/economia/2026/08/17/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-de-1-millon-a-30-dias/",
+        "source": "Infobae Economía",
+        "time": "17/08 15:35",
+        "iso_date": "2026-08-17T18:35:53+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Los bonos argentinos profundizan las bajas en Wall Street y vuelve a subir el riesgo país a un máximo en más de dos meses",
         "summary": "Los títulos públicos caen 0,4% en promedio en el exterior. El indicador de JP Morgan sube a 483 puntos, su nivel más alto desde el 10 de junio. En la Bolsa local no hay negocios por el feriado",
@@ -78,16 +88,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón a 30 días",
-        "summary": "Las entidades financieras ajustan sus tasas para colocaciones a corto plazo en un rango de 16% a 22,5%, lo que impacta en los rendimientos que puede obtener un ahorrista en el sistema bancario",
-        "link": "https://www.infobae.com/economia/2026/08/17/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-de-1-millon-a-30-dias/",
-        "source": "Infobae Economía",
-        "time": "17/08 12:09",
-        "iso_date": "2026-08-17T15:09:52+00:00",
-        "tickers": [],
-        "is_general": true
       },
       {
         "title": "Otro sector en alerta por las desregulaciones de Sturzenegger, en medio de la interna que frena el proyecto",
@@ -373,8 +373,8 @@
         "time": "15/08 19:28",
         "iso_date": "2026-08-15T22:28:51+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -430,8 +430,8 @@
         "time": "15/08 19:28",
         "iso_date": "2026-08-15T22:28:51+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
