@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-17T14:51:00.218708",
-  "updated_str": "17/08/2026 14:51",
+  "updated_at": "2026-08-17T15:16:17.676553",
+  "updated_str": "17/08/2026 15:16",
   "cutoff_hours": 48,
-  "total_news": 94,
+  "total_news": 97,
   "news": {
     "GENERAL": [
+      {
+        "title": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón a 30 días",
+        "summary": "Las entidades financieras ajustan sus tasas para colocaciones a corto plazo en un rango de 16% a 22,5%, lo que impacta en los rendimientos que puede obtener un ahorrista en el sistema bancario",
+        "link": "https://www.infobae.com/economia/2026/08/17/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-de-1-millon-a-30-dias/",
+        "source": "Infobae Economía",
+        "time": "17/08 12:09",
+        "iso_date": "2026-08-17T15:09:52+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Los bonos argentinos profundizan las bajas en Wall Street y vuelve a subir el riesgo país a un máximo en más de dos meses",
         "summary": "Los títulos públicos caen 0,4% en promedio en el exterior. El indicador de JP Morgan sube a 483 puntos, su nivel más alto desde el 10 de junio. En la Bolsa local no hay negocios por el feriado",
@@ -87,8 +97,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -301,16 +311,6 @@
         "iso_date": "2026-08-16T03:13:53+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La pregunta que se hacen comerciantes y consumidores: ¿cuándo llega la recuperación?",
-        "summary": "Baja la inflación, se ordenan las cuentas públicas y se estabiliza el frente cambiario, pero el consumo sigue débil. No es una anomalía: suele ser parte del recorrido de toda estabilización",
-        "link": "https://www.infobae.com/opinion/2026/08/16/la-pregunta-que-se-hacen-comerciantes-y-consumidores-cuando-llega-la-recuperacion/",
-        "source": "Infobae Economía",
-        "time": "16/08 00:13",
-        "iso_date": "2026-08-16T03:13:10+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -334,8 +334,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -387,8 +387,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
