@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-08-17T15:16:17.676553",
-  "updated_str": "17/08/2026 15:16",
+  "updated_at": "2026-08-17T15:47:13.070767",
+  "updated_str": "17/08/2026 15:47",
   "cutoff_hours": 48,
-  "total_news": 97,
+  "total_news": 98,
   "news": {
     "GENERAL": [
+      {
+        "title": "Inflación: tras el 2,1% de julio, cuál fue el ritmo de los precios al consumidor en la primera mitad de agosto",
+        "summary": "Las consultoras registraron variaciones moderadas en alimentos y bebidas. Las proyecciones para el indice general y lo que espera el ministerio de Economía",
+        "link": "https://www.infobae.com/economia/2026/08/17/inflacion-tras-el-21-de-julio-cual-fue-el-ritmo-de-los-precios-al-consumidor-en-la-primera-mitad-de-agosto/",
+        "source": "Infobae Economía",
+        "time": "17/08 12:28",
+        "iso_date": "2026-08-17T15:28:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La excepción en el mapa productivo: cuál fue la única provincia en la que se crearon empresas en el último año",
+        "summary": "Un relevamiento oficial mostró una evolución positiva en una jurisdicción patagónica, impulsada por la actividad de Vaca Muerta, mientras el conjunto nacional profundizó el retroceso de firmas empleadoras privadas",
+        "link": "https://www.infobae.com/economia/2026/08/17/la-excepcion-en-el-mapa-productivo-cual-fue-la-unica-provincia-en-la-que-se-crearon-empresas-en-el-ultimo-ano/",
+        "source": "Infobae Economía",
+        "time": "17/08 12:25",
+        "iso_date": "2026-08-17T15:25:22+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Plazo fijo: cuánto pagan los principales bancos por depósitos de $1 millón a 30 días",
         "summary": "Las entidades financieras ajustan sus tasas para colocaciones a corto plazo en un rango de 16% a 22,5%, lo que impacta en los rendimientos que puede obtener un ahorrista en el sistema bancario",
@@ -97,8 +119,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -291,29 +313,21 @@
         "iso_date": "2026-08-16T11:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Sebastián Cao, de Econométrica: “Lo que antes se licuaba con inflación ahora hay que pagarlo con ingreso real”",
-        "summary": "El analista económico explicó las causas del aumento de la morosidad bancaria, el impacto del costo real del crédito y por qué cree que el fenómeno puede empezar a estabilizarse sin intervención del Estado",
-        "link": "https://www.infobae.com/economia/2026/08/16/sebastian-cao-de-econometrica-lo-que-antes-se-licuaba-con-inflacion-ahora-hay-que-pagarlo-con-ingreso-real/",
-        "source": "Infobae Economía",
-        "time": "16/08 00:14",
-        "iso_date": "2026-08-16T03:14:15+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El candado que le falta al BCRA",
-        "summary": "Prohibir la asistencia al Tesoro apunta a desarmar el mecanismo que durante décadas alimentó suba de precios y deterioro monetario",
-        "link": "https://www.infobae.com/opinion/2026/08/16/el-candado-que-le-falta-al-bcra/",
-        "source": "Infobae Economía",
-        "time": "16/08 00:13",
-        "iso_date": "2026-08-16T03:13:53+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "La excepción en el mapa productivo: cuál fue la única provincia en la que se crearon empresas en el último año",
+        "summary": "Un relevamiento oficial mostró una evolución positiva en una jurisdicción patagónica, impulsada por la actividad de Vaca Muerta, mientras el conjunto nacional profundizó el retroceso de firmas empleadoras privadas",
+        "link": "https://www.infobae.com/economia/2026/08/17/la-excepcion-en-el-mapa-productivo-cual-fue-la-unica-provincia-en-la-que-se-crearon-empresas-en-el-ultimo-ano/",
+        "source": "Infobae Economía",
+        "time": "17/08 12:25",
+        "iso_date": "2026-08-17T15:25:22+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "La innovadora fórmula que usa YPF para sus licitaciones: apela al “efecto psicológico” para conseguir el precio más bajo",
         "summary": "Funciona como una subasta tradicional pero al revés: en lugar de pujar hacia arriba, los oferentes compiten hacia abajo. La petrolera ya lo implementó y se ahorró más de USD 150 millones en su primera aplicación",
@@ -334,8 +348,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -359,8 +373,8 @@
         "time": "15/08 19:28",
         "iso_date": "2026-08-15T22:28:51+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -387,8 +401,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -428,8 +442,8 @@
         "time": "15/08 19:28",
         "iso_date": "2026-08-15T22:28:51+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
