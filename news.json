@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T15:21:43.314604",
-  "updated_str": "18/08/2026 15:21",
+  "updated_at": "2026-08-18T15:54:35.389973",
+  "updated_str": "18/08/2026 15:54",
   "cutoff_hours": 48,
   "total_news": 144,
   "news": {
@@ -10,8 +10,18 @@
         "summary": "En el séptimo mes, el Sector Público Nacional registró un saldo positivo de $244.897 millones tras el pago de intereses de la deuda. Así, vuelve a acercarse al cumplimiento de sus metas pactadas con el FMI",
         "link": "https://www.infobae.com/economia/2026/08/18/el-gobierno-volvio-a-tener-superavit-fiscal-en-julio-con-la-ayuda-del-impuesto-a-las-ganancias/",
         "source": "Infobae Economía",
-        "time": "18/08 12:14",
-        "iso_date": "2026-08-18T15:14:03+00:00",
+        "time": "18/08 12:48",
+        "iso_date": "2026-08-18T15:48:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Salario vs. inflación: el bolsillo empieza a pesar, pero hay un dato electoral que todavía juega a favor de Milei",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/salario-vs-inflacion-el-bolsillo-empieza-a-pesar-pero-hay-un-dato-electoral-que-todavia-juega-a-favor-de-milei/",
+        "source": "El Cronista",
+        "time": "18/08 12:24",
+        "iso_date": "2026-08-18T15:24:57+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -112,7 +122,7 @@
         "is_general": true
       },
       {
-        "title": "Milei aventaja a Kicillof, pero el escenario lo dominan los indecisos: cuánto crecieron y por qué podrían definir la elección",
+        "title": "Milei le saca ventaja a Kicillof, pero los indecisos pueden torcer la elección",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/milei-aventaja-a-kicillof-pero-el-escenario-lo-dominan-los-indecisos-cuanto-crecieron-y-por-que-pueden-definir-la-eleccion/",
         "source": "El Cronista",
@@ -306,18 +316,6 @@
         "iso_date": "2026-08-17T20:54:23+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Los bonos argentinos profundizaron las bajas en Wall Street y volvió a subir el riesgo país a un máximo en más de dos meses",
-        "summary": "Los títulos públicos cayeron 0,6% en promedio en el exterior. El indicador de JP Morgan subió a 489 puntos, su nivel más alto desde el 10 de junio. En la Bolsa local no hubo negocios por el feriado",
-        "link": "https://www.infobae.com/economia/2026/08/17/los-bonos-argentinos-profundizan-las-bajas-en-wall-street-y-vuelve-a-subir-el-riesgo-pais-a-un-maximo-en-mas-de-dos-meses/",
-        "source": "Infobae Economía",
-        "time": "17/08 17:41",
-        "iso_date": "2026-08-17T20:41:30+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -365,8 +363,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -381,8 +379,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
