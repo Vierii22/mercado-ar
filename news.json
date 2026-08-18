@@ -1,18 +1,40 @@
 {
-  "updated_at": "2026-08-18T19:31:13.930020",
-  "updated_str": "18/08/2026 19:31",
+  "updated_at": "2026-08-18T19:46:00.151547",
+  "updated_str": "18/08/2026 19:46",
   "cutoff_hours": 48,
-  "total_news": 167,
+  "total_news": 166,
   "news": {
     "GENERAL": [
       {
-        "title": "La inflación mayorista en julio fue de 0,8% y acumuló 31,1% en los últimos doce meses",
-        "summary": "El índice de precios mayorista registró una desaceleración de 0,3 puntos porcentuales respecto al mes anterior y el presidente Javier Milei celebró que el indicador haya perforado el 1 por ciento",
+        "title": "La inflación mayorista en julio fue de 0,8% y el Gobierno celebró: “Al final empezó con cero”",
+        "summary": "El índice de precios mayorista registró una desaceleración de 0,3 puntos porcentuales respecto al mes anterior y el presidente Javier Milei festejó que el indicador haya perforado el 1 por ciento",
         "link": "https://www.infobae.com/economia/2026/08/18/la-inflacion-mayorista-en-julio-fue-de-08-y-acumulo-311-en-los-ultimos-doce-meses/",
         "source": "Infobae Economía",
-        "time": "18/08 16:23",
-        "iso_date": "2026-08-18T19:23:22+00:00",
+        "time": "18/08 16:45",
+        "iso_date": "2026-08-18T19:45:27+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Quién es Fernando Cerimedo, el exasesor de Milei detenido en Bolivia",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/quien-es-fernando-cerimedo-el-exasesor-de-milei-detenido-en-bolivia/",
+        "source": "El Cronista",
+        "time": "18/08 16:39",
+        "iso_date": "2026-08-18T19:39:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Tambalean los bonos de EEUU y las tasas tocan niveles récord: por qué se disparó el nerviosismo en el mercado",
+        "summary": "Un conjunto de factores, tanto estructurales como coyunturales, dispararon una venta masiva de los \"Treasuries\" que luego derramó sobre la deuda soberana de las principales economías del mundo.",
+        "link": "https://www.ambito.com/economia/tambalean-los-bonos-eeuu-y-las-tasas-tocan-niveles-record-que-se-disparo-el-nerviosismo-el-mercado-n6312044",
+        "source": "Ámbito",
+        "time": "18/08 16:34",
+        "iso_date": "2026-08-18T19:34:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -27,7 +49,7 @@
       },
       {
         "title": "La inflación mayorista se desaceleró al 0,8% en julio, ante bajas en los precios del petróleo",
-        "summary": "",
+        "summary": "El IPIM del INDEC mostró un fuerte recorte, que fue celebrado por el Gobierno. Los efectos de la guerra en Medio Oriente tuvieron una importante incidencia.",
         "link": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-al-08-julio-bajas-los-precios-del-petroleo-n6312091",
         "source": "Ámbito",
         "time": "18/08 16:08",
@@ -290,26 +312,6 @@
         "iso_date": "2026-08-18T14:18:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Wall Street cae ante la venta masiva de bonos a nivel global y el salto del petróleo",
-        "summary": "Las tecnológicas lideran las pérdidas mientras los rendimientos de los bonos del Tesoro alcanzan máximos desde 2007 y el petróleo se mantiene cerca de US$91 por barril.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-cae-ante-la-venta-masiva-de-bonos-a-nivel-global-y-el-salto-del-petroleo/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/08 11:05",
-        "iso_date": "2026-08-18T14:05:31+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Volvió el superávit en julio: hubo pago de deuda y fuerte recorte del gasto, ¿en qué sectores?",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/volvio-el-superavit-en-julio-hubo-pago-de-deuda-y-fuerte-recorte-del-gasto-en-que-sectores/",
-        "source": "El Cronista",
-        "time": "18/08 10:58",
-        "iso_date": "2026-08-18T13:58:53+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -357,8 +359,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -373,8 +375,8 @@
         "time": "17/08 06:05",
         "iso_date": "2026-08-17T09:05:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -410,6 +412,30 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Tambalean los bonos de EEUU y las tasas tocan niveles récord: por qué se disparó el nerviosismo en el mercado",
+        "summary": "Un conjunto de factores, tanto estructurales como coyunturales, dispararon una venta masiva de los \"Treasuries\" que luego derramó sobre la deuda soberana de las principales economías del mundo.",
+        "link": "https://www.ambito.com/economia/tambalean-los-bonos-eeuu-y-las-tasas-tocan-niveles-record-que-se-disparo-el-nerviosismo-el-mercado-n6312044",
+        "source": "Ámbito",
+        "time": "18/08 16:34",
+        "iso_date": "2026-08-18T19:34:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Tambalean los bonos de EEUU y las tasas tocan niveles récord: por qué se disparó el nerviosismo en el mercado",
+        "summary": "Un conjunto de factores, tanto estructurales como coyunturales, dispararon una venta masiva de los \"Treasuries\" que luego derramó sobre la deuda soberana de las principales economías del mundo.",
+        "link": "https://www.ambito.com/economia/tambalean-los-bonos-eeuu-y-las-tasas-tocan-niveles-record-que-se-disparo-el-nerviosismo-el-mercado-n6312044",
+        "source": "Ámbito Mercados",
+        "time": "18/08 16:34",
+        "iso_date": "2026-08-18T19:34:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país superó los 500 puntos básicos y alcanzó su nivel más alto desde mayo",
         "summary": "Factores externos y locales se combinaron para explicar el comportamiento del indicador elaborado por JP Morgan, que sumaba 24 unidades este martes",
