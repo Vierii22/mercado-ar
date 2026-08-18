@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T01:05:30.653815",
-  "updated_str": "18/08/2026 01:05",
+  "updated_at": "2026-08-18T10:36:13.812093",
+  "updated_str": "18/08/2026 10:36",
   "summary": {
     "change": -1.6,
     "leader": "YPFD",
@@ -8,7 +8,7 @@
     "worst": "BMA",
     "worst_change": -3.85,
     "hot_count": 0,
-    "cold_count": 5
+    "cold_count": 6
   },
   "stocks": [
     {
@@ -220,28 +220,28 @@
       "price": 2072.0,
       "change": -1.33,
       "volume": 1032491,
-      "volume_ratio": 1.81,
+      "volume_ratio": 1.79,
       "hot": false,
-      "cold": false,
+      "cold": true,
       "trend": [
-        2404.0,
         2370.0,
         2298.0,
         2263.0,
         2177.0,
         2208.0,
+        2188.0,
         2117.0,
         2099.0,
         2100.0,
         2072.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": 2119.2,
-      "ma20": 2273.3,
+      "trend_dir": "down",
+      "trend_streak": 4,
+      "ma5": 2115.2,
+      "ma20": 2276.3,
       "ma_cross": -1,
-      "score": 41,
-      "signal": "baja"
+      "score": 30,
+      "signal": "fuerte_baja"
     }
   ]
 }
