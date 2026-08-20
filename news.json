@@ -1,10 +1,84 @@
 {
-  "updated_at": "2026-08-20T01:06:04.171501",
-  "updated_str": "20/08/2026 01:06",
+  "updated_at": "2026-08-20T10:37:46.004241",
+  "updated_str": "20/08/2026 10:37",
   "cutoff_hours": 48,
-  "total_news": 235,
+  "total_news": 237,
   "news": {
     "GENERAL": [
+      {
+        "title": "ANSES: quiénes cobran hoy, miércoles 20 de agosto de 2026",
+        "summary": "La fecha alcanza a varias prestaciones según la terminación del documento, con valores reajustados por movilidad e inflación y un bono extraordinario para haberes previsionales mínimos",
+        "link": "https://www.infobae.com/economia/2026/08/20/anses-quienes-cobran-hoy-miercoles-20-de-agosto-de-2026/",
+        "source": "Infobae Economía",
+        "time": "20/08 07:03",
+        "iso_date": "2026-08-20T10:03:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La economía no levanta y ya complica la reelección de Milei: cómo le iría si las elecciones fueran hoy",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-economia-no-levanta-y-ya-complica-la-reeleccion-de-milei-como-le-iria-si-las-elecciones-fueran-hoy/",
+        "source": "El Cronista",
+        "time": "20/08 06:53",
+        "iso_date": "2026-08-20T09:53:15+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El “rey del fracking” Harold Hamm redobla su apuesta por Vaca Muerta",
+        "summary": "Continental Resources presentó ofertas por cinco de los ocho bloques que despertaron interés en la ronda lanzada por Neuquén. La compañía del pionero del shale estadounidense busca profundizar una expansión que comenzó a fines de 2025.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-rey-del-fracking-harold-hamm-redobla-su-apuesta-por-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/08 06:00",
+        "iso_date": "2026-08-20T09:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El Gobierno autorizó el llamado a licitación de las líneas Belgrano Cargas, San Martín y Urquiza",
+        "summary": "Los interesados en participar en el concurso público deberán inscribirse en la plataforma CONTRAT.AR. Las inscripciones finalizarán el 11 de noviembre",
+        "link": "https://www.infobae.com/economia/2026/08/20/el-gobierno-autorizo-la-licitacion-para-privatizar-las-lineas-belgrano-cargas-san-martin-y-urquiza/",
+        "source": "Infobae Economía",
+        "time": "20/08 05:35",
+        "iso_date": "2026-08-20T08:35:31+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país sigue arriba de los 500 puntos: por qué los bonos argentinos no lograron acoplarse al mejor clima global",
+        "summary": "El Tesoro norteamericano aumentará la recompra de bonos y eso le puso un techo a la suba de las tasas de largo plazo. La noticia tuvo un impacto muy positivo en mercados emergentes, pero Argentina quedo al margen",
+        "link": "https://www.infobae.com/economia/2026/08/20/el-riesgo-pais-sigue-arriba-de-los-500-puntos-por-que-los-bonos-argentinos-no-lograron-acoplarse-al-mejor-clima-global/",
+        "source": "Infobae Economía",
+        "time": "20/08 02:32",
+        "iso_date": "2026-08-20T05:32:03+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Hoy se conocerá un dato clave para el Gobierno sobre la marcha de la economía: qué anticipan los analistas",
+        "summary": "El Instituto Nacional de Estadística y Censos (Indec) va a dar a conocer que pasó en el sexto mes. Los privados marcaron un repunte que no alcanzó para compensar la caída del segundo trimestre",
+        "link": "https://www.infobae.com/economia/2026/08/20/hoy-se-conocera-un-dato-clave-para-el-gobierno-sobre-la-marcha-de-la-economia-que-anticipan-los-analistas/",
+        "source": "Infobae Economía",
+        "time": "20/08 02:31",
+        "iso_date": "2026-08-20T05:31:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno alentó la suba de las tasas de interés y el mercado detectó una intervención oficial para controlar el dólar",
+        "summary": "El aumento de los rendimientos sirven para contener la demanda de divisas, mientras los movimientos de tasas en Estados Unidos y las tensiones preelectorales condicionan el panorama financiero local",
+        "link": "https://www.infobae.com/economia/2026/08/20/el-gobierno-alento-la-suba-de-las-tasas-de-interes-y-el-mercado-detecto-una-intervencion-oficial-para-controlar-el-dolar/",
+        "source": "Infobae Economía",
+        "time": "20/08 02:31",
+        "iso_date": "2026-08-20T05:31:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
         "summary": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
@@ -38,7 +112,7 @@
         "is_general": true
       },
       {
-        "title": "Caputo lanzó la privatización del Belgrano Cargas: cláusula anti-China y el detalle de obras",
+        "title": "Caputo lanzó la privatización del Belgrano Cargas: cláusula anti-China y el detalle de las obras para más 7000 km de vías",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/salen-los-pliegos-para-privatizar-el-belgrano-cargas-con-que-condiciones/",
         "source": "El Cronista",
@@ -119,8 +193,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -247,81 +321,21 @@
         "iso_date": "2026-08-19T16:43:42+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Lo que Fitch espera de De la Espriella en los 100 primeros días de Gobierno",
-        "summary": "Richard Francis, director de Deuda Soberana en la calificadora, señaló que estará atento al plan de gobierno, la eventual reforma tributaria, el ajuste del gasto y la financiación de la reconstrucción tras el terremoto.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/lo-que-fitch-espera-de-de-la-espriella-en-100-primeros-dias-de-gobierno/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 13:27",
-        "iso_date": "2026-08-19T16:27:30+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El precio del oro se dispara y UBS cree que el rally todavía no ha terminado",
-        "summary": "El metal vuelve a ganar impulso ante la caída de los rendimientos de los bonos del Tesoro y la debilidad del dólar, mientras UBS eleva su horizonte alcista.",
-        "link": "https://www.bloomberglinea.com/mercados/el-precio-del-oro-se-dispara-y-ubs-cree-que-el-rally-todavia-no-ha-terminado/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 13:18",
-        "iso_date": "2026-08-19T16:18:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Crece el rechazo a Milei, pero la oposición no logra capitalizarlo: el 61% quiere un cambio de gobierno",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/crece-el-rechazo-a-milei-pero-la-oposicion-no-logra-capitalizarlo-el-61-quiere-un-cambio-de-gobierno/",
-        "source": "El Cronista",
-        "time": "19/08 13:09",
-        "iso_date": "2026-08-19T16:09:29+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cómo se posicionan los magnates en acciones argentinas: de Druckenmiller y Citrone a Peter Thiel",
-        "summary": "El fondo Duquesne redujo sus tenencias en papeles locales, mientras que Discovery aumentó. Además, apareció Thiel en Vista.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/como-se-posicionan-los-magnates-en-acciones-argentinas-de-druckenmiller-y-citrone-a-peter-thiel/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 12:56",
-        "iso_date": "2026-08-19T15:56:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Unitree sube 460% en bolsa: 5 claves sobre el mayor vendedor de robots humanoides del mundo",
-        "summary": "El fabricante chino pasó de los perros robot a liderar los envíos mundiales de humanoides. Su debut bursátil refleja grandes expectativas sobre un mercado que aún debe demostrar su viabilidad comercial a escala.",
-        "link": "https://www.bloomberglinea.com/mercados/unitree-sube-460-en-bolsa-5-claves-sobre-el-mayor-vendedor-de-robots-humanoides-del-mundo/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 12:32",
-        "iso_date": "2026-08-19T15:32:35+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Acciones vs. bonos: 17 años de mayor rentabilidad bursátil desafían la estrategia 60/40",
-        "summary": "No ajustar una cartera 60/40 produjo mayores ganancias, pero también hizo que las acciones pasaran de representar 60% de la inversión a 92%.",
-        "link": "https://www.bloomberglinea.com/mercados/acciones-vs-bonos-17-anos-de-mayor-rentabilidad-bursatil-desafian-la-estrategia-6040/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 12:25",
-        "iso_date": "2026-08-19T15:25:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación de la zona euro trepó al 2,9% en julio por el impacto de las subas en la energía",
-        "summary": "El IPC se vio impulsado por la energía, mientras que en el Reino Unido escaló al mismo nivel tras el ajuste en las tarifas de los hogares. El BCE prevé que la inflación ronde el 3% durante el resto del año.",
-        "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-trepo-al-29-julio-el-impacto-las-subas-la-energia-n6312386",
-        "source": "Ámbito",
-        "time": "19/08 11:36",
-        "iso_date": "2026-08-19T14:36:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "El “rey del fracking” Harold Hamm redobla su apuesta por Vaca Muerta",
+        "summary": "Continental Resources presentó ofertas por cinco de los ocho bloques que despertaron interés en la ronda lanzada por Neuquén. La compañía del pionero del shale estadounidense busca profundizar una expansión que comenzó a fines de 2025.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-rey-del-fracking-harold-hamm-redobla-su-apuesta-por-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/08 06:00",
+        "iso_date": "2026-08-20T09:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
         "summary": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
@@ -366,8 +380,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -396,8 +410,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -406,6 +420,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país sigue arriba de los 500 puntos: por qué los bonos argentinos no lograron acoplarse al mejor clima global",
+        "summary": "El Tesoro norteamericano aumentará la recompra de bonos y eso le puso un techo a la suba de las tasas de largo plazo. La noticia tuvo un impacto muy positivo en mercados emergentes, pero Argentina quedo al margen",
+        "link": "https://www.infobae.com/economia/2026/08/20/el-riesgo-pais-sigue-arriba-de-los-500-puntos-por-que-los-bonos-argentinos-no-lograron-acoplarse-al-mejor-clima-global/",
+        "source": "Infobae Economía",
+        "time": "20/08 02:32",
+        "iso_date": "2026-08-20T05:32:03+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: las acciones argentinas ganaron hasta 8% en Wall Street, pero volvió a subir el riesgo país",
         "summary": "Los índices de Nueva York subieron entre 0,2% y 0,4%. Los bonos en dólares de Argentina cayeron 0,4% en promedio. El dólar se sostuvo a $1.515 en el Banco Nación. Las reservas volvieron a superar los USD 50.000 millones",
@@ -533,18 +559,6 @@
         "source": "Infobae Economía",
         "time": "18/08 16:04",
         "iso_date": "2026-08-18T19:04:17+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados volátiles: las elecciones en Brasil y el cambio en el apetito de los inversores complican a los activos argentinos",
-        "summary": "Los bonos argentinos profundizaron su caída y el riesgo país se acercó a los 500 puntos básicos, en un contexto de mayor incertidumbre para el mercado local",
-        "link": "https://www.infobae.com/economia/2026/08/18/mercados-volatiles-las-elecciones-en-brasil-y-el-cambio-en-el-apetito-de-los-inversores-complican-a-los-activos-argentinos/",
-        "source": "Infobae Economía",
-        "time": "18/08 02:25",
-        "iso_date": "2026-08-18T05:25:22+00:00",
         "tickers": [
           "AL30"
         ],
