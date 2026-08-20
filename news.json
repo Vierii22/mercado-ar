@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-08-20T15:56:26.389030",
-  "updated_str": "20/08/2026 15:56",
+  "updated_at": "2026-08-20T16:19:10.766502",
+  "updated_str": "20/08/2026 16:19",
   "cutoff_hours": 48,
-  "total_news": 247,
+  "total_news": 246,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este jueves 20 de agosto",
+        "summary": "El billete al público continúa ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue cede a $1.545. Las reservas volvieron a superar los USD 50.000 millones",
+        "link": "https://www.infobae.com/economia/2026/08/20/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-20-de-agosto/",
+        "source": "Infobae Economía",
+        "time": "20/08 12:53",
+        "iso_date": "2026-08-20T15:53:45+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "La canasta de servicios públicos aumentó 54% en un año y superó a la inflación",
         "summary": "La canasta de servicios públicos del AMBA aumentó 54% interanual en agosto, por encima de la inflación estimada de 34%. Un hogar promedio sin subsidios necesitó $289.622 para cubrir electricidad, gas, agua y transporte.",
         "link": "https://www.ambito.com/economia/la-canasta-servicios-publicos-aumento-54-un-ano-y-supero-la-inflacion-n6312861",
-        "source": "Ámbito Mercados",
+        "source": "Ámbito",
         "time": "20/08 12:53",
         "iso_date": "2026-08-20T15:53:00+00:00",
         "tickers": [],
@@ -28,7 +38,7 @@
         "is_general": false
       },
       {
-        "title": "Con expectativa por el discurso de Milei, se lleva a cabo el Council of the Americas",
+        "title": "Milei cierra una nueva edición del Council of the Americas",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/javier-milei-cerrara-el-council-de-las-americas-que-discurso-se-espera/",
         "source": "El Cronista",
@@ -120,16 +130,6 @@
         "source": "Ámbito",
         "time": "20/08 10:49",
         "iso_date": "2026-08-20T13:49:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este jueves 20 de agosto",
-        "summary": "El billete al público continúa ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue opera a $1.560. Las reservas volvieron a superar los USD 50.000 millones",
-        "link": "https://www.infobae.com/economia/2026/08/20/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-20-de-agosto/",
-        "source": "Infobae Economía",
-        "time": "20/08 10:39",
-        "iso_date": "2026-08-20T13:39:20+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -389,8 +389,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -407,8 +407,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
