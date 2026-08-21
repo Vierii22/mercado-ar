@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-21T16:17:34.987913",
-  "updated_str": "21/08/2026 16:17",
+  "updated_at": "2026-08-21T17:02:23.529106",
+  "updated_str": "21/08/2026 17:02",
   "cutoff_hours": 48,
-  "total_news": 252,
+  "total_news": 283,
   "news": {
     "GENERAL": [
+      {
+        "title": "El riesgo país argentino baja un 5% y se acerca a los 500 puntos en un día favorable para los mercados",
+        "summary": "El indicador de JP Morgan descuenta 29 puntos para la Argentina, en los 506 puntos básicos, con una recuperación de precios de los bonos soberanos en dólares y también una baja en la tasas de la deuda de EEUU",
+        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-argentino-baja-un-5-y-se-acerca-a-los-500-puntos-en-un-dia-favorable-para-los-mercados/",
+        "source": "Infobae Economía",
+        "time": "21/08 13:22",
+        "iso_date": "2026-08-21T16:22:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Moody’s ve probable que las reformas de Argentina sigan después de 2027, con o sin Milei",
         "summary": "La calificadora de riesgo señaló en un documento: “Esperamos que se mantengan la mayoría de las reformas económicas, lo que permitirá la continuidad del ajuste fiscal y el proceso de estabilización macroeconómica”.",
@@ -125,18 +137,6 @@
         "time": "21/08 11:11",
         "iso_date": "2026-08-21T14:11:21+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país argentino baja un 5% y se acerca a los 500 puntos en un día favorable para los mercados",
-        "summary": "El indicador de JP Morgan descuenta 26 puntos para la Argentina, en los 509 puntos básicos, con una recuperación de precios de los bonos soberanos en dólares y también una baja en la tasas de la deuda de EEUU",
-        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-argentino-baja-un-5-y-se-acerca-a-los-500-puntos-en-un-dia-favorable-para-los-mercados/",
-        "source": "Infobae Economía",
-        "time": "21/08 11:06",
-        "iso_date": "2026-08-21T14:06:23+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -376,6 +376,30 @@
         "is_general": false
       },
       {
+        "title": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
+        "summary": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
+        "link": "https://www.ambito.com/economia/exportaciones-brotan-los-primeros-efectos-los-acuerdos-eeuu-y-la-ue-la-carne-como-producto-estrella-n6312644",
+        "source": "Ámbito",
+        "time": "19/08 21:27",
+        "iso_date": "2026-08-20T00:27:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
+        "summary": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
+        "link": "https://www.ambito.com/economia/exportaciones-brotan-los-primeros-efectos-los-acuerdos-eeuu-y-la-ue-la-carne-como-producto-estrella-n6312644",
+        "source": "Ámbito Mercados",
+        "time": "19/08 21:27",
+        "iso_date": "2026-08-20T00:27:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist",
         "summary": "La revista británica sostuvo que la disciplina armó una economía propia que capta capitales del exterior y vende servicios, saberes y genética equina, incluso en medio de la volatilidad local",
         "link": "https://www.infobae.com/economia/2026/08/19/ni-vaca-muerta-ni-la-mineria-cual-es-el-sector-de-la-economia-argentina-mas-competitivo-del-mundo-segun-the-economist/",
@@ -395,8 +419,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -413,8 +437,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -486,11 +510,11 @@
     "AL30": [
       {
         "title": "El riesgo país argentino baja un 5% y se acerca a los 500 puntos en un día favorable para los mercados",
-        "summary": "El indicador de JP Morgan descuenta 26 puntos para la Argentina, en los 509 puntos básicos, con una recuperación de precios de los bonos soberanos en dólares y también una baja en la tasas de la deuda de EEUU",
+        "summary": "El indicador de JP Morgan descuenta 29 puntos para la Argentina, en los 506 puntos básicos, con una recuperación de precios de los bonos soberanos en dólares y también una baja en la tasas de la deuda de EEUU",
         "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-argentino-baja-un-5-y-se-acerca-a-los-500-puntos-en-un-dia-favorable-para-los-mercados/",
         "source": "Infobae Economía",
-        "time": "21/08 11:06",
-        "iso_date": "2026-08-21T14:06:23+00:00",
+        "time": "21/08 13:22",
+        "iso_date": "2026-08-21T16:22:14+00:00",
         "tickers": [
           "AL30"
         ],
@@ -611,18 +635,6 @@
         "source": "Bloomberg Línea AR",
         "time": "19/08 16:58",
         "iso_date": "2026-08-19T19:58:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Lo que Fitch espera de De la Espriella en los 100 primeros días de Gobierno",
-        "summary": "Richard Francis, director de Deuda Soberana en la calificadora, señaló que estará atento al plan de gobierno, la eventual reforma tributaria, el ajuste del gasto y la financiación de la reconstrucción tras el terremoto.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/lo-que-fitch-espera-de-de-la-espriella-en-100-primeros-dias-de-gobierno/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 13:27",
-        "iso_date": "2026-08-19T16:27:30+00:00",
         "tickers": [
           "AL30"
         ],
