@@ -1,28 +1,104 @@
 {
-  "updated_at": "2026-08-21T01:09:43.569449",
-  "updated_str": "21/08/2026 01:09",
+  "updated_at": "2026-08-21T10:37:09.369429",
+  "updated_str": "21/08/2026 10:37",
   "cutoff_hours": 48,
-  "total_news": 258,
+  "total_news": 251,
   "news": {
     "GENERAL": [
       {
-        "title": "Compras en Free Shop en dólares: qué tipo de cambio aplica y cómo no conviene pagar",
-        "summary": "Los precios aparecen en moneda estadounidense, pero la forma de cancelar la operación puede cambiar cuánto terminas desembolsando en pesos.",
-        "link": "https://www.ambito.com/economia/compras-free-shop-dolares-que-tipo-cambio-aplica-y-como-no-conviene-pagar-n6312302",
-        "source": "Ámbito Mercados",
-        "time": "20/08 22:00",
-        "iso_date": "2026-08-21T01:00:00+00:00",
+        "title": "La imagen de Milei se derrumba desde febrero: qué hizo caer su popularidad y por qué no logra revertir la tendencia",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-imagen-de-milei-se-derrumba-desde-febrero-que-hizo-caer-su-popularidad-y-por-que-no-logra-revertir-la-tendencia/",
+        "source": "El Cronista",
+        "time": "21/08 07:00",
+        "iso_date": "2026-08-21T10:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 20 de agosto",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-20-agosto-n6312714",
-        "source": "Ámbito Mercados",
-        "time": "20/08 20:40",
-        "iso_date": "2026-08-20T23:40:00+00:00",
+        "title": "Precio del dólar en Colombia rompe los pronósticos alcistas del mercado financiero",
+        "summary": "La tasa de cambio se mantiene en niveles que los modelos de bancos y comisionistas consideran desalineados de sus fundamentales. Podría haber una sobrerreacción tras las elecciones presidenciales.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/precio-del-dolar-en-colombia-rompe-los-pronosticos-alcistas-del-mercado-financiero/",
+        "source": "Bloomberg Línea AR",
+        "time": "21/08 07:00",
+        "iso_date": "2026-08-21T10:00:00+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "ANSES: quiénes cobran hoy, viernes 21 de agosto de 2026",
+        "summary": "La fecha alcanza a varias prestaciones según la terminación del documento, con valores reajustados por movilidad e inflación y un bono extraordinario para haberes previsionales mínimos",
+        "link": "https://www.infobae.com/economia/2026/08/21/anses-quienes-cobran-hoy-viernes-21-de-agosto-de-2026/",
+        "source": "Infobae Economía",
+        "time": "21/08 06:41",
+        "iso_date": "2026-08-21T09:41:30+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Petrolera de Eurnekian apuesta al gas: el plan para exportar GNL por Chile y llegar vía Bolivia a Brasil",
+        "summary": "La petrolera que conduce Hugo Eurnekian busca aprovechar infraestructura existente para abrir nuevos mercados al gas argentino. En paralelo, avanza con la exploración de Palermo Aike y acaba de desembarcar en Vaca Muerta.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cgc-apuesta-al-gas-el-plan-para-exportar-gnl-por-chile-y-llegar-a-brasil-via-bolivia/",
+        "source": "Bloomberg Línea AR",
+        "time": "21/08 06:01",
+        "iso_date": "2026-08-21T09:01:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cuáles son los salarios que empujan para ganarle a la inflación",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/cuales-son-los-salarios-que-empujan-para-ganarle-a-la-inflacion/",
+        "source": "El Cronista",
+        "time": "21/08 06:00",
+        "iso_date": "2026-08-21T09:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Moody’s ve probable que las reformas de Argentina sigan después de 2027, con o sin Milei",
+        "summary": "La calificadora de riesgo señaló en un documento: “Esperamos que se mantengan la mayoría de las reformas económicas, lo que permitirá la continuidad del ajuste fiscal y el proceso de estabilización macroeconómica”.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/moodys-ve-probable-que-las-reformas-de-argentina-sigan-despues-de-2027-con-o-sin-milei/",
+        "source": "Bloomberg Línea AR",
+        "time": "21/08 05:58",
+        "iso_date": "2026-08-21T08:58:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Los bonos en dólares no frenan su caída y ofrecen rendimientos de 10%: ¿oportunidad de compra o señal de alerta?",
+        "summary": "El riesgo país terminó ayer en 532 puntos y acumula 13 jornadas de subas consecutivas. En fondos y bancos locales aseguran que muchos inversores empiezan a consultar si llegó el momento de aprovechar rendimientos que lucen más atractivos",
+        "link": "https://www.infobae.com/economia/2026/08/21/los-bonos-en-dolares-no-frenan-su-caida-y-ofrecen-rendimientos-de-10-oportunidad-de-compra-o-senal-de-alerta/",
+        "source": "Infobae Economía",
+        "time": "21/08 02:23",
+        "iso_date": "2026-08-21T05:23:42+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Las “dos velocidades” de la economía: qué sectores crecieron y cuáles cayeron en el primer semestre del año",
+        "summary": "Los datos oficiales del Indec muestran una fuerte disparidad entre rubros. Algunos lograron mejoras de dos dígitos, mientras que otros se achicaron en relación al 2025",
+        "link": "https://www.infobae.com/economia/2026/08/21/las-dos-velocidades-de-la-economia-que-sectores-crecieron-y-cuales-cayeron-en-el-primer-semestre-del-ano/",
+        "source": "Infobae Economía",
+        "time": "21/08 02:22",
+        "iso_date": "2026-08-21T05:22:59+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país trepó más de 20% en agosto: los bonos profundizan su caída y se encarece la deuda argentina",
+        "summary": "Factores globales y locales potenciaron el retroceso de los títulos soberanos, que llevaron el indicador a superar los 530 puntos básicos en la última jornada",
+        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-trepo-mas-de-20-en-agosto-los-bonos-profundizan-su-caida-y-se-encarece-la-deuda-argentina/",
+        "source": "Infobae Economía",
+        "time": "21/08 02:22",
+        "iso_date": "2026-08-21T05:22:07+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -30,8 +106,18 @@
         "summary": "Economistas evaluaron los ejes clave sobre los que giró la defensa presidencial de su modelo económico. Reconocen avances en la baja de la inflación y el equilibrio fiscal, pero discrepan sobre el desempeño en crecimiento, consumo y empleo",
         "link": "https://www.infobae.com/economia/2026/08/20/javier-milei-bajo-la-lupa-cinco-de-sus-definiciones-economicas-contrastadas-por-especialistas/",
         "source": "Infobae Economía",
-        "time": "20/08 20:16",
-        "iso_date": "2026-08-20T23:16:49+00:00",
+        "time": "20/08 23:21",
+        "iso_date": "2026-08-21T02:21:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Compras en Free Shop en dólares: qué tipo de cambio aplica y cómo no conviene pagar",
+        "summary": "Los precios aparecen en moneda estadounidense, pero la forma de cancelar la operación puede cambiar cuánto terminas desembolsando en pesos.",
+        "link": "https://www.ambito.com/economia/compras-free-shop-dolares-que-tipo-cambio-aplica-y-como-no-conviene-pagar-n6312302",
+        "source": "Ámbito",
+        "time": "20/08 22:00",
+        "iso_date": "2026-08-21T01:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -57,16 +143,6 @@
         "tickers": [
           "YPFD"
         ],
-        "is_general": true
-      },
-      {
-        "title": "El dólar blue bajó $15 y cortó una racha de tres subas consecutivas",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/el-dolar-blue-15-y-corto-una-racha-tres-subas-consecutivas-n6313126",
-        "source": "Ámbito Mercados",
-        "time": "20/08 19:49",
-        "iso_date": "2026-08-20T22:49:00+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -101,16 +177,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "El BCRA concretó la mayor compra del mes y las reservas se consolidan sobre los u$s50.000 millones",
-        "summary": "El Central adquirió u$s89 millones y elevó el saldo comprador del mes a u$s443 millones. Así, las reservas brutas avanzaron u$s340 millones hasta u$s50.342 millones, mientras el dólar mayorista volvió a cerrar debajo de los $1.500 y las tasas en pesos retomaron la suba.",
-        "link": "https://www.ambito.com/finanzas/el-bcra-concreto-la-mayor-compra-del-mes-y-las-reservas-se-consolidan-los-us50000-millones-n6313080",
-        "source": "Ámbito Mercados",
-        "time": "20/08 18:08",
-        "iso_date": "2026-08-20T21:08:00+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -176,16 +242,6 @@
         "is_general": true
       },
       {
-        "title": "El dólar global se mantuvo cerca de mínimos de tres meses mientras las acciones volvieron a caer",
-        "summary": "La divisa estadounidense cotizó en torno a 98,89 puntos y los bonos del Tesoro retomaron las pérdidas y elevaron los rendimientos.",
-        "link": "https://www.ambito.com/uruguay/el-dolar-global-se-mantuvo-cerca-minimos-tres-meses-mientras-las-acciones-volvieron-caer-n6312730",
-        "source": "Ámbito Mercados",
-        "time": "20/08 17:23",
-        "iso_date": "2026-08-20T20:23:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Los salarios le ganaron a la inflación en junio: qué sectores quedaron mejor posicionados, según el Indec",
         "summary": "El índice de salarios avanzó por encima del IPC, aunque la mejora no fue homogénea. La evolución del indicador, sector por sector.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/los-salarios-le-ganaron-a-la-inflacion-en-junio-que-sectores-quedaron-mejor-posicionados-segun-el-indec/",
@@ -236,16 +292,6 @@
         "is_general": true
       },
       {
-        "title": "El dólar cayó y firmó su segunda cotización más baja en el mes",
-        "summary": "El mercado muestra poca volatilidad mientras conserva el avance positivo frente al cierre del año pasado.",
-        "link": "https://www.ambito.com/uruguay/el-dolar-cayo-y-firmo-su-segunda-cotizacion-mas-baja-el-mes-n6313036",
-        "source": "Ámbito Mercados",
-        "time": "20/08 17:06",
-        "iso_date": "2026-08-20T20:06:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Javier Milei: “Estamos pagando muy caro la locura de los pañuelitos verdes”",
         "summary": "El Presidente habló de la economía, destacó la baja de la inflación y admitió que aún falta mejorar. En ese contexto, habló de la caída de la natalidad y consideró: “La pasión por asesinar niños en el vientre de la madre nos está costando caro en términos de crecimiento y ni l...",
         "link": "https://www.infobae.com/economia/2026/08/20/javier-milei-estamos-pagando-muy-caro-la-locura-de-los-panuelitos-verdes/",
@@ -274,51 +320,21 @@
         "iso_date": "2026-08-20T19:40:06+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Vaca Muerta duplicó las exportaciones de petróleo crudo en julio y la balanza comercial marcó 32 meses de superávit",
-        "summary": "Las ventas de combustibles y energía al exterior rozaron los USD 1.506 millones el mes pasado, casi el doble que un año atrás. Las exportaciones de bienes crecieron 14,1% interanual, un récord histórico para un mes de julio. Las importaciones, en tanto, cayeron 1,7%",
-        "link": "https://www.infobae.com/economia/2026/08/20/vaca-muerta-duplico-las-exportaciones-de-petroleo-crudo-en-julio-y-la-balanza-comercial-marco-32-meses-de-superavit/",
-        "source": "Infobae Economía",
-        "time": "20/08 16:36",
-        "iso_date": "2026-08-20T19:36:24+00:00",
+        "title": "Petrolera de Eurnekian apuesta al gas: el plan para exportar GNL por Chile y llegar vía Bolivia a Brasil",
+        "summary": "La petrolera que conduce Hugo Eurnekian busca aprovechar infraestructura existente para abrir nuevos mercados al gas argentino. En paralelo, avanza con la exploración de Palermo Aike y acaba de desembarcar en Vaca Muerta.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cgc-apuesta-al-gas-el-plan-para-exportar-gnl-por-chile-y-llegar-a-brasil-via-bolivia/",
+        "source": "Bloomberg Línea AR",
+        "time": "21/08 06:01",
+        "iso_date": "2026-08-21T09:01:00+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
-      {
-        "title": "Las bolsas europeas cerraron en rojo y Wall Street opera en baja mientras el dólar se debilita y el crudo se dispara",
-        "summary": "El Brent saltó 2,5% por la escalada verbal entre Washington y Teherán, mientras el rendimiento de los bonos a 30 años se mantiene cerca de máximos de dos décadas",
-        "link": "https://www.infobae.com/america/mundo/2026/08/20/las-bolsas-europeas-cerraron-en-rojo-y-wall-street-opera-en-baja-mientras-el-dolar-se-debilita-y-el-crudo-se-dispara/",
-        "source": "Infobae Economía",
-        "time": "20/08 16:32",
-        "iso_date": "2026-08-20T19:32:37+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar mayorista pisó el freno y volvió a cerrar debajo de la barrera en los $1.500 impuesta por el BCRA",
-        "summary": "La acumulación de reservas se vio ralentizada en agosto, con compras diarias de u$s33 millones, en un contexto de tensión en las tasas de interés.",
-        "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-cotiza-cerca-los-1500-y-el-gobierno-mantiene-la-intervencion-el-tipo-cambio-n6312787",
-        "source": "Ámbito Mercados",
-        "time": "20/08 16:25",
-        "iso_date": "2026-08-20T19:25:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La actividad económica mejoró en junio, pero acumuló un retroceso del 0,9% en el segundo trimestre",
-        "summary": "La economía sigue alternando subas con bajas y mantiene una marcada disparidad sectorial. Hacia adelante, las perspectivas son poco alentadoras.",
-        "link": "https://www.ambito.com/economia/la-actividad-economica-mejoro-junio-pero-acumulo-un-retroceso-el-segundo-trimestre-n6313026",
-        "source": "Ámbito",
-        "time": "20/08 16:06",
-        "iso_date": "2026-08-20T19:06:00+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
       {
         "title": "Con los mercados externos en duda, Vaca Muerta está viva y sostiene una suba que no se ve",
         "summary": "La rueda de hoy mostró dos monedas. Hubo dudas en el exterior porque el secretario Bessent intentó bajar las tasas de EE.UU. pero no pudo. Y a nivel doméstico, una sucesión de indicadores muy buenos, basados en la exportación de energía, ayudó a que el dólar siga bajo control,...",
@@ -362,18 +378,6 @@
         "source": "Infobae Economía",
         "time": "20/08 09:24",
         "iso_date": "2026-08-20T12:24:54+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Exportaciones: brotan los primeros efectos de los acuerdos con EEUU y la UE, con la carne como producto estrella",
-        "summary": "Los acuerdos comerciales se suman a la cosecha récord, el boom de Vaca Muerta, la mejora de precios y medidas como la quita de retenciones, todos factores que impulsan las ventas a otros países.",
-        "link": "https://www.ambito.com/economia/exportaciones-brotan-los-primeros-efectos-los-acuerdos-eeuu-y-la-ue-la-carne-como-producto-estrella-n6312644",
-        "source": "Ámbito",
-        "time": "19/08 21:27",
-        "iso_date": "2026-08-20T00:27:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -438,10 +442,22 @@
         "is_general": false
       },
       {
-        "title": "Los salarios privados registrados no levantan: subieron 1,9% en junio y no lograron superar a la inflación",
+        "title": "Los salarios privados registrados siguen rezagados: subieron 1,9% en junio y no lograron superar a la inflación",
         "summary": "El aumento salarial otorgado al personal de las universidades nacionales, colaboró a que el sector público total avanzara 3,4%.",
         "link": "https://www.ambito.com/salarios-no-levantan-los-privados-subieron-19-julio-y-no-logran-ganarle-la-inflacion-n6313024",
         "source": "Ámbito",
+        "time": "20/08 16:06",
+        "iso_date": "2026-08-20T19:06:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Los salarios privados registrados siguen rezagados: subieron 1,9% en junio y no lograron superar a la inflación",
+        "summary": "El aumento salarial otorgado al personal de las universidades nacionales, colaboró a que el sector público total avanzara 3,4%.",
+        "link": "https://www.ambito.com/salarios-no-levantan-los-privados-subieron-19-julio-y-no-logran-ganarle-la-inflacion-n6313024",
+        "source": "Ámbito Mercados",
         "time": "20/08 16:06",
         "iso_date": "2026-08-20T19:06:00+00:00",
         "tickers": [
@@ -476,6 +492,30 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Los bonos en dólares no frenan su caída y ofrecen rendimientos de 10%: ¿oportunidad de compra o señal de alerta?",
+        "summary": "El riesgo país terminó ayer en 532 puntos y acumula 13 jornadas de subas consecutivas. En fondos y bancos locales aseguran que muchos inversores empiezan a consultar si llegó el momento de aprovechar rendimientos que lucen más atractivos",
+        "link": "https://www.infobae.com/economia/2026/08/21/los-bonos-en-dolares-no-frenan-su-caida-y-ofrecen-rendimientos-de-10-oportunidad-de-compra-o-senal-de-alerta/",
+        "source": "Infobae Economía",
+        "time": "21/08 02:23",
+        "iso_date": "2026-08-21T05:23:42+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país trepó más de 20% en agosto: los bonos profundizan su caída y se encarece la deuda argentina",
+        "summary": "Factores globales y locales potenciaron el retroceso de los títulos soberanos, que llevaron el indicador a superar los 530 puntos básicos en la última jornada",
+        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-trepo-mas-de-20-en-agosto-los-bonos-profundizan-su-caida-y-se-encarece-la-deuda-argentina/",
+        "source": "Infobae Economía",
+        "time": "21/08 02:22",
+        "iso_date": "2026-08-21T05:22:07+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La tesis de Cavallo sobre el riesgo país: el ajuste fiscal no alcanza y falta una reforma de fondo",
         "summary": "",
@@ -603,42 +643,6 @@
         "source": "Infobae Economía",
         "time": "19/08 10:08",
         "iso_date": "2026-08-19T13:08:01+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país mejora en Bolivia, pero sigue entre los más altos de Latinoamérica: así está el podio regional",
-        "summary": "El riesgo país se modera en Bolivia tras reformas y el respaldos del FMI. Así está frente a otros países de Latinoamérica.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/riesgo-pais-mejora-en-bolivia-pero-sigue-entre-los-mas-altos-de-latinoamerica-asi-esta-el-podio-regional/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/08 05:00",
-        "iso_date": "2026-08-19T08:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país tocó el nivel más alto en tres meses tras una fuerte ola de ventas que sacudió a los mercados globales",
-        "summary": "Impactaron las noticias sobre el endeudamiento en el que están incurriendo las principales tecnológicas para invertir en IA. Hubo venta de emergentes y los títulos locales no lograron desmarcarse",
-        "link": "https://www.infobae.com/economia/2026/08/19/el-riesgo-pais-toco-el-nivel-mas-alto-en-tres-meses-tras-una-fuerte-ola-de-ventas-que-sacudio-a-los-mercados-globales/",
-        "source": "Infobae Economía",
-        "time": "19/08 02:24",
-        "iso_date": "2026-08-19T05:24:28+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Por qué sube el riesgo país: 4 motivos por los que el indicador volvió a superar los 500 puntos",
-        "summary": "Señales económicas en el plano local y volatilidad financiera en el exterior se combinan para presionar a la baja de cotización de los bonos soberanos argentinos",
-        "link": "https://www.infobae.com/economia/2026/08/19/por-que-sube-el-riesgo-pais-4-motivos-por-los-que-el-indicador-volvio-a-superar-los-500-puntos/",
-        "source": "Infobae Economía",
-        "time": "19/08 02:24",
-        "iso_date": "2026-08-19T05:24:22+00:00",
         "tickers": [
           "AL30"
         ],
