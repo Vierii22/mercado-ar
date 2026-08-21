@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-21T15:00:14.779164",
-  "updated_str": "21/08/2026 15:00",
+  "updated_at": "2026-08-21T15:23:57.588235",
+  "updated_str": "21/08/2026 15:23",
   "cutoff_hours": 48,
-  "total_news": 251,
+  "total_news": 250,
   "news": {
     "GENERAL": [
+      {
+        "title": "La curiosa frase de Máximo Kirchner con un guiño a la posible reelección de Milei: “Que la gane...”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/que-la-gane-maximo-kirchner-reaparecio-con-una-curiosa-frase-sobre-la-posible-reeleccion-de-milei/",
+        "source": "El Cronista",
+        "time": "21/08 12:07",
+        "iso_date": "2026-08-21T15:07:36+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mercado financiero da un voto de confianza a De la Espriella: estas son las señales",
         "summary": "La deuda del Gobierno se financia ahora cerca del 12%, frente al 15% previo a las elecciones, pero aún hay factores que podrían determinar una mayor reducción.",
@@ -86,16 +96,6 @@
         "source": "El Economista",
         "time": "21/08 10:28",
         "iso_date": "2026-08-21T13:28:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "“Que la gane...”: Máximo Kirchner reapareció con una curiosa frase sobre la posible reelección de Milei",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/que-la-gane-maximo-kirchner-reaparecio-con-una-curiosa-frase-sobre-la-posible-reeleccion-de-milei/",
-        "source": "El Cronista",
-        "time": "21/08 10:17",
-        "iso_date": "2026-08-21T13:17:37+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -403,8 +403,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -421,8 +421,8 @@
         "time": "19/08 17:42",
         "iso_date": "2026-08-19T20:42:05+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
