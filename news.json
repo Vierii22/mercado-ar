@@ -1,563 +1,412 @@
 {
-  "updated_at": "2026-08-21T22:15:02.050410",
-  "updated_str": "21/08/2026 22:15",
+  "updated_at": "2026-08-24T01:09:03.254976",
+  "updated_str": "24/08/2026 01:09",
   "cutoff_hours": 48,
-  "total_news": 241,
+  "total_news": 101,
   "news": {
     "GENERAL": [
       {
-        "title": "Jornada financiera: por una fuerte suba de los bonos, el riesgo país se desplomó y cerró cerca de los 500 puntos",
-        "summary": "Los títulos soberanos argentinos mejoraron 1% en promedio y el S&P Merval avanzó 1,3%. El indicador de JP Morgan cedió a los 505 puntos. El dólar siguió a $1.5151 en el Banco Nación y las reservas del BCRA alcanzaron un nuevo máximo en siete años",
-        "link": "https://www.infobae.com/economia/2026/08/21/jornada-financiera-por-una-fuerte-suba-de-los-bonos-el-riesgo-pais-se-desplomo-y-cerro-cerca-de-los-500-puntos/",
+        "title": "CAME desmintió la teoría del Gobierno sobre el endeudamiento de las familias: \"Es para financiar alimentos y remedios\"",
+        "summary": "El vocero de la entidad pyme, Salvador Femenía, sostuvo que la caída del poder adquisitivo obliga a financiar alimentos y remedios.",
+        "link": "https://www.ambito.com/economia/came-desmintio-la-teoria-del-gobierno-el-endeudamiento-las-familias-es-financiar-alimentos-y-remedios-n6313885",
+        "source": "Ámbito",
+        "time": "23/08 18:17",
+        "iso_date": "2026-08-23T21:17:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Agenda económica de la semana: licitación de deuda, balances tecnológicos y Jackson Hole",
+        "summary": "En el plano local, el mercado seguirá la nueva colocación del Tesoro y los datos del BCRA sobre el mercado cambiario. A nivel internacional, todas las miradas estarán puestas en Jackson Hole, la inflación de Estados Unidos y los resultados de Nvidia.",
+        "link": "https://www.ambito.com/economia/agenda-economica-la-semana-licitacion-deuda-balances-tecnologicos-y-jackson-hole-n6313870",
+        "source": "Ámbito",
+        "time": "23/08 16:30",
+        "iso_date": "2026-08-23T19:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuál es el instrumento de ahorro en pesos más efectivo para protegerse contra la inflación y por qué crece su uso en 2026",
+        "summary": "Existe una alternativa al plazo fijo tradicional que permite a los ahorristas mantener el poder adquisitivo frente al avance de los precios y que ganó terreno en el año",
+        "link": "https://www.infobae.com/economia/2026/08/23/cual-es-el-instrumento-de-ahorro-en-pesos-mas-efectivo-para-protegerse-contra-la-inflacion-y-por-que-crece-su-uso-en-2026/",
         "source": "Infobae Economía",
-        "time": "21/08 18:49",
-        "iso_date": "2026-08-21T21:49:29+00:00",
+        "time": "23/08 16:16",
+        "iso_date": "2026-08-23T19:16:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Pymes advierten por el endeudamiento para llegar a fin de mes: \"El sueldo no alcanza\"",
+        "summary": "Desde CAME vincularon el aumento del endeudamiento con la pérdida de poder adquisitivo y rechazaron que el crédito se esté destinando principalmente a consumos suntuarios.",
+        "link": "https://www.ambito.com/economia/pymes-advierten-el-endeudamiento-llegar-fin-mes-el-sueldo-no-alcanza-n6313856",
+        "source": "Ámbito",
+        "time": "23/08 15:48",
+        "iso_date": "2026-08-23T18:48:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "“Álvaro” se convirtió en el toro más caro de la Argentina: la cifra récord que pagaron por la mitad de un Angus campeón",
+        "summary": "El reproductor de la Cabaña Santa Rosa fue adquirido por un consorcio de criadores y cabañeros de La Pampa. Los total abonado corresponde solo al 50% del animal",
+        "link": "https://www.infobae.com/economia/2026/08/23/alvaro-se-convirtio-en-el-toro-mas-caro-de-la-argentina-la-cifra-record-que-pagaron-por-la-mitad-de-un-angus-campeon/",
+        "source": "Infobae Economía",
+        "time": "23/08 14:51",
+        "iso_date": "2026-08-23T17:51:06+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "La reforma tributaria de Milei, en números: qué impuestos bajaron, cuáles subieron y cuánto le costó al Estado",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-reforma-tributaria-de-milei-en-numeros-que-impuestos-bajaron-cuales-subieron-y-cuanto-le-costo-al-estado/",
+        "source": "El Cronista",
+        "time": "23/08 14:50",
+        "iso_date": "2026-08-23T17:50:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El flanco más débil para el proyecto Milei 2027 y la cláusula que los aliados quieren forzar en el BCRA",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-flanco-mas-debil-para-el-proyecto-milei-2027-y-la-clausula-que-los-aliados-quieren-forzar-en-el-bcra/",
+        "source": "El Cronista",
+        "time": "23/08 14:02",
+        "iso_date": "2026-08-23T17:02:31+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Acuerdo LLA-PRO en CABA: la condición que puso la mano derecha de Karina Milei para sellar una alianza en la Ciudad",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/acuerdo-lla-pro-en-caba-la-condicion-que-puso-la-mano-derecha-de-karina-milei-para-sellar-una-alianza-en-la-ciudad/",
+        "source": "El Cronista",
+        "time": "23/08 13:56",
+        "iso_date": "2026-08-23T16:56:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La consultora que más acierta le puso número a la inflación de agosto: el sorpresivo dato que espera y un límite para el Gobierno",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-consultora-que-mas-acierta-le-puso-numero-a-la-inflacion-de-agosto-el-sorpresivo-dato-que-espera-y-un-limite-para-el-gobierno/",
+        "source": "El Cronista",
+        "time": "23/08 12:41",
+        "iso_date": "2026-08-23T15:41:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Reservas del Banco Central: por qué agosto podría cerrar con la compra de dólares más baja de 2026",
+        "summary": "La menor oferta estacional de divisas redujo la absorción oficial en el mercado y encendió la atención de los inversores sobre el frente cambiario. Consecuencias del cambio de tendencia",
+        "link": "https://www.infobae.com/economia/2026/08/23/reservas-del-banco-central-por-que-agosto-podria-cerrar-con-la-compra-de-dolares-mas-baja-de-2026/",
+        "source": "Infobae Economía",
+        "time": "23/08 12:23",
+        "iso_date": "2026-08-23T15:23:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Fausto Spotorno: “La macro mejoró, pero hay mucha gente que efectivamente hoy está peor”",
+        "summary": "El director de la consultora OJ Ferreres y del Instituto de Economía de UADE explicó por qué persiste el malestar social, qué pasa con la mora y dónde ve la principal fragilidad del programa económico",
+        "link": "https://www.infobae.com/economia/2026/08/23/fausto-spotorno-la-macro-mejoro-pero-hay-mucha-gente-que-efectivamente-hoy-esta-peor/",
+        "source": "Infobae Economía",
+        "time": "23/08 09:43",
+        "iso_date": "2026-08-23T12:43:47+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Fin del “Estado papá”: una encuesta revela que el 62% apoya el rumbo de Milei, pero exige reactivación urgente",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/fin-del-estado-papa-una-encuesta-revela-que-el-62-apoya-el-rumbo-de-milei-pero-exige-reactivacion-urgente/",
+        "source": "El Cronista",
+        "time": "23/08 08:23",
+        "iso_date": "2026-08-23T11:23:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La nueva fase “wait and see” de la economía que puede complicar el año electoral de Milei, según este informe",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-nueva-fase-wait-and-see-de-la-economia-que-puede-complicar-el-ano-electoral-de-milei-segun-este-informe/",
+        "source": "El Cronista",
+        "time": "23/08 08:21",
+        "iso_date": "2026-08-23T11:21:27+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Nvidia se convierte en un banco central del gasto tecnológico?",
+        "summary": "El CEO de la compañía anunció un entendimiento con seis grandes actores de Wall Street para crear “plataformas independientes de financiamiento de cómputo” y captar más de US$500.000 millones.",
+        "link": "https://www.bloomberglinea.com/mercados/nvidia-se-convierte-en-un-banco-central-del-gasto-tecnologico/",
+        "source": "Bloomberg Línea AR",
+        "time": "23/08 04:00",
+        "iso_date": "2026-08-23T07:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El círculo rojo y el Gobierno salieron a pedir que “no se vuelva al pasado” ante un repunte que no llega",
+        "summary": "Por ahora el Presidente no levanta en las encuestas y los índices de confianza tampoco repuntan. Crece la dolarización de carteras y la venta de bonos por la incertidumbre electoral y el peligro de un retorno a políticas populistas",
+        "link": "https://www.infobae.com/economia/2026/08/23/el-circulo-rojo-y-el-gobierno-salieron-a-pedir-que-no-se-vuelva-al-pasado-ante-un-repunte-que-no-llega/",
+        "source": "Infobae Economía",
+        "time": "23/08 02:36",
+        "iso_date": "2026-08-23T05:36:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Clima de Negocios: la mora se convirtió en el primer tema de la campaña, mientras bancos y fintech se “matan” por el efecto arrastre",
+        "summary": "El Banco Central informó que el incumplimiento bancario en junio se mantuvo en 12,8%, mientras Javier Milei lo atribuyó a un “ataque de la política” y descartó un problema cuantitativo",
+        "link": "https://www.infobae.com/economia/2026/08/23/clima-de-negocios-la-mora-se-convirtio-en-el-primer-tema-de-la-campana-mientras-bancos-y-fintech-se-matan-por-el-efecto-arrastre/",
+        "source": "Infobae Economía",
+        "time": "23/08 02:35",
+        "iso_date": "2026-08-23T05:35:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Viento externo, fundamentos macro insuficientes y humor social en duda: por qué el riesgo país volvió a superar los 500 puntos",
+        "summary": "Los datos macroeconómicos siguen dando números positivos que cada vez cuesta más alcanzar. Mientras tanto, crece la impaciencia con la dinámica de ingresos, la actividad y el empleo. Y el mercado internacional no colabora",
+        "link": "https://www.infobae.com/economia/2026/08/23/viento-externo-fundamentos-macro-insuficientes-y-humor-social-en-duda-por-que-el-riesgo-pais-volvio-a-superar-los-500-puntos/",
+        "source": "Infobae Economía",
+        "time": "23/08 02:34",
+        "iso_date": "2026-08-23T05:34:17+00:00",
+        "tickers": [
+          "AL30",
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Cuánto suma un punto de inflación al haber máximo jubilatorio",
+        "summary": "La fórmula vigente ajusta por una sola variable y, en su extremo, puede llevar el incremento mensual a desaparecer por completo",
+        "link": "https://www.infobae.com/opinion/2026/08/23/cuanto-suma-un-punto-de-inflacion-al-haber-maximo-jubilatorio/",
+        "source": "Infobae Economía",
+        "time": "23/08 02:30",
+        "iso_date": "2026-08-23T05:30:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Martín Rapetti: “El programa desinflacionario está agotado y el grueso de la economía, en depresión”",
+        "summary": "El director ejecutivo de Equilibra advierte por el nivel de actividad y cambios en el mercado de trabajo. Además, cuestiona la política cambiaria y plantea la necesidad de una estrategia productiva para la industria.",
+        "link": "https://www.ambito.com/economia/martin-rapetti-el-programa-desinflacionario-esta-agotado-y-el-grueso-la-depresion-n6313559",
+        "source": "Ámbito",
+        "time": "23/08 00:00",
+        "iso_date": "2026-08-23T03:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El mercado cambia: ahora le pide a Javier Milei gastar más y Barclays alerta por el riesgo electoral",
+        "summary": "El mercado reclama mayor pragmatismo al Gobierno. Barclays advierte que la incertidumbre política y electoral limitará el impacto de la expansión del crédito en dólares",
+        "link": "https://www.ambito.com/economia/el-mercado-cambia-ahora-le-pide-javier-milei-gastar-mas-y-barclays-alerta-el-riesgo-electoral-n6313629",
+        "source": "Ámbito",
+        "time": "23/08 00:00",
+        "iso_date": "2026-08-23T03:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Por qué conviene invertir en un plazo fijo en dólares?",
+        "summary": "Los depósitos de este tipo permiten obtener intereses sobre los ahorros en moneda extranjera, sin vender los billetes.",
+        "link": "https://www.ambito.com/economia/por-que-conviene-invertir-un-plazo-fijo-dolares-n6313470",
+        "source": "Ámbito",
+        "time": "22/08 23:00",
+        "iso_date": "2026-08-23T02:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Te hará ahorrar varios dólares en equipaje: qué es el método Sudoku",
+        "summary": "Una forma sencilla de organizar la ropa permite aprovechar mejor cada espacio y evitar llevar prendas de más durante una escapada.",
+        "link": "https://www.ambito.com/economia/te-hara-ahorrar-varios-dolares-equipaje-que-es-el-metodo-sudoku-n6312793",
+        "source": "Ámbito",
+        "time": "22/08 22:00",
+        "iso_date": "2026-08-23T01:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei se despegó de Cerimedo tras su detención en Bolivia: “Es alguien que no forma parte del espacio”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/no-forma-parte-del-espacio-milei-se-despego-de-cerimedo-y-apunto-contra-un-entramado-detras-del-caso/",
+        "source": "El Cronista",
+        "time": "22/08 20:16",
+        "iso_date": "2026-08-22T23:16:36+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei, camino a romper un “récord histórico” este año: la clave para sumar dólares y el riesgo pendiente",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/milei-camino-a-romper-un-record-historico-este-ano-la-clave-para-sumar-dolares-y-el-riesgo-pendiente/",
+        "source": "El Cronista",
+        "time": "22/08 19:59",
+        "iso_date": "2026-08-22T22:59:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Javier Milei envió un mensaje a los mercados: \"Tenemos cerrado el financiamiento hasta fin del mandato\"",
+        "summary": "Sus dichos llegaron después de sus discursos en el Council de las Americas y en la Bolsa de Comercio de Rosario, donde defendió las políticas económicas y desestimó el problema del crecimiento del endeudamiento familiar.",
+        "link": "https://www.ambito.com/economia/javier-milei-envio-un-mensaje-los-mercados-tenemos-cerrado-el-financiamiento-fin-del-mandato-n6313717",
+        "source": "Ámbito",
+        "time": "22/08 18:38",
+        "iso_date": "2026-08-22T21:38:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei culpó a la oposición por la suba del riesgo país y ratificó que irá por la reelección: “El mejor gobierno de la historia”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/milei-apunto-contra-la-oposicion-por-la-suba-del-riesgo-pais-sus-propuestas-son-de-prender-fuego-la-argentina/",
+        "source": "El Cronista",
+        "time": "22/08 18:14",
+        "iso_date": "2026-08-22T21:14:12+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país argentino cayó más de 5% y se acercó a los 500 puntos en un día favorable para los mercados",
-        "summary": "El indicador de JP Morgan descontó 30 puntos para la Argentina, en los 505 puntos básicos. Los bonos en dólares rebotaron un 1% en promedio",
-        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-argentino-baja-un-5-y-se-acerca-a-los-500-puntos-en-un-dia-favorable-para-los-mercados/",
-        "source": "Infobae Economía",
-        "time": "21/08 17:51",
-        "iso_date": "2026-08-21T20:51:15+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El BCRA confirma leve alivio en la mora tras 19 meses de crecimiento ininterrumpido",
-        "summary": "La entidad que preside Santiago Bausili reflejó que el ratio de mora cedió en el margen en el sexto mes del año. La mejora, no obstante, se explica por una expansión del crédito que creció a un ritmo mayor que la irregularidad.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-bcra-confirma-leve-alivio-en-la-mora-tras-19-meses-de-crecimiento-ininterrumpido/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 17:34",
-        "iso_date": "2026-08-21T20:34:34+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Construcción amesetada: los costos en dólares subieron y la rentabilidad inmobiliaria bajó, a pesar de una actividad estable",
-        "summary": "Un informe de MESH Economics & Government destacó la heterogeneidad barrial y cómo la presión de la mano de obra y la tierra modificaron las posibilidades de ganancia para quienes emprenden nuevos desarrollos",
-        "link": "https://www.infobae.com/economia/2026/08/21/construccion-amesetada-los-costos-en-dolares-suben-y-la-rentabilidad-inmobiliaria-baja-pese-a-la-estabilizacion-de-la-actividad/",
-        "source": "Infobae Economía",
-        "time": "21/08 17:10",
-        "iso_date": "2026-08-21T20:10:59+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street cierra al alza: los bonos dan tregua, el bitcoin y el oro saltan, mientras el dólar cae",
-        "summary": "El repunte del bitcoin impulsa a las acciones vinculadas a las criptomonedas, mientras el mercado evalúa las medidas del Tesoro para contener los rendimientos de largo plazo.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-sube-con-el-impulso-de-las-criptomonedas-tras-una-semana-de-tension-en-los-bonos/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 17:08",
-        "iso_date": "2026-08-21T20:08:18+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cayeron las ventas en supermercados, mayoristas y shoppings en junio, según el Indec",
-        "summary": "Los tres canales de comercio minorista cerraron el sexto mes del año con caídas en sus ventas, tanto respecto de mayo como en la comparación interanual",
-        "link": "https://www.infobae.com/economia/2026/08/21/cayeron-las-ventas-en-supermercados-mayoristas-y-shoppings-en-junio-segun-el-indec/",
-        "source": "Infobae Economía",
-        "time": "21/08 17:07",
-        "iso_date": "2026-08-21T20:07:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei y Pullaro: el pacto que se cocina en pos de la releeción y la tensión en Provincias Unidas por las PASO",
-        "summary": "El Presidente y el gobernador se encaminan a un acuerdo para el 2027, mientras que en Diputados crece la tensión en el bloque de Provincias Unidas por los acercamientos electorales. Las PASO serán un punto de quiebre.",
-        "link": "https://www.cronista.com/economia-politica/milei-y-pullaro-el-pacto-que-se-cocina-en-pos-de-la-releecion-y-la-tension-en-provincias-unidas-por-las-paso/",
-        "source": "El Cronista",
-        "time": "21/08 16:58",
-        "iso_date": "2026-08-21T19:58:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El consumo en shoppings sufrió en junio su mayor caída mensual en casi un año, mientras en súper frenó rebote",
-        "summary": "Los números del INDEC volvieron a mostrar un panorama complicado, en medio de salarios que no levantan y una morosidad que aprieta a las familias.",
-        "link": "https://www.ambito.com/economia/el-consumo-shoppings-sufrio-su-mayor-caida-mensual-casi-un-ano-mientras-super-freno-rebote-n6313493",
+        "title": "Inflación: un dato sobre un rubro clave encendió las alertas para agosto",
+        "summary": "El valor creció en un 0,8% solo en la tercera semana de agosto. El IPC de julio fue de 2,1%.",
+        "link": "https://www.ambito.com/economia/inflacion-un-dato-un-rubro-clave-encendio-las-alertas-agosto-n6313663",
         "source": "Ámbito",
-        "time": "21/08 16:35",
-        "iso_date": "2026-08-21T19:35:00+00:00",
+        "time": "22/08 14:55",
+        "iso_date": "2026-08-22T17:55:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Inocencia Fiscal no es un blanqueo: los cinco cambios que hay que saber antes de sacar los dólares del colchón",
+        "title": "Una reconocida empresa láctea pidió el concurso preventivo con deudas por casi $16.000 millones",
+        "summary": "La histórica firma santafesina atraviesa una profunda crisis financiera, productiva y laboral. Tres plantas permanecen afectadas, mientras trabajadores, tamberos, bancos y proveedores acumularon reclamos y esperan cobrar",
+        "link": "https://www.infobae.com/economia/2026/08/22/una-reconocida-empresa-lactea-pidio-el-concurso-preventivo-con-deudas-por-casi-16000-millones/",
+        "source": "Infobae Economía",
+        "time": "22/08 12:05",
+        "iso_date": "2026-08-22T15:05:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La Bolsa de Rosario apoyó a Milei, pero puso el foco en la próxima etapa del modelo",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/inocencia-fiscal-no-es-un-blanqueo-los-cinco-cambios-que-hay-que-saber-antes-de-sacar-los-dolares-del-colchon/",
+        "link": "https://www.cronista.com/economia-politica/la-bolsa-de-rosario-apoyo-a-milei-pero-puso-el-foco-en-la-proxima-etapa-del-modelo/",
         "source": "El Cronista",
-        "time": "21/08 16:25",
-        "iso_date": "2026-08-21T19:25:10+00:00",
+        "time": "22/08 10:47",
+        "iso_date": "2026-08-22T13:47:44+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El dólar mayorista operó en alza y quedó al borde de los 1.500 pesos",
-        "summary": "La divisa subió a $1.499, con importante volumen próxima los USD 600 millones. Al público en el Banco Nación cerró por cuarto día a $1.515 para la venta",
-        "link": "https://www.infobae.com/economia/2026/08/21/el-dolar-mayorista-opero-en-alza-y-quedo-al-borde-de-los-1500-pesos/",
-        "source": "Infobae Economía",
-        "time": "21/08 16:20",
-        "iso_date": "2026-08-21T19:20:35+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Una calificadora de riesgo le bajó el pulgar al impulso de los créditos en dólares: “Probablemente aumentará el riesgo sistémico”",
-        "summary": "Moody’s advirtió que la flexibilización de los préstamos en moneda extranjera para empresas sin ingresos en dólares amplía la exposición del sistema bancario local a riesgos vinculados al tipo de cambio",
-        "link": "https://www.infobae.com/economia/2026/08/21/una-calificadora-de-riesgo-le-bajo-el-pulgar-al-impulso-los-creditos-en-dolares-probablemente-aumentara-el-riesgo-sistemico/",
-        "source": "Infobae Economía",
-        "time": "21/08 16:19",
-        "iso_date": "2026-08-21T19:19:06+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este viernes 21 de agosto",
-        "summary": "El billete al público continuó ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue operó a $1.550. Las reservas del BCRA alcanzaron un nuevo máximo desde 2019",
-        "link": "https://www.infobae.com/economia/2026/08/21/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-21-de-agosto/",
-        "source": "Infobae Economía",
-        "time": "21/08 16:02",
-        "iso_date": "2026-08-21T19:02:39+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercado financiero da un voto de confianza a De la Espriella: estas son las señales",
-        "summary": "La deuda del Gobierno se financia ahora cerca del 12%, frente al 15% previo a las elecciones, pero aún hay factores que podrían determinar una mayor reducción.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/este-es-el-voto-de-confianza-que-el-mercado-financiero-le-esta-dando-a-de-la-espriella/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 15:42",
-        "iso_date": "2026-08-21T18:42:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La economía de Milei: el balance de Miguel Boggiano y por qué descartó ver “resultados mucho mejores”",
+        "title": "Álvarez Agis alertó sobre la “encerrona” del Gobierno: el costo del modelo y cuántos llegarán “vivos” a la inflación cero",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-economia-de-milei-el-balance-de-miguel-boggiano-y-por-que-descarto-ver-resultados-mucho-mejores/",
+        "link": "https://www.cronista.com/economia-politica/alvarez-agis-alerto-sobre-la-encerrona-del-gobierno-el-costo-del-modelo-y-cuantos-llegaran-vivos-a-la-inflacion-cero/",
         "source": "El Cronista",
-        "time": "21/08 14:44",
-        "iso_date": "2026-08-21T17:44:50+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Moody’s ve probable que las reformas de Argentina sigan después de 2027, con o sin Milei",
-        "summary": "La calificadora de riesgo señaló en un documento: “Esperamos que se mantengan la mayoría de las reformas económicas, lo que permitirá la continuidad del ajuste fiscal y el proceso de estabilización macroeconómica”.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/moodys-ve-probable-que-las-reformas-de-argentina-sigan-despues-de-2027-con-o-sin-milei/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 13:10",
-        "iso_date": "2026-08-21T16:10:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "“Compren oro”: el metal se dispara arriba de US$4.600 y Wall Street refuerza su optimismo",
-        "summary": "El regreso de las preocupaciones fiscales en Estados Unidos y la debilidad del dólar fortalecen las perspectivas para el oro. Citi elevó su apuesta por el metal.",
-        "link": "https://www.bloomberglinea.com/mercados/compren-oro-el-metal-se-dispara-arriba-de-us4600-y-wall-street-refuerza-su-optimismo/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 13:08",
-        "iso_date": "2026-08-21T16:08:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La moneda de Colombia es la más fuerte del mundo, pero “pide a gritos” una rebaja de tasas, según ING",
-        "summary": "La fuerte apreciación del peso está haciendo parte del trabajo del Banco de la República. ING cree que el próximo movimiento de las tasas será a la baja, aunque no espera un recorte inmediato.",
-        "link": "https://www.bloomberglinea.com/mercados/la-moneda-de-colombia-es-la-mas-fuerte-del-mundo-pero-pide-a-gritos-una-rebaja-de-tasas-segun-ing/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 13:00",
-        "iso_date": "2026-08-21T16:00:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar va a su peor semana del mes y estas son las monedas de América Latina que sacan ventaja",
-        "summary": "La caída del dólar vuelve a abrir espacio para las divisas de América Latina, donde las altas tasas de interés y los flujos de carry trade amplifican el movimiento.",
-        "link": "https://www.bloomberglinea.com/mercados/el-dolar-va-a-su-peor-semana-del-mes-y-estas-son-las-monedas-de-america-latina-que-sacan-ventaja/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 12:49",
-        "iso_date": "2026-08-21T15:49:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La resurrección del Bitcoin: subió más de 20% en la semana y se acercó otra vez a USD 80.000",
-        "summary": "La principal criptomoneda se vio impulsada por las expectativas de debilidad que pesan sobre el dólar, tras el anuncio del Tesoro de EEUU que intervendrá en el mercado de deuda",
-        "link": "https://www.infobae.com/economia/2026/08/21/la-resurreccion-del-bitcoin-subio-mas-de-20-en-la-semana-y-se-acerco-otra-vez-a-usd-80000/",
-        "source": "Infobae Economía",
-        "time": "21/08 12:38",
-        "iso_date": "2026-08-21T15:38:26+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El bitcoin y el oro se marcan su nivel más alto desde mayo: los motivos de la nueva subida",
-        "summary": "La mayor criptomoneda del mercado acumula 23% en una racha que lo llevó por encima de los USD 77 mil, en un repunte que se apoyó en la caída del dólar tras las últimas decisiones del Tesor de Estados Unidos",
-        "link": "https://www.infobae.com/america/mundo/2026/08/21/el-bitcoin-y-el-oro-se-marcan-su-nivel-mas-alto-desde-mayo-los-motivos-de-la-nueva-subida/",
-        "source": "Infobae Economía",
-        "time": "21/08 12:33",
-        "iso_date": "2026-08-21T15:33:34+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La curiosa frase de Máximo Kirchner con un guiño a la posible reelección de Milei: “Que la gane...”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/que-la-gane-maximo-kirchner-reaparecio-con-una-curiosa-frase-sobre-la-posible-reeleccion-de-milei/",
-        "source": "El Cronista",
-        "time": "21/08 12:07",
-        "iso_date": "2026-08-21T15:07:36+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Argentina presiona al Mercosur: “Si no acompaña la velocidad que necesitamos, avanzaremos bilateralmente”",
-        "summary": "El canciller Pablo Quirno aseguró el jueves que el gobierno de Milei busca nuevos acuerdos comerciales que le permitan negociar con un 80% del PBI mundial en los próximos años. “No tenemos tiempo que perder”, dijo.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-presiona-al-mercosur-si-no-acompana-la-velocidad-que-necesitamos-avanzaremos-bilateralmente/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 11:31",
-        "iso_date": "2026-08-21T14:31:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Petrolera de Eurnekian apuesta al gas: el plan para exportar GNL por Chile y llegar vía Bolivia a Brasil",
-        "summary": "La petrolera que conduce Hugo Eurnekian busca aprovechar infraestructura existente para abrir nuevos mercados al gas argentino. En paralelo, avanza con la exploración de Palermo Aike y acaba de desembarcar en Vaca Muerta.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cgc-apuesta-al-gas-el-plan-para-exportar-gnl-por-chile-y-llegar-a-brasil-via-bolivia/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 11:20",
-        "iso_date": "2026-08-21T14:20:31+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Las “dos velocidades” de la economía: qué sectores crecieron y cuáles cayeron en el primer semestre del año",
-        "summary": "Los datos oficiales del Indec muestran una fuerte disparidad entre rubros. Algunos lograron mejoras de dos dígitos, mientras que otros se achicaron en relación al 2025",
-        "link": "https://www.infobae.com/economia/2026/08/21/las-dos-velocidades-de-la-economia-que-sectores-crecieron-y-cuales-cayeron-en-el-primer-semestre-del-ano/",
-        "source": "Infobae Economía",
-        "time": "21/08 11:11",
-        "iso_date": "2026-08-21T14:11:21+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué pasará con el dólar en 2027: gurú de la city lanzó su predicción",
-        "summary": "El analista Salvador Di Stéfano, uno de los gurúes más escuchados de la City, pronosticó el valor del dólar en los próximos meses, en especial el dólar blue.",
-        "link": "https://www.ambito.com/economia/que-pasara-el-dolar-2027-guru-la-city-lanzo-su-prediccion-n6313315",
-        "source": "Ámbito",
-        "time": "21/08 10:52",
-        "iso_date": "2026-08-21T13:52:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Familias endeudadas: el costo de creer que el ajuste era transitorio",
-        "summary": "El aumento de la morosidad es el síntoma final de un proceso en el que los hogares consumieron ahorros y usaron el crédito para sustituir ingresos, creyendo que el shock sería pasajero.",
-        "link": "https://eleconomista.com.ar/finanzas/familias-endeudadas-costo-creer-ajuste-era-transitorio-n97577",
-        "source": "El Economista",
-        "time": "21/08 10:28",
-        "iso_date": "2026-08-21T13:28:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Billeteras virtuales vs. plazo fijo: cuáles son las apps que pagan más intereses",
-        "summary": "Algunas cuentas remuneradas mejoraron sus rendimientos y ya superan a varios depósitos bancarios. Cuáles ofrecen las tasas más altas.",
-        "link": "https://www.ambito.com/economia/billeteras-virtuales-vs-plazo-fijo-cuales-son-las-apps-que-pagan-mas-intereses-n6312942",
-        "source": "Ámbito",
-        "time": "21/08 10:00",
-        "iso_date": "2026-08-21T13:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Más problemas para Walter, el magnate investigado junto a financistas argentinos en EEUU: surgen dudas de que pueda pagar sus deudas",
-        "summary": "La crisis en un fondo de inversión estadounidense impacta en figuras del mundo financiero con vínculos en Argentina y expone nuevas conexiones entre aseguradoras y grandes fortunas",
-        "link": "https://www.infobae.com/economia/2026/08/21/mas-problemas-para-walter-el-magnate-investigado-junto-a-financistas-argentinos-en-eeuu-surgen-dudas-de-que-pueda-pagar-sus-deudas/",
-        "source": "Infobae Economía",
-        "time": "21/08 09:23",
-        "iso_date": "2026-08-21T12:23:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Moody’s anticipó el fin del “riesgo kuka”: el ajuste fiscal continuará “independientemente de quien gane las elecciones”",
-        "summary": "Sin candidatos aún, la agencia calificadora no ve un peligro en que triunfe la oposición en las urnas el próximo año. Los pro y contra del perfil exportador y que garantiza el ingreso de dólares en el mediano plazo",
-        "link": "https://www.infobae.com/economia/2026/08/21/moodys-anticipo-el-fin-del-riesgo-kuka-el-ajuste-fiscal-continuara-independientemente-de-quien-gane-las-elecciones/",
-        "source": "Infobae Economía",
-        "time": "21/08 09:07",
-        "iso_date": "2026-08-21T12:07:55+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tensión por los bonos de EEUU: Scott Bessent intenta llevar calma a los mercados, pero la volatilidad sigue",
-        "summary": "Menos de 24 horas después de anunciar que duplicará el volumen de sus recompras de deuda, el secretario del Tesoro de Estados Unidos se obligado a salir a declarar nuevamente, afirmando que el tope de recompras anunciado no es un techo y que podría ampliarse.",
-        "link": "https://www.ambito.com/economia/tension-los-bonos-eeuu-scott-bessent-intenta-llevar-calma-los-mercados-pero-la-volatilidad-sigue-n6313245",
-        "source": "Ámbito",
-        "time": "21/08 09:01",
-        "iso_date": "2026-08-21T12:01:00+00:00",
+        "time": "22/08 10:13",
+        "iso_date": "2026-08-22T13:13:58+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
-    "YPFD": [
-      {
-        "title": "Petrolera de Eurnekian apuesta al gas: el plan para exportar GNL por Chile y llegar vía Bolivia a Brasil",
-        "summary": "La petrolera que conduce Hugo Eurnekian busca aprovechar infraestructura existente para abrir nuevos mercados al gas argentino. En paralelo, avanza con la exploración de Palermo Aike y acaba de desembarcar en Vaca Muerta.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cgc-apuesta-al-gas-el-plan-para-exportar-gnl-por-chile-y-llegar-a-brasil-via-bolivia/",
-        "source": "Bloomberg Línea AR",
-        "time": "21/08 11:20",
-        "iso_date": "2026-08-21T14:20:31+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Con los mercados externos en duda, Vaca Muerta está viva y sostiene una suba que no se ve",
-        "summary": "La rueda de hoy mostró dos monedas. Hubo dudas en el exterior porque el secretario Bessent intentó bajar las tasas de EE.UU. pero no pudo. Y a nivel doméstico, una sucesión de indicadores muy buenos, basados en la exportación de energía, ayudó a que el dólar siga bajo control,...",
-        "link": "https://eleconomista.com.ar/finanzas/con-mercados-externos-duda-vaca-muerta-esta-viva-sostiene-una-suba-ve-n97564",
-        "source": "El Economista",
-        "time": "20/08 19:52",
-        "iso_date": "2026-08-20T22:52:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Vaca Muerta duplicó las exportaciones de petróleo crudo en julio y la balanza comercial marcó 32 meses de superávit",
-        "summary": "Las ventas de combustibles y energía al exterior rozaron los USD 1.506 millones el mes pasado, casi el doble que un año atrás. Las exportaciones de bienes crecieron 14,1% interanual, un récord histórico para un mes de julio. Las importaciones, en tanto, cayeron 1,7%",
-        "link": "https://www.infobae.com/economia/2026/08/20/vaca-muerta-duplico-las-exportaciones-de-petroleo-crudo-en-julio-y-la-balanza-comercial-marco-32-meses-de-superavit/",
-        "source": "Infobae Economía",
-        "time": "20/08 16:36",
-        "iso_date": "2026-08-20T19:36:24+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El “rey del fracking” Harold Hamm redobla su apuesta por Vaca Muerta",
-        "summary": "Continental Resources presentó ofertas por cinco de los ocho bloques que despertaron interés en la ronda lanzada por Neuquén. La compañía del pionero del shale estadounidense busca profundizar una expansión que comenzó a fines de 2025.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-rey-del-fracking-harold-hamm-redobla-su-apuesta-por-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "20/08 11:47",
-        "iso_date": "2026-08-20T14:47:14+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El “rey del fracking” compró una compañía clave que opera en Vaca Muerta y planea inversiones por USD 4.000 en cinco años",
-        "summary": "Continental Resources, del magnate Harold Hamm, adquirirá el 50% de Phoenix. Cómo es el plan de expansión",
-        "link": "https://www.infobae.com/economia/2026/08/20/el-rey-del-fracking-compro-una-compania-clave-que-opera-en-vaca-muerta-y-planea-inversiones-por-usd-4000-en-cinco-anos/",
-        "source": "Infobae Economía",
-        "time": "20/08 09:24",
-        "iso_date": "2026-08-20T12:24:54+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist",
-        "summary": "La revista británica sostuvo que la disciplina armó una economía propia que capta capitales del exterior y vende servicios, saberes y genética equina, incluso en medio de la volatilidad local",
-        "link": "https://www.infobae.com/economia/2026/08/19/ni-vaca-muerta-ni-la-mineria-cual-es-el-sector-de-la-economia-argentina-mas-competitivo-del-mundo-segun-the-economist/",
-        "source": "Infobae Economía",
-        "time": "19/08 19:25",
-        "iso_date": "2026-08-19T22:25:08+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      }
-    ],
+    "YPFD": [],
     "GGAL": [],
-    "PAMP": [],
-    "BMA": [],
+    "PAMP": [
+      {
+        "title": "“Álvaro” se convirtió en el toro más caro de la Argentina: la cifra récord que pagaron por la mitad de un Angus campeón",
+        "summary": "El reproductor de la Cabaña Santa Rosa fue adquirido por un consorcio de criadores y cabañeros de La Pampa. Los total abonado corresponde solo al 50% del animal",
+        "link": "https://www.infobae.com/economia/2026/08/23/alvaro-se-convirtio-en-el-toro-mas-caro-de-la-argentina-la-cifra-record-que-pagaron-por-la-mitad-de-un-angus-campeon/",
+        "source": "Infobae Economía",
+        "time": "23/08 14:51",
+        "iso_date": "2026-08-23T17:51:06+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      }
+    ],
+    "BMA": [
+      {
+        "title": "Fausto Spotorno: “La macro mejoró, pero hay mucha gente que efectivamente hoy está peor”",
+        "summary": "El director de la consultora OJ Ferreres y del Instituto de Economía de UADE explicó por qué persiste el malestar social, qué pasa con la mora y dónde ve la principal fragilidad del programa económico",
+        "link": "https://www.infobae.com/economia/2026/08/23/fausto-spotorno-la-macro-mejoro-pero-hay-mucha-gente-que-efectivamente-hoy-esta-peor/",
+        "source": "Infobae Economía",
+        "time": "23/08 09:43",
+        "iso_date": "2026-08-23T12:43:47+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Viento externo, fundamentos macro insuficientes y humor social en duda: por qué el riesgo país volvió a superar los 500 puntos",
+        "summary": "Los datos macroeconómicos siguen dando números positivos que cada vez cuesta más alcanzar. Mientras tanto, crece la impaciencia con la dinámica de ingresos, la actividad y el empleo. Y el mercado internacional no colabora",
+        "link": "https://www.infobae.com/economia/2026/08/23/viento-externo-fundamentos-macro-insuficientes-y-humor-social-en-duda-por-que-el-riesgo-pais-volvio-a-superar-los-500-puntos/",
+        "source": "Infobae Economía",
+        "time": "23/08 02:34",
+        "iso_date": "2026-08-23T05:34:17+00:00",
+        "tickers": [
+          "AL30",
+          "BMA"
+        ],
+        "is_general": true
+      }
+    ],
     "TXAR": [],
     "ALUA": [],
-    "TECO2": [
-      {
-        "title": "Mora récord: Kicillof investiga a Mercado Pago y otras billeteras por “hostigamiento”, “acoso” y “falta de información clara”",
-        "summary": "El gobernador de Buenos Aires, junto con el ministro Costa, anunció el inicio de imputaciones contra Mercado Pago, Naranja Digital, Ualá, Personal Pay, Brubank y Cencosud, y adelantaron que las multas podrán llegar a los 1.883 millones de pesos",
-        "link": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
-        "source": "Infobae Economía",
-        "time": "20/08 20:03",
-        "iso_date": "2026-08-20T23:03:16+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Los salarios privados registrados siguen rezagados: subieron 1,9% en junio y no lograron superar a la inflación",
-        "summary": "El aumento salarial otorgado al personal de las universidades nacionales, colaboró a que el sector público total avanzara 3,4%.",
-        "link": "https://www.ambito.com/salarios-no-levantan-los-privados-subieron-19-julio-y-no-logran-ganarle-la-inflacion-n6313024",
-        "source": "Ámbito",
-        "time": "20/08 16:06",
-        "iso_date": "2026-08-20T19:06:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Los salarios privados registrados siguen rezagados: subieron 1,9% en junio y no lograron superar a la inflación",
-        "summary": "El aumento salarial otorgado al personal de las universidades nacionales, colaboró a que el sector público total avanzara 3,4%.",
-        "link": "https://www.ambito.com/salarios-no-levantan-los-privados-subieron-19-julio-y-no-logran-ganarle-la-inflacion-n6313024",
-        "source": "Ámbito Mercados",
-        "time": "20/08 16:06",
-        "iso_date": "2026-08-20T19:06:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La confianza del consumidor volvió a caer en agosto por el deterioro de la situación personal",
-        "summary": "El índice de la Universidad Torcuato Di Tella reflejó la extensión de una señal que se repite desde hace meses: la estabilización de algunas variables macroeconómicas todavía no alcanza para mejorar el ánimo de los hogares",
-        "link": "https://www.infobae.com/economia/2026/08/20/la-confianza-del-consumidor-volvio-a-caer-en-agosto-por-el-deterioro-de-la-situacion-personal/",
-        "source": "Infobae Economía",
-        "time": "20/08 12:09",
-        "iso_date": "2026-08-20T15:09:24+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Uno de cada dos expertos en recursos humanos utiliza IA para seleccionar personal: cómo conviene armar un currículum",
-        "summary": "Un estudio reveló cómo los especialistas aplican la inteligencia artificial en cada etapa del proceso, qué ventajas y qué reparos genera entre quienes reclutan, y de qué manera responden a esa tendencia quienes buscan empleo",
-        "link": "https://www.infobae.com/economia/2026/08/20/uno-de-cada-dos-expertos-en-recursos-humanos-utiliza-ia-para-seleccionar-personal-como-conviene-armar-un-curriculum/",
-        "source": "Infobae Economía",
-        "time": "20/08 09:09",
-        "iso_date": "2026-08-20T12:09:36+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      }
-    ],
+    "TECO2": [],
     "CEPU": [],
     "AL30": [
       {
-        "title": "Jornada financiera: por una fuerte suba de los bonos, el riesgo país se desplomó y cerró cerca de los 500 puntos",
-        "summary": "Los títulos soberanos argentinos mejoraron 1% en promedio y el S&P Merval avanzó 1,3%. El indicador de JP Morgan cedió a los 505 puntos. El dólar siguió a $1.5151 en el Banco Nación y las reservas del BCRA alcanzaron un nuevo máximo en siete años",
-        "link": "https://www.infobae.com/economia/2026/08/21/jornada-financiera-por-una-fuerte-suba-de-los-bonos-el-riesgo-pais-se-desplomo-y-cerro-cerca-de-los-500-puntos/",
+        "title": "Viento externo, fundamentos macro insuficientes y humor social en duda: por qué el riesgo país volvió a superar los 500 puntos",
+        "summary": "Los datos macroeconómicos siguen dando números positivos que cada vez cuesta más alcanzar. Mientras tanto, crece la impaciencia con la dinámica de ingresos, la actividad y el empleo. Y el mercado internacional no colabora",
+        "link": "https://www.infobae.com/economia/2026/08/23/viento-externo-fundamentos-macro-insuficientes-y-humor-social-en-duda-por-que-el-riesgo-pais-volvio-a-superar-los-500-puntos/",
         "source": "Infobae Economía",
-        "time": "21/08 18:49",
-        "iso_date": "2026-08-21T21:49:29+00:00",
+        "time": "23/08 02:34",
+        "iso_date": "2026-08-23T05:34:17+00:00",
         "tickers": [
-          "AL30"
+          "AL30",
+          "BMA"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país argentino cayó más de 5% y se acercó a los 500 puntos en un día favorable para los mercados",
-        "summary": "El indicador de JP Morgan descontó 30 puntos para la Argentina, en los 505 puntos básicos. Los bonos en dólares rebotaron un 1% en promedio",
-        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-argentino-baja-un-5-y-se-acerca-a-los-500-puntos-en-un-dia-favorable-para-los-mercados/",
-        "source": "Infobae Economía",
-        "time": "21/08 17:51",
-        "iso_date": "2026-08-21T20:51:15+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Los bonos en dólares no frenan su caída y ofrecen rendimientos de 10%: ¿oportunidad de compra o señal de alerta?",
-        "summary": "El riesgo país terminó ayer en 532 puntos y acumula 13 jornadas de subas consecutivas. En fondos y bancos locales aseguran que muchos inversores empiezan a consultar si llegó el momento de aprovechar rendimientos que lucen más atractivos",
-        "link": "https://www.infobae.com/economia/2026/08/21/los-bonos-en-dolares-no-frenan-su-caida-y-ofrecen-rendimientos-de-10-oportunidad-de-compra-o-senal-de-alerta/",
-        "source": "Infobae Economía",
-        "time": "21/08 02:23",
-        "iso_date": "2026-08-21T05:23:42+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país trepó más de 20% en agosto: los bonos profundizan su caída y se encarece la deuda argentina",
-        "summary": "Factores globales y locales potenciaron el retroceso de los títulos soberanos, que llevaron el indicador a superar los 530 puntos básicos en la última jornada",
-        "link": "https://www.infobae.com/economia/2026/08/21/el-riesgo-pais-trepo-mas-de-20-en-agosto-los-bonos-profundizan-su-caida-y-se-encarece-la-deuda-argentina/",
-        "source": "Infobae Economía",
-        "time": "21/08 02:22",
-        "iso_date": "2026-08-21T05:22:07+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La tesis de Cavallo sobre el riesgo país: el ajuste fiscal no alcanza y falta una reforma de fondo",
+        "title": "Milei culpó a la oposición por la suba del riesgo país y ratificó que irá por la reelección: “El mejor gobierno de la historia”",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/por-que-el-riesgo-pais-sigue-alto-segun-cavallo-el-limite-del-ajuste-fiscal-y-la-reforma-que-falta/",
+        "link": "https://www.cronista.com/economia-politica/milei-apunto-contra-la-oposicion-por-la-suba-del-riesgo-pais-sus-propuestas-son-de-prender-fuego-la-argentina/",
         "source": "El Cronista",
-        "time": "20/08 19:12",
-        "iso_date": "2026-08-20T22:12:55+00:00",
+        "time": "22/08 18:14",
+        "iso_date": "2026-08-22T21:14:12+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Jornada financiera: el riesgo país volvió a subir y superó los 530 puntos ante las turbulencias internacionales",
-        "summary": "La presión sobre las tasas en los EEUU y la suba del petróleo empujó a bajas de hasta 1,3% en Wall Street. Los bonos argentinos perdieron 0,7% y los ADR tuvieron cierre mixto. El BCRA compró USD 89 millones en el mercado y las reservas alcanzaron un máximo en siete años",
-        "link": "https://www.infobae.com/economia/2026/08/20/jornada-financiera-el-riesgo-pais-volvio-a-subir-y-supero-los-530-puntos-ante-las-turbulencias-internacionales/",
+        "title": "Mercados en tensión: las acciones y los bonos tocaron precios mínimos en tres meses y volvió a moverse el riesgo país",
+        "summary": "El S&P Merval cayó 1,1% y el indicador de JP Morgan se asentó sobre los 500 puntos por primera vez desde mayo. El dólar mayorista quedó al filo de los $1.500 y las reservas del BCRA superaron los USD 50.000 millones, en un máximo en siete años",
+        "link": "https://www.infobae.com/economia/2026/08/22/mercados-en-tension-las-acciones-y-los-bonos-tocaron-precios-minimos-en-tres-meses-y-volvio-a-moverse-el-riesgo-pais/",
         "source": "Infobae Economía",
-        "time": "20/08 18:20",
-        "iso_date": "2026-08-20T21:20:05+00:00",
+        "time": "22/08 04:27",
+        "iso_date": "2026-08-22T07:27:10+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Mercados: las acciones argentinas terminaron dispares y cayeron los bonos, arrastrados por las bajas de Wall Street",
-        "summary": "El S&P Merval porteño cerró sin variantes y los ADR tuvieron cierre mixto. Los índices de Nueva York cayeron hasta 1,3%. El riesgo país subió a 532 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/08/20/mercados-las-acciones-y-los-bonos-argentinos-son-negociados-con-alzas-moderadas-mientras-baja-wall-street/",
+        "title": "Bonos argentinos: tras la fuerte caída, qué señales abren la puerta a un rebote",
+        "summary": "El índice de riesgo país volvió a superar los 500 puntos básicos, pero la mejora en las valuaciones y cierto alivio en el mercado de pesos empiezan a equilibrar la relación entre retorno y certeza de pago",
+        "link": "https://www.infobae.com/opinion/2026/08/22/bonos-argentinos-tras-la-fuerte-caida-que-senales-abren-la-puerta-a-un-rebote/",
         "source": "Infobae Economía",
-        "time": "20/08 18:01",
-        "iso_date": "2026-08-20T21:01:28+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país no encuentra techo: superó los 520 puntos y ya sube más de 21% en agosto",
-        "summary": "El indicador de JP Morgan encadenó 13 subas seguidas y ya acumula un avance de 21,2% en agosto. Los bonos soberanos volvieron a caer en Wall Street, pese al superávit fiscal, y el mercado vuelve a mirar con cautela la política local, las elecciones y el contexto externo.",
-        "link": "https://eleconomista.com.ar/finanzas/el-riesgo-pais-encuentra-techo-supero-520-puntos-ya-sube-mas-21-agosto-n97543",
-        "source": "El Economista",
-        "time": "20/08 11:22",
-        "iso_date": "2026-08-20T14:22:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país sigue arriba de los 500 puntos: por qué los bonos argentinos no lograron acoplarse al mejor clima global",
-        "summary": "El Tesoro norteamericano aumentará la recompra de bonos y eso le puso un techo a la suba de las tasas de largo plazo. La noticia tuvo un impacto muy positivo en mercados emergentes, pero Argentina quedo al margen",
-        "link": "https://www.infobae.com/economia/2026/08/20/el-riesgo-pais-sigue-arriba-de-los-500-puntos-por-que-los-bonos-argentinos-no-lograron-acoplarse-al-mejor-clima-global/",
-        "source": "Infobae Economía",
-        "time": "20/08 10:20",
-        "iso_date": "2026-08-20T13:20:34+00:00",
+        "time": "22/08 04:24",
+        "iso_date": "2026-08-22T07:24:36+00:00",
         "tickers": [
           "AL30"
         ],
