@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-08-24T19:50:37.504591",
-  "updated_str": "24/08/2026 19:50",
+  "updated_at": "2026-08-24T20:23:05.223265",
+  "updated_str": "24/08/2026 20:23",
   "cutoff_hours": 48,
-  "total_news": 146,
+  "total_news": 147,
   "news": {
     "GENERAL": [
       {
+        "title": "Vaca Muerta: Río Negro se hace cargo de una ruta clave, ¿con qué obras y qué plazos?",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/vaca-muerta-rio-negro-se-hace-cargo-de-una-ruta-clave-con-que-obras-y-que-plazos/",
+        "source": "El Cronista",
+        "time": "24/08 17:09",
+        "iso_date": "2026-08-24T20:09:37+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Wall Street cae en el inicio de una semana clave marcada por Nvidia, la inflación y Jackson Hole",
+        "summary": "La presión sobre el sector tecnológico superó el alivio del petróleo y los bonos, mientras Nvidia y la Fed concentran la atención de los inversionistas.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-mientras-nvidia-el-dato-de-inflacion-y-jackson-hole-concentran-las-miradas/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/08 17:08",
+        "iso_date": "2026-08-24T20:08:12+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este lunes 24 de agosto",
-        "summary": "El billete al público subió a $1.530 para la venta en el Banco Nación, un máximo nominal. El blue alcanzó los $1.565",
+        "summary": "El billete al público subió a $1.530 para la venta en el Banco Nación, un máximo nominal. El blue alcanzó los $1.565. El BCRA compró USD 11 millones en el mercado",
         "link": "https://www.infobae.com/economia/2026/08/24/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-24-de-agosto/",
         "source": "Infobae Economía",
-        "time": "24/08 16:14",
-        "iso_date": "2026-08-24T19:14:52+00:00",
+        "time": "24/08 16:59",
+        "iso_date": "2026-08-24T19:59:33+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -190,16 +212,6 @@
         "is_general": true
       },
       {
-        "title": "S&P 500 cae mientras Nvidia, el dato de inflación y Jackson Hole concentran las miradas",
-        "summary": "Las acciones ceden con las tecnológicas bajo presión, mientras el descenso de los rendimientos del Tesoro ofrece alivio antes de una semana clave para los mercados.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-mientras-nvidia-el-dato-de-inflacion-y-jackson-hole-concentran-las-miradas/",
-        "source": "Bloomberg Línea AR",
-        "time": "24/08 10:38",
-        "iso_date": "2026-08-24T13:38:09+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "El \"trade electoral\" llegó antes de tiempo: riesgo país arriba de 500 y fuerte caída de las acciones",
         "summary": "Los activos argentinos profundizan la tensión: sube el riesgo país, caen bonos y acciones, y la City empieza a leer el tablero político de 2027. Qué ven los analistas, qué puede frenar la presión y por qué Moody's y Delphos todavía encuentran margen para un rebote.",
         "link": "https://eleconomista.com.ar/finanzas/el-trade-electoral-llego-antes-tiempo-riesgo-pais-arriba-500-fuerte-caida-acciones-n97616",
@@ -306,19 +318,21 @@
         "iso_date": "2026-08-24T11:40:38+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Milei dijo que el Mundial disparó la deuda por la compra de televisores y la CAME lo rechazó",
-        "summary": "La Confederación Argentina de la Mediana Empresa cuestionó la explicación del Presidente y aseguró que el crédito se utiliza cada vez más para cubrir gastos básicos",
-        "link": "https://www.infobae.com/economia/2026/08/24/milei-dijo-que-el-mundial-disparo-la-deuda-por-la-compra-de-televisores-y-la-came-lo-rechazo/",
-        "source": "Infobae Economía",
-        "time": "24/08 08:29",
-        "iso_date": "2026-08-24T11:29:12+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Vaca Muerta: Río Negro se hace cargo de una ruta clave, ¿con qué obras y qué plazos?",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/vaca-muerta-rio-negro-se-hace-cargo-de-una-ruta-clave-con-que-obras-y-que-plazos/",
+        "source": "El Cronista",
+        "time": "24/08 17:09",
+        "iso_date": "2026-08-24T20:09:37+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Tren a Vaca Muerta: cómo es el proyecto de 700 km para sacar millones de toneladas por el Atlántico",
         "summary": "",
