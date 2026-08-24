@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-24T18:29:54.101672",
-  "updated_str": "24/08/2026 18:29",
+  "updated_at": "2026-08-24T19:08:39.527758",
+  "updated_str": "24/08/2026 19:08",
   "cutoff_hours": 48,
   "total_news": 144,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno permitió que el dólar mayorista supere los $1.500 por primera vez",
+        "summary": "El tipo de cambio oficial alcanzó los $1.510, mientras que al público avanzó a $1.530 para la venta en el Banco Nación, también un récord",
+        "link": "https://www.infobae.com/economia/2026/08/24/el-gobierno-permitio-que-el-dolar-mayorista-supere-los-1500-por-primera-vez/",
+        "source": "Infobae Economía",
+        "time": "24/08 15:55",
+        "iso_date": "2026-08-24T18:55:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 24 de agosto",
+        "summary": "El billete al público sube a $1.525 para la venta en el Banco Nación, un máximo nominal. El blue, a $1.560",
+        "link": "https://www.infobae.com/economia/2026/08/24/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-24-de-agosto/",
+        "source": "Infobae Economía",
+        "time": "24/08 15:34",
+        "iso_date": "2026-08-24T18:34:59+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Inflación de agosto: las consultoras recortaron sus proyecciones y ahora estiman que podría ubicarse cerca del 1,6%",
         "summary": "Los privados proyectan una fuerte desaceleración del Índice de Precios al Consumidor (IPC) por menores presiones de estacionales y de alimentos y bebidas en el séptimo mes. La estimación que tienen en el Banco Central",
@@ -82,16 +102,6 @@
         "source": "El Cronista",
         "time": "24/08 13:25",
         "iso_date": "2026-08-24T16:25:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 24 de agosto",
-        "summary": "El billete al público sube a $1.525 para la venta en el Banco Nación, un máximo nominal. El blue, a $1.560",
-        "link": "https://www.infobae.com/economia/2026/08/24/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-24-de-agosto/",
-        "source": "Infobae Economía",
-        "time": "24/08 13:23",
-        "iso_date": "2026-08-24T16:23:08+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -306,16 +316,6 @@
         "iso_date": "2026-08-24T10:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "América Latina ante el salto de los Tesoros: el impacto en bonos, monedas y tasas",
-        "summary": "El riesgo soberano resiste, pero la presión de los Treasuries comienza a sentirse en los bonos locales, las monedas y el margen para recortar tasas.",
-        "link": "https://www.bloomberglinea.com/mercados/america-latina-ante-el-salto-de-los-tesoros-el-impacto-en-bonos-monedas-y-tasas/",
-        "source": "Bloomberg Línea AR",
-        "time": "24/08 07:00",
-        "iso_date": "2026-08-24T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -368,8 +368,8 @@
         "time": "23/08 02:34",
         "iso_date": "2026-08-23T05:34:17+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       }
@@ -459,8 +459,8 @@
         "time": "23/08 02:34",
         "iso_date": "2026-08-23T05:34:17+00:00",
         "tickers": [
-          "AL30",
-          "BMA"
+          "BMA",
+          "AL30"
         ],
         "is_general": true
       },
