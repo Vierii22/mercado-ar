@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-25T01:07:25.883718",
-  "updated_str": "25/08/2026 01:07",
+  "updated_at": "2026-08-25T10:39:39.372718",
+  "updated_str": "25/08/2026 10:39",
   "summary": {
-    "change": 2.33,
+    "change": NaN,
     "leader": "BMA",
     "leader_change": 5.41,
     "worst": "TXAR",
     "worst_change": -0.79,
-    "hot_count": 6,
+    "hot_count": 5,
     "cold_count": 1
   },
   "stocks": [
@@ -72,11 +72,11 @@
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": 5150.0,
-      "change": 1.88,
+      "price": NaN,
+      "change": NaN,
       "volume": 896629,
       "volume_ratio": 0.91,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         5080.0,
@@ -88,15 +88,15 @@
         5005.0,
         5030.0,
         5055.0,
-        5150.0
+        NaN
       ],
-      "trend_dir": "up",
-      "trend_streak": 4,
-      "ma5": 5039.0,
-      "ma20": 5200.75,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 68,
-      "signal": "suba"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "BMA",
@@ -132,7 +132,7 @@
       "name": "Ternium AR",
       "price": 691.5,
       "change": -0.79,
-      "volume": 661177,
+      "volume": 661413,
       "volume_ratio": 0.41,
       "hot": false,
       "cold": true,
@@ -159,8 +159,8 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": 874.5,
-      "change": 0.46,
+      "price": NaN,
+      "change": NaN,
       "volume": 336242,
       "volume_ratio": 1.08,
       "hot": false,
@@ -175,15 +175,15 @@
         864.5,
         857.0,
         870.5,
-        874.5
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 867.2,
-      "ma20": 925.1,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 48,
-      "signal": "neutral"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "TECO2",
