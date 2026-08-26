@@ -1,17 +1,129 @@
 {
-  "updated_at": "2026-08-26T01:09:46.888715",
-  "updated_str": "26/08/2026 01:09",
+  "updated_at": "2026-08-26T10:41:20.948953",
+  "updated_str": "26/08/2026 10:41",
   "cutoff_hours": 48,
-  "total_news": 214,
+  "total_news": 215,
   "news": {
     "GENERAL": [
       {
-        "title": "Medidas económicas: el Gobierno anunciará mañana nuevas líneas de créditos hipotecarios",
+        "title": "Hay un renovado apetito por acciones colombianas: estas son las tres favoritas",
+        "summary": "La expectativa de los inversionistas institucionales es que el Colcap siga al alza. Así como tienen acciones en el radar hay 3 en las que en este momento prefieren no invertir.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/hay-un-renovado-apetito-por-acciones-colombianas-estas-son-las-tres-favoritas/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/08 07:00",
+        "iso_date": "2026-08-26T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Reconstrucción de Colombia tras el terremoto se dará con un sector constructor en cuidados intensivos",
+        "summary": "La producción de vivienda formal se encuentra en niveles de 2012 y en el segundo trimestre de 2026 el sector edificador completó tres años de contracciones consecutivas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/reconstruccion-de-colombia-tras-el-terremoto-se-dara-con-un-sector-constructor-en-cuidados-intensivos/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/08 07:00",
+        "iso_date": "2026-08-26T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El oficialismo va por la media sanción a Inocencia Fiscal II y la reforma al BCRA: los cambios que piden los aliados",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-oficialismo-va-por-la-media-sancion-a-inocencia-fiscal-ii-y-la-reforma-al-bcra-los-cambios-que-piden-los-aliados/",
+        "source": "El Cronista",
+        "time": "26/08 06:56",
+        "iso_date": "2026-08-26T09:56:36+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país en Argentina: qué explica la suba y qué puede pasar antes de 2027",
+        "summary": "El indicador vuelve a ubicarse bajo la lupa de los inversores en un contexto en el que se anticipó el clima electoral. Qué esperar en el corto plazo",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/riesgo-pais-en-argentina-que-explica-la-suba-y-que-puede-pasar-antes-de-2027/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/08 05:33",
+        "iso_date": "2026-08-26T08:33:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Milei enfrenta pulseada con inversores por el dólar y con la oposición por reformas en el Congreso",
+        "summary": "Tras dos meses de inactividad, Diputados retomará el debate de dos iniciativas centrales para el Gobierno: Inocencia Fiscal II y la reforma de la Carta Orgánica del BCRA. En paralelo, el equipo económico y el mercado pugnan por el fixing y Economía convocó a una conferencia de...",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-enfrenta-pulseada-con-inversores-por-el-dolar-y-con-la-oposicion-por-reformas-en-el-congreso/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/08 03:30",
+        "iso_date": "2026-08-26T06:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Licitación clave: el Tesoro quiere evitar una suba de tasas y ofrecerá solo bonos de plazos muy cortos",
+        "summary": "Tampoco habrá colocación de deuda en dólares, porque la tasa se fue a casi 10% anual. Se puso en pausa la política de extender vencimientos en moneda local para después de las elecciones del año próximo",
+        "link": "https://www.infobae.com/economia/2026/08/26/licitacion-clave-el-tesoro-quiere-evitar-una-suba-de-tasas-y-ofrecera-solo-bonos-de-plazos-muy-cortos/",
+        "source": "Infobae Economía",
+        "time": "26/08 00:45",
+        "iso_date": "2026-08-26T03:45:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Reforma de la Carta Orgánica del Banco Central: las seis claves para entender el proyecto que se tratará en Diputados",
+        "summary": "De la remoción de autoridades al destino de las utilidades: qué otros cambios trae la iniciativa que reescribe la relación entre el BCRA y el Estado",
+        "link": "https://www.infobae.com/economia/2026/08/26/reforma-de-la-carta-organica-del-banco-central-las-seis-claves-para-entender-el-proyecto-que-se-tratara-en-diputados/",
+        "source": "Infobae Economía",
+        "time": "26/08 00:45",
+        "iso_date": "2026-08-26T03:45:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inocencia Fiscal II: qué cambia para los contribuyentes con el nuevo proyecto que busca aprobar el Gobierno",
+        "summary": "Este miércoles, el oficialismo busca la media sanción en la Cámara baja del nuevo proyecto. Las nuevas modificaciones para el ingreso al Régimen Simplificado de Ganancias, el calculo de la diferencia de impuesto y el tiempo limite para sacar los dólares del colchón",
+        "link": "https://www.infobae.com/economia/2026/08/26/inocencia-fiscal-ii-que-cambia-para-los-contribuyentes-con-el-nuevo-proyecto-que-busca-aprobar-el-gobierno/",
+        "source": "Infobae Economía",
+        "time": "26/08 00:45",
+        "iso_date": "2026-08-26T03:45:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Giro en la estrategia financiera: Economía no buscará dólares del mercado local durante la próxima licitación",
+        "summary": "La subasta del Tesoro cobra relevancia ya que el mercado observa la reacción de los inversores frente a la oferta de instrumentos en pesos y la dinámica de cobertura frente al dólar y la inflación",
+        "link": "https://www.infobae.com/economia/2026/08/26/giro-en-la-estrategia-financiera-economia-no-buscara-dolares-del-mercado-local-durante-la-proxima-licitacion/",
+        "source": "Infobae Economía",
+        "time": "26/08 00:29",
+        "iso_date": "2026-08-26T03:29:32+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Medidas económicas: el Gobierno anunciará hoy nuevas líneas de créditos hipotecarios",
         "summary": "El ministro de Economía, Luis Caputo, dará una conferencia de prensa en la que realizará los anuncios. Cómo es el esquema que había adelantado la cartera económica",
         "link": "https://www.infobae.com/economia/2026/08/26/medidas-economicas-el-gobierno-anunciara-manana-nuevas-lineas-de-creditos-hipotecarios/",
         "source": "Infobae Economía",
-        "time": "25/08 22:01",
-        "iso_date": "2026-08-26T01:01:01+00:00",
+        "time": "26/08 00:18",
+        "iso_date": "2026-08-26T03:18:37+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Paquetes y vuelos en dólares: cómo pagar en las agencias de viajes para evitar impuestos",
+        "summary": "Dependiendo de la moneda que uses, se puede reducir el recargo del 30%, siempre que se cumplan ciertas características en la operación.",
+        "link": "https://www.ambito.com/economia/paquetes-y-vuelos-dolares-como-pagar-las-agencias-viajes-evitar-impuestos-n6314514",
+        "source": "Ámbito",
+        "time": "25/08 23:00",
+        "iso_date": "2026-08-26T02:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Luis Caputo anunciará un plan para impulsar los créditos hipotecarios con fondos del FGS de ANSES",
+        "summary": "El ministro de Economía dará una conferencia de prensa en el Palacio de Hacienda, en medio de las señales de debilidad que exhibe la actividad económica.",
+        "link": "https://www.ambito.com/economia/luis-caputo-brindara-una-conferencia-prensa-anunciar-nuevas-medidas-economicas-n6314753",
+        "source": "Ámbito",
+        "time": "25/08 23:00",
+        "iso_date": "2026-08-26T02:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -26,7 +138,7 @@
         "is_general": true
       },
       {
-        "title": "En medio del debate por morosidad y leyes clave, el ministro Luis Caputo anuncia medidas",
+        "title": "En medio del debate por morosidad, el ministro Luis Caputo anuncia medidas: ¿créditos del FGS?",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/en-medio-del-debate-por-morosidad-y-leyes-clave-el-ministro-luis-caputo-anunciara-medidas/",
         "source": "El Cronista",
@@ -75,16 +187,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "Luis Caputo brindará una conferencia de prensa para anunciar nuevas medidas económicas",
-        "summary": "El ministro de Economía dará una conferencia de prensa en el Palacio de Hacienda, en medio de las señales de debilidad que exhibe la actividad económica.",
-        "link": "https://www.ambito.com/economia/luis-caputo-brindara-una-conferencia-prensa-anunciar-nuevas-medidas-economicas-n6314753",
-        "source": "Ámbito",
-        "time": "25/08 18:51",
-        "iso_date": "2026-08-25T21:51:00+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -210,112 +312,6 @@
         "iso_date": "2026-08-25T16:52:52+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "¿Es momento de invertir en acciones de semiconductores? BofA señala los pros y contras",
-        "summary": "BofA ve una oportunidad atractiva por el crecimiento esperado de las ganancias, pero advierte sobre una posible caída adicional de 10% y presión vendedora.",
-        "link": "https://www.bloomberglinea.com/mercados/es-momento-de-invertir-en-acciones-de-semiconductores-bofa-senala-los-pros-y-contras/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/08 13:32",
-        "iso_date": "2026-08-25T16:32:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Qué es el ‘debasement trade’ y por qué impulsa al oro y al bitcoin y golpea al dólar?",
-        "summary": "Las dudas sobre la deuda y el déficit de Estados Unidos presionan al dólar y llevan a los inversionistas a buscar protección en activos como el oro y el bitcoin.",
-        "link": "https://www.bloomberglinea.com/mercados/que-es-el-debasement-trade-y-por-que-impulsa-al-oro-y-al-bitcoin-y-golpea-al-dolar/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/08 12:57",
-        "iso_date": "2026-08-25T15:57:15+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La estrategia de Milei para renovar las Fuerzas Armadas: cómo es el plan para comprar vehículos blindados",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-estrategia-de-milei-para-renovar-las-fuerzas-armadas-como-es-el-plan-para-comprar-vehiculos-blindados/",
-        "source": "El Cronista",
-        "time": "25/08 12:43",
-        "iso_date": "2026-08-25T15:43:09+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Del “efecto tapón” al aluvión importador: el fenómeno que advierte el acero argentino ante una eventual reactivación",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/del-efecto-tapon-al-aluvion-importador-el-fenomeno-que-advierte-el-acero-argentino-ante-una-eventual-reactivacion/",
-        "source": "El Cronista",
-        "time": "25/08 12:25",
-        "iso_date": "2026-08-25T15:25:53+00:00",
-        "tickers": [
-          "TXAR"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Citi apuesta por más caídas del dólar: Warsh difícilmente cambiará la tendencia en Jackson Hole",
-        "summary": "El banco no encuentra incentivos para que el presidente de la Fed adopte un tono más restrictivo y mantiene su visión bajista sobre la divisa estadounidense.",
-        "link": "https://www.bloomberglinea.com/mercados/citi-apuesta-por-mas-caidas-del-dolar-warsh-dificilmente-cambiara-la-tendencia-en-jackson-hole/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/08 12:11",
-        "iso_date": "2026-08-25T15:11:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Advierten que sin resolver la mora no habrá recuperación del crédito ni del consumo en Argentina",
-        "summary": "Juan Pablo Ronderos, socio de la consultora MAP, pidió que el BCRA genere las condiciones para acelerar una solución de mercado para la mora, sin recurrir a un salvataje: “Muy lento no es una buena noticia para nadie, tampoco para el Gobierno”.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/advierten-que-sin-resolver-la-mora-no-habra-recuperacion-del-credito-ni-del-consumo-en-argentina/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/08 12:03",
-        "iso_date": "2026-08-25T15:03:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Causa Cuadernos: exdirectivo de Techint confirmó que pagó coimas a Roberto Baratta",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/causa-cuadernos-exdirectivo-de-techint-confirmo-que-pago-coimas-a-roberto-baratta/",
-        "source": "El Cronista",
-        "time": "25/08 11:42",
-        "iso_date": "2026-08-25T14:42:15+00:00",
-        "tickers": [
-          "TXAR"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Trade electoral en Argentina: cuándo impactará en el dólar, según la experiencia internacional",
-        "summary": "Un bróker destacó que la experiencia histórica muestra que todavía falta mucho tiempo para que sea necesario tomar cobertura cambiaria con motivación electoral.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/trade-electoral-en-argentina-cuando-impactara-en-el-dolar-segun-la-experiencia-internacional/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/08 11:37",
-        "iso_date": "2026-08-25T14:37:46+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Ofensiva de EEUU: advierten que Donald Trump exige a las empresas elegir entre el mercado de Irán o el dólar",
-        "summary": "El Tesoro estadounidense aplicó sanciones sobre unas 60 entidades, personas y embarcaciones en distintos países. Empresas europeas enfrentan riesgos por sanciones indirectas, a pesar del bajo comercio bilateral directo con Irán.",
-        "link": "https://www.ambito.com/economia/ofensiva-eeuu-advierten-que-donald-trump-exige-las-empresas-elegir-el-mercado-iran-o-el-dolar-n6314522",
-        "source": "Ámbito",
-        "time": "25/08 11:33",
-        "iso_date": "2026-08-25T14:33:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿El dólar en Colombia se sostendrá en COP$3.000? Esto dicen los analistas",
-        "summary": "Expertos señalaron que un peso fuerte abarata las importaciones para millones de consumidores, reduce el valor en pesos de la deuda externa y disminuye el costo de viajar o de importar maquinaria, bienes de capital y tecnología.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/el-dolar-en-colombia-se-sostendra-en-cop3000-esto-dicen-los-analistas/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/08 11:31",
-        "iso_date": "2026-08-25T14:31:51+00:00",
-        "tickers": [
-          "GD30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -383,20 +379,7 @@
       }
     ],
     "PAMP": [],
-    "BMA": [
-      {
-        "title": "Fausto Spotorno: “La macro mejoró, pero hay mucha gente que efectivamente hoy está peor”",
-        "summary": "El director de la consultora OJ Ferreres y del Instituto de Economía de UADE explicó por qué persiste el malestar social, qué pasa con la mora y dónde ve la principal fragilidad del programa económico",
-        "link": "https://www.infobae.com/economia/2026/08/23/fausto-spotorno-la-macro-mejoro-pero-hay-mucha-gente-que-efectivamente-hoy-esta-peor/",
-        "source": "Infobae Economía",
-        "time": "23/08 23:46",
-        "iso_date": "2026-08-24T02:46:15+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": false
-      }
-    ],
+    "BMA": [],
     "TXAR": [
       {
         "title": "Del “efecto tapón” al aluvión importador: el fenómeno que advierte el acero argentino ante una eventual reactivación",
@@ -427,6 +410,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Riesgo país en Argentina: qué explica la suba y qué puede pasar antes de 2027",
+        "summary": "El indicador vuelve a ubicarse bajo la lupa de los inversores en un contexto en el que se anticipó el clima electoral. Qué esperar en el corto plazo",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/riesgo-pais-en-argentina-que-explica-la-suba-y-que-puede-pasar-antes-de-2027/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/08 05:33",
+        "iso_date": "2026-08-26T08:33:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: la Bolsa argentina mantuvo la racha alcista pero el riesgo país subió y se alejó de los 500 puntos",
         "summary": "El S&P Merval ganó 0,5% y recuperó el nivel de los 3.000.000 puntos. Las bolsas globales subieron la baja de 5% del petróleo y de las tasas de la deuda de EEUU. El riesgo país argentino avanzó a 512 puntos. Las reservas del BCRA se acercaron a USD 51.000 millones",
@@ -518,18 +513,6 @@
         "source": "Infobae Economía",
         "time": "24/08 10:12",
         "iso_date": "2026-08-24T13:12:51+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Por qué subió el riesgo país y hoy “no tiene sentido” un regreso a los mercados, según Augusto Darget",
-        "summary": "El socio fundador de Silver Cloud Advisors atribuyó la reciente suba del riesgo país a un contexto financiero global más exigente y al temor electoral a un cambio de rumbo. Además, aseguró que el país está “más sólido” de lo que se cree",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/por-que-subio-el-riesgo-pais-y-hoy-no-tiene-sentido-un-regreso-a-los-mercados-segun-augusto-darget/",
-        "source": "Bloomberg Línea AR",
-        "time": "24/08 05:45",
-        "iso_date": "2026-08-24T08:45:00+00:00",
         "tickers": [
           "AL30"
         ],
