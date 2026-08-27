@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-27T02:28:03.707156",
-  "updated_str": "27/08/2026 02:28",
+  "updated_at": "2026-08-27T07:19:31.341303",
+  "updated_str": "27/08/2026 07:19",
   "summary": {
-    "change": 0.09,
-    "leader": "PAMP",
-    "leader_change": 1.67,
-    "worst": "ALUA",
-    "worst_change": -2.12,
-    "hot_count": 2,
+    "change": NaN,
+    "leader": "YPFD",
+    "leader_change": NaN,
+    "worst": "YPFD",
+    "worst_change": NaN,
+    "hot_count": 1,
     "cold_count": 0
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 8065.0,
-      "change": 0.69,
+      "price": NaN,
+      "change": NaN,
       "volume": 2420824,
       "volume_ratio": 1.16,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         7815.0,
@@ -30,15 +30,15 @@
         8150.0,
         8175.0,
         8010.0,
-        8065.0
+        NaN
       ],
-      "trend_dir": "up",
-      "trend_streak": 4,
-      "ma5": 8089.0,
-      "ma20": 7958.12,
-      "ma_cross": 1,
-      "score": 70,
-      "signal": "fuerte_suba"
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "GGAL",
@@ -188,8 +188,8 @@
     {
       "ticker": "TECO2",
       "name": "Telecom AR",
-      "price": 4285.0,
-      "change": -0.52,
+      "price": NaN,
+      "change": NaN,
       "volume": 134604,
       "volume_ratio": 1.37,
       "hot": false,
@@ -204,15 +204,15 @@
         4185.0,
         4327.5,
         4307.5,
-        4285.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 4253.0,
-      "ma20": 4286.62,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 41,
-      "signal": "baja"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "CEPU",
