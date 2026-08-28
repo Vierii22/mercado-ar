@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-28T05:53:14.129983",
-  "updated_str": "28/08/2026 05:53",
+  "updated_at": "2026-08-28T09:33:32.305552",
+  "updated_str": "28/08/2026 09:33",
   "summary": {
-    "change": NaN,
-    "leader": "YPFD",
-    "leader_change": NaN,
-    "worst": "YPFD",
-    "worst_change": NaN,
-    "hot_count": 0,
+    "change": -0.95,
+    "leader": "PAMP",
+    "leader_change": 0.87,
+    "worst": "TECO2",
+    "worst_change": -2.68,
+    "hot_count": 1,
     "cold_count": 2
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": NaN,
-      "change": NaN,
+      "price": 8120.0,
+      "change": 0.68,
       "volume": 2810433,
       "volume_ratio": 1.34,
-      "hot": false,
+      "hot": true,
       "cold": false,
       "trend": [
         7860.0,
@@ -30,15 +30,15 @@
         8175.0,
         8010.0,
         8065.0,
-        NaN
+        8120.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "trend_dir": "up",
+      "trend_streak": 4,
+      "ma5": 8104.0,
+      "ma20": 7957.5,
+      "ma_cross": 1,
+      "score": 70,
+      "signal": "fuerte_suba"
     },
     {
       "ticker": "GGAL",
@@ -159,8 +159,8 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": NaN,
-      "change": NaN,
+      "price": 849.0,
+      "change": -0.64,
       "volume": 407039,
       "volume_ratio": 1.25,
       "hot": false,
@@ -175,15 +175,15 @@
         874.5,
         873.0,
         854.5,
-        NaN
+        849.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
+      "ma5": 864.3,
+      "ma20": 906.9,
       "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "score": 40,
+      "signal": "baja"
     },
     {
       "ticker": "TECO2",
