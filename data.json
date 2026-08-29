@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T00:37:52.541941",
-  "updated_str": "29/08/2026 00:37",
+  "updated_at": "2026-08-29T00:53:34.456291",
+  "updated_str": "29/08/2026 00:53",
   "summary": {
     "change": -0.6,
     "leader": "TECO2",
@@ -8,7 +8,7 @@
     "worst": "ALUA",
     "worst_change": -1.59,
     "hot_count": 0,
-    "cold_count": 2
+    "cold_count": 1
   },
   "stocks": [
     {
@@ -51,20 +51,20 @@
       "cold": false,
       "trend": [
         6850.0,
+        6850.0,
         6650.0,
         6550.0,
         6515.0,
         6620.0,
         6950.0,
         7075.0,
-        7045.0,
         6880.0,
         6810.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 6952.0,
-      "ma20": 7067.25,
+      "ma5": 6867.0,
+      "ma20": 7109.08,
       "ma_cross": -1,
       "score": 38,
       "signal": "baja"
@@ -80,23 +80,23 @@
       "cold": false,
       "trend": [
         4990.0,
+        4990.0,
         4955.0,
         5005.0,
         5030.0,
         5055.0,
         5150.0,
         5085.0,
-        5170.0,
         5215.0,
         5175.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 5159.0,
-      "ma20": 5137.5,
-      "ma_cross": 1,
-      "score": 50,
-      "signal": "neutral"
+      "ma5": 5136.0,
+      "ma20": 5156.75,
+      "ma_cross": -1,
+      "score": 40,
+      "signal": "baja"
     },
     {
       "ticker": "BMA",
@@ -104,10 +104,11 @@
       "price": 12260.0,
       "change": 0.08,
       "volume": 259723,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.92,
       "hot": false,
       "cold": false,
       "trend": [
+        12240.0,
         12240.0,
         11950.0,
         11800.0,
@@ -115,14 +116,13 @@
         11650.0,
         12280.0,
         12430.0,
-        12510.0,
         12250.0,
         12260.0
       ],
       "trend_dir": "up",
       "trend_streak": 4,
-      "ma5": 12346.0,
-      "ma20": 12735.5,
+      "ma5": 12174.0,
+      "ma20": 12899.0,
       "ma_cross": -1,
       "score": 56,
       "signal": "suba"
@@ -135,8 +135,9 @@
       "volume": 559541,
       "volume_ratio": 0.34,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
+        728.0,
         728.0,
         695.0,
         681.0,
@@ -144,16 +145,15 @@
         697.0,
         691.5,
         695.0,
-        692.0,
         690.0,
         687.5
       ],
-      "trend_dir": "down",
-      "trend_streak": 4,
-      "ma5": 691.2,
-      "ma20": 702.12,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": 692.2,
+      "ma20": 700.5,
       "ma_cross": -1,
-      "score": 32,
+      "score": 42,
       "signal": "baja"
     },
     {
@@ -162,10 +162,11 @@
       "price": 835.5,
       "change": -1.59,
       "volume": 259522,
-      "volume_ratio": 0.79,
+      "volume_ratio": 0.86,
       "hot": false,
       "cold": true,
       "trend": [
+        898.0,
         898.0,
         869.5,
         864.5,
@@ -173,17 +174,16 @@
         870.5,
         874.5,
         873.0,
-        854.5,
         849.0,
         835.5
       ],
-      "trend_dir": "down",
-      "trend_streak": 4,
-      "ma5": 857.3,
-      "ma20": 899.8,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": 860.5,
+      "ma20": 907.35,
       "ma_cross": -1,
-      "score": 24,
-      "signal": "fuerte_baja"
+      "score": 34,
+      "signal": "baja"
     },
     {
       "ticker": "TECO2",
@@ -220,10 +220,11 @@
       "price": 2141.0,
       "change": -1.15,
       "volume": 589431,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.92,
       "hot": false,
       "cold": false,
       "trend": [
+        2072.0,
         2072.0,
         2032.0,
         2023.0,
@@ -231,15 +232,14 @@
         2071.0,
         2133.0,
         2164.0,
-        2191.0,
         2166.0,
         2141.0
       ],
-      "trend_dir": "neutral",
-      "trend_streak": 0,
-      "ma5": 2159.0,
-      "ma20": 2145.8,
-      "ma_cross": 1,
+      "trend_dir": "up",
+      "trend_streak": 4,
+      "ma5": 2135.0,
+      "ma20": 2166.85,
+      "ma_cross": -1,
       "score": 47,
       "signal": "neutral"
     }
