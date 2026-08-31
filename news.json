@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-31T22:57:24.986869",
-  "updated_str": "31/08/2026 22:57",
+  "updated_at": "2026-08-31T23:09:59.402770",
+  "updated_str": "31/08/2026 23:09",
   "cutoff_hours": 48,
   "total_news": 167,
   "news": {
     "GENERAL": [
+      {
+        "title": "4 de cada 10 empresas argentinas no miden las necesidades de capacitación de su personal",
+        "summary": "Un relevamiento del Observatorio del Futuro reveló que el 63% de las empresas tampoco mide la capacidad de sus empleados para aprender a aprender.",
+        "link": "https://www.ambito.com/economia/4-cada-10-empresas-argentinas-no-miden-las-necesidades-capacitacion-su-personal-n6316938",
+        "source": "Ámbito",
+        "time": "31/08 19:57",
+        "iso_date": "2026-08-31T22:57:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Fondos sin control, la compra de un auto y la renuncia del director: lo que destapó la auditoría de Milei",
         "summary": "A pedido del oficialismo, se realizó una auditoría de la Oficina del Presupuesto del Congreso, un organismo desconcentrado que realiza informes presupuestarios del Gobierno. Su director renunció luego de que el relevamiento expusiera anomalías: una caja sin trazabilidad y plat...",
@@ -32,6 +44,16 @@
         "source": "El Cronista",
         "time": "31/08 19:18",
         "iso_date": "2026-08-31T22:18:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Plazo Fijo en dólares: cuánto gano si invierto US$3.500 a 30 días",
+        "summary": "La ganancia de un plazo fijo en dólares depende de la tasa que ofrece cada banco. Cuánto se puede obtener al invertir US$3.500.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-gano-si-invierto-us3500-30-dias-n6316770",
+        "source": "Ámbito",
+        "time": "31/08 19:00",
+        "iso_date": "2026-08-31T22:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -302,26 +324,6 @@
         "iso_date": "2026-08-31T16:01:39+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Déficit de Colombia es peor de lo pensado y para Wall Street ahora inicia la verdadera prueba",
-        "summary": "Bancos reconocen avances en el sinceramiento fiscal, pero advierte que el reto pasa por ejecutar los recortes y cubrir unas necesidades de financiamiento.",
-        "link": "https://www.bloomberglinea.com/mercados/deficit-de-colombia-es-peor-de-lo-pensado-y-para-wall-street-ahora-inicia-la-verdadera-prueba/",
-        "source": "Bloomberg Línea AR",
-        "time": "31/08 12:59",
-        "iso_date": "2026-08-31T15:59:31+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "G20 de Estados Unidos: comenzó el encuentro de ministros de Economía y Caputo se reunirá con el secretario del Tesoro, Scott Bessent",
-        "summary": "El jefe del Palacio de Hacienda además se reunirá con Kristalina Georgieva, directora gerente del FMI, y defenderá el programa de ajuste durante un debate sobre crecimiento global",
-        "link": "https://www.infobae.com/economia/2026/08/31/g20-de-estados-unidos-comenzo-el-encuentro-de-ministros-de-economia-y-caputo-se-reunira-con-el-secretario-del-tesoro-scott-bessent/",
-        "source": "Infobae Economía",
-        "time": "31/08 12:17",
-        "iso_date": "2026-08-31T15:17:13+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -404,6 +406,30 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
+      {
+        "title": "4 de cada 10 empresas argentinas no miden las necesidades de capacitación de su personal",
+        "summary": "Un relevamiento del Observatorio del Futuro reveló que el 63% de las empresas tampoco mide la capacidad de sus empleados para aprender a aprender.",
+        "link": "https://www.ambito.com/economia/4-cada-10-empresas-argentinas-no-miden-las-necesidades-capacitacion-su-personal-n6316938",
+        "source": "Ámbito",
+        "time": "31/08 19:57",
+        "iso_date": "2026-08-31T22:57:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "4 de cada 10 empresas argentinas no miden las necesidades de capacitación de su personal",
+        "summary": "Un relevamiento del Observatorio del Futuro reveló que el 63% de las empresas tampoco mide la capacidad de sus empleados para aprender a aprender.",
+        "link": "https://www.ambito.com/economia/4-cada-10-empresas-argentinas-no-miden-las-necesidades-capacitacion-su-personal-n6316938",
+        "source": "Ámbito Mercados",
+        "time": "31/08 19:57",
+        "iso_date": "2026-08-31T22:57:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Banco Provincia amplió oferta de créditos hipotecarios y busca impulsar la construcción de viviendas",
         "summary": "El banco bonaerense presentó una nueva línea hipotecaria UVA y un préstamo personal destinado a la compra de viviendas modulares. El objetivo es ampliar el acceso al financiamiento y dinamizar la actividad de la construcción.",
@@ -522,30 +548,6 @@
         "source": "Ámbito Mercados",
         "time": "31/08 15:42",
         "iso_date": "2026-08-31T18:42:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mario Blejer, expresidente del BCRA: “El que dice que el dólar está barato es porque gana cuando devalúan”",
-        "summary": "El economista advirtió sobre las consecuencias de una corrección del tipo de cambio y pidió más pragmatismo al Gobierno de cara a las elecciones. Además, analizó el aumento de la morosidad, el acceso al crédito y la persistencia del riesgo país por encima de los 500 puntos.",
-        "link": "https://www.ambito.com/economia/mario-blejer-expresidente-del-bcra-el-que-dice-que-el-dolar-esta-barato-es-porque-gana-cuando-devaluan-n6316252",
-        "source": "Ámbito",
-        "time": "30/08 11:00",
-        "iso_date": "2026-08-30T14:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mario Blejer, expresidente del BCRA: “El que dice que el dólar está barato es porque gana cuando devalúan”",
-        "summary": "El economista advirtió sobre las consecuencias de una corrección del tipo de cambio y pidió más pragmatismo al Gobierno de cara a las elecciones. Además, analizó el aumento de la morosidad, el acceso al crédito y la persistencia del riesgo país por encima de los 500 puntos.",
-        "link": "https://www.ambito.com/economia/mario-blejer-expresidente-del-bcra-el-que-dice-que-el-dolar-esta-barato-es-porque-gana-cuando-devaluan-n6316252",
-        "source": "Ámbito Mercados",
-        "time": "30/08 11:00",
-        "iso_date": "2026-08-30T14:00:00+00:00",
         "tickers": [
           "AL30"
         ],
