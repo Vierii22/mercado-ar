@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-01T18:55:22.834654",
-  "updated_str": "01/09/2026 18:55",
+  "updated_at": "2026-09-01T19:30:14.532910",
+  "updated_str": "01/09/2026 19:30",
   "cutoff_hours": 48,
-  "total_news": 222,
+  "total_news": 269,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este martes 1 de septiembre",
+        "summary": "El billete al público finalizó ofrecido a $1.535 para la venta en el Banco Nación. El blue quedó negociado a $1.545",
+        "link": "https://www.infobae.com/economia/2026/09/01/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-1-de-septiembre/",
+        "source": "Infobae Economía",
+        "time": "01/09 15:57",
+        "iso_date": "2026-09-01T18:57:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar arrancó septiembre en alza y con un importante volumen operado",
+        "summary": "El tipo de cambio mayorista subió a $1.513, con una oferta de USD 670 millones. Al público subió a $1.535 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/09/01/el-dolar-arranco-septiembre-en-alza-y-con-un-importante-volumen-operado/",
+        "source": "Infobae Economía",
+        "time": "01/09 15:55",
+        "iso_date": "2026-09-01T18:55:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Nueva venta masiva de bonos soberanos de EEUU: las últimas señales de la Fed complican la estrategia del Tesoro",
+        "summary": "Además de las preocupaciones por el petróleo, el gasto fiscal y el riesgo inflacionario, el nuevo \"estilo\" del presidente de la Reserva Federal suma incertidumbre a los mercados de deuda estadounidense.",
+        "link": "https://www.ambito.com/economia/nueva-venta-masiva-bonos-soberanos-eeuu-las-ultimas-senales-la-fed-complican-la-estrategia-del-tesoro-n6317265",
+        "source": "Ámbito",
+        "time": "01/09 15:51",
+        "iso_date": "2026-09-01T18:51:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "G20 en Estados Unidos: Caputo y Bessent se encontraron para profundizar la alianza bilateral y analizar el tablero internacional",
         "summary": "Tras elogiar los resultados del programa de ajuste, el secretario del Tesoro recibe al ministro de Economía para avanzar en la agenda común entre la administración Trump y el gobierno de Milei",
@@ -117,16 +147,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este martes 1 de septiembre",
-        "summary": "El billete al público es ofrecido a $1.535 para la venta en el Banco Nación. El blue es negociado a $1.545",
-        "link": "https://www.infobae.com/economia/2026/09/01/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-1-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "01/09 12:56",
-        "iso_date": "2026-09-01T15:56:52+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -294,26 +314,6 @@
         "iso_date": "2026-09-01T08:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "IPC de agosto: qué inflación esperan las consultoras",
-        "summary": "De acuerdo con lo informado por el Indec, el último Índice de Precios al Consumidor rebotó y se ubicó en 2,1%. Cuáles son las proyecciones de los analistas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/en-cuanto-cerro-la-inflacion-de-agosto-segun-las-principales-consultoras-de-argentina/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/09 04:00",
-        "iso_date": "2026-09-01T07:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Banco Central estudia un sistema de “cupones de crédito” para reducir el costo financiero de los comercios",
-        "summary": "El proyecto busca que los comercios puedan adelantar el cobro de ventas con tarjeta en mejores condiciones y con más competencia entre quienes ofrecen financiamiento",
-        "link": "https://www.infobae.com/economia/2026/09/01/el-banco-central-estudia-un-sistema-de-cupones-de-credito-para-reducir-el-costo-financiero-de-los-comercios/",
-        "source": "Infobae Economía",
-        "time": "01/09 03:51",
-        "iso_date": "2026-09-01T06:51:10+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -336,6 +336,30 @@
         "source": "Infobae Economía",
         "time": "01/09 02:43",
         "iso_date": "2026-09-01T05:43:25+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Asia incrementa las compras de petróleo argentino ante la guerra en Irán",
+        "summary": "La crisis geopolítica en Medio Oriente llevó a refinerías de Japón, Corea del Sur y China a volcarse hacia el Medanito de Vaca Muerta. Los factores detrás del interés asiático: paridad técnica con el WTI, precios competitivos y rutas marítimas seguras.",
+        "link": "https://www.ambito.com/economia/asia-incrementa-las-compras-petroleo-argentino-la-guerra-iran-n6316827",
+        "source": "Ámbito",
+        "time": "31/08 14:59",
+        "iso_date": "2026-08-31T17:59:45+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Asia incrementa las compras de petróleo argentino ante la guerra en Irán",
+        "summary": "La crisis geopolítica en Medio Oriente llevó a refinerías de Japón, Corea del Sur y China a volcarse hacia el Medanito de Vaca Muerta. Los factores detrás del interés asiático: paridad técnica con el WTI, precios competitivos y rutas marítimas seguras.",
+        "link": "https://www.ambito.com/economia/asia-incrementa-las-compras-petroleo-argentino-la-guerra-iran-n6316827",
+        "source": "Ámbito Mercados",
+        "time": "31/08 14:59",
+        "iso_date": "2026-08-31T17:59:45+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -458,6 +482,30 @@
         "is_general": false
       },
       {
+        "title": "Banco Provincia amplió oferta de créditos hipotecarios y busca impulsar la construcción de viviendas",
+        "summary": "El banco bonaerense presentó una nueva línea hipotecaria UVA y un préstamo personal destinado a la compra de viviendas modulares. El objetivo es ampliar el acceso al financiamiento y dinamizar la actividad de la construcción.",
+        "link": "https://www.ambito.com/economia/banco-provincia-amplio-oferta-creditos-hipotecarios-y-busca-impulsar-la-construccion-viviendas-n6316887",
+        "source": "Ámbito",
+        "time": "31/08 18:11",
+        "iso_date": "2026-08-31T21:11:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Banco Provincia amplió oferta de créditos hipotecarios y busca impulsar la construcción de viviendas",
+        "summary": "El banco bonaerense presentó una nueva línea hipotecaria UVA y un préstamo personal destinado a la compra de viviendas modulares. El objetivo es ampliar el acceso al financiamiento y dinamizar la actividad de la construcción.",
+        "link": "https://www.ambito.com/economia/banco-provincia-amplio-oferta-creditos-hipotecarios-y-busca-impulsar-la-construccion-viviendas-n6316887",
+        "source": "Ámbito Mercados",
+        "time": "31/08 18:11",
+        "iso_date": "2026-08-31T21:11:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Informe privado cuestiona el rol de YPFB en Bolivia: “En 90 años, no ha logrado consolidarse”",
         "summary": "“YPFB Corporación presupuestó más de 2.400 millones de bolivianos para gasto en servicios de personal, en tanto que, si solo se considera a YPFB Casa Matriz, el presupuesto asignado a estas partidas se aproxima a los 800 millones de boliviano.",
         "link": "https://www.bloomberglinea.com/latinoamerica/bolivia/informe-privado-cuestiona-el-rol-de-ypfb-en-bolivia-en-90-anos-no-ha-logrado-consolidarse/",
@@ -476,6 +524,30 @@
         "source": "Infobae Economía",
         "time": "31/08 13:39",
         "iso_date": "2026-08-31T16:39:14+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
+        "summary": "Las subas se aplicarán en cuatro etapas entre septiembre y diciembre. También se actualizaron los haberes de docentes, personal de la Antártida y trabajadores alcanzados por regímenes especiales.",
+        "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553",
+        "source": "Ámbito",
+        "time": "31/08 07:36",
+        "iso_date": "2026-08-31T10:36:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
+        "summary": "Las subas se aplicarán en cuatro etapas entre septiembre y diciembre. También se actualizaron los haberes de docentes, personal de la Antártida y trabajadores alcanzados por regímenes especiales.",
+        "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553",
+        "source": "Ámbito Mercados",
+        "time": "31/08 07:36",
+        "iso_date": "2026-08-31T10:36:00+00:00",
         "tickers": [
           "TECO2"
         ],
@@ -551,6 +623,30 @@
         "source": "Infobae Economía",
         "time": "31/08 16:14",
         "iso_date": "2026-08-31T19:14:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Domingo Cavallo apuntó contra la política monetaria del Gobierno y afirmó que \"no es ortodoxa\"",
+        "summary": "El exministro de Economía abogó por la liberalización de los controles cambiarios, lo que ayudaría — en su opinión — a la competividad de los bienes argentinos en el mercado internacional e impulsaría una baja en el riesgo país.",
+        "link": "https://www.ambito.com/economia/domingo-cavallo-apunto-contra-la-politica-monetaria-del-gobierno-y-afirmo-que-no-es-ortodoxa-n6316853",
+        "source": "Ámbito",
+        "time": "31/08 15:42",
+        "iso_date": "2026-08-31T18:42:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Domingo Cavallo apuntó contra la política monetaria del Gobierno y afirmó que \"no es ortodoxa\"",
+        "summary": "El exministro de Economía abogó por la liberalización de los controles cambiarios, lo que ayudaría — en su opinión — a la competividad de los bienes argentinos en el mercado internacional e impulsaría una baja en el riesgo país.",
+        "link": "https://www.ambito.com/economia/domingo-cavallo-apunto-contra-la-politica-monetaria-del-gobierno-y-afirmo-que-no-es-ortodoxa-n6316853",
+        "source": "Ámbito Mercados",
+        "time": "31/08 15:42",
+        "iso_date": "2026-08-31T18:42:00+00:00",
         "tickers": [
           "AL30"
         ],
