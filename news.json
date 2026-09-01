@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-01T21:10:59.367467",
-  "updated_str": "01/09/2026 21:10",
+  "updated_at": "2026-09-01T21:40:02.093115",
+  "updated_str": "01/09/2026 21:40",
   "cutoff_hours": 48,
-  "total_news": 286,
+  "total_news": 240,
   "news": {
     "GENERAL": [
+      {
+        "title": "La recaudación tributaria aumentó en agosto al ritmo de la inflación",
+        "summary": "El ingreso de pagos postergados de meses anteriores de Ganancias, sumado a la mayor liquidación agroexportadora, determinaron un incremento de los ingresos administrados por ARCA del 33,5% interanual",
+        "link": "https://www.infobae.com/economia/2026/09/01/la-recaudacion-tributaria-aumento-en-agosto-al-ritmo-de-la-inflacion/",
+        "source": "Infobae Economía",
+        "time": "01/09 18:35",
+        "iso_date": "2026-09-01T21:35:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Las acciones argentinas subieron hasta 7% en Wall Street y el riesgo país quedó cerca de romper el piso de los 500 puntos",
         "summary": "El S&P Merval subió 0,5% y esquivo la tendencia bajista de Wall Street, donde impactó el salto de más de 5% en el precio del petróleo. El dólar subió a $1.535 en el Banco Nación y las reservas volvieron a superar los USD 50.000 millones",
@@ -302,18 +312,6 @@
         "iso_date": "2026-09-01T12:40:38+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El rendimiento de los bonos de Japón marca un récord en 30 años y EEUU presiona para subir las tasas",
-        "summary": "La deuda soberana de Japón alcanza picos inéditos desde 1996 ante el avance de la inflación y las presiones directas de Washington. El contagio a los mercados globales y las señales de un nuevo alza de tasas este mes.",
-        "link": "https://www.ambito.com/economia/el-rendimiento-los-bonos-japon-marca-un-record-30-anos-y-eeuu-presiona-subir-las-tasas-n6317018",
-        "source": "Ámbito",
-        "time": "01/09 08:30",
-        "iso_date": "2026-09-01T11:30:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -348,30 +346,6 @@
         "source": "Infobae Economía",
         "time": "01/09 02:43",
         "iso_date": "2026-09-01T05:43:25+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Asia incrementa las compras de petróleo argentino ante la guerra en Irán",
-        "summary": "La crisis geopolítica en Medio Oriente llevó a refinerías de Japón, Corea del Sur y China a volcarse hacia el Medanito de Vaca Muerta. Los factores detrás del interés asiático: paridad técnica con el WTI, precios competitivos y rutas marítimas seguras.",
-        "link": "https://www.ambito.com/economia/asia-incrementa-las-compras-petroleo-argentino-la-guerra-iran-n6316827",
-        "source": "Ámbito",
-        "time": "31/08 14:59",
-        "iso_date": "2026-08-31T17:59:45+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Asia incrementa las compras de petróleo argentino ante la guerra en Irán",
-        "summary": "La crisis geopolítica en Medio Oriente llevó a refinerías de Japón, Corea del Sur y China a volcarse hacia el Medanito de Vaca Muerta. Los factores detrás del interés asiático: paridad técnica con el WTI, precios competitivos y rutas marítimas seguras.",
-        "link": "https://www.ambito.com/economia/asia-incrementa-las-compras-petroleo-argentino-la-guerra-iran-n6316827",
-        "source": "Ámbito Mercados",
-        "time": "31/08 14:59",
-        "iso_date": "2026-08-31T17:59:45+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -470,54 +444,6 @@
         "is_general": false
       },
       {
-        "title": "4 de cada 10 empresas argentinas no miden las necesidades de capacitación de su personal",
-        "summary": "Un relevamiento del Observatorio del Futuro reveló que el 63% de las empresas tampoco mide la capacidad de sus empleados para aprender a aprender.",
-        "link": "https://www.ambito.com/economia/4-cada-10-empresas-argentinas-no-miden-las-necesidades-capacitacion-su-personal-n6316938",
-        "source": "Ámbito",
-        "time": "31/08 19:57",
-        "iso_date": "2026-08-31T22:57:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "4 de cada 10 empresas argentinas no miden las necesidades de capacitación de su personal",
-        "summary": "Un relevamiento del Observatorio del Futuro reveló que el 63% de las empresas tampoco mide la capacidad de sus empleados para aprender a aprender.",
-        "link": "https://www.ambito.com/economia/4-cada-10-empresas-argentinas-no-miden-las-necesidades-capacitacion-su-personal-n6316938",
-        "source": "Ámbito Mercados",
-        "time": "31/08 19:57",
-        "iso_date": "2026-08-31T22:57:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Banco Provincia amplió oferta de créditos hipotecarios y busca impulsar la construcción de viviendas",
-        "summary": "El banco bonaerense presentó una nueva línea hipotecaria UVA y un préstamo personal destinado a la compra de viviendas modulares. El objetivo es ampliar el acceso al financiamiento y dinamizar la actividad de la construcción.",
-        "link": "https://www.ambito.com/economia/banco-provincia-amplio-oferta-creditos-hipotecarios-y-busca-impulsar-la-construccion-viviendas-n6316887",
-        "source": "Ámbito",
-        "time": "31/08 18:11",
-        "iso_date": "2026-08-31T21:11:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Banco Provincia amplió oferta de créditos hipotecarios y busca impulsar la construcción de viviendas",
-        "summary": "El banco bonaerense presentó una nueva línea hipotecaria UVA y un préstamo personal destinado a la compra de viviendas modulares. El objetivo es ampliar el acceso al financiamiento y dinamizar la actividad de la construcción.",
-        "link": "https://www.ambito.com/economia/banco-provincia-amplio-oferta-creditos-hipotecarios-y-busca-impulsar-la-construccion-viviendas-n6316887",
-        "source": "Ámbito Mercados",
-        "time": "31/08 18:11",
-        "iso_date": "2026-08-31T21:11:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Informe privado cuestiona el rol de YPFB en Bolivia: “En 90 años, no ha logrado consolidarse”",
         "summary": "“YPFB Corporación presupuestó más de 2.400 millones de bolivianos para gasto en servicios de personal, en tanto que, si solo se considera a YPFB Casa Matriz, el presupuesto asignado a estas partidas se aproxima a los 800 millones de boliviano.",
         "link": "https://www.bloomberglinea.com/latinoamerica/bolivia/informe-privado-cuestiona-el-rol-de-ypfb-en-bolivia-en-90-anos-no-ha-logrado-consolidarse/",
@@ -536,30 +462,6 @@
         "source": "Infobae Economía",
         "time": "31/08 13:39",
         "iso_date": "2026-08-31T16:39:14+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
-        "summary": "Las subas se aplicarán en cuatro etapas entre septiembre y diciembre. También se actualizaron los haberes de docentes, personal de la Antártida y trabajadores alcanzados por regímenes especiales.",
-        "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553",
-        "source": "Ámbito",
-        "time": "31/08 07:36",
-        "iso_date": "2026-08-31T10:36:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Gobierno oficializó un nuevo aumento de salarios para militares, fuerzas de seguridad y empleados públicos: de cuánto será",
-        "summary": "Las subas se aplicarán en cuatro etapas entre septiembre y diciembre. También se actualizaron los haberes de docentes, personal de la Antártida y trabajadores alcanzados por regímenes especiales.",
-        "link": "https://www.ambito.com/economia/el-gobierno-oficializo-un-nuevo-aumento-salarios-militares-fuerzas-seguridad-y-empleados-publicos-cuanto-sera-n6316553",
-        "source": "Ámbito Mercados",
-        "time": "31/08 07:36",
-        "iso_date": "2026-08-31T10:36:00+00:00",
         "tickers": [
           "TECO2"
         ],
@@ -647,30 +549,6 @@
         "source": "Infobae Economía",
         "time": "31/08 16:14",
         "iso_date": "2026-08-31T19:14:14+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Domingo Cavallo apuntó contra la política monetaria del Gobierno y afirmó que \"no es ortodoxa\"",
-        "summary": "El exministro de Economía abogó por la liberalización de los controles cambiarios, lo que ayudaría — en su opinión — a la competividad de los bienes argentinos en el mercado internacional e impulsaría una baja en el riesgo país.",
-        "link": "https://www.ambito.com/economia/domingo-cavallo-apunto-contra-la-politica-monetaria-del-gobierno-y-afirmo-que-no-es-ortodoxa-n6316853",
-        "source": "Ámbito",
-        "time": "31/08 15:42",
-        "iso_date": "2026-08-31T18:42:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Domingo Cavallo apuntó contra la política monetaria del Gobierno y afirmó que \"no es ortodoxa\"",
-        "summary": "El exministro de Economía abogó por la liberalización de los controles cambiarios, lo que ayudaría — en su opinión — a la competividad de los bienes argentinos en el mercado internacional e impulsaría una baja en el riesgo país.",
-        "link": "https://www.ambito.com/economia/domingo-cavallo-apunto-contra-la-politica-monetaria-del-gobierno-y-afirmo-que-no-es-ortodoxa-n6316853",
-        "source": "Ámbito Mercados",
-        "time": "31/08 15:42",
-        "iso_date": "2026-08-31T18:42:00+00:00",
         "tickers": [
           "AL30"
         ],
