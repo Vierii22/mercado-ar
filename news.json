@@ -1,10 +1,82 @@
 {
-  "updated_at": "2026-09-02T14:17:02.859207",
-  "updated_str": "02/09/2026 14:17",
+  "updated_at": "2026-09-02T15:25:22.692342",
+  "updated_str": "02/09/2026 15:25",
   "cutoff_hours": 48,
-  "total_news": 247,
+  "total_news": 250,
   "news": {
     "GENERAL": [
+      {
+        "title": "Endeudamiento familiar, tarjetas y fintech: qué proponen frente al salto de la mora los proyectos que hay en el Congreso",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/endeudamiento-familiar-tarjetas-y-fintech-que-proponen-frente-al-salto-de-la-mora-los-proyectos-que-hay-en-el-congreso/",
+        "source": "El Cronista",
+        "time": "02/09 12:21",
+        "iso_date": "2026-09-02T15:21:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Duros reclamos de la UIA en el Día de la Industria: “La economía no puede medirse sólo por inflación, hay que mirar la actividad”",
+        "summary": "El presidente de la entidad fabril, Martín Rapallini, hizo un discurso cargado de cuestionamientos. Antes Guillermo Moretti, uno de los vice, fue aún más duro y apuntó contra el ministro Luis Caputo: “Estamos manejados por un trader que no sabe lo que es un torno”",
+        "link": "https://www.infobae.com/economia/2026/09/02/duros-reclamos-de-la-uia-en-el-dia-de-la-industria-la-economia-no-puede-medirse-solo-por-inflacion-hay-que-mirar-la-actividad/",
+        "source": "Infobae Economía",
+        "time": "02/09 12:19",
+        "iso_date": "2026-09-02T15:19:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mejora la imagen de Milei y el rumbo al que va el país, pero la mayoría cree que no valió la pena el ajuste porque no llegan a fin de mes",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/mejora-la-imagen-de-milei-y-el-rumbo-al-que-va-el-pais-pero-la-mayoria-cree-que-no-valio-la-pena-el-ajuste-porque-no-llegan-a-fin-de-mes/",
+        "source": "El Cronista",
+        "time": "02/09 11:37",
+        "iso_date": "2026-09-02T14:37:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Duras críticas de la UIA al Gobierno: \"Esta gente no sabe lo que es una fábrica\"",
+        "summary": "El vicepresidente de la entidad, Guillermo Moretti, cuestionó el rumbo de las políticas de Javier Milei para el sector. Aseguró que el ministro Luis Caputo es \"un endeudador, un trader que no sabe lo que es un torno\".",
+        "link": "https://www.ambito.com/economia/el-vicepresidente-la-uia-duro-contra-el-gobierno-esta-gente-no-sabe-lo-que-es-una-fabrica-n6317619",
+        "source": "Ámbito",
+        "time": "02/09 11:37",
+        "iso_date": "2026-09-02T14:37:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Daniel Herrero: “Con un dólar estable y salarios atados a la inflación es más caro fabricar autos”",
+        "summary": "El presidente de Prestige Auto analizó la caída del mercado automotor, advirtió sobre la pérdida de competitividad de la industria argentina y sostuvo que la salida puede venir por el crédito y las exportaciones",
+        "link": "https://www.infobae.com/economia/2026/09/02/daniel-herrero-con-un-dolar-estable-y-salarios-atados-a-la-inflacion-es-mas-caro-fabricar-autos/",
+        "source": "Infobae Economía",
+        "time": "02/09 11:35",
+        "iso_date": "2026-09-02T14:35:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Fertilizantes: el negocio de u$s 4000 millones que Vaca Muerta puede liderar",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/fertilizantes-el-negocio-de-us-4000-millones-que-vaca-muerta-puede-liderar/",
+        "source": "El Cronista",
+        "time": "02/09 11:34",
+        "iso_date": "2026-09-02T14:34:50+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Lucas Llach: “La prioridad no es tanto seguir bajando la inflación sino que la economía se mueva un poco más”",
+        "summary": "El economista planteó cuáles son las variables que se deberían ajustar para que repunte la actividad",
+        "link": "https://www.infobae.com/economia/2026/09/02/lucas-llach-la-prioridad-no-es-tanto-seguir-bajando-la-inflacion-sino-que-la-economia-se-mueva-un-poco-mas/",
+        "source": "Infobae Economía",
+        "time": "02/09 11:29",
+        "iso_date": "2026-09-02T14:29:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Wall Street opera con pocos cambios pese a la presión de los bonos y las tensiones con Irán",
         "summary": "Los bonos, el petróleo y las expectativas sobre la Fed dominan la sesión, con nuevas señales de desaceleración en la contratación privada.",
@@ -242,85 +314,21 @@
         "iso_date": "2026-09-01T21:58:49+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "La recaudación tributaria aumentó en agosto al ritmo de la inflación",
-        "summary": "El ingreso de pagos postergados de meses anteriores de Ganancias, sumado a la mayor liquidación agroexportadora, determinaron un incremento de los ingresos administrados por ARCA del 33,5% interanual",
-        "link": "https://www.infobae.com/economia/2026/09/01/la-recaudacion-tributaria-aumento-en-agosto-al-ritmo-de-la-inflacion/",
-        "source": "Infobae Economía",
-        "time": "01/09 18:40",
-        "iso_date": "2026-09-01T21:40:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones argentinas subieron hasta 7% en Wall Street y el riesgo país quedó cerca de romper el piso de los 500 puntos",
-        "summary": "El S&P Merval subió 0,5% y esquivo la tendencia bajista de Wall Street, donde impactó el salto de más de 5% en el precio del petróleo. El dólar subió a $1.535 en el Banco Nación y las reservas volvieron a superar los USD 50.000 millones",
-        "link": "https://www.infobae.com/economia/2026/09/01/las-acciones-argentinas-subieron-hasta-7-en-wall-street-y-el-riesgo-pais-quedo-cerca-de-romper-el-piso-de-los-500-puntos/",
-        "source": "Infobae Economía",
-        "time": "01/09 18:00",
-        "iso_date": "2026-09-01T21:00:36+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este martes 1 de septiembre",
-        "summary": "El billete al público finalizó ofrecido a $1.535 para la venta en el Banco Nación. El blue quedó negociado a $1.545. El BCRA compró USD 15 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/01/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-1-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "01/09 17:52",
-        "iso_date": "2026-09-01T20:52:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Cómo seguirá el ritmo de compra de dólares del Banco Central argentino hasta fin de 2026?",
-        "summary": "La adquisición de reservas por parte de la autoridad monetaria cayó en agosto, pero se espera un que regrese al ritmo anterior.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/como-seguira-el-ritmo-de-compra-de-dolares-del-banco-central-argentino-hasta-fin-de-2026/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/09 17:51",
-        "iso_date": "2026-09-01T20:51:36+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Bullrich llevó una propuesta para aliviar el sobreendeudamiento y busca involucrar a bancos y fintech",
+        "title": "Fertilizantes: el negocio de u$s 4000 millones que Vaca Muerta puede liderar",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/bullrich-llevo-una-propuesta-para-aliviar-el-sobreendeudamiento-y-busca-involucrar-a-bancos-y-fintech/",
+        "link": "https://www.cronista.com/economia-politica/fertilizantes-el-negocio-de-us-4000-millones-que-vaca-muerta-puede-liderar/",
         "source": "El Cronista",
-        "time": "01/09 17:36",
-        "iso_date": "2026-09-01T20:36:59+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: subieron los bonos argentinos y el riesgo país bajó hasta la zona de los 500 puntos",
-        "summary": "El S&P Merval ganó 0,5%, a contramano de las pérdidas de Wall Street. Los títulos públicos en dólares progresaron un 0,4% en promedio y el indicador de JP Morgan cedió a 501 puntos",
-        "link": "https://www.infobae.com/economia/2026/09/01/mercados-suben-los-bonos-argentinas-y-el-riesgo-pais-baja-hasta-la-zona-de-los-500-puntos/",
-        "source": "Infobae Economía",
-        "time": "01/09 17:28",
-        "iso_date": "2026-09-01T20:28:33+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "YPF y una provincia petrolera se reunieron con el nuevo responsable de Trump para América latina",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ypf-y-una-provincia-petrolera-se-reunieron-con-el-nuevo-responsable-de-trump-para-america-latina/",
-        "source": "El Cronista",
-        "time": "01/09 17:14",
-        "iso_date": "2026-09-01T20:14:43+00:00",
+        "time": "02/09 11:34",
+        "iso_date": "2026-09-02T14:34:50+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
-      }
-    ],
-    "YPFD": [
+      },
       {
         "title": "YPF y una provincia petrolera se reunieron con el nuevo responsable de Trump para América latina",
         "summary": "",
