@@ -1,10 +1,104 @@
 {
-  "updated_at": "2026-09-03T15:18:44.107657",
-  "updated_str": "03/09/2026 15:18",
+  "updated_at": "2026-09-03T17:34:52.965797",
+  "updated_str": "03/09/2026 17:34",
   "cutoff_hours": 48,
-  "total_news": 244,
+  "total_news": 231,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Banco de Japón se inclinaría por subir las tasas un cuarto de punto en septiembre",
+        "summary": "La entidad evaluaría un ajuste de 25 puntos básicos ante los riesgos inflacionarios y la presión explícita de Estados Unidos para fortalecer el yen. Los detalles, en la nota.",
+        "link": "https://www.ambito.com/economia/el-banco-japon-se-inclinaria-subir-las-tasas-un-cuarto-punto-septiembre-n6318206",
+        "source": "Ámbito",
+        "time": "03/09 14:02",
+        "iso_date": "2026-09-03T17:02:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Trump volvió a hablar de Malvinas: nuevo guiño a Argentina antes de la cadena nacional de Milei",
+        "summary": "El presidente de Estados Unidos volvió a referirse a las Islas Malvinas y su relación con el Reino Unido. Las declaraciones llegan horas antes de que Javier Milei hable sobre el asunto por cadena nacional.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/trump-volvio-a-hablar-de-malvinas-nuevo-guino-a-argentina-antes-de-la-cadena-nacional-de-milei/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/09 13:40",
+        "iso_date": "2026-09-03T16:40:24+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La petrolera que invertirá más de US$1.000 millones en Vaca Muerta entra en Venezuela y espera triplicar producción",
+        "summary": "GeoPark sumará un importante activo petrolero en la Faja del Orinoco a su creciente operación en Neuquén. La compañía proyecta que Venezuela y Vaca Muerta le permitirán llevar su producción hasta 85.000 barriles equivalentes diarios hacia 2030.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-petrolera-que-invertira-mas-de-us1000-millones-en-vaca-muerta-entra-en-venezuela-y-espera-triplicar-produccion/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/09 13:17",
+        "iso_date": "2026-09-03T16:17:58+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Milei llamó a organizar a la derecha internacional, se reunió con Kast y una funcionaria de Trump",
+        "summary": "“Si ellos tuvieron su Internacional Socialista, la derecha también se tiene que organizar”, alentó durante su discurso en el Foro Madrid. A su regreso, grabará la cadena nacional por Malvinas.",
+        "link": "https://www.cronista.com/economia-politica/milei-desembarca-en-chile-entre-abrazos-y-disputas-estrategicas-foro-de-madrid-y-guino-a-eeuu/",
+        "source": "El Cronista",
+        "time": "03/09 13:16",
+        "iso_date": "2026-09-03T16:16:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La clave que le daría la reelección a Milei en 2027, según Malamud: “No hay nada...”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/malamud-sobre-las-chances-de-milei-en-2027-asi-como-va-es-reelecto/",
+        "source": "El Cronista",
+        "time": "03/09 13:16",
+        "iso_date": "2026-09-03T16:16:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este jueves 3 de septiembre",
+        "summary": "El billete al público baja a $1.530 para la venta en el Banco Nación. El blue sube a $1.545",
+        "link": "https://www.infobae.com/economia/2026/09/03/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-3-de-septiembre/",
+        "source": "Infobae Economía",
+        "time": "03/09 13:13",
+        "iso_date": "2026-09-03T16:13:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: suben los bonos argentinos y cae el riesgo país, con el barril de petróleo en alza y cerca de los 100 dólares",
+        "summary": "El barril de Brent alcanza los USD 96, un nuevo máximo de seis semanas. El S&P Merval baja 1,3% y corta una serie de tres ruedas en alza. Los títulos públicos avanzan 0,4% y el riesgo país cae a 496 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/09/03/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-barril-de-petroleo-en-alza-y-cerca-de-los-100-dolares/",
+        "source": "Infobae Economía",
+        "time": "03/09 12:55",
+        "iso_date": "2026-09-03T15:55:53+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Nvidia refuerza su liderazgo global: compró una compañía por USD 13.000 millones para convertirse en plataforma de IA",
+        "summary": "La empresa con mayor capitalización bursátil de Wall Street adquirió Hugging Face, para consolidar su negocio más allá del negocio de chips. Si es aprobada, la operación se cerrará en el primer semestre de 2027",
+        "link": "https://www.infobae.com/economia/2026/09/03/nvidia-refuerza-su-liderazgo-global-compro-una-compania-por-usd-13000-millones-para-convertirse-en-plataforma-de-ia/",
+        "source": "Infobae Economía",
+        "time": "03/09 12:29",
+        "iso_date": "2026-09-03T15:29:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El crédito total al sector privado tuvo un magro crecimiento en agosto gracias a la menor inflación",
+        "summary": "El financiamiento en pesos alcanzó los $106,5 billones, con una mejora del 0,6% real mensual que responde más a la baja de la inflación que a una recuperación genuina de la demanda",
+        "link": "https://www.infobae.com/economia/2026/09/03/el-credito-total-al-sector-privado-tuvo-un-magro-crecimiento-en-agosto-gracias-a-la-menor-inflacion/",
+        "source": "Infobae Economía",
+        "time": "03/09 12:25",
+        "iso_date": "2026-09-03T15:25:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Bank of America mueve su cartera en América Latina: las acciones y países que tiene en el radar",
         "summary": "La nueva distribución regional de BofA aumenta la apuesta por Perú y mantiene el sesgo favorable hacia Colombia y Argentina. México pasa a infraponderar.",
@@ -33,18 +127,6 @@
         "time": "03/09 12:03",
         "iso_date": "2026-09-03T15:03:40+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: suben las acciones y los bonos argentinos, con el barril de petróleo en alza y cerca de los 100 dólares",
-        "summary": "El barril de Brent alcanza los USD 96, un nuevo máximo de seis semanas. El S&P Merval gana 1,4%, en la cuarta suba consecutiva. Los títulos públicos avanzan 0,2% y el riesgo país cae a 496 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/09/03/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-barril-de-petroleo-en-alza-y-cerca-de-los-100-dolares/",
-        "source": "Infobae Economía",
-        "time": "03/09 11:13",
-        "iso_date": "2026-09-03T14:13:41+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -78,6 +160,16 @@
         "is_general": true
       },
       {
+        "title": "Plazo fijo en dólares: cuánto gano si invierto US$3.500 a 90 días",
+        "summary": "Conocé cuánto rinden US$3.500 en un plazo fijo a 90 días, el rendimiento depende de la tasa vigente y permite sumar intereses al capital.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-gano-si-invierto-us3500-90-dias-n6317767",
+        "source": "Ámbito",
+        "time": "03/09 10:30",
+        "iso_date": "2026-09-03T13:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "Cuánto puede costar usar un cajero automático de un banco que no es el propio",
         "summary": "El BCRA amplió el relevamiento de comisiones bancarias a la totalidad de las entidades financieras y expuso diferencias de miles de pesos entre lo que cobran las entidades financieras para operaciones habituales",
         "link": "https://www.infobae.com/economia/2026/09/03/comisiones-bancarias-cuanto-puede-costar-usar-un-cajero-automatico-de-un-banco-que-no-es-el-propio/",
@@ -88,32 +180,12 @@
         "is_general": true
       },
       {
-        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este jueves 3 de septiembre",
-        "summary": "El billete al público se mantiene ofrecido a $1.535 para la venta en el Banco Nación. El blue es operado a $1.540. El BCRA compró ayer USD 28 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/03/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-3-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "03/09 10:17",
-        "iso_date": "2026-09-03T13:17:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Ni Milei, ni el peronismo: el cambio que piden los bonaerenses e inquieta a ambas fuerzas",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/ni-milei-ni-el-peronismo-el-cambio-que-piden-los-bonaerenses-e-inquieta-a-ambas-fuerzas/",
         "source": "El Cronista",
         "time": "03/09 08:53",
         "iso_date": "2026-09-03T11:53:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Con críticas a la oposición y defensa del rumbo económico, Milei participó de un foro de derecha en su visita a Chile",
-        "summary": "El Presidente visitará Santiago para disertar en el Foro Madrid, tendrá una bilateral con Kast tras el cruce diplomático por el Estrecho de Magallanes y se reunirá con una funcionaria de Trump. A su regreso, grabará la cadena nacional por Malvinas.",
-        "link": "https://www.cronista.com/economia-politica/milei-desembarca-en-chile-entre-abrazos-y-disputas-estrategicas-foro-de-madrid-y-guino-a-eeuu/",
-        "source": "El Cronista",
-        "time": "03/09 08:18",
-        "iso_date": "2026-09-03T11:18:05+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -242,83 +314,21 @@
         "iso_date": "2026-09-03T00:13:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Javier Timerman explicó qué esperan los inversores de Argentina: “Confían en que esta política se va a mantener”",
-        "summary": "El asesor financiero analizó en Infobae al Regreso el impacto del programa económico, relativizó la preocupación de Wall Street por los créditos en mora y advirtió que las reformas necesitarán continuidad y consensos para sostenerse en el tiempo",
-        "link": "https://www.infobae.com/economia/2026/09/02/javier-timerman-explico-que-esperan-los-inversores-de-argentina-confian-en-que-esta-politica-se-va-a-mantener/",
-        "source": "Infobae Economía",
-        "time": "02/09 20:58",
-        "iso_date": "2026-09-02T23:58:18+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tensión en la cúpula de la UIA: Rappallini se despegó de uno de los vicepresidentes de la entidad que criticó a Caputo",
-        "summary": "El titular de la entidad industrial aseguró que su discurso refleja el consenso del Comité Ejecutivo y diferenció como personal la postura de Guillermo Moretti, quien calificó al ministro de Economía como un “trader que no sabe lo que es un torno”",
-        "link": "https://www.infobae.com/economia/2026/09/02/tension-en-la-cupula-de-la-uia-rappallini-se-despego-del-vicepresidente-de-la-entidad-que-critico-a-caputo/",
-        "source": "Infobae Economía",
-        "time": "02/09 18:56",
-        "iso_date": "2026-09-02T21:56:01+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Tres vías para que Colombia reduzca sus necesidades de financiación en 2027 hasta en COP$80 billones",
-        "summary": "Un análisis de Alejandro Rojas, economista senior del Banco de Bogotá, plantea que el Gobierno podría disminuir sus necesidades de financiamiento si se concretan un mayor roll-over de deuda interna, una Ley de Ajuste Fiscal y mejores condiciones de mercado.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/tres-vias-para-que-colombia-reduzca-sus-necesidades-de-financiacion-en-2027-hasta-en-cop80-billones/",
-        "source": "Bloomberg Línea AR",
-        "time": "02/09 18:53",
-        "iso_date": "2026-09-02T21:53:37+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo le contestó al vice de la UIA, explicó el “crecimiento a 2 velocidades” y anticipó un plan “cero impuestos”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/caputo-le-contesto-al-vice-de-la-uia-tienen-que-invertir-hacer-cosas-que-no-estan-acostumbrados-a-hacer/",
-        "source": "El Cronista",
-        "time": "02/09 18:38",
-        "iso_date": "2026-09-02T21:38:29+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: la Bolsa argentina subió por tercera rueda seguida y el riesgo país cayó a 500 puntos",
-        "summary": "Los ADR en Wall Street subieron hasta 5% y los bonos en dólares ganaron 0,2% en promedio. El dólar siguió a $1.535 en el Banco Nación y el BCRA compró USD 28 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/02/jornada-financiera-la-bolsa-argentina-subio-por-tercera-rueda-seguida-y-el-riesgo-pais-cayo-a-500-puntos/",
-        "source": "Infobae Economía",
-        "time": "02/09 18:22",
-        "iso_date": "2026-09-02T21:22:22+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei: “Si no ganamos es porque como sociedad estamos eligiendo suicidarnos”",
-        "summary": "El Presidente cerró la jornada de “Vientos de Cambio”. Anticipó que no va a flexibilizar la política económica por las elecciones, defendió los resultados de gestión y planteó el escenario electoral para el 2027. Lo que le dijo un militante al bajarse del escenario y la presen...",
-        "link": "https://www.cronista.com/economia-politica/milei-agito-un-triunfo-de-bolsonaro-defendio-la-batalla-cultural-y-la-necesidad-de-mostrar-resultados/",
-        "source": "El Cronista",
-        "time": "02/09 18:12",
-        "iso_date": "2026-09-02T21:12:25+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Ferreres le puso número a la inflación de agosto: el dato que da alivio al Gobierno y una sorpresa todavía mejor",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ferreres-le-puso-numero-a-la-inflacion-de-agosto-el-dato-que-da-alivio-al-gobierno-y-una-sorpresa-todavia-mejor/",
-        "source": "El Cronista",
-        "time": "02/09 17:57",
-        "iso_date": "2026-09-02T20:57:01+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "La petrolera que invertirá más de US$1.000 millones en Vaca Muerta entra en Venezuela y espera triplicar producción",
+        "summary": "GeoPark sumará un importante activo petrolero en la Faja del Orinoco a su creciente operación en Neuquén. La compañía proyecta que Venezuela y Vaca Muerta le permitirán llevar su producción hasta 85.000 barriles equivalentes diarios hacia 2030.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-petrolera-que-invertira-mas-de-us1000-millones-en-vaca-muerta-entra-en-venezuela-y-espera-triplicar-produccion/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/09 13:17",
+        "iso_date": "2026-09-03T16:17:58+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Una hidrovía para Vaca Muerta: cómo es el proyecto de 720 kilómetros que puede generar un ahorro multimillonario",
         "summary": "",
@@ -357,20 +367,7 @@
       }
     ],
     "GGAL": [],
-    "PAMP": [
-      {
-        "title": "Tras el cierre de la única productora de caucho sintético del país, 100 trabajadores acordaron retiros voluntarios",
-        "summary": "Luego de semanas de negociaciones y prórrogas de la conciliación, Pampa Energía confirmó el cese definitivo en Puerto General San Martín, provincia de Santa Fe. Otros 25 trabajadores serán reubicados en empresas del grupo",
-        "link": "https://www.infobae.com/economia/2026/09/01/tras-el-cierre-de-la-unica-productora-de-caucho-sintetico-del-pais-100-trabajadores-acordaron-retiros-voluntarios/",
-        "source": "Infobae Economía",
-        "time": "01/09 14:19",
-        "iso_date": "2026-09-01T17:19:14+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      }
-    ],
+    "PAMP": [],
     "BMA": [
       {
         "title": "Lanzaron nuevos créditos en dólares para desarrolladores inmobiliarios",
@@ -440,12 +437,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: suben las acciones y los bonos argentinos, con el barril de petróleo en alza y cerca de los 100 dólares",
-        "summary": "El barril de Brent alcanza los USD 96, un nuevo máximo de seis semanas. El S&P Merval gana 1,4%, en la cuarta suba consecutiva. Los títulos públicos avanzan 0,2% y el riesgo país cae a 496 puntos básicos",
+        "title": "Mercados: suben los bonos argentinos y cae el riesgo país, con el barril de petróleo en alza y cerca de los 100 dólares",
+        "summary": "El barril de Brent alcanza los USD 96, un nuevo máximo de seis semanas. El S&P Merval baja 1,3% y corta una serie de tres ruedas en alza. Los títulos públicos avanzan 0,4% y el riesgo país cae a 496 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/09/03/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-barril-de-petroleo-en-alza-y-cerca-de-los-100-dolares/",
         "source": "Infobae Economía",
-        "time": "03/09 11:13",
-        "iso_date": "2026-09-03T14:13:41+00:00",
+        "time": "03/09 12:55",
+        "iso_date": "2026-09-03T15:55:53+00:00",
         "tickers": [
           "AL30"
         ],
