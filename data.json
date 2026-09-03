@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-02T23:43:33.069908",
-  "updated_str": "02/09/2026 23:43",
+  "updated_at": "2026-09-03T02:57:53.863562",
+  "updated_str": "03/09/2026 02:57",
   "summary": {
     "change": 1.47,
     "leader": "YPFD",
     "leader_change": 2.81,
     "worst": "ALUA",
     "worst_change": 0.12,
-    "hot_count": 3,
+    "hot_count": 4,
     "cold_count": 0
   },
   "stocks": [
@@ -47,14 +47,14 @@
       "change": 1.56,
       "volume": 1452216,
       "volume_ratio": 0.63,
-      "hot": false,
+      "hot": true,
       "cold": false,
       "trend": [
-        6550.0,
         6515.0,
         6620.0,
         6950.0,
         7075.0,
+        7045.0,
         6880.0,
         6810.0,
         7015.0,
@@ -64,9 +64,9 @@
       "trend_dir": "neutral",
       "trend_streak": 0,
       "ma5": 6987.0,
-      "ma20": 6991.75,
-      "ma_cross": -1,
-      "score": 56,
+      "ma20": 6962.0,
+      "ma_cross": 1,
+      "score": 66,
       "signal": "suba"
     },
     {
@@ -79,11 +79,11 @@
       "hot": true,
       "cold": false,
       "trend": [
-        5005.0,
         5030.0,
         5055.0,
         5150.0,
         5085.0,
+        5170.0,
         5215.0,
         5175.0,
         5240.0,
@@ -93,7 +93,7 @@
       "trend_dir": "up",
       "trend_streak": 4,
       "ma5": 5295.0,
-      "ma20": 5140.25,
+      "ma20": 5133.25,
       "ma_cross": 1,
       "score": 81,
       "signal": "fuerte_suba"
@@ -104,15 +104,15 @@
       "price": 12580.0,
       "change": 0.64,
       "volume": 165392,
-      "volume_ratio": 0.62,
+      "volume_ratio": 0.61,
       "hot": false,
       "cold": false,
       "trend": [
-        11800.0,
         11530.0,
         11650.0,
         12280.0,
         12430.0,
+        12510.0,
         12250.0,
         12260.0,
         12610.0,
@@ -122,7 +122,7 @@
       "trend_dir": "neutral",
       "trend_streak": 0,
       "ma5": 12440.0,
-      "ma20": 12594.5,
+      "ma20": 12460.0,
       "ma_cross": -1,
       "score": 49,
       "signal": "neutral"
@@ -220,7 +220,7 @@
       "price": 2270.0,
       "change": 2.48,
       "volume": 1045079,
-      "volume_ratio": 1.63,
+      "volume_ratio": 1.62,
       "hot": true,
       "cold": false,
       "trend": [
@@ -238,7 +238,7 @@
       "trend_dir": "up",
       "trend_streak": 4,
       "ma5": 2190.6,
-      "ma20": 2140.65,
+      "ma20": 2135.15,
       "ma_cross": 1,
       "score": 86,
       "signal": "fuerte_suba"
