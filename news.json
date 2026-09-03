@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-03T21:36:14.838660",
-  "updated_str": "03/09/2026 21:36",
+  "updated_at": "2026-09-03T21:46:26.131364",
+  "updated_str": "03/09/2026 21:46",
   "cutoff_hours": 48,
   "total_news": 258,
   "news": {
     "GENERAL": [
+      {
+        "title": "El número dos del Banco Central instó a los bancos a asistir a los deudores: “Esas tasas de interés altas inducen a la mora”",
+        "summary": "En un congreso de profesionales de finanzas, el vicepresidente de la autoridad monetaria Vladimir Werning, admitió que la tasa de interés para familias no bajó lo suficiente y alentó a los bancos a refinanciar a los morosos al menor costo financiero posible",
+        "link": "https://www.infobae.com/economia/2026/09/03/el-numero-dos-del-banco-central-dio-su-vision-de-como-atacar-el-record-de-mora-es-una-solucion-entre-privados/",
+        "source": "Infobae Economía",
+        "time": "03/09 18:38",
+        "iso_date": "2026-09-03T21:38:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: el riesgo país consolidó su baja y quebró el umbral de los 500 puntos",
+        "summary": "Los índices de Nueva York subieron hasta 1,4%. El S&P Merval cayó 1,6% y cortó una serie de tres alzas seguidas. Los bonos soberanos subieron 0,4%. El dólar cedió a $1.530 en el Banco Nación y el BCRA compró USD 15 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/09/03/jornada-financiera-el-riesgo-pais-consolido-su-baja-y-quebro-el-umbral-de-los-500-puntos/",
+        "source": "Infobae Economía",
+        "time": "03/09 18:37",
+        "iso_date": "2026-09-03T21:37:42+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 3 de septiembre",
         "summary": "El billete al público bajó a $1.530 para la venta en el Banco Nación. El blue sube a $1.545. El BCRA compró USD 15 millones en el mercado",
@@ -94,16 +116,6 @@
         "source": "Bloomberg Línea AR",
         "time": "03/09 17:06",
         "iso_date": "2026-09-03T20:06:18+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El número dos del Banco Central dio su visión de cómo atacar el récord de mora: “Es una solución entre privados”",
-        "summary": "En un congreso de profesionales de finanzas, el vicepresidente de la autoridad monetaria Vladimir Werning, admitió que la tasa de interés para familias no bajó lo suficiente y alentó a los bancos a refinanciar a los morosos al menor costo financiero posible",
-        "link": "https://www.infobae.com/economia/2026/09/03/el-numero-dos-del-banco-central-dio-su-vision-de-como-atacar-el-record-de-mora-es-una-solucion-entre-privados/",
-        "source": "Infobae Economía",
-        "time": "03/09 17:03",
-        "iso_date": "2026-09-03T20:03:43+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -298,18 +310,6 @@
         "iso_date": "2026-09-03T11:53:30+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Lanzaron nuevos créditos en dólares para desarrolladores inmobiliarios",
-        "summary": "Banco Macro presentó la propuesta y explicó que los planes ajustan los pagos al avance de cada emprendimiento para acompañar el repunte de la construcción y ampliar viviendas",
-        "link": "https://www.infobae.com/economia/2026/09/02/lanzaron-nuevos-creditos-en-dolares-para-desarrolladores-inmobiliarios/",
-        "source": "Infobae Economía",
-        "time": "03/09 07:44",
-        "iso_date": "2026-09-03T10:44:06+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -420,6 +420,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: el riesgo país consolidó su baja y quebró el umbral de los 500 puntos",
+        "summary": "Los índices de Nueva York subieron hasta 1,4%. El S&P Merval cayó 1,6% y cortó una serie de tres alzas seguidas. Los bonos soberanos subieron 0,4%. El dólar cedió a $1.530 en el Banco Nación y el BCRA compró USD 15 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/09/03/jornada-financiera-el-riesgo-pais-consolido-su-baja-y-quebro-el-umbral-de-los-500-puntos/",
+        "source": "Infobae Economía",
+        "time": "03/09 18:37",
+        "iso_date": "2026-09-03T21:37:42+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: subieron los bonos argentinos y el riesgo país perforó los 500 puntos",
         "summary": "Los títulos públicos avanzaron 0,4% y el indicador de JP Morgan cayó a 494 puntos básicos. El barril de Brent alcanzó los USD 96, un máximo de seis semanas. El S&P Merval bajó 1,6% y cortó una serie de tres ruedas en alza",
