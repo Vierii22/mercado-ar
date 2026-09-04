@@ -1,17 +1,83 @@
 {
-  "updated_at": "2026-09-04T20:07:52.863850",
-  "updated_str": "04/09/2026 20:07",
+  "updated_at": "2026-09-04T20:54:04.711242",
+  "updated_str": "04/09/2026 20:54",
   "cutoff_hours": 48,
   "total_news": 236,
   "news": {
     "GENERAL": [
       {
+        "title": "Los bonos argentinos volvieron a operar en alza y cayó el riesgo país",
+        "summary": "Los índices de Wall Street cedieron tras un informe de empleo en EEUU y arrastró a una baja de 0,3% en el S&P Merval. Los títulos públicos en dólares ascendieron 0,4%. El indicador de JP Morgan cayó a 490 unidades",
+        "link": "https://www.infobae.com/economia/2026/09/04/vuelve-a-bajar-el-riesgo-pais-y-suben-las-acciones-y-los-bonos-argentinos/",
+        "source": "Infobae Economía",
+        "time": "04/09 17:47",
+        "iso_date": "2026-09-04T20:47:11+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "“Reafirma su compromiso con la defensa de los derechos soberanos”: el respaldo del CICyP a Milei por Malvinas",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/reafirma-su-compromiso-con-la-defensa-de-los-derechos-soberanos-el-respaldo-del-cicyp-a-milei-por-malvinas/",
+        "source": "El Cronista",
+        "time": "04/09 17:46",
+        "iso_date": "2026-09-04T20:46:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Nuevos créditos hipotecarios: el Gobierno licitará fondos desde el lunes para ampliar la oferta de los bancos",
+        "summary": "Los recursos del Fondo de Garantía de Sustentabilidad se canalizarán mediante depósitos UVA, con dos plazos y tasas mínimas",
+        "link": "https://www.infobae.com/economia/2026/09/04/nuevos-creditos-hipotecarios-el-gobierno-licitara-fondos-desde-el-lunes-para-ampliar-la-oferta-de-los-bancos/",
+        "source": "Infobae Economía",
+        "time": "04/09 17:37",
+        "iso_date": "2026-09-04T20:37:26+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Vaca Muerta se expande más allá de Añelo: dónde aparece el próximo polo de inversiones petroleras",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/vaca-muerta-se-expande-mas-alla-de-anelo-donde-aparece-el-proximo-polo-de-inversiones-petroleras/",
+        "source": "El Cronista",
+        "time": "04/09 17:36",
+        "iso_date": "2026-09-04T20:36:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Pablo Quirno, sobre sanciones para petróleras en Malvinas: \"Con Vaca Muerta, las petroleras tendrán que elegir dónde invertir\"",
+        "summary": "El Canciller destacó en la Convención del IAEF que el potencial de Vaca Muerta permite presionar a las petroleras para que elijan entre invertir legalmente en Neuquén u operar de manera irregular en Malvinas.",
+        "link": "https://www.ambito.com/economia/pablo-quirno-sanciones-petroleras-malvinas-con-vaca-muerta-las-petroleras-tendran-que-elegir-donde-invertir-n6318735",
+        "source": "Ámbito",
+        "time": "04/09 17:07",
+        "iso_date": "2026-09-04T20:07:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Wall Street cayó tras sólido dato de empleo que impulsó al dólar y golpeó al oro y al bitcoin",
+        "summary": "La creación de 162.000 empleos en agosto superó todas las estimaciones y elevó la presión sobre la Fed antes de su reunión de septiembre.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-y-el-dolar-sube-con-fuerza-tras-dato-de-empleo-que-refuerza-alza-de-tasas-de-la-fed/",
+        "source": "Bloomberg Línea AR",
+        "time": "04/09 17:05",
+        "iso_date": "2026-09-04T20:05:15+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este viernes 4 de septiembre",
         "summary": "El billete al público quedó ofrecido a $1.530 para la venta en el Banco Nación. El blue se operó a $1.540. El BCRA compró USD 23 millones en el mercado",
         "link": "https://www.infobae.com/economia/2026/09/04/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-4-de-septiembre/",
         "source": "Infobae Economía",
-        "time": "04/09 17:02",
-        "iso_date": "2026-09-04T20:02:06+00:00",
+        "time": "04/09 17:04",
+        "iso_date": "2026-09-04T20:04:10+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -117,18 +183,6 @@
         "time": "04/09 15:04",
         "iso_date": "2026-09-04T18:04:03+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Vuelve a bajar el riesgo país y suben las acciones y los bonos argentinos",
-        "summary": "Mientras los índices de Wall Street ceden tras un informe de empleo en EEUU, el S&P Merval gana 0,3% y los títulos públicos en dólares ascienden 0,2%. El indicador de JP Morgan cae a 491 unidades",
-        "link": "https://www.infobae.com/economia/2026/09/04/vuelve-a-bajar-el-riesgo-pais-y-suben-las-acciones-y-los-bonos-argentinos/",
-        "source": "Infobae Economía",
-        "time": "04/09 15:00",
-        "iso_date": "2026-09-04T18:00:32+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -268,59 +322,45 @@
         "iso_date": "2026-09-04T15:53:45+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La salida de petróleo de Malvinas “es un desafío que Argentina no está dispuesta a aceptar”, dice Bullrich",
-        "summary": "La senadora y exministra de Seguridad del gobierno de Milei aseguró que las sanciones apuntan a cuidar los recursos naturales del país. “No somos anti-empresarios, pero queremos que el recurso argentino sirva para el crecimiento argentino”.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-salida-de-petroleo-de-malvinas-es-un-desafio-que-argentina-no-esta-dispuesta-a-aceptar-dice-bullrich/",
-        "source": "Bloomberg Línea AR",
-        "time": "04/09 12:41",
-        "iso_date": "2026-09-04T15:41:24+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Fallo clave de la Cámara Federal con guiño a Milei: hipótesis de estafa y timing judicial",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-camara-veto-a-los-querellantes-con-un-guino-a-milei-sobre-la-hipotesis-de-una-estafa/",
-        "source": "El Cronista",
-        "time": "04/09 12:12",
-        "iso_date": "2026-09-04T15:12:12+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El empleo en EEUU superó con creces las expectativas y se consolida el escenario de una suba de tasas de la Fed",
-        "summary": "El dato oficial estuvo muy por encima de las proyecciones que hicieron los analistas de Wall Street. Sin embargo, si bien el informe evidenció el buen estado de salud del mercado de trabajo de EEUU, también ofreció nuevos argumentos para que la Reserva Federal suba la tasa.",
-        "link": "https://www.ambito.com/economia/el-empleo-eeuu-supero-creces-las-expectativas-y-se-consolida-el-escenario-una-suba-tasas-la-fed-n6318601",
-        "source": "Ámbito",
-        "time": "04/09 12:05",
-        "iso_date": "2026-09-04T15:05:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno reforzó con más de $5 billones la partida para Salud, energía y jubilaciones y pensiones",
-        "summary": "El Jefe de Gabinete de Ministros, Diego Santilli, firmó junto al ministro de Economía, Luis Caputo, la Decisión Administrativa 26/202, que modifica el Presupuesto General de la Administración Nacional para este ejercicio",
-        "link": "https://www.infobae.com/economia/2026/09/04/el-gobierno-reforzo-con-mas-de-5-billones-la-partida-para-salud-energia-y-jubilaciones-y-pensiones/",
-        "source": "Infobae Economía",
-        "time": "04/09 11:50",
-        "iso_date": "2026-09-04T14:50:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei anunció sanciones a petroleras en Malvinas y caen las acciones: qué dijeron sobre el futuro de Sea Lion",
-        "summary": "Las acciones de Rockhopper retrocedían más de 6% en Londres luego de que el Presidente anunciara un endurecimiento de las sanciones contra las compañías vinculadas a la explotación de hidrocarburos en las Islas Malvinas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-anuncio-sanciones-a-petroleras-en-malvinas-y-caen-las-acciones-que-dijeron-sobre-el-futuro-de-sea-lion/",
-        "source": "Bloomberg Línea AR",
-        "time": "04/09 11:29",
-        "iso_date": "2026-09-04T14:29:44+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Vaca Muerta se expande más allá de Añelo: dónde aparece el próximo polo de inversiones petroleras",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/vaca-muerta-se-expande-mas-alla-de-anelo-donde-aparece-el-proximo-polo-de-inversiones-petroleras/",
+        "source": "El Cronista",
+        "time": "04/09 17:36",
+        "iso_date": "2026-09-04T20:36:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Pablo Quirno, sobre sanciones para petróleras en Malvinas: \"Con Vaca Muerta, las petroleras tendrán que elegir dónde invertir\"",
+        "summary": "El Canciller destacó en la Convención del IAEF que el potencial de Vaca Muerta permite presionar a las petroleras para que elijan entre invertir legalmente en Neuquén u operar de manera irregular en Malvinas.",
+        "link": "https://www.ambito.com/economia/pablo-quirno-sanciones-petroleras-malvinas-con-vaca-muerta-las-petroleras-tendran-que-elegir-donde-invertir-n6318735",
+        "source": "Ámbito",
+        "time": "04/09 17:07",
+        "iso_date": "2026-09-04T20:07:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Pablo Quirno, sobre sanciones para petróleras en Malvinas: \"Con Vaca Muerta, las petroleras tendrán que elegir dónde invertir\"",
+        "summary": "El Canciller destacó en la Convención del IAEF que el potencial de Vaca Muerta permite presionar a las petroleras para que elijan entre invertir legalmente en Neuquén u operar de manera irregular en Malvinas.",
+        "link": "https://www.ambito.com/economia/pablo-quirno-sanciones-petroleras-malvinas-con-vaca-muerta-las-petroleras-tendran-que-elegir-donde-invertir-n6318735",
+        "source": "Ámbito Mercados",
+        "time": "04/09 17:07",
+        "iso_date": "2026-09-04T20:07:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Canciller argentino advierte a petroleras que deberán elegir entre Vaca Muerta o Malvinas",
         "summary": "Pablo Quirno explicó los alcances del anuncio que realizó el presidente Milei el jueves en cadena nacional. “Lo que estamos haciendo es generar ese desincentivo, que tengan que elegir entre invertir en un terreno disputado, con licencias ilegales, o que vengan a Argentina con ...",
@@ -490,12 +530,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Vuelve a bajar el riesgo país y suben las acciones y los bonos argentinos",
-        "summary": "Mientras los índices de Wall Street ceden tras un informe de empleo en EEUU, el S&P Merval gana 0,3% y los títulos públicos en dólares ascienden 0,2%. El indicador de JP Morgan cae a 491 unidades",
+        "title": "Los bonos argentinos volvieron a operar en alza y cayó el riesgo país",
+        "summary": "Los índices de Wall Street cedieron tras un informe de empleo en EEUU y arrastró a una baja de 0,3% en el S&P Merval. Los títulos públicos en dólares ascendieron 0,4%. El indicador de JP Morgan cayó a 490 unidades",
         "link": "https://www.infobae.com/economia/2026/09/04/vuelve-a-bajar-el-riesgo-pais-y-suben-las-acciones-y-los-bonos-argentinos/",
         "source": "Infobae Economía",
-        "time": "04/09 15:00",
-        "iso_date": "2026-09-04T18:00:32+00:00",
+        "time": "04/09 17:47",
+        "iso_date": "2026-09-04T20:47:11+00:00",
         "tickers": [
           "AL30"
         ],
@@ -592,18 +632,6 @@
         "source": "Infobae Economía",
         "time": "02/09 18:22",
         "iso_date": "2026-09-02T21:22:22+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: cayó el riesgo país argentino y llegó a perforar el piso de los 500 puntos básicos",
-        "summary": "Los bonos en dólares operaron con alza de 0,2% y el indicador de JP Morgan cedió al nivel del 17 de agosto",
-        "link": "https://www.infobae.com/economia/2026/09/02/mercados-cae-el-riesgo-pais-argentino-y-vuelve-a-perforar-el-piso-de-los-500-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "02/09 17:22",
-        "iso_date": "2026-09-02T20:22:54+00:00",
         "tickers": [
           "AL30"
         ],
