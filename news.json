@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-07T21:38:47.718518",
-  "updated_str": "07/09/2026 21:38",
+  "updated_at": "2026-09-07T21:56:33.920883",
+  "updated_str": "07/09/2026 21:56",
   "cutoff_hours": 48,
-  "total_news": 170,
+  "total_news": 171,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Banco Central rompió una racha de 27 días consecutivos con compra de dólares: cuáles son los motivos",
+        "summary": "La autoridad monetaria no intervino en el mercado cambiario. Los antecedentes previos se remontan a fines de julio y principios de enero de 2026",
+        "link": "https://www.infobae.com/economia/2026/09/07/el-banco-central-no-compro-dolares-por-tercera-vez-en-el-ano-y-rompio-una-racha-de-27-dias-consecutivos-con-saldo-positivo/",
+        "source": "Infobae Economía",
+        "time": "07/09 18:52",
+        "iso_date": "2026-09-07T21:52:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: cayeron las acciones argentinas en una rueda atípica por el feriado de Estados Unidos",
+        "summary": "El S&P Merval cedió 0,5% y los bonos bajaron 0,1% en promedio. Wall Street y la Bolsa de San Pablo no operaron sendos días festivos. El dólar al público continuó a $1.530 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/09/07/jornada-financiera-cayeron-las-acciones-argentinas-en-una-rueda-atipica-por-el-feriado-de-estados-unidos/",
+        "source": "Infobae Economía",
+        "time": "07/09 18:42",
+        "iso_date": "2026-09-07T21:42:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este lunes 7 de septiembre",
         "summary": "El billete al público continuó ofrecido a $1.530 para la venta en el Banco Nación. El blue estuvo operado a $1.545. El BCRA no efectuó compras en el mercado",
@@ -22,16 +42,6 @@
         "source": "Bloomberg Línea AR",
         "time": "07/09 17:33",
         "iso_date": "2026-09-07T20:33:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Banco Central no compró dólares por tercera vez en el año y rompió una racha de 27 días consecutivos con saldo positivo",
-        "summary": "La autoridad monetaria no intervino en el mercado cambiario. Los antecedentes previos se remontan a fines de julio y principios de enero de 2026",
-        "link": "https://www.infobae.com/economia/2026/09/07/el-banco-central-no-compro-dolares-por-tercera-vez-en-el-ano-y-rompio-una-racha-de-27-dias-consecutivos-con-saldo-positivo/",
-        "source": "Infobae Economía",
-        "time": "07/09 17:27",
-        "iso_date": "2026-09-07T20:27:06+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -298,16 +308,6 @@
         "iso_date": "2026-09-07T13:40:01+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Endeudamiento: la oposición se acerca al quórum y los gobernadores tienen la llave de la sesión",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-oposicion-lleva-la-morosidad-al-recinto-que-proyectos-buscan-tratar-y-la-mirada-de-milei/",
-        "source": "El Cronista",
-        "time": "07/09 10:37",
-        "iso_date": "2026-09-07T13:37:12+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -331,8 +331,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -400,8 +400,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": false
       }
