@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-07T15:42:56.883543",
-  "updated_str": "07/09/2026 15:42",
+  "updated_at": "2026-09-07T16:43:19.512732",
+  "updated_str": "07/09/2026 16:43",
   "cutoff_hours": 48,
-  "total_news": 137,
+  "total_news": 146,
   "news": {
     "GENERAL": [
+      {
+        "title": "De la Fed al petróleo: los cuatro desequilibrios que inquietan a Deutsche Bank",
+        "summary": "Los inversionistas mantienen apuestas por una moderación de las presiones sobre precios, pese a que las señales procedentes de materias primas, tasas y actividad apuntan a un margen cada vez más estrecho.",
+        "link": "https://www.bloomberglinea.com/mercados/de-la-fed-al-petroleo-los-cuatro-desequilibrios-que-inquietan-a-deutsche-bank/",
+        "source": "Bloomberg Línea AR",
+        "time": "07/09 12:35",
+        "iso_date": "2026-09-07T15:35:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mercados: las acciones y los bonos argentinos se mueven con leves bajas en medio del feriado en EEUU",
         "summary": "Wall Street no opera por la celebración del Día del Trabajo en el país norteamericano. El S&P Merval baja 0,3% y los bonos en dólares pierden un 0,4% en promedio",
@@ -145,8 +155,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": false
       },
@@ -307,16 +317,6 @@
         "iso_date": "2026-09-07T03:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Datos que abren interrogantes: los ingresos fiscales de agosto dejaron señales de una economía con menor impulso",
-        "summary": "La recaudación del IVA y la del impuesto al cheque fueron inferiores a la inflación esperada. Para los analistas adelantaría una tendencia a la baja en el nivel de actividad económica",
-        "link": "https://www.infobae.com/economia/2026/09/06/datos-que-abren-interrogantes-los-ingresos-fiscales-de-agosto-dejaron-senales-de-una-economia-con-menor-impulso/",
-        "source": "Infobae Economía",
-        "time": "06/09 17:27",
-        "iso_date": "2026-09-06T20:27:28+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -328,8 +328,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": false
       },
@@ -409,8 +409,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": false
       }
