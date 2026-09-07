@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-09-07T20:06:16.675856",
-  "updated_str": "07/09/2026 20:06",
+  "updated_at": "2026-09-07T20:24:01.941534",
+  "updated_str": "07/09/2026 20:24",
   "cutoff_hours": 48,
   "total_news": 171,
   "news": {
     "GENERAL": [
       {
+        "title": "El yen se apreció a niveles no vistos en siete meses en medio de rumores de una nueva intervención",
+        "summary": "Esta nueva apreciación del yen ocurrió luego de que los rendimientos de los bonos soberanos japoneses tocaran su nivel más alto desde septiembre de 1996. Por qué es importante para la economía global.",
+        "link": "https://www.ambito.com/economia/el-yen-se-aprecio-niveles-no-vistos-siete-meses-medio-rumores-una-nueva-intervencion-n6319512",
+        "source": "Ámbito",
+        "time": "07/09 17:16",
+        "iso_date": "2026-09-07T20:16:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: las acciones y los bonos argentinos se movieron con leves bajas en medio del feriado en EEUU",
+        "summary": "Wall Street no operó por la celebración del Día del Trabajo en el país norteamericano. El S&P Merval bajó 0,5% y los bonos en dólares perdieron un 0,1% en promedio",
+        "link": "https://www.infobae.com/economia/2026/09/07/mercados-las-acciones-y-los-bonos-argentinos-se-mueven-con-leves-bajas-en-medio-del-feriado-en-eeuu/",
+        "source": "Infobae Economía",
+        "time": "07/09 17:14",
+        "iso_date": "2026-09-07T20:14:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "El Banco Central no compró dólares por tercera vez en el año y rompió una racha de 27 días consecutivos con saldo positivo",
         "summary": "La autoridad monetaria no intervino en el mercado cambiario. Los antecedentes previos se remontan a fines de julio y principios de enero de 2026",
         "link": "https://www.infobae.com/economia/2026/09/07/el-banco-central-no-compro-dolares-por-tercera-vez-en-el-ano-y-rompio-una-racha-de-27-dias-consecutivos-con-saldo-positivo/",
         "source": "Infobae Economía",
-        "time": "07/09 17:00",
-        "iso_date": "2026-09-07T20:00:51+00:00",
+        "time": "07/09 17:14",
+        "iso_date": "2026-09-07T20:14:18+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -146,18 +168,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Mercados: las acciones y los bonos argentinos se mueven con leves bajas en medio del feriado en EEUU",
-        "summary": "Wall Street no opera por la celebración del Día del Trabajo en el país norteamericano. El S&P Merval baja 0,3% y los bonos en dólares pierden un 0,4% en promedio",
-        "link": "https://www.infobae.com/economia/2026/09/07/mercados-las-acciones-y-los-bonos-argentinos-se-mueven-con-leves-bajas-en-medio-del-feriado-en-eeuu/",
-        "source": "Infobae Economía",
-        "time": "07/09 14:13",
-        "iso_date": "2026-09-07T17:13:54+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       },
       {
         "title": "El fondo soberano de Noruega propone uno de los mayores cambios de su historia: ¿de qué se trata?",
@@ -298,19 +308,6 @@
         "iso_date": "2026-09-07T12:10:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Vaca Muerta puede convertirse en la usina que alimente la inteligencia artificial del mundo",
-        "summary": "La formación neuquina aportó 643.100 barriles diarios en julio y 96,5 millones de metros cúbicos de gas, una base que podría sostener generación eléctrica, cómputo intensivo y servicios digitales de mayor valor agregado",
-        "link": "https://www.infobae.com/opinion/2026/09/07/vaca-muerta-puede-convertirse-en-la-usina-que-alimente-la-inteligencia-artificial-del-mundo/",
-        "source": "Infobae Economía",
-        "time": "07/09 08:49",
-        "iso_date": "2026-09-07T11:49:07+00:00",
-        "tickers": [
-          "CEPU",
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -423,12 +420,12 @@
     ],
     "AL30": [
       {
-        "title": "Mercados: las acciones y los bonos argentinos se mueven con leves bajas en medio del feriado en EEUU",
-        "summary": "Wall Street no opera por la celebración del Día del Trabajo en el país norteamericano. El S&P Merval baja 0,3% y los bonos en dólares pierden un 0,4% en promedio",
+        "title": "Mercados: las acciones y los bonos argentinos se movieron con leves bajas en medio del feriado en EEUU",
+        "summary": "Wall Street no operó por la celebración del Día del Trabajo en el país norteamericano. El S&P Merval bajó 0,5% y los bonos en dólares perdieron un 0,1% en promedio",
         "link": "https://www.infobae.com/economia/2026/09/07/mercados-las-acciones-y-los-bonos-argentinos-se-mueven-con-leves-bajas-en-medio-del-feriado-en-eeuu/",
         "source": "Infobae Economía",
-        "time": "07/09 14:13",
-        "iso_date": "2026-09-07T17:13:54+00:00",
+        "time": "07/09 17:14",
+        "iso_date": "2026-09-07T20:14:39+00:00",
         "tickers": [
           "AL30"
         ],
