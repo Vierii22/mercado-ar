@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-08T19:47:10.830620",
-  "updated_str": "08/09/2026 19:47",
+  "updated_at": "2026-09-08T20:00:02.938111",
+  "updated_str": "08/09/2026 20:00",
   "cutoff_hours": 48,
-  "total_news": 227,
+  "total_news": 229,
   "news": {
     "GENERAL": [
+      {
+        "title": "IPI e ISAC: Industria y construcción revierten subas de junio y caen en julio",
+        "summary": "La producción manufacturera cayó 4,9% interanual y 5,0% mensual en julio, mientras la construcción retrocedió 4,5% y 4,6%, según el Indec. Doce de las 16 divisiones industriales registraron bajas interanuales.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipi-e-isac-industria-y-construccion-revierten-subas-de-junio-y-caen-en-julio/",
+        "source": "Bloomberg Línea AR",
+        "time": "08/09 16:56",
+        "iso_date": "2026-09-08T19:56:30+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "AtlasIntel: Aprobación de Javier Milei anota leve mejora en encuesta clave de agosto",
+        "summary": "El estudio mensual de la encuestadora de origen brasileño, realizada para Bloomberg News, arrojó también que la desaprobación del argentino cayó por cuatro puntos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/atlasintel-aprobacion-de-javier-milei-anota-leve-mejora-en-encuesta-clave-de-agosto/",
+        "source": "Bloomberg Línea AR",
+        "time": "08/09 16:49",
+        "iso_date": "2026-09-08T19:49:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo anticipó una reforma tributaria: qué debería contemplar el nuevo acuerdo con las provincias",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/caputo-anticipo-una-reforma-tributaria-que-deberia-contemplar-el-nuevo-acuerdo-con-las-provincias/",
+        "source": "El Cronista",
+        "time": "08/09 16:42",
+        "iso_date": "2026-09-08T19:42:35+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este martes 8 de septiembre",
         "summary": "El billete al público continuó ofrecido por cuarto día a $1.530 para la venta en el Banco Nación. El blue siguió operado a $1.545",
@@ -54,16 +84,6 @@
         "source": "Bloomberg Línea AR",
         "time": "08/09 15:55",
         "iso_date": "2026-09-08T18:55:56+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo anticipó una reforma tributaria: qué debería contemplar el nuevo acuerdo con las provincias",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/caputo-anticipo-una-reforma-tributaria-que-deberia-contemplar-el-nuevo-acuerdo-con-las-provincias/",
-        "source": "El Cronista",
-        "time": "08/09 15:41",
-        "iso_date": "2026-09-08T18:41:08+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -292,26 +312,6 @@
         "iso_date": "2026-09-08T12:20:05+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Nuevos créditos UVA para comprar autos 0 km y usados: cuánto hay que ganar para acceder y cuál es la cuota inicial",
-        "summary": "Banco Nación incorporó una línea para vehículos que no reemplaza al préstamo en pesos ya vigente. Para entender cuál conviene, hay que mirar cuotas, ingresos requeridos, salarios e inflación acumulada",
-        "link": "https://www.infobae.com/economia/2026/09/08/nuevos-creditos-uva-para-comprar-autos-0-km-y-usados-cuanto-hay-que-ganar-para-acceder-y-cual-es-la-cuota-inicial/",
-        "source": "Infobae Economía",
-        "time": "08/09 09:10",
-        "iso_date": "2026-09-08T12:10:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dos megainversiones en duda: cuál es la apuesta de Caputo para compensarlas",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/dos-megainversiones-en-duda-cual-es-la-apuesta-de-caputo-para-compensarlas/",
-        "source": "El Cronista",
-        "time": "08/09 06:00",
-        "iso_date": "2026-09-08T09:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -359,8 +359,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -430,8 +430,8 @@
         "time": "07/09 08:49",
         "iso_date": "2026-09-07T11:49:07+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": false
       }
