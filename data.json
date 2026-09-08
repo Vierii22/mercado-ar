@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-07T23:52:24.661865",
-  "updated_str": "07/09/2026 23:52",
+  "updated_at": "2026-09-08T03:04:47.131606",
+  "updated_str": "08/09/2026 03:04",
   "summary": {
-    "change": -0.03,
-    "leader": "TECO2",
-    "leader_change": 1.58,
-    "worst": "BMA",
-    "worst_change": -2.24,
-    "hot_count": 1,
+    "change": NaN,
+    "leader": "YPFD",
+    "leader_change": NaN,
+    "worst": "YPFD",
+    "worst_change": NaN,
+    "hot_count": 0,
     "cold_count": 0
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 8375.0,
-      "change": 0.24,
+      "price": NaN,
+      "change": NaN,
       "volume": 492206,
       "volume_ratio": 0.25,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         8010.0,
@@ -30,15 +30,15 @@
         8590.0,
         8325.0,
         8355.0,
-        8375.0
+        NaN
       ],
-      "trend_dir": "up",
-      "trend_streak": 4,
-      "ma5": 8400.0,
-      "ma20": 8094.0,
-      "ma_cross": 1,
-      "score": 67,
-      "signal": "suba"
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "GGAL",
@@ -101,10 +101,10 @@
     {
       "ticker": "BMA",
       "name": "Banco Macro",
-      "price": 12200.0,
-      "change": -2.24,
+      "price": NaN,
+      "change": NaN,
       "volume": 91328,
-      "volume_ratio": 0.34,
+      "volume_ratio": 0.35,
       "hot": false,
       "cold": false,
       "trend": [
@@ -117,15 +117,15 @@
         12580.0,
         12600.0,
         12480.0,
-        12200.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 12472.0,
-      "ma20": 12310.0,
-      "ma_cross": 1,
-      "score": 39,
-      "signal": "baja"
+      "ma5": NaN,
+      "ma20": NaN,
+      "ma_cross": -1,
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "TXAR",
@@ -162,7 +162,7 @@
       "price": 845.0,
       "change": 0.0,
       "volume": 142813,
-      "volume_ratio": 0.41,
+      "volume_ratio": 0.42,
       "hot": false,
       "cold": false,
       "trend": [
