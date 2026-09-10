@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10T19:12:45.307613",
-  "updated_str": "10/09/2026 19:12",
+  "updated_at": "2026-09-10T19:29:11.630494",
+  "updated_str": "10/09/2026 19:29",
   "cutoff_hours": 48,
-  "total_news": 232,
+  "total_news": 233,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,18 @@
         "summary": "La cifra implicó una desaceleración respecto del 2,1% marcado en julio. El ministro de Economía, Luis Caputo, celebró que se tratara del número más bajo en 14 meses",
         "link": "https://www.infobae.com/economia/2026/09/10/la-inflacion-en-agosto-fue-de-17-y-acumulo-335-en-los-ultimos-doce-meses/",
         "source": "Infobae Economía",
-        "time": "10/09 16:08",
-        "iso_date": "2026-09-10T19:08:56+00:00",
+        "time": "10/09 16:25",
+        "iso_date": "2026-09-10T19:25:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar operó estable en la rueda previa a la licitación de deuda del Tesoro",
+        "summary": "El dólar mayorista cerró a $1.513 y una brecha de 25,1% con el techo de las bandas. Al público siguió a $1.535 para la venta en el Banco Nación, un máximo nominal",
+        "link": "https://www.infobae.com/economia/2026/09/10/el-dolar-opero-estable-en-la-rueda-previa-a-la-licitacion-de-deuda-del-tesoro/",
+        "source": "Infobae Economía",
+        "time": "10/09 16:23",
+        "iso_date": "2026-09-10T19:23:53+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -22,6 +32,16 @@
         "source": "Ámbito",
         "time": "10/09 16:02",
         "iso_date": "2026-09-10T19:02:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuánto dio la inflación de agosto 2026 en Argentina, según el Indec",
+        "summary": "El Gobierno destacó que el dato fue el más bajo en 14 meses. La cifra estuvo en línea con lo esperado por el mercado y las consultoras, que estimaban un número por debajo de la barrera del 2%.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cuanto-dio-la-inflacion-de-agosto-2026-en-argentina-segun-el-indec/",
+        "source": "Bloomberg Línea AR",
+        "time": "10/09 16:01",
+        "iso_date": "2026-09-10T19:01:21+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -288,26 +308,6 @@
         "iso_date": "2026-09-10T12:59:56+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Revelan que un candidato a economista jefe del FMI fue apartado por críticas a los aranceles de Donald Trump",
-        "summary": "Las críticas del economista portugués Ricardo Reis a medidas arancelarias y sus posibles consecuencias, lo habrían dejado fuera de la carrera. La llegada de la argentina Silvana Tenreyro, con un tono menos confrontativo a Donald Trump.",
-        "link": "https://www.ambito.com/economia/revelan-que-un-candidato-economista-jefe-del-fmi-fue-apartado-criticas-los-aranceles-donald-trump-n6320643",
-        "source": "Ámbito",
-        "time": "10/09 09:33",
-        "iso_date": "2026-09-10T12:33:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación de agosto fue del 1,7% y acumula un 33,5% en los últimos 12 meses",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/inflacion-de-agosto-2026-de-cuanto-fue-el-ipc-del-mes-pasado-segun-el-indec/",
-        "source": "El Cronista",
-        "time": "10/09 08:50",
-        "iso_date": "2026-09-10T11:50:08+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -355,8 +355,8 @@
         "time": "10/09 03:11",
         "iso_date": "2026-09-10T06:11:52+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -368,8 +368,8 @@
         "time": "09/09 19:12",
         "iso_date": "2026-09-09T22:12:14+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -548,8 +548,8 @@
         "time": "10/09 03:11",
         "iso_date": "2026-09-10T06:11:52+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -561,8 +561,8 @@
         "time": "09/09 19:12",
         "iso_date": "2026-09-09T22:12:14+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
