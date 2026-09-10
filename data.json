@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-10T03:06:55.141501",
-  "updated_str": "10/09/2026 03:06",
+  "updated_at": "2026-09-10T14:14:06.490848",
+  "updated_str": "10/09/2026 14:14",
   "summary": {
-    "change": NaN,
+    "change": 1.13,
     "leader": "ALUA",
     "leader_change": 3.8,
     "worst": "TECO2",
@@ -72,8 +72,8 @@
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": NaN,
-      "change": NaN,
+      "price": 5485.0,
+      "change": 0.0,
       "volume": 610674,
       "volume_ratio": 0.64,
       "hot": false,
@@ -88,15 +88,15 @@
         5365.0,
         5380.0,
         5485.0,
-        NaN
+        5485.0
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": NaN,
-      "ma20": NaN,
-      "ma_cross": -1,
-      "score": 80,
-      "signal": "fuerte_baja"
+      "ma5": 5420.0,
+      "ma20": 5200.25,
+      "ma_cross": 1,
+      "score": 55,
+      "signal": "suba"
     },
     {
       "ticker": "BMA",
@@ -104,7 +104,7 @@
       "price": 12600.0,
       "change": 0.96,
       "volume": 156957,
-      "volume_ratio": 0.59,
+      "volume_ratio": 0.58,
       "hot": false,
       "cold": false,
       "trend": [
@@ -133,7 +133,7 @@
       "price": 700.0,
       "change": -0.07,
       "volume": 1406643,
-      "volume_ratio": 0.86,
+      "volume_ratio": 0.85,
       "hot": false,
       "cold": false,
       "trend": [
@@ -162,7 +162,7 @@
       "price": 888.5,
       "change": 3.8,
       "volume": 894117,
-      "volume_ratio": 2.66,
+      "volume_ratio": 2.69,
       "hot": true,
       "cold": false,
       "trend": [
@@ -191,7 +191,7 @@
       "price": 4145.0,
       "change": -0.6,
       "volume": 277905,
-      "volume_ratio": 2.61,
+      "volume_ratio": 2.62,
       "hot": false,
       "cold": false,
       "trend": [
@@ -211,7 +211,7 @@
       "ma5": 4147.0,
       "ma20": 4197.5,
       "ma_cross": -1,
-      "score": 40,
+      "score": 41,
       "signal": "baja"
     },
     {
@@ -220,7 +220,7 @@
       "price": 2244.0,
       "change": 0.36,
       "volume": 659193,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.06,
       "hot": false,
       "cold": false,
       "trend": [
