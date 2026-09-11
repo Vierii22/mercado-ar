@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-11T19:29:33.549657",
-  "updated_str": "11/09/2026 19:29",
+  "updated_at": "2026-09-11T19:53:53.572474",
+  "updated_str": "11/09/2026 19:53",
   "cutoff_hours": 48,
-  "total_news": 224,
+  "total_news": 223,
   "news": {
     "GENERAL": [
+      {
+        "title": "Banco Provincia emitirá nuevos títulos en pesos y dólar MEP: cuáles son las condiciones y cómo participar",
+        "summary": "La colocación del 14 de septiembre buscará captar recursos para ampliar el financiamiento productivo a pymes y reforzar los préstamos al consumo para hogares bonaerenses, con suscripción disponible por homebanking",
+        "link": "https://www.infobae.com/economia/2026/09/11/banco-provincia-emitira-nuevos-titulos-en-pesos-y-dolar-mep-cuales-son-las-condiciones-y-como-participar/",
+        "source": "Infobae Economía",
+        "time": "11/09 16:38",
+        "iso_date": "2026-09-11T19:38:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este viernes 11 de septiembre",
         "summary": "El billete al público quedó negociado a $1.530 para la venta en el Banco Nación. El blue continuó ofrecido a $1.545",
@@ -14,6 +24,18 @@
         "iso_date": "2026-09-11T19:13:46+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "El tren de US$500 millones que podría multiplicar por 60 la carga de Vaca Muerta",
+        "summary": "El crecimiento del shale vuelve a poner al ferrocarril en agenda. Mientras el Gobierno redefine concesiones clave, el sector estima que el tren podría multiplicar por 60 su capacidad de carga hacia Vaca Muerta.",
+        "link": "https://www.bloomberglinea.com/economia/el-tren-de-us500-millones-que-podria-multiplicar-por-60-la-carga-de-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "11/09 15:48",
+        "iso_date": "2026-09-11T18:48:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "Vaca Muerta busca dar el salto exportador: qué puede aprender de Texas y cuáles son sus principales trabas",
@@ -296,33 +318,21 @@
         "iso_date": "2026-09-11T09:00:01+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Acciones de YPF y Vista suben con el petróleo: cuánto más pueden avanzar según Wall Street",
-        "summary": "El Brent volvió a superar los US$100 por barril y dio impulso a las petroleras argentinas. Los últimos informes de Wall Street mantienen una mirada positiva sobre YPF y Vista, aunque el consenso ve más potencial de suba en una de las dos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/acciones-de-ypf-y-vista-suben-con-el-petroleo-cuanto-mas-pueden-avanzar-segun-wall-street/",
-        "source": "Bloomberg Línea AR",
-        "time": "11/09 05:56",
-        "iso_date": "2026-09-11T08:56:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Decisión clave de la Fed de Warsh: qué esperar para los bonos argentinos si suben las tasas",
-        "summary": "El miércoles 16 de septiembre, el banco central estadounidense tendrá su reunión de política monetaria. El mercado ve probable un incremento de 25 puntos básicos.",
-        "link": "https://www.bloomberglinea.com/mundo/estados-unidos/decision-clave-de-la-fed-de-warsh-que-esperar-para-los-bonos-argentinos-si-suben-las-tasas/",
-        "source": "Bloomberg Línea AR",
-        "time": "11/09 05:15",
-        "iso_date": "2026-09-11T08:15:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "El tren de US$500 millones que podría multiplicar por 60 la carga de Vaca Muerta",
+        "summary": "El crecimiento del shale vuelve a poner al ferrocarril en agenda. Mientras el Gobierno redefine concesiones clave, el sector estima que el tren podría multiplicar por 60 su capacidad de carga hacia Vaca Muerta.",
+        "link": "https://www.bloomberglinea.com/economia/el-tren-de-us500-millones-que-podria-multiplicar-por-60-la-carga-de-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "11/09 15:48",
+        "iso_date": "2026-09-11T18:48:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta busca dar el salto exportador: qué puede aprender de Texas y cuáles son sus principales trabas",
         "summary": "",
@@ -439,8 +449,8 @@
         "time": "10/09 03:11",
         "iso_date": "2026-09-10T06:11:52+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -452,8 +462,8 @@
         "time": "09/09 19:12",
         "iso_date": "2026-09-09T22:12:14+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -480,18 +490,6 @@
           "YPFD"
         ],
         "is_general": true
-      },
-      {
-        "title": "Vaca Muerta mira al Pacífico: Chile ofrece sus puertos y pone una condición a la Argentina",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/vaca-muerta-mira-al-pacifico-chile-ofrece-sus-puertos-y-pone-una-condicion-a-la-argentina/",
-        "source": "El Cronista",
-        "time": "09/09 16:48",
-        "iso_date": "2026-09-09T19:48:03+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -596,8 +594,8 @@
         "time": "10/09 03:11",
         "iso_date": "2026-09-10T06:11:52+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -609,8 +607,8 @@
         "time": "09/09 19:12",
         "iso_date": "2026-09-09T22:12:14+00:00",
         "tickers": [
-          "YPFD",
-          "AL30"
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
