@@ -1,10 +1,102 @@
 {
-  "updated_at": "2026-09-14T17:06:18.024869",
-  "updated_str": "14/09/2026 17:06",
+  "updated_at": "2026-09-14T19:04:32.346671",
+  "updated_str": "14/09/2026 19:04",
   "cutoff_hours": 48,
-  "total_news": 138,
+  "total_news": 152,
   "news": {
     "GENERAL": [
+      {
+        "title": "Bajó el dólar y la brecha con el techo de la banda cambiaria es la más amplia en 16 meses",
+        "summary": "La divisa mayorista cedió a $1.507,50, el precio más bajo desde el 21 de agosto. Al público en el Banco Nación permaneció a $1.530",
+        "link": "https://www.infobae.com/economia/2026/09/14/bajo-el-dolar-y-la-brecha-con-el-techo-de-la-banda-cambiaria-es-la-mas-amplia-en-16-meses/",
+        "source": "Infobae Economía",
+        "time": "14/09 15:51",
+        "iso_date": "2026-09-14T18:51:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 14 de septiembre",
+        "summary": "El billete al público es negociado a $1.530 para la venta en el Banco Nación. El blue sube a $1.555. El BCRA compró solo USD 42 millones la semana pasada",
+        "link": "https://www.infobae.com/economia/2026/09/14/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-14-de-septiembre/",
+        "source": "Infobae Economía",
+        "time": "14/09 15:46",
+        "iso_date": "2026-09-14T18:46:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El petróleo sube y abre una paradoja para Argentina: más dólares de Vaca Muerta pero presión sobre la nafta",
+        "summary": "El Brent volvió a superar los US$100 por barril. Con producción récord, el salto mejora las perspectivas para la balanza energética argentina, aunque tiene una contracara: aumenta la presión sobre los precios de los combustibles y, con ella, sobre la inflación.",
+        "link": "https://www.bloomberglinea.com/economia/el-petroleo-sube-y-abre-una-paradoja-para-argentina-mas-dolares-de-vaca-muerta-pero-presion-sobre-la-nafta/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/09 15:43",
+        "iso_date": "2026-09-14T18:43:19+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "¿Te faltan años para jubilarte? El plan de ANSES para empezar a pagar tu deuda previsional desde los 50 años",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/te-faltan-anos-para-jubilarte-el-plan-de-anses-para-empezar-a-pagar-tu-deuda-previsional-desde-los-50-anos/",
+        "source": "El Cronista",
+        "time": "14/09 15:26",
+        "iso_date": "2026-09-14T18:26:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Malas noticias para Donald Trump: la Fed se prepara para subir las tasas por primera vez en tres años",
+        "summary": "El presidente norteamericano nominó a Kevin Warsh como titular de la Reserva Federal gracias a su discurso a favor de bajar las tasas de interés. Sin embargo, la realidad parece haber obligado al banco central norteamericano a tomar el camino opuesto.",
+        "link": "https://www.ambito.com/economia/malas-noticias-donald-trump-la-fed-se-prepara-subir-las-tasas-primera-vez-tres-anos-n6322151",
+        "source": "Ámbito",
+        "time": "14/09 15:26",
+        "iso_date": "2026-09-14T18:26:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Estas son las empresas listadas en BYMA que más dividendos pagaron en 2026",
+        "summary": "Las compañías argentinas repartieron unos US$868 millones en el primer semestre, un 6,8% menos que un año atrás, un retroceso que se explica por el desplome de los pagos de las empresas de servicios públicos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/estas-son-las-empresas-listadas-en-byma-que-mas-dividendos-pagaron-en-2026/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/09 15:03",
+        "iso_date": "2026-09-14T18:03:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Juan Carlos De Pablo, sin filtro: la dura advertencia sobre el dólar y el futuro de la economía",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/juan-carlos-de-pablo-sin-filtro-la-dura-advertencia-sobre-el-dolar-y-el-futuro-de-la-economia/",
+        "source": "El Cronista",
+        "time": "14/09 14:54",
+        "iso_date": "2026-09-14T17:54:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La deuda de Colombia seguirá subiendo en 2027: esta es la alerta del Comité de la Regla Fiscal",
+        "summary": "El Comité Autónomo de la Regla Fiscal señaló que el nuevo proyecto de Presupuesto General de la Nación reconoce un desequilibrio fiscal mayor al previsto inicialmente, con un déficit primario de 4,5% del PIB y una deuda neta de 67,3% del PIB para 2027.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/la-deuda-de-colombia-seguira-subiendo-en-2027-esta-es-la-alerta-del-comite-de-la-regla-fiscal/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/09 14:27",
+        "iso_date": "2026-09-14T17:27:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación de alimentos en Argentina en septiembre: qué productos subieron más",
+        "summary": "Luego de algunas semanas en las que algunos artículos llegaron a registrar caídas, el segmento retoma una marcada tendencia al alza. Cuáles son los mayores aumentos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-de-alimentos-en-argentina-en-septiembre-que-productos-subieron-mas/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/09 14:19",
+        "iso_date": "2026-09-14T17:19:46+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Vaca Muerta en expansión: cuántos millones de dólares aportará en los próximos cuatro años",
         "summary": "",
@@ -97,16 +189,6 @@
         "tickers": [
           "YPFD"
         ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este lunes 14 de septiembre",
-        "summary": "El billete al público es negociado a $1.530 para la venta en el Banco Nación. El blue sube a $1.550. El BCRA compró solo USD 42 millones la semana pasada",
-        "link": "https://www.infobae.com/economia/2026/09/14/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-14-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "14/09 12:10",
-        "iso_date": "2026-09-14T15:10:03+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -230,89 +312,21 @@
         "iso_date": "2026-09-14T13:36:07+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Tasas municipales: un fallo de la Corte Suprema fijó nuevos límites para los municipios",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/tasas-municipales-un-fallo-de-la-corte-suprema-fijo-nuevos-limites-para-los-municipios/",
-        "source": "El Cronista",
-        "time": "14/09 09:47",
-        "iso_date": "2026-09-14T12:47:15+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Elecciones 2027: Jalil se alinea con Milei y divide el mapa de los gobernadores peronistas",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/elecciones-2027-jalil-se-alinea-con-milei-y-divide-el-mapa-de-los-gobernadores-peronistas/",
-        "source": "El Cronista",
-        "time": "14/09 09:46",
-        "iso_date": "2026-09-14T12:46:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Midieron a Milei y Kicillof para las elecciones 2027 y esta es la fórmula presidencial que arrasa en los resultados",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/elecciones-la-sorpresiva-formula-que-ganaria-las-presidenciales-en-2027-segun-una-encuesta/",
-        "source": "El Cronista",
-        "time": "14/09 08:54",
-        "iso_date": "2026-09-14T11:54:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Se necesita moneda única y mismos impuestos para el mercado único? CEO de Nuam responde",
-        "summary": "Juan Pablo Córdoba, en entrevista con Bloomberg Línea, aseguró que los reguladores han dado pasos importantes para armonizar las normas de los tres países. El objetivo es iniciar el mercado único de acciones al cierre de 2027.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/se-necesita-moneda-unica-y-mismos-impuestos-para-el-mercado-unico-ceo-de-nuam-responde/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/09 07:00",
-        "iso_date": "2026-09-14T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cómo funcionará la nueva caución dólar cable que autorizó ByMA para el mercado argentino",
-        "summary": "La plaza bursátil porteña incorporará desde el 17 de septiembre esta herramienta, con activos del exterior como Treasuries entre las garantías elegibles y una bonificación inicial del 50%.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/como-funcionara-la-nueva-caucion-dolar-cable-que-autorizo-byma-para-el-mercado-argentino/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/09 06:56",
-        "iso_date": "2026-09-14T09:56:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Presupuesto 2027: las banderas que sostendrá Milei en el proyecto que presentará al Congreso",
-        "summary": "El Gobierno remitirá en las próximas horas el proyecto a Diputados. Allí fijará prioridades para el próximo año electoral y revelará sus proyecciones para inflación, crecimiento, superávit primario, baja de impuestos y gastos prioritarios para la construcción de una Base Naval...",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/presupuesto-2027-las-banderas-que-sostendra-milei-en-el-proyecto-que-presentara-al-congreso/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/09 06:40",
-        "iso_date": "2026-09-14T09:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Midieron a Milei y Kicillof de cara a 2027: diferencia mínima en primera vuelta y final abierto en el balotaje",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/midieron-a-milei-y-kicillof-de-cara-a-2027-diferencia-minima-en-primera-vuelta-y-final-abierto-en-el-balotaje/",
-        "source": "El Cronista",
-        "time": "14/09 06:39",
-        "iso_date": "2026-09-14T09:39:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Elecciones 2027: cómo se prepara el mercado argentino y qué escenarios proyecta para la economía",
-        "summary": "El mercado entra en la recta final de 2026, con la mira puesta en el dólar y la inflación. Qué escenarios espera y cuáles son los factores clave que sigue de cerca.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/elecciones-2027-como-se-prepara-el-mercado-argentino-y-que-escenarios-proyecta-para-la-economia/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/09 06:00",
-        "iso_date": "2026-09-14T09:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "El petróleo sube y abre una paradoja para Argentina: más dólares de Vaca Muerta pero presión sobre la nafta",
+        "summary": "El Brent volvió a superar los US$100 por barril. Con producción récord, el salto mejora las perspectivas para la balanza energética argentina, aunque tiene una contracara: aumenta la presión sobre los precios de los combustibles y, con ella, sobre la inflación.",
+        "link": "https://www.bloomberglinea.com/economia/el-petroleo-sube-y-abre-una-paradoja-para-argentina-mas-dolares-de-vaca-muerta-pero-presion-sobre-la-nafta/",
+        "source": "Bloomberg Línea AR",
+        "time": "14/09 15:43",
+        "iso_date": "2026-09-14T18:43:19+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Vaca Muerta en expansión: cuántos millones de dólares aportará en los próximos cuatro años",
         "summary": "",
