@@ -1,12 +1,22 @@
 {
-  "updated_at": "2026-09-17T18:41:23.131066",
-  "updated_str": "17/09/2026 18:41",
+  "updated_at": "2026-09-17T19:08:03.463461",
+  "updated_str": "17/09/2026 19:08",
   "cutoff_hours": 48,
   "total_news": 233,
   "news": {
     "GENERAL": [
       {
-        "title": "Seguridad presidencial: desplazaron al personal civil y Casa Militar asumirá todas las tareas de la Quinta de Olivos",
+        "title": "El dólar retomó la baja y se consolida como “ancla” cambiaria contra la inflación",
+        "summary": "La divisa cedió a $1.510 en el mercado mayorista con casi USD 500 millones operados. Al público siguió a $1.535 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/09/17/el-dolar-retomo-la-baja-y-se-consolida-como-ancla-cambiaria-contra-la-inflacion/",
+        "source": "Infobae Economía",
+        "time": "17/09 15:58",
+        "iso_date": "2026-09-17T18:58:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Desplazan al personal civil de la Quinta de Olivos y Casa Militar asumirá las tareas de control",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/seguridad-presidencial-desplazaron-al-personal-civil-y-casa-militar-asumira-todas-las-tareas-de-la-quinta-de-olivos/",
         "source": "El Cronista",
@@ -14,6 +24,18 @@
         "iso_date": "2026-09-17T18:38:47+00:00",
         "tickers": [
           "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "TGN presentará al RIGI un gasoducto de USD 1.500 millones para llevar el gas de Vaca Muerta al norte del país y exportar a la región",
+        "summary": "La obra de 753 kilómetros unirá la cuenca neuquina con Córdoba y buscará resolver el déficit estructural de abastecimiento que cada invierno deja sin gas a cientos de industrias del centro, norte y litoral del país",
+        "link": "https://www.infobae.com/economia/2026/09/17/tgn-presentara-al-rigi-un-gasoducto-de-usd-2200-millones-para-llevar-el-gas-de-vaca-muerta-al-norte-del-pais-y-exportar-a-la-region/",
+        "source": "Infobae Economía",
+        "time": "17/09 15:36",
+        "iso_date": "2026-09-17T18:36:49+00:00",
+        "tickers": [
+          "YPFD"
         ],
         "is_general": false
       },
@@ -238,18 +260,6 @@
         "is_general": true
       },
       {
-        "title": "TGN presentará al RIGI un gasoducto de USD 1.500 millones para llevar el gas de Vaca Muerta al norte del país y exportar a la región",
-        "summary": "La obra de 753 kilómetros unirá la cuenca neuquina con Córdoba y buscará resolver el déficit estructural de abastecimiento que cada invierno deja sin gas a cientos de industrias del centro, norte y litoral del país",
-        "link": "https://www.infobae.com/economia/2026/09/17/tgn-presentara-al-rigi-un-gasoducto-de-usd-2200-millones-para-llevar-el-gas-de-vaca-muerta-al-norte-del-pais-y-exportar-a-la-region/",
-        "source": "Infobae Economía",
-        "time": "17/09 11:02",
-        "iso_date": "2026-09-17T14:02:12+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
         "title": "El “nuevo Vaca Muerta” que le podría dar a la Argentina u$s 20.000 millones al año: solo competiría con Brasil y EE.UU.",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/el-nuevo-vaca-muerta-que-le-daria-a-argentina-us-10000-millones-al-ano-solo-competiria-con-brasil-y-eeuu/",
@@ -310,19 +320,21 @@
         "iso_date": "2026-09-17T13:30:11+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La inflación de la zona euro aumentó 0,4% en agosto, impulsada por la suba de la energía",
-        "summary": "La cifra mensual estuvo en línea a las expectativas y la cifra interanual se ubicó levemente por debajo de la estimación de los analistas, que preveían un nivel del 3,3%. La inflación subyacente registró un alza del 0,2% mensual, mostrando moderación.",
-        "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-aumento-04-agosto-impulsada-la-suba-la-energia-n6323404",
-        "source": "Ámbito",
-        "time": "17/09 10:25",
-        "iso_date": "2026-09-17T13:25:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "TGN presentará al RIGI un gasoducto de USD 1.500 millones para llevar el gas de Vaca Muerta al norte del país y exportar a la región",
+        "summary": "La obra de 753 kilómetros unirá la cuenca neuquina con Córdoba y buscará resolver el déficit estructural de abastecimiento que cada invierno deja sin gas a cientos de industrias del centro, norte y litoral del país",
+        "link": "https://www.infobae.com/economia/2026/09/17/tgn-presentara-al-rigi-un-gasoducto-de-usd-2200-millones-para-llevar-el-gas-de-vaca-muerta-al-norte-del-pais-y-exportar-a-la-region/",
+        "source": "Infobae Economía",
+        "time": "17/09 15:36",
+        "iso_date": "2026-09-17T18:36:49+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "GeoPark redobla su apuesta por Vaca Muerta: cuánto ofreció por una nueva área en Neuquén",
         "summary": "La petrolera obtuvo el mayor puntaje provisional por uno de los bloques ofrecidos por Neuquén para ampliar la actividad en Vaca Muerta. Ofreció un bono de acceso de US$60,5 millones y US$34 millones en inversiones exploratorias. Compite contra el magnate estadounidense Harold ...",
@@ -330,18 +342,6 @@
         "source": "Bloomberg Línea AR",
         "time": "17/09 13:46",
         "iso_date": "2026-09-17T16:46:44+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "TGN presentará al RIGI un gasoducto de USD 1.500 millones para llevar el gas de Vaca Muerta al norte del país y exportar a la región",
-        "summary": "La obra de 753 kilómetros unirá la cuenca neuquina con Córdoba y buscará resolver el déficit estructural de abastecimiento que cada invierno deja sin gas a cientos de industrias del centro, norte y litoral del país",
-        "link": "https://www.infobae.com/economia/2026/09/17/tgn-presentara-al-rigi-un-gasoducto-de-usd-2200-millones-para-llevar-el-gas-de-vaca-muerta-al-norte-del-pais-y-exportar-a-la-region/",
-        "source": "Infobae Economía",
-        "time": "17/09 11:02",
-        "iso_date": "2026-09-17T14:02:12+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -440,7 +440,7 @@
     "ALUA": [],
     "TECO2": [
       {
-        "title": "Seguridad presidencial: desplazaron al personal civil y Casa Militar asumirá todas las tareas de la Quinta de Olivos",
+        "title": "Desplazan al personal civil de la Quinta de Olivos y Casa Militar asumirá las tareas de control",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/seguridad-presidencial-desplazaron-al-personal-civil-y-casa-militar-asumira-todas-las-tareas-de-la-quinta-de-olivos/",
         "source": "El Cronista",
