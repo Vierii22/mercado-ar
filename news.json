@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-17T19:48:31.497227",
-  "updated_str": "17/09/2026 19:48",
+  "updated_at": "2026-09-17T20:05:17.982697",
+  "updated_str": "17/09/2026 20:05",
   "cutoff_hours": 48,
-  "total_news": 236,
+  "total_news": 234,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,18 @@
         "summary": "Según el Indec, la tasa de desempleo avanzó 0,3 puntos porcentuales respecto al mismo período del año pasado",
         "link": "https://www.infobae.com/economia/2026/09/17/aumento-la-desocupacion-al-79-en-el-segundo-trimestre-de-2026-y-afecta-a-mas-de-17-millones-de-personas/",
         "source": "Infobae Economía",
-        "time": "17/09 16:45",
-        "iso_date": "2026-09-17T19:45:05+00:00",
+        "time": "17/09 16:59",
+        "iso_date": "2026-09-17T19:59:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El BCRA modifica el esquema de encajes y extiende el desarme en posiciones en títulos públicos",
+        "summary": "El Banco Central de la República Argentina dio a conocer una normativa destinada a regular la exposición de los bancos privados y públicos frente a la deuda del Tesoro Nacional.",
+        "link": "https://www.ambito.com/economia/el-bcra-modifica-el-esquema-encajes-y-extiende-el-desarme-posiciones-titulos-publicos-n6323674",
+        "source": "Ámbito",
+        "time": "17/09 16:48",
+        "iso_date": "2026-09-17T19:48:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -308,16 +318,6 @@
         "iso_date": "2026-09-17T14:16:46+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La confianza del consumidor rebotó 2,4% en septiembre, pero sigue lejos del pico de Javier Milei",
-        "summary": "La confianza de los consumidores tuvo una mejora mensual e interanual. Mientras los sectores de menores ingresos empujan el índice hacia arriba, la CABA muestra el mayor desplome de todas las regiones.",
-        "link": "https://www.ambito.com/economia/la-confianza-del-consumidor-reboto-24-septiembre-pero-sigue-lejos-del-pico-javier-milei-n6323448",
-        "source": "Ámbito",
-        "time": "17/09 11:08",
-        "iso_date": "2026-09-17T14:08:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -582,18 +582,6 @@
         "tickers": [
           "AL30",
           "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: subió el riesgo país argentino y volvió a superar los 500 puntos básicos",
-        "summary": "Los bonos argentinos cayeron 0,3%, mientras que las tasas de los bonos del Tesoro de los EEUU avanzaron a su nivel más alto en dos décadas. El indicador de JP Morgan ascendió a 506 unidades",
-        "link": "https://www.infobae.com/economia/2026/09/15/mercados-sube-el-riesgo-pais-argentino-y-se-mantiene-cerca-de-los-500-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "15/09 17:05",
-        "iso_date": "2026-09-15T20:05:05+00:00",
-        "tickers": [
-          "AL30"
         ],
         "is_general": true
       }
