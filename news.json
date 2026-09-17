@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-16T23:59:30.120197",
-  "updated_str": "16/09/2026 23:59",
+  "updated_at": "2026-09-17T03:27:21.696406",
+  "updated_str": "17/09/2026 03:27",
   "cutoff_hours": 48,
-  "total_news": 235,
+  "total_news": 233,
   "news": {
     "GENERAL": [
+      {
+        "title": "El BCRA apuesta a que los dólares de Vaca Muerta y el agro apuntalen las reservas y extiendan la estabilidad del dólar",
+        "summary": "La autoridad monetaria espera cumplir el techo de la meta anual, impulsada por los ingresos de la energía y el agro, y prevé una mejora en la calidad de la cartera crediticia hacia diciembre",
+        "link": "https://www.infobae.com/economia/2026/09/16/con-menores-compras-el-banco-central-apuesta-a-que-los-dolares-de-vaca-muerta-y-el-agro-apuntalen-las-reservas/",
+        "source": "Infobae Economía",
+        "time": "16/09 21:36",
+        "iso_date": "2026-09-17T00:36:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Presupuesto 2027: el Gobierno asume un escenario complicado para volver a colocar deuda en los mercados internacionales",
         "summary": "El texto enviado al Congreso habilita emisiones en moneda extranjera y hasta abre la puerta para colocaciones en el mercado internacional. Pero un contexto global negativo hace que el foco de la estrategia no dependa de emitir títulos internacionales",
@@ -33,18 +45,6 @@
         "time": "16/09 19:53",
         "iso_date": "2026-09-16T22:53:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Con menores compras, el Banco Central apuesta a que los dólares de Vaca Muerta y el agro apuntalen las reservas",
-        "summary": "La autoridad monetaria espera cumplir el techo de la meta anual, impulsada por los ingresos de la energía y el agro, y prevé una mejora en la calidad de la cartera crediticia hacia diciembre",
-        "link": "https://www.infobae.com/economia/2026/09/16/con-menores-compras-el-banco-central-apuesta-a-que-los-dolares-de-vaca-muerta-y-el-agro-apuntalen-las-reservas/",
-        "source": "Infobae Economía",
-        "time": "16/09 19:45",
-        "iso_date": "2026-09-16T22:45:20+00:00",
-        "tickers": [
-          "YPFD"
-        ],
         "is_general": true
       },
       {
@@ -318,12 +318,12 @@
     ],
     "YPFD": [
       {
-        "title": "Con menores compras, el Banco Central apuesta a que los dólares de Vaca Muerta y el agro apuntalen las reservas",
+        "title": "El BCRA apuesta a que los dólares de Vaca Muerta y el agro apuntalen las reservas y extiendan la estabilidad del dólar",
         "summary": "La autoridad monetaria espera cumplir el techo de la meta anual, impulsada por los ingresos de la energía y el agro, y prevé una mejora en la calidad de la cartera crediticia hacia diciembre",
         "link": "https://www.infobae.com/economia/2026/09/16/con-menores-compras-el-banco-central-apuesta-a-que-los-dolares-de-vaca-muerta-y-el-agro-apuntalen-las-reservas/",
         "source": "Infobae Economía",
-        "time": "16/09 19:45",
-        "iso_date": "2026-09-16T22:45:20+00:00",
+        "time": "16/09 21:36",
+        "iso_date": "2026-09-17T00:36:32+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -361,8 +361,8 @@
         "time": "15/09 18:22",
         "iso_date": "2026-09-15T21:22:38+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -443,8 +443,8 @@
         "time": "15/09 18:22",
         "iso_date": "2026-09-15T21:22:38+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
