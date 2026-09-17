@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-09-17T20:05:17.982697",
-  "updated_str": "17/09/2026 20:05",
+  "updated_at": "2026-09-17T20:26:31.780508",
+  "updated_str": "17/09/2026 20:26",
   "cutoff_hours": 48,
-  "total_news": 234,
+  "total_news": 232,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street rebota tras la caída del petróleo y los rendimientos mientras asimila alza de la Fed",
+        "summary": "Las tecnológicas impulsaron el rebote de Wall Street, mientras el petróleo cayó y los rendimientos de los Tesoros retrocedieron desde máximos de varios años.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-rebota-con-apoyo-del-crudo-y-los-bonos-mientras-el-mercado-evalua-rumbo-de-la-fed/",
+        "source": "Bloomberg Línea AR",
+        "time": "17/09 17:08",
+        "iso_date": "2026-09-17T20:08:08+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El PBI cayó 0,6% en el segundo trimestre, ante deterioro en el consumo y la inversión",
+        "summary": "Como esperaba el mercado, el INDEC confirmó que la actividad económica se contrajo entre abril y junio. Las estimaciones de julio y agosto tampoco despiertan optimismo.",
+        "link": "https://www.ambito.com/economia/el-pbi-cayo-06-el-segundo-trimestre-deterioro-el-consumo-y-la-inversion-n6323646",
+        "source": "Ámbito",
+        "time": "17/09 17:05",
+        "iso_date": "2026-09-17T20:05:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuánto cuesta vivir en Vaca Muerta y cuáles son los salarios en la zona petrolera",
+        "summary": "El desarrollo hidrocarburífero atrae trabajadores y capitales, pero también presiona sobre viviendas, servicios y precios cotidianos.",
+        "link": "https://www.ambito.com/economia/cuanto-cuesta-vivir-vaca-muerta-y-cuales-son-los-salarios-la-zona-petrolera-n6322927",
+        "source": "Ámbito",
+        "time": "17/09 17:00",
+        "iso_date": "2026-09-17T20:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Aumentó la desocupación al 7,9% en el segundo trimestre de 2026 y afecta a más de 1,7 millones de personas",
         "summary": "Según el Indec, la tasa de desempleo avanzó 0,3 puntos porcentuales respecto al mismo período del año pasado",
@@ -52,16 +84,6 @@
         "source": "Infobae Economía",
         "time": "17/09 16:23",
         "iso_date": "2026-09-17T19:23:18+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El PBI cayó 0,6% en el segundo trimestre, ante deterioro en el consumo y la inversión",
-        "summary": "Como esperaba el mercado, el INDEC confirmó que la actividad económica se contrajo entre abril y junio. Las estimaciones de julio y agosto tampoco despiertan optimismo.",
-        "link": "https://www.ambito.com/economia/el-pbi-cayo-06-el-segundo-trimestre-deterioro-el-consumo-y-la-inversion-n6323646",
-        "source": "Ámbito",
-        "time": "17/09 16:19",
-        "iso_date": "2026-09-17T19:19:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -296,31 +318,33 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "Mercados: suben las acciones y los bonos argentinos de la mano del rebote de Wall Street",
-        "summary": "El S&P Merval gana 0,3% y los títulos públicos, un 0,2%, con un riesgo país en los 508 puntos básicos. Los índices de Nueva York suben hasta 1,3%, con impulso de los papeles tecnológicos",
-        "link": "https://www.infobae.com/economia/2026/09/17/mercados-suben-las-acciones-y-los-bonos-argentinos-de-la-mano-del-rebote-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "17/09 11:31",
-        "iso_date": "2026-09-17T14:31:57+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Superávit récord y una señal en la construcción: la apuesta de Caputo para reactivar la economía",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/se-frena-el-serrucho-los-datos-que-entusiasman-a-caputo-para-el-ultimo-trimestre/",
-        "source": "El Cronista",
-        "time": "17/09 11:16",
-        "iso_date": "2026-09-17T14:16:46+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Cuánto cuesta vivir en Vaca Muerta y cuáles son los salarios en la zona petrolera",
+        "summary": "El desarrollo hidrocarburífero atrae trabajadores y capitales, pero también presiona sobre viviendas, servicios y precios cotidianos.",
+        "link": "https://www.ambito.com/economia/cuanto-cuesta-vivir-vaca-muerta-y-cuales-son-los-salarios-la-zona-petrolera-n6322927",
+        "source": "Ámbito",
+        "time": "17/09 17:00",
+        "iso_date": "2026-09-17T20:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cuánto cuesta vivir en Vaca Muerta y cuáles son los salarios en la zona petrolera",
+        "summary": "El desarrollo hidrocarburífero atrae trabajadores y capitales, pero también presiona sobre viviendas, servicios y precios cotidianos.",
+        "link": "https://www.ambito.com/economia/cuanto-cuesta-vivir-vaca-muerta-y-cuales-son-los-salarios-la-zona-petrolera-n6322927",
+        "source": "Ámbito Mercados",
+        "time": "17/09 17:00",
+        "iso_date": "2026-09-17T20:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "TGN presentará al RIGI un gasoducto de USD 1.500 millones para llevar el gas de Vaca Muerta al norte del país y exportar a la región",
         "summary": "La obra de 753 kilómetros unirá la cuenca neuquina con Córdoba y buscará resolver el déficit estructural de abastecimiento que cada invierno deja sin gas a cientos de industrias del centro, norte y litoral del país",
