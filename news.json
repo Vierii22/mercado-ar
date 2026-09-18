@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-18T19:49:06.372195",
-  "updated_str": "18/09/2026 19:49",
+  "updated_at": "2026-09-18T20:15:07.114280",
+  "updated_str": "18/09/2026 20:15",
   "cutoff_hours": 48,
-  "total_news": 226,
+  "total_news": 260,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street cierra una semana volátil con la atención puesta en bonos, petróleo y tasas",
+        "summary": "Las acciones estadounidenses cerraron una semana agitada con movimientos contenidos, mientras el mercado enfrentó rendimientos más altos, volatilidad en el petróleo y nuevas señales sobre las tasas.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-pierde-impulso-mientras-los-rendimientos-del-tesoro-vuelven-a-subir/",
+        "source": "Bloomberg Línea AR",
+        "time": "18/09 17:06",
+        "iso_date": "2026-09-18T20:06:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El dólar retomó la suba y tocó un nuevo récord nominal",
         "summary": "El dólar mayorista subió a $1.514,50 y un sostenido volumen que superó los USD 600 millones. Al público se mantuvo a $1.535 en el Banco Nación",
@@ -220,16 +230,6 @@
         "is_general": true
       },
       {
-        "title": "S&P 500 pierde impulso mientras los rendimientos del Tesoro vuelven a subir",
-        "summary": "Los rendimientos de los bonos vuelven a presionar a Wall Street después del alza de tasas de la Fed. El mercado sopesa además la caída del petróleo, la decisión del Banco de Japón y los próximos pasos de los bancos centrales.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-pierde-impulso-mientras-los-rendimientos-del-tesoro-vuelven-a-subir/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/09 10:42",
-        "iso_date": "2026-09-18T13:42:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Inocencia Fiscal II: qué cambia con la nueva ley y cómo ingresar los dólares del colchón",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-que-cambia-con-la-nueva-ley-y-como-ingresar-los-dolares-del-colchon/",
@@ -361,8 +361,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -485,8 +485,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       }
