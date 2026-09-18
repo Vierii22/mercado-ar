@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-18T17:57:44.542787",
-  "updated_str": "18/09/2026 17:57",
+  "updated_at": "2026-09-18T18:35:36.528780",
+  "updated_str": "18/09/2026 18:35",
   "cutoff_hours": 48,
-  "total_news": 229,
+  "total_news": 267,
   "news": {
     "GENERAL": [
+      {
+        "title": "¿Salen los dólares del colchón? De qué depende el éxito de Inocencia Fiscal II",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/salen-los-dolares-del-colchon-de-que-depende-el-exito-de-inocencia-fiscal-ii-segun-expertos/",
+        "source": "El Cronista",
+        "time": "18/09 15:34",
+        "iso_date": "2026-09-18T18:34:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mercados: el riesgo país trepa a 521 puntos en medio de bajas de acciones y bonos argentinos",
         "summary": "Las bolsas de Nueva York caen hasta 0,4% y el S&P Merval porteño descuenta un 1%. Los títulos públicos caen 0,5%, con un riesgo país que asciende a 521 puntos básicos",
@@ -74,6 +84,16 @@
         "source": "Infobae Economía",
         "time": "18/09 13:43",
         "iso_date": "2026-09-18T16:43:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Plazo fijo en dólares: cuánto se gana y qué bancos ofrecen las mejores tasas en septiembre 2026",
+        "summary": "El plazo fijo en dólares permite obtener intereses sobre los ahorros en moneda estadounidense, aunque las tasas varían según el banco y el período.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-y-que-bancos-ofrecen-las-mejores-tasas-septiembre-2026-n6324066",
+        "source": "Ámbito",
+        "time": "18/09 13:30",
+        "iso_date": "2026-09-18T16:30:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -294,28 +314,6 @@
         "iso_date": "2026-09-18T04:34:05+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Rondas de negocios: cómo es el plan de Caputo para que la industria nacional se beneficie con el RIGI",
-        "summary": "El Gobierno busca vincular a los proyectos adheridos al régimen de incentivos con proveedores nacionales mediante rondas de negocios, en un contexto de caída de la actividad industrial y reclamos por mayor competitividad para las pymes",
-        "link": "https://www.infobae.com/economia/2026/09/18/rondas-de-negocios-como-es-el-plan-de-caputo-para-que-la-industria-nacional-se-beneficie-con-el-rigi/",
-        "source": "Infobae Economía",
-        "time": "18/09 01:33",
-        "iso_date": "2026-09-18T04:33:32+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las tres causas efímeras que mejoraron el humor del mercado, pero no alcanzaron para impedir la nueva suba del riesgo país",
-        "summary": "La baja de los rendimientos globales, el retroceso del petróleo y las señales de los bancos centrales dieron un respiro a los activos, aunque persistieron las dudas por la deuda, Ormuz y la economía local",
-        "link": "https://www.infobae.com/economia/2026/09/18/las-tres-causas-efimeras-que-mejoraron-el-humor-del-mercado-pero-no-alcanzaron-para-impedir-la-nueva-suba-del-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "18/09 01:32",
-        "iso_date": "2026-09-18T04:32:55+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -363,8 +361,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -487,8 +485,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
