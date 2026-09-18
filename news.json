@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-18T21:04:13.620423",
-  "updated_str": "18/09/2026 21:04",
+  "updated_at": "2026-09-18T21:32:47.893915",
+  "updated_str": "18/09/2026 21:32",
   "cutoff_hours": 48,
-  "total_news": 220,
+  "total_news": 218,
   "news": {
     "GENERAL": [
+      {
+        "title": "Jornada financiera: el riesgo país subió por quinto día consecutivo y alcanzó el nivel más alto en un mes",
+        "summary": "Los bonos en dólares cayeron 0,5% y el indicador de JP Morgan subió a 524 puntos básicos. El S&P Merval cedió 1,3% y los ADR perdieron hasta 7% en Wall Street. El dólar siguió a $1.535 en el Banco Nación y el BCRA compró USD 36 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/09/18/jornada-financiera-el-riesgo-pais-subio-por-quinto-dia-consecutivo-y-alcanzo-el-nivel-mas-alto-en-un-mes/",
+        "source": "Infobae Economía",
+        "time": "18/09 18:12",
+        "iso_date": "2026-09-18T21:12:44+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: subió el riesgo país en medio de las bajas de acciones y bonos argentinos",
         "summary": "Las bolsas de Nueva York operaron dispares y el S&P Merval porteño descontó un 1,3%. Los títulos públicos cayeron 0,5%, con un riesgo país que ascendió a 524 puntos básicos",
@@ -302,18 +314,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Nuevo gasoducto de Vaca Muerta: inversión de US$2.200 millones, RIGI y exportaciones por US$450 millones",
-        "summary": "TGN proyecta invertir US$2.200 millones en un nuevo gasoducto para Vaca Muerta. Buscará ingresar al RIGI y potenciar las exportaciones a Brasil.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/nuevo-gasoducto-de-vaca-muerta-inversion-de-us2200-millones-rigi-y-exportaciones-por-us450-millones/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/09 05:20",
-        "iso_date": "2026-09-18T08:20:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -361,8 +361,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -485,8 +485,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -571,6 +571,18 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Jornada financiera: el riesgo país subió por quinto día consecutivo y alcanzó el nivel más alto en un mes",
+        "summary": "Los bonos en dólares cayeron 0,5% y el indicador de JP Morgan subió a 524 puntos básicos. El S&P Merval cedió 1,3% y los ADR perdieron hasta 7% en Wall Street. El dólar siguió a $1.535 en el Banco Nación y el BCRA compró USD 36 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/09/18/jornada-financiera-el-riesgo-pais-subio-por-quinto-dia-consecutivo-y-alcanzo-el-nivel-mas-alto-en-un-mes/",
+        "source": "Infobae Economía",
+        "time": "18/09 18:12",
+        "iso_date": "2026-09-18T21:12:44+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Mercados: subió el riesgo país en medio de las bajas de acciones y bonos argentinos",
         "summary": "Las bolsas de Nueva York operaron dispares y el S&P Merval porteño descontó un 1,3%. Los títulos públicos cayeron 0,5%, con un riesgo país que ascendió a 524 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/09/18/mercados-el-riesgo-pais-trepa-a-521-puntos-en-medio-de-bajas-de-acciones-y-bonos-argentinos/",
@@ -649,18 +661,6 @@
         "source": "Infobae Economía",
         "time": "17/09 02:05",
         "iso_date": "2026-09-17T05:05:19+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street tras la suba de tasas de la Reserva Federal",
-        "summary": "El banco central de EEUU elevó los rendimientos por primera vez en tres años. Wall Street cerró en baja y el petróleo cedió 3%. El S&P Merval cayó 1,7%, los bonos perdieron 0,3%, con un riesgo país en 510 puntos. El dólar subió a $1.535 en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/09/16/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-tras-la-suba-de-tasas-de-la-reserva-federal/",
-        "source": "Infobae Economía",
-        "time": "16/09 18:21",
-        "iso_date": "2026-09-16T21:21:24+00:00",
         "tickers": [
           "AL30"
         ],
