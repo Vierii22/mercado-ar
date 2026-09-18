@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-18T17:44:31.630087",
-  "updated_str": "18/09/2026 17:44",
+  "updated_at": "2026-09-18T17:57:44.542787",
+  "updated_str": "18/09/2026 17:57",
   "cutoff_hours": 48,
-  "total_news": 226,
+  "total_news": 229,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: el riesgo país trepa a 521 puntos en medio de bajas de acciones y bonos argentinos",
+        "summary": "Las bolsas de Nueva York caen hasta 0,4% y el S&P Merval porteño descuenta un 1%. Los títulos públicos caen 0,5%, con un riesgo país que asciende a 521 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/09/18/mercados-el-riesgo-pais-trepa-a-521-puntos-en-medio-de-bajas-de-acciones-y-bonos-argentinos/",
+        "source": "Infobae Economía",
+        "time": "18/09 14:51",
+        "iso_date": "2026-09-18T17:51:12+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Recaudación: para alcanzar los números proyectados para 2026 las retenciones deberían subir 65%",
         "summary": "Se trata de estimaciones hechas por el IARAF en base a los propios números que propone el ministro Luis Caputo para el cierre de este año y la marcha del que viene.",
@@ -304,16 +316,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Fitch: Presupuesto 2027 deja dudas sobre si México logrará una consolidación que frene la deuda",
-        "summary": "La Secretaría de Hacienda dijo que para 2027 se privilegió una consolidación gradual, ya que un ajuste fiscal “excesivamente” acelerado afectaría a la economía.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/fitch-presupuesto-2027-deja-dudas-sobre-si-mexico-lograra-una-consolidacion-que-frene-la-deuda/",
-        "source": "Bloomberg Línea AR",
-        "time": "17/09 23:07",
-        "iso_date": "2026-09-18T02:07:41+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -570,6 +572,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: el riesgo país trepa a 521 puntos en medio de bajas de acciones y bonos argentinos",
+        "summary": "Las bolsas de Nueva York caen hasta 0,4% y el S&P Merval porteño descuenta un 1%. Los títulos públicos caen 0,5%, con un riesgo país que asciende a 521 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/09/18/mercados-el-riesgo-pais-trepa-a-521-puntos-en-medio-de-bajas-de-acciones-y-bonos-argentinos/",
+        "source": "Infobae Economía",
+        "time": "18/09 14:51",
+        "iso_date": "2026-09-18T17:51:12+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las tres causas efímeras que mejoraron el humor del mercado, pero no alcanzaron para impedir la nueva suba del riesgo país",
         "summary": "La baja de los rendimientos globales, el retroceso del petróleo y las señales de los bancos centrales dieron un respiro a los activos, aunque persistieron las dudas por la deuda, Ormuz y la economía local",
