@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-18T19:07:31.134512",
-  "updated_str": "18/09/2026 19:07",
+  "updated_at": "2026-09-18T19:28:56.254950",
+  "updated_str": "18/09/2026 19:28",
   "cutoff_hours": 48,
-  "total_news": 265,
+  "total_news": 228,
   "news": {
     "GENERAL": [
+      {
+        "title": "El dólar retomó la suba y tocó un nuevo récord nominal",
+        "summary": "El dólar mayorista subió a $1.514,50 y un sostenido volumen que superó los USD 600 millones. Al público se mantuvo a $1.535 en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/09/18/el-dolar-retomo-la-suba-y-toco-un-nuevo-record-nominal/",
+        "source": "Infobae Economía",
+        "time": "18/09 16:17",
+        "iso_date": "2026-09-18T19:17:26+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La UIA celebró el guiño de Caputo para acercar a la industria nacional al RIGI, en medio de la caída del sector",
+        "summary": "La Unión Industrial Argentina respaldó las Rondas de Negocios RIGI impulsadas por Economía, en medio de una caída del 4,9% interanual en la actividad manufacturera y con el uso de la capacidad instalada por debajo del 60%",
+        "link": "https://www.infobae.com/economia/2026/09/18/la-uia-celebro-el-guino-de-caputo-para-acercar-a-la-industria-nacional-al-rigi-en-medio-de-la-caida-del-sector/",
+        "source": "Infobae Economía",
+        "time": "18/09 16:12",
+        "iso_date": "2026-09-18T19:12:17+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este viernes 18 de septiembre",
         "summary": "El billete al público siguió ofrecido a $1.535 para la venta en el Banco Nación. El mayorista subió a un récord de $1.514,50. El blue se pagó a $1.550",
@@ -36,7 +56,7 @@
         "is_general": true
       },
       {
-        "title": "¿Salen los dólares del colchón? De qué depende el éxito de Inocencia Fiscal II",
+        "title": "¿Ahora sí salen los dólares del colchón? Las claves de la nueva ley y el límite que advierten los expertos",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/salen-los-dolares-del-colchon-de-que-depende-el-exito-de-inocencia-fiscal-ii-segun-expertos/",
         "source": "El Cronista",
@@ -294,26 +314,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Compras de reservas y deuda en pesos: la encrucijada que enfrenta Milei rumbo a 2027",
-        "summary": "La dinámica de la deuda en pesos viene condicionando las compras de reservas del BCRA. Con la demanda de dinero sin mostrar signos de recuperación, en el equipo económico no ven positivo que los pesos que inyectan alimenten la demanda de títulos de corto plazo.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/compras-de-reservas-y-deuda-en-pesos-la-encrucijada-que-enfrenta-milei-rumbo-a-2027/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/09 04:15",
-        "iso_date": "2026-09-18T07:15:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Bonos del Tesoro: la curva cambia y abre nuevas oportunidades para los inversores",
-        "summary": "La curva de rendimientos de los bonos del Tesoro dejó atrás la inversión y ahora tiene una pendiente positiva, mientras los rendimientos de largo plazo suben y abren nuevas oportunidades.",
-        "link": "https://www.bloomberglinea.com/mercados/bonos-del-tesoro-la-curva-cambia-y-abre-nuevas-oportunidades-para-los-inversores/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/09 02:00",
-        "iso_date": "2026-09-18T05:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -361,8 +361,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -485,8 +485,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       }
