@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-18T22:11:01.096274",
-  "updated_str": "18/09/2026 22:11",
+  "updated_at": "2026-09-18T23:46:30.108219",
+  "updated_str": "18/09/2026 23:46",
   "cutoff_hours": 48,
-  "total_news": 260,
+  "total_news": 213,
   "news": {
     "GENERAL": [
+      {
+        "title": "Midieron a Milei y Kicillof: la diferencia es mínima, pero hay dos datos que pueden cambiar el curso de la elección",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/midieron-a-milei-y-kicillof-la-diferencia-es-minima-pero-hay-dos-datos-que-pueden-cambiar-el-curso-de-la-eleccion/",
+        "source": "El Cronista",
+        "time": "18/09 19:41",
+        "iso_date": "2026-09-18T22:41:38+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El Banco Nación mejoró las condiciones para refinanciar deudas atrasadas ante la mora récord: quiénes pueden acceder",
         "summary": "La entidad busca facilitar la regularización de pasivos y la recuperación del acceso al crédito para clientes con atrasos más comprometidos. Otros bancos también ajustaron sus condiciones de refinanciación en las últimas semanas",
@@ -302,16 +312,6 @@
         "iso_date": "2026-09-18T11:18:35+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Inocencia Fiscal II ya es ley: hasta cuándo se podrán sacar los dólares del colchón y qué cambia para los contribuyentes",
-        "summary": "Los cambios a la primera versión fueron aprobados por el Senado. Contadores reclaman una prórroga para presentar la declaración jurada, cuyo vencimiento está previsto para el 22 de septiembre.",
-        "link": "https://www.ambito.com/economia/inocencia-fiscal-ii-ya-es-ley-cuando-se-podran-sacar-los-dolares-del-colchon-y-que-cambia-los-contribuyentes-n6323735",
-        "source": "Ámbito",
-        "time": "18/09 07:00",
-        "iso_date": "2026-09-18T10:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -359,8 +359,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -471,8 +471,8 @@
         "time": "17/09 18:15",
         "iso_date": "2026-09-17T21:15:29+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       }
