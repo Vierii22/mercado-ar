@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-21T20:30:50.930593",
-  "updated_str": "21/09/2026 20:30",
+  "updated_at": "2026-09-21T20:59:12.878873",
+  "updated_str": "21/09/2026 20:59",
   "cutoff_hours": 48,
-  "total_news": 180,
+  "total_news": 182,
   "news": {
     "GENERAL": [
+      {
+        "title": "Seis miradas sobre la economía de Milei y los libros indispensables para descifrarla",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/seis-miradas-sobre-la-economia-de-milei-y-los-libros-indispensables-para-descifrarla/",
+        "source": "El Cronista",
+        "time": "21/09 17:32",
+        "iso_date": "2026-09-21T20:32:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: el petróleo cayó por cuarta rueda seguida y arrastró a las acciones argentinas del sector",
+        "summary": "Las bolsas de Nueva York ascienden hasta 2,3%, pero la baja de 4% en el precio del crudo llevó a pérdidas de 0,8% para el índice S&P Merval. Los bonos perdieron 0,5% y el riesgo país subió a 533 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/09/21/mercados-el-petroleo-cae-por-cuarta-rueda-seguida-y-arrastra-a-las-acciones-argentinas-del-sector/",
+        "source": "Infobae Economía",
+        "time": "21/09 17:29",
+        "iso_date": "2026-09-21T20:29:43+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Industria frenada y consumo bajo presión: las nuevas señales que dejaron dos encuestas del Indec",
         "summary": "En ambos sectores predomina la cautela, de cara a los próximos meses. Cuál es la expectativa para la contratación y la demanda interna.",
@@ -292,28 +314,6 @@
         "iso_date": "2026-09-21T15:26:55+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Mercados: el petróleo cae por cuarta rueda seguida y arrastra a las acciones argentinas del sector",
-        "summary": "Las bolsas de Nueva York ascienden hasta 1%, pero la baja de 2% en el precio del crudo lleva a pérdidas de 0,7% para el índice S&P Merval. Los bonos ganan 0,1% y el riesgo país cede a 521 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/09/21/mercados-el-petroleo-cae-por-cuarta-rueda-seguida-y-arrastra-a-las-acciones-argentinas-del-sector/",
-        "source": "Infobae Economía",
-        "time": "21/09 12:17",
-        "iso_date": "2026-09-21T15:17:26+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Morosidad récord: las deudas de casi 900.000 personas ya pasaron a manos de las agencias de cobranza",
-        "summary": "El incumplimiento de pagos de más de un año creció un 60% interanual. Cuáles fueron las provincias dónde más aumentó la morosidad el último año, y cómo se transformó el mapa nacional, atravesado por el endeudamiento.",
-        "link": "https://www.ambito.com/economia/morosidad-record-las-deudas-casi-900000-personas-ya-pasaron-manos-las-agencias-cobranza-n6324716",
-        "source": "Ámbito",
-        "time": "21/09 11:14",
-        "iso_date": "2026-09-21T14:14:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -436,12 +436,12 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Mercados: el petróleo cae por cuarta rueda seguida y arrastra a las acciones argentinas del sector",
-        "summary": "Las bolsas de Nueva York ascienden hasta 1%, pero la baja de 2% en el precio del crudo lleva a pérdidas de 0,7% para el índice S&P Merval. Los bonos ganan 0,1% y el riesgo país cede a 521 puntos básicos",
+        "title": "Mercados: el petróleo cayó por cuarta rueda seguida y arrastró a las acciones argentinas del sector",
+        "summary": "Las bolsas de Nueva York ascienden hasta 2,3%, pero la baja de 4% en el precio del crudo llevó a pérdidas de 0,8% para el índice S&P Merval. Los bonos perdieron 0,5% y el riesgo país subió a 533 puntos básicos",
         "link": "https://www.infobae.com/economia/2026/09/21/mercados-el-petroleo-cae-por-cuarta-rueda-seguida-y-arrastra-a-las-acciones-argentinas-del-sector/",
         "source": "Infobae Economía",
-        "time": "21/09 12:17",
-        "iso_date": "2026-09-21T15:17:26+00:00",
+        "time": "21/09 17:29",
+        "iso_date": "2026-09-21T20:29:43+00:00",
         "tickers": [
           "AL30"
         ],
