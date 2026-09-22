@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-09-22T14:37:42.544476",
-  "updated_str": "22/09/2026 14:37",
+  "updated_at": "2026-09-22T15:48:31.480002",
+  "updated_str": "22/09/2026 15:48",
   "cutoff_hours": 48,
-  "total_news": 207,
+  "total_news": 214,
   "news": {
     "GENERAL": [
       {
         "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este martes 22 de septiembre",
-        "summary": "El billete al público sigue ofrecido a $1.535 para la venta en el Banco Nación. El blue se paga a $1.550. El BCRA compró ayer USD 8 millones en el mercado",
+        "summary": "El billete al público sigue ofrecido a $1.535 para la venta en el Banco Nación. El blue sube a $1.555",
         "link": "https://www.infobae.com/economia/2026/09/22/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-22-de-septiembre/",
         "source": "Infobae Economía",
-        "time": "22/09 11:12",
-        "iso_date": "2026-09-22T14:12:57+00:00",
+        "time": "22/09 12:46",
+        "iso_date": "2026-09-22T15:46:37+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: el petróleo profundiza la caída y vuelve a subir el riesgo país argentino",
+        "summary": "Las bolsas operan en positivo ante el descenso del petróleo debajo de USD 100 el barril. El S&P Merval cede 0,5% por la alta ponderación del sector energía en el panel líder. Los bonos caen 0,1% en promedio, con un riesgo país en los 543 puntos",
+        "link": "https://www.infobae.com/economia/2026/09/22/mercados-el-petroleo-profundiza-la-caida-y-vuelve-a-subir-el-riesgo-pais-argentino/",
+        "source": "Infobae Economía",
+        "time": "22/09 12:11",
+        "iso_date": "2026-09-22T15:11:51+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "¿Invertir en bancos de América Latina? Estas son las acciones que recomienda Bank of America",
+        "summary": "Las diferencias en valoración, rentabilidad y crecimiento marcan las recomendaciones de Bank of America para los bancos latinoamericanos de cara a 2027.",
+        "link": "https://www.bloomberglinea.com/mercados/invertir-en-bancos-de-america-latina-estas-son-las-acciones-que-recomienda-bank-of-america/",
+        "source": "Bloomberg Línea AR",
+        "time": "22/09 12:02",
+        "iso_date": "2026-09-22T15:02:23+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -86,7 +108,7 @@
         "is_general": true
       },
       {
-        "title": "Milei en EE.UU: cruce con Trump, reunión con Marco Rubio y convocatoria al Consejo de Paz",
+        "title": "Milei llegó a Estados Unidos: Trump, Marco Rubio y Escudo de las Américas en agenda",
         "summary": "La comitiva argentina participará de las actividades paralelas que organizó Donald Trump en paralelo a la agenda de Naciones Unidas en la semana de la 81° Asamblea General. Los detalles.",
         "link": "https://www.cronista.com/economia-politica/milei-en-eeuu-cruce-con-trump-reunion-con-marco-rubio-y-convocatoria-al-consejo-de-la-paz/",
         "source": "El Cronista",
@@ -146,8 +168,8 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "PAMP",
-          "AL30",
           "GGAL",
+          "AL30",
           "YPFD"
         ],
         "is_general": true
@@ -297,28 +319,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Ocho miradas sobre la economía de Milei y los libros indispensables para descifrarla",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/seis-miradas-sobre-la-economia-de-milei-y-los-libros-indispensables-para-descifrarla/",
-        "source": "El Cronista",
-        "time": "21/09 17:32",
-        "iso_date": "2026-09-21T20:32:56+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: el petróleo cayó por cuarta rueda seguida y arrastró a las acciones argentinas del sector",
-        "summary": "Las bolsas de Nueva York ascienden hasta 2,3%, pero la baja de 4% en el precio del crudo llevó a pérdidas de 0,8% para el índice S&P Merval. Los bonos perdieron 0,5% y el riesgo país subió a 533 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/09/21/mercados-el-petroleo-cae-por-cuarta-rueda-seguida-y-arrastra-a-las-acciones-argentinas-del-sector/",
-        "source": "Infobae Economía",
-        "time": "21/09 17:29",
-        "iso_date": "2026-09-21T20:29:43+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -331,8 +331,8 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "PAMP",
-          "AL30",
           "GGAL",
+          "AL30",
           "YPFD"
         ],
         "is_general": true
@@ -420,8 +420,8 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "PAMP",
-          "AL30",
           "GGAL",
+          "AL30",
           "YPFD"
         ],
         "is_general": true
@@ -437,8 +437,8 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "PAMP",
-          "AL30",
           "GGAL",
+          "AL30",
           "YPFD"
         ],
         "is_general": true
@@ -450,6 +450,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: el petróleo profundiza la caída y vuelve a subir el riesgo país argentino",
+        "summary": "Las bolsas operan en positivo ante el descenso del petróleo debajo de USD 100 el barril. El S&P Merval cede 0,5% por la alta ponderación del sector energía en el panel líder. Los bonos caen 0,1% en promedio, con un riesgo país en los 543 puntos",
+        "link": "https://www.infobae.com/economia/2026/09/22/mercados-el-petroleo-profundiza-la-caida-y-vuelve-a-subir-el-riesgo-pais-argentino/",
+        "source": "Infobae Economía",
+        "time": "22/09 12:11",
+        "iso_date": "2026-09-22T15:11:51+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "A un año del rescate de Bessent: cómo evolucionó el dólar, riesgo país y Merval en Argentina",
         "summary": "El 22 de septiembre de 2026, el secretario del Tesoro de los Estados Unidos, Scott Bessent, informó que su cartera estaba lista para “para hacer lo necesario dentro de su mandato para apoyar” al país sudamericano.",
@@ -471,8 +483,8 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "PAMP",
-          "AL30",
           "GGAL",
+          "AL30",
           "YPFD"
         ],
         "is_general": true
