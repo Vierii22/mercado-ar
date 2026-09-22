@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-22T21:55:25.665452",
-  "updated_str": "22/09/2026 21:55",
+  "updated_at": "2026-09-22T22:20:27.068406",
+  "updated_str": "22/09/2026 22:20",
   "cutoff_hours": 48,
-  "total_news": 284,
+  "total_news": 288,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno confirmó que el 9 de noviembre será feriado nacional por la visita del Papa",
+        "summary": "La decisión se anunció luego de una reunión que se llevó a cabo en el Ministerio de Seguridad y de la que participó Karina Milei",
+        "link": "https://www.iprofesional.com/politica/464979-el-gobierno-confirmo-un-feriado-nacional-por-la-visita-del-papa-leon-xiv",
+        "source": "iProfesional",
+        "time": "22/09 19:13",
+        "iso_date": "2026-09-22T22:13:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Deuda: el Gobierno canjeó el 75% de un bono atado al dólar y redujo un foco de tensión cambiaria",
+        "summary": "Economía postergó más de USD 3.300 millones de la letra dólar linked que vence el 30 de septiembre y alivió parte de los compromisos que el Tesoro deberá refinanciar a fin de mes",
+        "link": "https://www.infobae.com/economia/2026/09/22/deuda-el-gobierno-canjeo-el-75-de-un-bono-atado-al-dolar-y-redujo-un-foco-de-tension-cambiaria/",
+        "source": "Infobae Economía",
+        "time": "22/09 19:07",
+        "iso_date": "2026-09-22T22:07:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Créditos UVA: cuánto serán las primeras cuotas tras la baja de tasas de los bancos",
         "summary": "Las entidades compiten con tasas desde el 6,5% y plazos de hasta 30 años. Cuánto se pagaría por un crédito de u$s75.000 y qué mirar antes de firmar",
@@ -210,6 +230,19 @@
         "is_general": true
       },
       {
+        "title": "El riesgo país llegó a su nivel más en más de cinco meses",
+        "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
+        "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
+        "source": "iProfesional",
+        "time": "22/09 16:30",
+        "iso_date": "2026-09-22T19:30:00+00:00",
+        "tickers": [
+          "AL30",
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este martes 22 de septiembre",
         "summary": "El billete al público sigue ofrecido a $1.535 para la venta en el Banco Nación. El blue sube a $1.555",
         "link": "https://www.infobae.com/economia/2026/09/22/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-22-de-septiembre/",
@@ -278,41 +311,22 @@
         "iso_date": "2026-09-22T18:00:50+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Las empresas marcaron un nuevo récord de emisiones en agosto, pero cayó el monto",
-        "summary": "PwC informó 41 operaciones por $1,7 billones durante agosto. La cifra superó el registro anual en cantidad, aunque retrocedió frente a julio en recursos captados. YPF sumó USD 1.200 millones; San Juan prevé salir al exterior",
-        "link": "https://www.infobae.com/economia/2026/09/22/las-empresas-marcaron-un-nuevo-record-de-emisiones-en-agosto-pero-cayo-el-monto/",
-        "source": "Infobae Economía",
-        "time": "22/09 14:40",
-        "iso_date": "2026-09-22T17:40:11+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El dato del Presupuesto 2027 con el que Caputo anticipa dólar calmo rumbo a las elecciones",
-        "summary": "El presupuesto prevé superávit de cuenta corriente por exportaciones récord y el Gobierno proyecta un año electoral sin turbulencia cambiaria",
-        "link": "https://www.iprofesional.com/economia/464678-dato-del-presupuesto-que-hace-prever-dolar-calmo-en-ano-electoral-2027",
-        "source": "iProfesional",
-        "time": "22/09 14:30",
-        "iso_date": "2026-09-22T17:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Es momento de invertir en acciones de Meta? El rally pone a Muse en el foco de Wall Street",
-        "summary": "Muse comienza a cambiar la percepción sobre las inversiones de Meta en inteligencia artificial, pero el salto de la acción deja menos recorrido frente al precio objetivo promedio de Wall Street.",
-        "link": "https://www.bloomberglinea.com/mercados/es-momento-de-invertir-en-acciones-de-meta-el-rally-pone-a-muse-en-el-foco-de-wall-street/",
-        "source": "Bloomberg Línea AR",
-        "time": "22/09 13:56",
-        "iso_date": "2026-09-22T16:56:59+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "El riesgo país llegó a su nivel más en más de cinco meses",
+        "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
+        "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
+        "source": "iProfesional",
+        "time": "22/09 16:30",
+        "iso_date": "2026-09-22T19:30:00+00:00",
+        "tickers": [
+          "AL30",
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las empresas marcaron un nuevo récord de emisiones en agosto, pero cayó el monto",
         "summary": "PwC informó 41 operaciones por $1,7 billones durante agosto. La cifra superó el registro anual en cantidad, aunque retrocedió frente a julio en recursos captados. YPF sumó USD 1.200 millones; San Juan prevé salir al exterior",
@@ -511,6 +525,19 @@
         "iso_date": "2026-09-22T20:48:24+00:00",
         "tickers": [
           "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país llegó a su nivel más en más de cinco meses",
+        "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
+        "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
+        "source": "iProfesional",
+        "time": "22/09 16:30",
+        "iso_date": "2026-09-22T19:30:00+00:00",
+        "tickers": [
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
