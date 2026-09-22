@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-22T22:20:27.068406",
-  "updated_str": "22/09/2026 22:20",
+  "updated_at": "2026-09-22T22:38:58.244866",
+  "updated_str": "22/09/2026 22:38",
   "cutoff_hours": 48,
-  "total_news": 288,
+  "total_news": 285,
   "news": {
     "GENERAL": [
+      {
+        "title": "Los 3 ejes de los discursos de Milei en Nueva York: Malvinas, IA e inversiones del RIGI",
+        "summary": "En Nueva York, el presidente argentino desafiará a las autoridades internacionales y alertará por el avance de la Inteligencia Artificial",
+        "link": "https://www.iprofesional.com/politica/464898-3-ejes-de-los-discursos-de-milei-en-nueva-york-malvinas-ia-y-rigi",
+        "source": "iProfesional",
+        "time": "22/09 19:30",
+        "iso_date": "2026-09-22T22:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Vista captó US$400 millones en Wall Street para acelerar en Vaca Muerta",
+        "summary": "La petrolera amplió una emisión internacional con vencimiento en 2038 y llevó el monto total de la serie a US$900 millones. La operación se cerró con un rendimiento de 7,95%, mientras la compañía avanza con su plan de expansión en Vaca Muerta.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-capto-us400-millones-en-wall-street-para-acelerar-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "22/09 19:17",
+        "iso_date": "2026-09-22T22:17:51+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "El Gobierno confirmó que el 9 de noviembre será feriado nacional por la visita del Papa",
         "summary": "La decisión se anunció luego de una reunión que se llevó a cabo en el Ministerio de Seguridad y de la que participó Karina Milei",
@@ -230,7 +252,7 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país llegó a su nivel más en más de cinco meses",
+        "title": "El riesgo país tocó un máximo en más de cinco meses y bonos argentinos caen en Wall Street",
         "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
         "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
         "source": "iProfesional",
@@ -249,16 +271,6 @@
         "source": "Infobae Economía",
         "time": "22/09 16:19",
         "iso_date": "2026-09-22T19:19:03+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mapa del crédito: cayó la financiación con tarjeta y crece el préstamo hipotecario",
-        "summary": "El BCRA informó otro aumento de la morosidad en bancos y fintech, con la primera baja de créditos ofrecidos por el sector a familias y empresas",
-        "link": "https://www.iprofesional.com/impuestos/464916-cayo-financiacion-con-tarjeta-y-crece-credito-hipotecario",
-        "source": "iProfesional",
-        "time": "22/09 16:10",
-        "iso_date": "2026-09-22T19:10:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -301,21 +313,23 @@
         "iso_date": "2026-09-22T18:09:10+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "“No quiero que esto tambalee”: el análisis de una diputada aliada al Gobierno sobre la relación Bullrich-Milei",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/no-quiero-que-esto-tambalee-el-analisis-de-una-diputada-aliada-al-gobierno-sobre-la-relacion-bullrich-milei/",
-        "source": "El Cronista",
-        "time": "22/09 15:00",
-        "iso_date": "2026-09-22T18:00:50+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
       {
-        "title": "El riesgo país llegó a su nivel más en más de cinco meses",
+        "title": "Vista captó US$400 millones en Wall Street para acelerar en Vaca Muerta",
+        "summary": "La petrolera amplió una emisión internacional con vencimiento en 2038 y llevó el monto total de la serie a US$900 millones. La operación se cerró con un rendimiento de 7,95%, mientras la compañía avanza con su plan de expansión en Vaca Muerta.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vista-capto-us400-millones-en-wall-street-para-acelerar-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "22/09 19:17",
+        "iso_date": "2026-09-22T22:17:51+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país tocó un máximo en más de cinco meses y bonos argentinos caen en Wall Street",
         "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
         "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
         "source": "iProfesional",
@@ -371,10 +385,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "AL30",
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -460,10 +474,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "AL30",
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       }
@@ -477,10 +491,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "AL30",
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       }
@@ -529,7 +543,7 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país llegó a su nivel más en más de cinco meses",
+        "title": "El riesgo país tocó un máximo en más de cinco meses y bonos argentinos caen en Wall Street",
         "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
         "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
         "source": "iProfesional",
@@ -561,10 +575,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "AL30",
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "GGAL",
+          "PAMP"
         ],
         "is_general": true
       },
