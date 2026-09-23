@@ -1,10 +1,64 @@
 {
-  "updated_at": "2026-09-22T23:55:54.551377",
-  "updated_str": "22/09/2026 23:55",
+  "updated_at": "2026-09-23T03:21:23.111628",
+  "updated_str": "23/09/2026 03:21",
   "cutoff_hours": 48,
-  "total_news": 286,
+  "total_news": 290,
   "news": {
     "GENERAL": [
+      {
+        "title": "Diálogos de Wall Street: la Fed calmó a los mercados, pero Kevin Warsh todavía debe despejar varias dudas",
+        "summary": "¿Qué pasó después de la primera suba de tasas de la Fed en tres años? ¿Por qué se cree que esto recién empieza? ¿La Fed se mostró independiente, pero la desconfianza en Warsh continúa? Gekko analiza lo que dejó el debut del nuevo chairman en los mercados.",
+        "link": "https://www.ambito.com/dialogos-wall-street-n6325501",
+        "source": "Ámbito",
+        "time": "23/09 00:00",
+        "iso_date": "2026-09-23T03:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Endeudados: Milei vinculó la tasa de interés con el paraíso y advirtió sobre bajar el costo del crédito “artificialmente”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/endeudados-milei-vinculo-la-tasa-de-interes-con-el-paraiso-y-advirtio-sobre-bajar-el-costo-del-credito-artificialmente/",
+        "source": "El Cronista",
+        "time": "22/09 22:52",
+        "iso_date": "2026-09-23T01:52:11+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina y EEUU firmarán acuerdo por más de u$s6.000 millones para el desarrollo de infraestructura y gas de Vaca Muerta",
+        "summary": "El compromiso se rubricará en el marco del viaje de Javier Milei a la ONU. Los fondos se destinarán a sectores estratégicos y críticos. Argentina LNG será uno de los proyectos al que apuntarán las inversiones.",
+        "link": "https://www.ambito.com/economia/argentina-y-eeuu-firmaran-acuerdo-mas-us6000-millones-el-desarrollo-infraestructura-y-gas-vaca-muerta-n6325529",
+        "source": "Ámbito",
+        "time": "22/09 22:45",
+        "iso_date": "2026-09-23T01:45:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Misión del FMI en la Argentina: cómo se posiciona el Gobierno ante la meta de reservas que nunca se cumplió sin un “perdón”",
+        "summary": "El equipo técnico del organismo se encuentra en la Argentina para evaluar la evolución del programa. El debate se concentra en la diferencia entre las compras de divisas y la exigencia de recomponer activos netos antes de diciembre",
+        "link": "https://www.infobae.com/economia/2026/09/22/mision-del-fmi-en-la-argentina-como-se-posiciona-el-gobierno-ante-la-meta-de-reservas-que-nunca-se-cumplio-sin-un-perdon/",
+        "source": "Infobae Economía",
+        "time": "22/09 22:40",
+        "iso_date": "2026-09-23T01:40:05+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Marín y Quirno mantendrán reuniones en EE.UU. para cerrar acuerdos para energía: el mega proyecto de GNL",
+        "summary": "En el marco de la semana de la ONU en Nueva York, el presidente de YPF, Horacio Marín, y el canciller Pablo Quirno encabezarán un foro bilateral con el EXIM Bank y la DFC para acelerar fondos destinados a Vaca Muerta, litio y cobre.",
+        "link": "https://www.cronista.com/economia-politica/marin-y-quirno-mantendran-reuniones-en-eeuu-para-cerrar-acuerdos-financieros-para-la-energia-y-mineria/",
+        "source": "El Cronista",
+        "time": "22/09 21:56",
+        "iso_date": "2026-09-23T00:56:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Caputo renovó el 75% de una letra atada al dólar y despejó vencimientos por $5 billones",
         "summary": "Las entidades financieras aumentaron su exposición a instrumentos públicos tras una medida del BCRA que facilitó la renovación de pasivos",
@@ -13,6 +67,18 @@
         "time": "22/09 20:34",
         "iso_date": "2026-09-22T23:34:00+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Sin ver lo que ocurre, los bonos siguen flojos y el riesgo es el más alto en casi cinco meses",
+        "summary": "La tasa internacional más alta y los precios de la guerra no tan firmes hacen que los inversores abandonen posiciones en bonos argentinos y el riesgo sube aún más. Pero la ola de dólares que llega sigue creciendo. La tranquilidad cambiaria es absoluta. Se sigue roleando deuda ...",
+        "link": "https://eleconomista.com.ar/finanzas/sin-ver-lo-ocurre-bonos-siguen-flojos-riesgo-mas-alto-casi-cinco-meses-n98353",
+        "source": "El Economista",
+        "time": "22/09 20:23",
+        "iso_date": "2026-09-22T23:23:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -114,16 +180,6 @@
         "source": "iProfesional",
         "time": "22/09 18:26",
         "iso_date": "2026-09-22T21:26:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Misión del FMI en la Argentina: cómo se posiciona el Gobierno ante la meta de reservas que nunca se cumplió sin un “perdón”",
-        "summary": "El equipo técnico del organismo se encuentra en la Argentina para evaluar la evolución del programa. El debate se concentra en la diferencia entre las compras de divisas y la exigencia de recomponer activos netos antes de diciembre",
-        "link": "https://www.infobae.com/economia/2026/09/22/mision-del-fmi-en-la-argentina-como-se-posiciona-el-gobierno-ante-la-meta-de-reservas-que-nunca-se-cumplio-sin-un-perdon/",
-        "source": "Infobae Economía",
-        "time": "22/09 18:23",
-        "iso_date": "2026-09-22T21:23:04+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -260,62 +316,45 @@
         "iso_date": "2026-09-22T19:50:57+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Los salarios superaron a la inflación durante cuatro meses consecutivos, según INDEC",
-        "summary": "El poder adquisitivo en el sector privado registrado se recuperó en julio, aunque aún se encuentra por debajo del máximo alcanzado en la gestión Milei",
-        "link": "https://www.iprofesional.com/economia/464965-salarios-superaron-a-inflacion-durante-cuatro-meses-consecutivos-segun-indec",
-        "source": "iProfesional",
-        "time": "22/09 16:38",
-        "iso_date": "2026-09-22T19:38:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El salario real registrado en el sector privado tuvo leve mejora en julio, pero sigue 4% debajo del pico de la era Milei",
-        "summary": "Respecto de junio, los ingresos de los trabajadores repuntaron un 0,2%. Asimismo, los sueldos del Estado treparon 0,9%.",
-        "link": "https://www.ambito.com/economia/el-salario-real-registrado-el-sector-privado-tuvo-leve-mejora-julio-pero-sigue-4-debajo-del-pico-la-era-milei-n6325391",
+        "title": "Argentina y EEUU firmarán acuerdo por más de u$s6.000 millones para el desarrollo de infraestructura y gas de Vaca Muerta",
+        "summary": "El compromiso se rubricará en el marco del viaje de Javier Milei a la ONU. Los fondos se destinarán a sectores estratégicos y críticos. Argentina LNG será uno de los proyectos al que apuntarán las inversiones.",
+        "link": "https://www.ambito.com/economia/argentina-y-eeuu-firmaran-acuerdo-mas-us6000-millones-el-desarrollo-infraestructura-y-gas-vaca-muerta-n6325529",
         "source": "Ámbito",
-        "time": "22/09 16:36",
-        "iso_date": "2026-09-22T19:36:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La marca de ropa Zhoue está al borde de la quiebra, debe $2.300 millones y liquida todo",
-        "summary": "Acuciada por deudas millonarias y cinco pedidos de quiebra, la textil desarma su estructura y vende stock para afrontar compromisos",
-        "link": "https://www.iprofesional.com/negocios/464958-zhoue-liquida-franquicias-remata-ropa-deudas-millonarias-septiembre-2026",
-        "source": "iProfesional",
-        "time": "22/09 16:35",
-        "iso_date": "2026-09-22T19:35:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país tocó un máximo en más de cinco meses y bonos argentinos caen en Wall Street",
-        "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
-        "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
-        "source": "iProfesional",
-        "time": "22/09 16:30",
-        "iso_date": "2026-09-22T19:30:00+00:00",
+        "time": "22/09 22:45",
+        "iso_date": "2026-09-23T01:45:00+00:00",
         "tickers": [
-          "AL30",
           "YPFD"
         ],
         "is_general": true
       },
       {
-        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este martes 22 de septiembre",
-        "summary": "El billete al público sigue ofrecido a $1.535 para la venta en el Banco Nación. El blue sube a $1.555",
-        "link": "https://www.infobae.com/economia/2026/09/22/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-22-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "22/09 16:19",
-        "iso_date": "2026-09-22T19:19:03+00:00",
-        "tickers": [],
+        "title": "Argentina y EEUU firmarán acuerdo por más de u$s6.000 millones para el desarrollo de infraestructura y gas de Vaca Muerta",
+        "summary": "El compromiso se rubricará en el marco del viaje de Javier Milei a la ONU. Los fondos se destinarán a sectores estratégicos y críticos. Argentina LNG será uno de los proyectos al que apuntarán las inversiones.",
+        "link": "https://www.ambito.com/economia/argentina-y-eeuu-firmaran-acuerdo-mas-us6000-millones-el-desarrollo-infraestructura-y-gas-vaca-muerta-n6325529",
+        "source": "Ámbito Mercados",
+        "time": "22/09 22:45",
+        "iso_date": "2026-09-23T01:45:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
         "is_general": true
-      }
-    ],
-    "YPFD": [
+      },
+      {
+        "title": "Marín y Quirno mantendrán reuniones en EE.UU. para cerrar acuerdos para energía: el mega proyecto de GNL",
+        "summary": "En el marco de la semana de la ONU en Nueva York, el presidente de YPF, Horacio Marín, y el canciller Pablo Quirno encabezarán un foro bilateral con el EXIM Bank y la DFC para acelerar fondos destinados a Vaca Muerta, litio y cobre.",
+        "link": "https://www.cronista.com/economia-politica/marin-y-quirno-mantendran-reuniones-en-eeuu-para-cerrar-acuerdos-financieros-para-la-energia-y-mineria/",
+        "source": "El Cronista",
+        "time": "22/09 21:56",
+        "iso_date": "2026-09-23T00:56:32+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vista captó US$400 millones en Wall Street para acelerar en Vaca Muerta",
         "summary": "La petrolera amplió una emisión internacional con vencimiento en 2038 y llevó el monto total de la serie a US$900 millones. La operación se cerró con un rendimiento de 7,95%, mientras la compañía avanza con su plan de expansión en Vaca Muerta.",
@@ -324,19 +363,6 @@
         "time": "22/09 19:17",
         "iso_date": "2026-09-22T22:17:51+00:00",
         "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país tocó un máximo en más de cinco meses y bonos argentinos caen en Wall Street",
-        "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
-        "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
-        "source": "iProfesional",
-        "time": "22/09 16:30",
-        "iso_date": "2026-09-22T19:30:00+00:00",
-        "tickers": [
-          "AL30",
           "YPFD"
         ],
         "is_general": true
@@ -373,10 +399,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30",
           "PAMP",
-          "YPFD"
+          "GGAL",
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -387,18 +413,6 @@
         "source": "El Cronista",
         "time": "21/09 15:28",
         "iso_date": "2026-09-21T18:28:55+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Marín y Quirno mantendrán reuniones en EE.UU. para cerrar acuerdos para energía: el mega proyecto de GNL",
-        "summary": "En el marco de la semana de la ONU en Nueva York, el presidente de YPF, Horacio Marín, y el canciller Pablo Quirno encabezarán un foro bilateral con el EXIM Bank y la DFC para acelerar fondos destinados a Vaca Muerta, litio y cobre.",
-        "link": "https://www.cronista.com/economia-politica/marin-y-quirno-mantendran-reuniones-en-eeuu-para-cerrar-acuerdos-financieros-para-la-energia-y-mineria/",
-        "source": "El Cronista",
-        "time": "21/09 14:56",
-        "iso_date": "2026-09-21T17:56:31+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -462,10 +476,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30",
           "PAMP",
-          "YPFD"
+          "GGAL",
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       }
@@ -479,10 +493,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30",
           "PAMP",
-          "YPFD"
+          "GGAL",
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       }
@@ -506,6 +520,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Sin ver lo que ocurre, los bonos siguen flojos y el riesgo es el más alto en casi cinco meses",
+        "summary": "La tasa internacional más alta y los precios de la guerra no tan firmes hacen que los inversores abandonen posiciones en bonos argentinos y el riesgo sube aún más. Pero la ola de dólares que llega sigue creciendo. La tranquilidad cambiaria es absoluta. Se sigue roleando deuda ...",
+        "link": "https://eleconomista.com.ar/finanzas/sin-ver-lo-ocurre-bonos-siguen-flojos-riesgo-mas-alto-casi-cinco-meses-n98353",
+        "source": "El Economista",
+        "time": "22/09 20:23",
+        "iso_date": "2026-09-22T23:23:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: cayeron los bonos argentinos y el riesgo país tocó un máximo en casi cinco meses",
         "summary": "Los títulos públicos en dólares perdieron 0,9% en promedio. El indicador de JP Morgan avanzó a los 555 puntos básicos. El S&P Merval quedó neutro y el petróleo cayó por quinta rueda consecutiva. El dólar siguió a $1.535 en el Banco Nación",
@@ -531,19 +557,6 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país tocó un máximo en más de cinco meses y bonos argentinos caen en Wall Street",
-        "summary": "El indicador de JP Morgan salta casi 4% y se ubica en la línea de los 555 puntos. Jornada negativa en general, aunque YPF y TGN amortiguan pérdidas",
-        "link": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos",
-        "source": "iProfesional",
-        "time": "22/09 16:30",
-        "iso_date": "2026-09-22T19:30:00+00:00",
-        "tickers": [
-          "AL30",
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
         "title": "A un año del rescate de Bessent: cómo evolucionó el dólar, riesgo país y Merval en Argentina",
         "summary": "El 22 de septiembre de 2026, el secretario del Tesoro de los Estados Unidos, Scott Bessent, informó que su cartera estaba lista para “para hacer lo necesario dentro de su mandato para apoyar” al país sudamericano.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/a-un-ano-del-rescate-de-bessent-como-evoluciono-el-dolar-riesgo-pais-y-merval-en-argentina/",
@@ -563,10 +576,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30",
           "PAMP",
-          "YPFD"
+          "GGAL",
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
