@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-09-23T18:44:11.727806",
-  "updated_str": "23/09/2026 18:44",
+  "updated_at": "2026-09-23T19:08:22.079210",
+  "updated_str": "23/09/2026 19:08",
   "cutoff_hours": 48,
-  "total_news": 324,
+  "total_news": 288,
   "news": {
     "GENERAL": [
+      {
+        "title": "Bullrich cerró los acuerdos y habrá sesión: Zonas Frías en duda y cambios en el BCRA",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/banco-central-y-zonas-frias-la-negociacion-de-bullrich-con-los-aliados-para-llegar-al-recinto/",
+        "source": "El Cronista",
+        "time": "23/09 15:59",
+        "iso_date": "2026-09-23T18:59:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La IA fue mucho más que un capítulo en la ONU: Milei presentó una estrategia para atraer empresas del sector",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-ia-fue-mucho-mas-que-un-capitulo-en-la-onu-milei-presento-una-estrategia-para-atraer-empresas-del-sector/",
+        "source": "El Cronista",
+        "time": "23/09 15:49",
+        "iso_date": "2026-09-23T18:49:37+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país sube por octava rueda consecutiva, mientras caen bonos y acciones",
+        "summary": "El discurso de Milei en la ONU y las reuniones de Caputo con inversores no contuvieron la incertidumbre en el mercado. Los ADR caen casi de forma unánime",
+        "link": "https://www.iprofesional.com/finanzas/465054-riesgo-pais-sube-por-octava-rueda-consecutiva-mientras-caen-bonos-y-acciones-argentinas",
+        "source": "iProfesional",
+        "time": "23/09 15:44",
+        "iso_date": "2026-09-23T18:44:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las empresas aceleraron la emisión de deuda en agosto y el BCRA monitorea los dólares que pueden sumar reservas",
         "summary": "Un informe privado relevó 41 operaciones por $1,7 billones durante el séptimo mes del año. La cifra superó el registro anual en cantidad, aunque retrocedió frente a julio en recursos captados. YPF sumó USD 1.200 millones y San Juan prevé emitir en el exterior",
@@ -105,18 +137,6 @@
         "time": "23/09 13:36",
         "iso_date": "2026-09-23T16:36:34+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país sube por octava rueda consecutiva, mientras caen bonos y acciones",
-        "summary": "El discurso de Milei en la ONU y las reuniones de Caputo con inversores no contuvieron la incertidumbre en el mercado. Los ADR caen casi de forma unánime",
-        "link": "https://www.iprofesional.com/finanzas/465054-riesgo-pais-sube-por-octava-rueda-consecutiva-mientras-caen-bonos-y-acciones-argentinas",
-        "source": "iProfesional",
-        "time": "23/09 13:34",
-        "iso_date": "2026-09-23T16:34:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -296,26 +316,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Banco Central y Zonas Frías: la negociación de Bullrich con los aliados para llegar al recinto",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/banco-central-y-zonas-frias-la-negociacion-de-bullrich-con-los-aliados-para-llegar-al-recinto/",
-        "source": "El Cronista",
-        "time": "23/09 11:37",
-        "iso_date": "2026-09-23T14:37:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei criticó a la ONU y defendió la soberanía en Malvinas: “Es una causa nacional”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/milei-defendera-la-soberania-en-malvinas-ante-la-asamblea-de-la-onu/",
-        "source": "El Cronista",
-        "time": "23/09 11:34",
-        "iso_date": "2026-09-23T14:34:42+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -435,10 +435,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "AL30",
           "YPFD",
+          "GGAL",
           "PAMP",
-          "GGAL"
+          "AL30"
         ],
         "is_general": true
       }
@@ -452,10 +452,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "AL30",
           "YPFD",
+          "GGAL",
           "PAMP",
-          "GGAL"
+          "AL30"
         ],
         "is_general": true
       }
@@ -469,10 +469,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "AL30",
           "YPFD",
+          "GGAL",
           "PAMP",
-          "GGAL"
+          "AL30"
         ],
         "is_general": true
       }
@@ -488,8 +488,8 @@
         "summary": "El discurso de Milei en la ONU y las reuniones de Caputo con inversores no contuvieron la incertidumbre en el mercado. Los ADR caen casi de forma unánime",
         "link": "https://www.iprofesional.com/finanzas/465054-riesgo-pais-sube-por-octava-rueda-consecutiva-mientras-caen-bonos-y-acciones-argentinas",
         "source": "iProfesional",
-        "time": "23/09 13:34",
-        "iso_date": "2026-09-23T16:34:00+00:00",
+        "time": "23/09 15:44",
+        "iso_date": "2026-09-23T18:44:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -587,10 +587,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "AL30",
           "YPFD",
+          "GGAL",
           "PAMP",
-          "GGAL"
+          "AL30"
         ],
         "is_general": true
       },
