@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-23T19:16:37.784690",
-  "updated_str": "23/09/2026 19:16",
+  "updated_at": "2026-09-23T19:46:16.975669",
+  "updated_str": "23/09/2026 19:46",
   "cutoff_hours": 48,
   "total_news": 288,
   "news": {
     "GENERAL": [
+      {
+        "title": "El dólar volvió a aumentar y marcó un nuevo récord nominal",
+        "summary": "La divisa cerró a $1.516 en el mercado mayorista. Al público siguió a $1.535 en el Banco Nación. Septiembre se encamina a ser el mes con menores compras oficiales en el mercado en lo que va del año",
+        "link": "https://www.infobae.com/economia/2026/09/23/el-dolar-volvio-a-aumentar-y-marco-un-nuevo-record-nominal/",
+        "source": "Infobae Economía",
+        "time": "23/09 16:23",
+        "iso_date": "2026-09-23T19:23:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este miércoles 23 de septiembre",
+        "summary": "El billete al público siguió ofrecido a $1.535 para la venta en el Banco Nación. El mayorista anotó un récord, a $1.516. El blue subió a $1.560",
+        "link": "https://www.infobae.com/economia/2026/09/23/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-23-de-septiembre/",
+        "source": "Infobae Economía",
+        "time": "23/09 16:16",
+        "iso_date": "2026-09-23T19:16:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Foto política y críticas al “milagro económico” de Milei: cómo fue la reunión Kicillof-Mamdani",
         "summary": "",
@@ -90,7 +110,7 @@
         "is_general": true
       },
       {
-        "title": "Avanza el pluriempleo en Argentina y ya afecta a 1 de cada 10 trabajadores",
+        "title": "Avanza el pluriempleo en Argentina y ya afecta al 10% de los trabajadores",
         "summary": "Producto del estancamiento económico de la última década, la incidencia del pluriempleo en el mercado de trabajo no hizo más que aumentar. Un fenómeno que se acrecentó a partir de la llegada de Javier Milei a la Presidencia.",
         "link": "https://www.ambito.com/economia/avanza-el-pluriempleo-argentina-y-ya-afecta-1-cada-10-trabajadores-n6325752",
         "source": "Ámbito",
@@ -166,16 +186,6 @@
         "source": "El Cronista",
         "time": "23/09 13:25",
         "iso_date": "2026-09-23T16:25:37+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este miércoles 23 de septiembre",
-        "summary": "El billete al público sigue ofrecido a $1.535 para la venta en el Banco Nación. El blue sube a $1.560",
-        "link": "https://www.infobae.com/economia/2026/09/23/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-23-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "23/09 13:25",
-        "iso_date": "2026-09-23T16:25:29+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -304,16 +314,6 @@
         "iso_date": "2026-09-23T14:44:51+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Los países más endeudados de América Latina, luego de que la deuda global rompiera otro récord",
-        "summary": "El endeudamiento global aumentó más de US$10 billones en el primer semestre. Brasil, El Salvador y Trinidad y Tobago registran las mayores ratios gubernamentales de la muestra regional.",
-        "link": "https://www.bloomberglinea.com/mercados/los-paises-mas-endeudados-de-america-latina-luego-de-que-la-deuda-global-rompiera-otro-record/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/09 11:40",
-        "iso_date": "2026-09-23T14:40:04+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -434,9 +434,9 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "AL30",
-          "PAMP",
+          "YPFD",
           "GGAL",
-          "YPFD"
+          "PAMP"
         ],
         "is_general": true
       }
@@ -451,9 +451,9 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "AL30",
-          "PAMP",
+          "YPFD",
           "GGAL",
-          "YPFD"
+          "PAMP"
         ],
         "is_general": true
       }
@@ -468,9 +468,9 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "AL30",
-          "PAMP",
+          "YPFD",
           "GGAL",
-          "YPFD"
+          "PAMP"
         ],
         "is_general": true
       }
@@ -586,9 +586,9 @@
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
           "AL30",
-          "PAMP",
+          "YPFD",
           "GGAL",
-          "YPFD"
+          "PAMP"
         ],
         "is_general": true
       },
