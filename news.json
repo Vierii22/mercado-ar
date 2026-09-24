@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-24T00:09:01.576937",
-  "updated_str": "24/09/2026 00:09",
+  "updated_at": "2026-09-24T03:10:49.844696",
+  "updated_str": "24/09/2026 03:10",
   "cutoff_hours": 48,
   "total_news": 285,
   "news": {
     "GENERAL": [
+      {
+        "title": "Plazo fijo: cuánto rinden $3.000.000 a 60 días",
+        "summary": "Las tasas de los bancos se actualizan y pueden variar según el monto, el plazo y la modalidad elegida para hacer la operación.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinden-3000000-60-dias-n6325819",
+        "source": "Ámbito",
+        "time": "23/09 22:00",
+        "iso_date": "2026-09-24T01:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina y EEUU firmaron acuerdo con inversiones de hasta u$s7.000 millones en infraestructura, minerales críticos, energía y sector digital",
+        "summary": "El plan apunta a atraer inversión estadounidense para ferrocarriles, puertos y conectar sectores clave de la economía argentina. El presidente y CEO de YPF, Horacio Marín, participó de la firma junto a directivos de EXIM y al canciller Pablo Quirno. Parte de los fondos se dest...",
+        "link": "https://www.ambito.com/economia/argentina-y-eeuu-lanzaron-el-corredor-andes-atlantico-inversiones-us7000-millones-n6325971",
+        "source": "Ámbito",
+        "time": "23/09 21:45",
+        "iso_date": "2026-09-24T00:45:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Llega el primer ETF argentino: un índice para invertir en todo el mercado local",
         "summary": "Bolsas y Mercados Argentinos (BYMA) y Galicia Asset Management anunciaron que trabajan en el desarrollo del primer ETF local de Argentina",
@@ -15,6 +37,16 @@
         "tickers": [
           "GGAL"
         ],
+        "is_general": true
+      },
+      {
+        "title": "\"Nos salen dólares de las orejas\": la frase con la que Milei definió la economía del país",
+        "summary": "Ante líderes mundiales, el mandatario anticipó una fuerte expansión y detalló la carga simbólica del distintivo que usó en el histórico encuentro",
+        "link": "https://www.iprofesional.com/politica/465101-nos-salen-dolares-de-las-orejas-la-frase-con-la-que-milei-definio-la-economia-del-pais",
+        "source": "iProfesional",
+        "time": "23/09 20:56",
+        "iso_date": "2026-09-23T23:56:00+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -288,41 +320,33 @@
         "iso_date": "2026-09-23T18:49:37+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Las empresas aceleraron la emisión de deuda en agosto y el BCRA monitorea los dólares que pueden sumar reservas",
-        "summary": "Un informe privado relevó 41 operaciones por $1,7 billones durante el séptimo mes del año. La cifra superó el registro anual en cantidad, aunque retrocedió frente a julio en recursos captados. YPF sumó USD 1.200 millones y San Juan prevé emitir en el exterior",
-        "link": "https://www.infobae.com/economia/2026/09/22/las-empresas-marcaron-un-nuevo-record-de-emisiones-en-agosto-pero-cayo-el-monto/",
-        "source": "Infobae Economía",
-        "time": "23/09 15:11",
-        "iso_date": "2026-09-23T18:11:34+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Una fabricante de primeras marcas quedó bajo protección judicial",
-        "summary": "Jutex, proveedora de grandes marcas de indumentaria, entró en concurso con deudas de $684 millones y busca negociar con acreedores",
-        "link": "https://www.iprofesional.com/negocios/465027-la-textil-jutex-proveedora-de-rapsodia-en-concurso-preventivo",
-        "source": "iProfesional",
-        "time": "23/09 15:10",
-        "iso_date": "2026-09-23T18:10:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei aseguró que Argentina está preparada para afrontar la suba global de tasas: \"Nos salen dólares por las orejas\"",
-        "summary": "El Presidente y el ministro de Economía destacaron que el aporte de la balanza comercial genera en la actualidad un escenario distinto al de shocks externos anteriores. Asimismo, afirmaron que el mundo necesita lo que en Argentina hay en abundancia.",
-        "link": "https://www.ambito.com/economia/javier-milei-aseguro-que-argentina-esta-preparada-afrontar-la-suba-global-tasas-nos-salen-dolares-las-orejas-n6325808",
-        "source": "Ámbito",
-        "time": "23/09 15:05",
-        "iso_date": "2026-09-23T18:05:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Argentina y EEUU firmaron acuerdo con inversiones de hasta u$s7.000 millones en infraestructura, minerales críticos, energía y sector digital",
+        "summary": "El plan apunta a atraer inversión estadounidense para ferrocarriles, puertos y conectar sectores clave de la economía argentina. El presidente y CEO de YPF, Horacio Marín, participó de la firma junto a directivos de EXIM y al canciller Pablo Quirno. Parte de los fondos se dest...",
+        "link": "https://www.ambito.com/economia/argentina-y-eeuu-lanzaron-el-corredor-andes-atlantico-inversiones-us7000-millones-n6325971",
+        "source": "Ámbito",
+        "time": "23/09 21:45",
+        "iso_date": "2026-09-24T00:45:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Argentina y EEUU firmaron acuerdo con inversiones de hasta u$s7.000 millones en infraestructura, minerales críticos, energía y sector digital",
+        "summary": "El plan apunta a atraer inversión estadounidense para ferrocarriles, puertos y conectar sectores clave de la economía argentina. El presidente y CEO de YPF, Horacio Marín, participó de la firma junto a directivos de EXIM y al canciller Pablo Quirno. Parte de los fondos se dest...",
+        "link": "https://www.ambito.com/economia/argentina-y-eeuu-lanzaron-el-corredor-andes-atlantico-inversiones-us7000-millones-n6325971",
+        "source": "Ámbito Mercados",
+        "time": "23/09 21:45",
+        "iso_date": "2026-09-24T00:45:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta necesita u$s20.000 millones anuales y Milei pasa la gorra en Wall Street",
         "summary": "La Cuenca Neuquina exige u$s20.000 millones al año en obras e infraestructura. Por qué Milei busca en el exterior los dólares que la industria necesita",
@@ -427,10 +451,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "PAMP",
-          "YPFD",
-          "AL30"
+          "GGAL",
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -468,10 +492,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "PAMP",
-          "YPFD",
-          "AL30"
+          "GGAL",
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -497,10 +521,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "PAMP",
-          "YPFD",
-          "AL30"
+          "GGAL",
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -627,10 +651,10 @@
         "time": "22/09 04:53",
         "iso_date": "2026-09-22T07:53:00+00:00",
         "tickers": [
-          "GGAL",
           "PAMP",
-          "YPFD",
-          "AL30"
+          "GGAL",
+          "AL30",
+          "YPFD"
         ],
         "is_general": true
       },
