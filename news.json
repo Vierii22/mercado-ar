@@ -1,10 +1,62 @@
 {
-  "updated_at": "2026-09-24T14:51:24.074196",
-  "updated_str": "24/09/2026 14:51",
+  "updated_at": "2026-09-24T15:59:23.261694",
+  "updated_str": "24/09/2026 15:59",
   "cutoff_hours": 48,
-  "total_news": 291,
+  "total_news": 289,
   "news": {
     "GENERAL": [
+      {
+        "title": "A cuánto debe llegar la inflación en los próximos meses para que el Gobierno cumpla la meta que fijó en el Presupuesto",
+        "summary": "En el proyecto de Presupuesto 2027 se proyectó un IPC del 29% para este año. Las presiones de alimentos y bebidas que complican el dato de septiembre y podrían llevarlo al 2 por ciento",
+        "link": "https://www.infobae.com/economia/2026/09/24/a-cuanto-debe-llegar-la-inflacion-en-los-proximos-meses-para-que-el-gobierno-cumpla-la-meta-que-fijo-en-el-presupuesto/",
+        "source": "Infobae Economía",
+        "time": "24/09 12:48",
+        "iso_date": "2026-09-24T15:48:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El petróleo sube otra vez y arrastra a Wall Street a su tercera baja consecutiva",
+        "summary": "El Brent superó los 105 dólares el barril y el crudo estadounidense saltó a más de USD 95, mientras los rendimientos de bonos siguen presionando a las acciones tecnológicas",
+        "link": "https://www.infobae.com/america/mundo/2026/09/24/el-petroleo-sube-casi-4-y-arrastra-a-wall-street-a-su-tercera-baja-consecutiva/",
+        "source": "Infobae Economía",
+        "time": "24/09 12:46",
+        "iso_date": "2026-09-24T15:46:38+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Reforma del BCRA: el cambio clave y los principales puntos del proyecto que debatirá el Senado",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-senado-debate-hoy-la-reforma-del-bcra-el-cambio-clave-y-los-principales-puntos-del-proyecto/",
+        "source": "El Cronista",
+        "time": "24/09 12:04",
+        "iso_date": "2026-09-24T15:04:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El presidente de YPF aseguró que “si el barril de petróleo se mantiene en USD 100, la nafta va a subir”",
+        "summary": "Horacio Marín habló en Infobae en Vivo sobre la volatilidad del precio internacional, el acuerdo entre las petroleras para no trasladar toda la suba al surtidor y el avance del financiamiento del mayor proyecto de la historia de la empresa",
+        "link": "https://www.infobae.com/economia/2026/09/24/el-presidente-de-ypf-aseguro-que-si-el-barril-de-petroleo-se-mantiene-en-usd-100-la-nafta-va-a-subir/",
+        "source": "Infobae Economía",
+        "time": "24/09 12:00",
+        "iso_date": "2026-09-24T15:00:27+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El Senado debate la reforma del BCRA y Zonas Frías: qué cedió LLA y por qué hay votos en duda",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/el-senado-sesiona-por-la-reforma-del-bcra-y-zonas-frias-que-cedio-lla-para-conseguir-los-votos/",
+        "source": "El Cronista",
+        "time": "24/09 11:52",
+        "iso_date": "2026-09-24T14:52:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Las expectativas de inflación para los próximos 12 meses cayeron por debajo del 30 por ciento",
         "summary": "El aumento esperado para el índice de precios se ubicó en 29,8% en septiembre, casi seis puntos porcentuales por debajo del registro de agosto, según la Universidad Torcuato Di Tella",
@@ -124,6 +176,16 @@
         "source": "Infobae Economía",
         "time": "24/09 08:52",
         "iso_date": "2026-09-24T11:52:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Los bancos se desprenden de bonos de deuda a largo plazo y ponen a Caputo bajo presión",
+        "summary": "La caída de los bonos somete a Luis Caputo a una disyuntiva clave: definir si convalida tasas de interés más altas o acorta los plazos de emisión",
+        "link": "https://www.iprofesional.com/economia/465086-bancos-presionan-a-caputo-que-elige-entre-tasas-o-plazo-de-deuda",
+        "source": "iProfesional",
+        "time": "24/09 08:33",
+        "iso_date": "2026-09-24T11:33:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -254,73 +316,21 @@
           "AL30"
         ],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Hoy se conocerá un dato clave para el Gobierno sobre el rumbo de la economía: qué anticipan las consultoras",
-        "summary": "Este jueves, el Indec publicará el Estimador Mensual de Actividad Económica (EMAE) de julio. Las estadísticas de la industria y la construcción que ya se conocieron anticipan una nueva caída y la continuidad de la serie en forma de serrucho",
-        "link": "https://www.infobae.com/economia/2026/09/24/hoy-se-conocera-un-dato-clave-para-el-gobierno-sobre-el-rumbo-de-la-economia-que-anticipan-las-consultoras/",
+        "title": "El presidente de YPF aseguró que “si el barril de petróleo se mantiene en USD 100, la nafta va a subir”",
+        "summary": "Horacio Marín habló en Infobae en Vivo sobre la volatilidad del precio internacional, el acuerdo entre las petroleras para no trasladar toda la suba al surtidor y el avance del financiamiento del mayor proyecto de la historia de la empresa",
+        "link": "https://www.infobae.com/economia/2026/09/24/el-presidente-de-ypf-aseguro-que-si-el-barril-de-petroleo-se-mantiene-en-usd-100-la-nafta-va-a-subir/",
         "source": "Infobae Economía",
-        "time": "24/09 02:03",
-        "iso_date": "2026-09-24T05:03:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Banco Central confirmó que Mercado Libre tendrá licencia para operar como banco antes de fin de año",
-        "summary": "Juan Curutchet, director de la autoridad monetaria, lo anticipó en el evento del sector financiero y agregó que Revolut también tendría su licencia en ese plazo",
-        "link": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
-        "source": "Infobae Economía",
-        "time": "24/09 02:02",
-        "iso_date": "2026-09-24T05:02:46+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados volátiles: la suba de tasas enciende alarmas y la Argentina siente el golpe en los bonos y el riesgo país",
-        "summary": "La tasa del Tesoro de EEUU superó el 5% y volvió a golpear a los bonos argentinos. La suba de tasas en Estados Unidos, el avance del dólar y las dudas fiscales presionaron sobre los activos locales, mientras el riesgo país escaló a 566 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/09/24/mercados-volatiles-la-suba-de-tasas-enciende-alarmas-y-la-argentina-siente-el-golpe-en-los-bonos-y-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "24/09 02:02",
-        "iso_date": "2026-09-24T05:02:30+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Prevén aumento de la pobreza, pero en el Gobierno esperan mejora hacia fin de año",
-        "summary": "La cifra habría subido a 31% de la población, por encima del 28% del segundo semestre de 2025. En el gobierno esperan que en lo que resta del año el índice retome la tendencia descendente. El repunte de la inflación a comienzos de 2026 explica el aumento.",
-        "link": "https://www.ambito.com/preven-aumento-la-pobreza-pero-el-gobierno-esperan-mejora-fin-ano-n6326000",
-        "source": "Ámbito",
-        "time": "24/09 00:00",
-        "iso_date": "2026-09-24T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plazo fijo: cuánto rinden $3.000.000 a 60 días",
-        "summary": "Las tasas de los bancos se actualizan y pueden variar según el monto, el plazo y la modalidad elegida para hacer la operación.",
-        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-rinden-3000000-60-dias-n6325819",
-        "source": "Ámbito",
-        "time": "23/09 22:00",
-        "iso_date": "2026-09-24T01:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Argentina y EEUU firmaron acuerdo con inversiones de hasta u$s7.000 millones en infraestructura, minerales críticos, energía y sector digital",
-        "summary": "El plan apunta a atraer inversión estadounidense para ferrocarriles, puertos y conectar sectores clave de la economía argentina. El presidente y CEO de YPF, Horacio Marín, participó de la firma junto a directivos de EXIM y al canciller Pablo Quirno. Parte de los fondos se dest...",
-        "link": "https://www.ambito.com/economia/argentina-y-eeuu-lanzaron-el-corredor-andes-atlantico-inversiones-us7000-millones-n6325971",
-        "source": "Ámbito",
-        "time": "23/09 21:45",
-        "iso_date": "2026-09-24T00:45:00+00:00",
+        "time": "24/09 12:00",
+        "iso_date": "2026-09-24T15:00:27+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
-      }
-    ],
-    "YPFD": [
+      },
       {
         "title": "Claves para entender la relevancia y qué cambia con el Corredor Andes-Atlántico",
         "summary": "El esquema anunciado en las últimas horas fija financiamiento atado a compras en EE. UU. Priorizan la conexión de la Puna y Vaca Muerta con los puertos",
