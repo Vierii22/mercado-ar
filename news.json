@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-24T18:30:15.180431",
-  "updated_str": "24/09/2026 18:30",
+  "updated_at": "2026-09-24T18:44:57.508196",
+  "updated_str": "24/09/2026 18:44",
   "cutoff_hours": 48,
   "total_news": 295,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 24 de septiembre",
+        "summary": "El billete al público subió a $1.540 para la venta en el Banco Nación, un nuevo récord nominal. El blue siguió ofrecido a $1.560",
+        "link": "https://www.infobae.com/economia/2026/09/24/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-24-de-septiembre/",
+        "source": "Infobae Economía",
+        "time": "24/09 15:37",
+        "iso_date": "2026-09-24T18:37:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Sube la nafta: Shell, Axion y Puma aumentaron entre 2 y 5 por ciento los precios de sus combustibles",
+        "summary": "El barril de petróleo cotiza en torno a los USD 105, muy por encima del precio de referencia interno; el CEO de YPF advirtió que si el valor se sostiene, la nafta deberá subir",
+        "link": "https://www.infobae.com/economia/2026/09/24/sube-la-nafta-shell-axion-y-puma-aumentaron-entre-2-y-5-por-ciento-los-precios-de-sus-combustibles/",
+        "source": "Infobae Economía",
+        "time": "24/09 15:37",
+        "iso_date": "2026-09-24T18:37:43+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Precio del dólar en Colombia vuelve a los COP$3.300 y estas son las razones",
         "summary": "La divisa abrió en COP$3.280,19, COP$15,80 por encima de la TRM vigente de COP$3.264,39. Con corte a las 12 del mediodía había tocado un precio mínimo de COP$3.276 y un máximo de COP$3.361.",
@@ -109,16 +131,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 24 de septiembre",
-        "summary": "El billete al público sube a $1.540 para la venta en el Banco Nación, un nuevo récord nominal. El blue sigue ofrecido a $1.560",
-        "link": "https://www.infobae.com/economia/2026/09/24/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-24-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "24/09 13:29",
-        "iso_date": "2026-09-24T16:29:11+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -304,19 +316,21 @@
         "iso_date": "2026-09-24T12:35:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Reorganizar la deuda en tiempos de incertidumbre: por qué refinanciar exige mirar más allá de la cuota mensual",
-        "summary": "Aunque la refinanciación se puede presentar como un respiro, aceptar un nuevo plan de pagos sin analizar las condiciones puede transformar un alivio temporal en un problema mayor. La clave está en entender los términos y exigencias a los que nos comprometemos para recuperar la...",
-        "link": "https://www.infobae.com/opinion/2026/09/24/reorganizar-la-deuda-en-tiempos-de-incertidumbre-por-que-refinanciar-exige-mirar-mas-alla-de-la-cuota-mensual/",
-        "source": "Infobae Economía",
-        "time": "24/09 08:52",
-        "iso_date": "2026-09-24T11:52:01+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Sube la nafta: Shell, Axion y Puma aumentaron entre 2 y 5 por ciento los precios de sus combustibles",
+        "summary": "El barril de petróleo cotiza en torno a los USD 105, muy por encima del precio de referencia interno; el CEO de YPF advirtió que si el valor se sostiene, la nafta deberá subir",
+        "link": "https://www.infobae.com/economia/2026/09/24/sube-la-nafta-shell-axion-y-puma-aumentaron-entre-2-y-5-por-ciento-los-precios-de-sus-combustibles/",
+        "source": "Infobae Economía",
+        "time": "24/09 15:37",
+        "iso_date": "2026-09-24T18:37:43+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta, agro y minería: cuánto derramó el boom exportador en el empleo y los salarios de cada provincia",
         "summary": "Solo ciertas jurisdicciones logran que el crecimiento de las ventas al exterior se extiendan al resto de sus economías",
