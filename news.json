@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T22:56:36.981343",
-  "updated_str": "24/09/2026 22:56",
+  "updated_at": "2026-09-25T00:11:20.066334",
+  "updated_str": "25/09/2026 00:11",
   "cutoff_hours": 48,
-  "total_news": 303,
+  "total_news": 294,
   "news": {
     "GENERAL": [
+      {
+        "title": "Peabody cerró su café de Palermo mientras avanza el ajuste en medio del concurso",
+        "summary": "El proyecto gastronómico había nacido en 2025 como una apuesta de diversificación. La compañía también dejó otro inmueble y redujo personal",
+        "link": "https://www.iprofesional.com/negocios/465192-peabody-cerro-su-cafe-de-palermo-mientras-avanza-el-concurso",
+        "source": "iProfesional",
+        "time": "24/09 20:05",
+        "iso_date": "2026-09-24T23:05:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "El banco digital más grande de Europa desembarca en la Argentina: el BCRA lo autorizó a comprar una entidad local",
         "summary": "Revolut le compro el banco Cetelem a BNP Paribas para ingresar en el sistema financiero argentino, como parte de su estrategia regional",
@@ -260,18 +272,6 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país sube por novena jornada al hilo y marca 570 puntos",
-        "summary": "La deuda en dólares rebota hasta 0,5%, aunque el indicador del JP Morgan apenas baja a 565 puntos. ¿Qué muestran las acciones argentinas?",
-        "link": "https://www.iprofesional.com/economia/465152-bonos-cortan-racha-de-ocho-caidas-pero-el-riesgo-pais-sigue-arriba-de-los-560-puntos",
-        "source": "iProfesional",
-        "time": "24/09 16:27",
-        "iso_date": "2026-09-24T19:27:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "La actividad económica se desplomó casi 3% mensual en julio, el peor registro desde la pandemia",
         "summary": "Así lo informó de manera oficial el INDEC a través del EMAE. Desde marzo y abril de 2020 que no se observaba una variación negativa de esa magnitud.",
         "link": "https://www.ambito.com/economia/la-actividad-economica-se-desplomo-casi-3-mensual-julio-n6326327",
@@ -402,18 +402,6 @@
         "is_general": true
       },
       {
-        "title": "Claves para entender la relevancia y qué cambia con el Corredor Andes-Atlántico",
-        "summary": "El esquema anunciado en las últimas horas fija financiamiento atado a compras en EE. UU. Priorizan la conexión de la Puna y Vaca Muerta con los puertos",
-        "link": "https://www.iprofesional.com/negocios/465131-cual-es-la-relevancia-y-que-cambia-con-el-corredor-andes-atlantico",
-        "source": "iProfesional",
-        "time": "24/09 10:40",
-        "iso_date": "2026-09-24T13:40:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Así es Argentina LNG, el megaproyecto para exportar gas que contará con un millonario financiamiento de EEUU",
         "summary": "YPF, Eni y XRG buscan licuar y vender gas de Vaca Muerta al mundo a partir de 2031. Ya hay compradores y respaldo de Washington, aunque la aprobación dentro del RIGI sigue pendiente",
         "link": "https://www.infobae.com/economia/2026/09/24/asi-es-argentina-lng-el-megaproyecto-para-exportar-gas-que-contara-con-un-millonario-financiamiento-de-eeuu/",
@@ -505,7 +493,20 @@
     "BMA": [],
     "TXAR": [],
     "ALUA": [],
-    "TECO2": [],
+    "TECO2": [
+      {
+        "title": "Peabody cerró su café de Palermo mientras avanza el ajuste en medio del concurso",
+        "summary": "El proyecto gastronómico había nacido en 2025 como una apuesta de diversificación. La compañía también dejó otro inmueble y redujo personal",
+        "link": "https://www.iprofesional.com/negocios/465192-peabody-cerro-su-cafe-de-palermo-mientras-avanza-el-concurso",
+        "source": "iProfesional",
+        "time": "24/09 20:05",
+        "iso_date": "2026-09-24T23:05:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      }
+    ],
     "CEPU": [],
     "AL30": [
       {
@@ -527,18 +528,6 @@
         "source": "Infobae Economía",
         "time": "24/09 17:38",
         "iso_date": "2026-09-24T20:38:14+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país sube por novena jornada al hilo y marca 570 puntos",
-        "summary": "La deuda en dólares rebota hasta 0,5%, aunque el indicador del JP Morgan apenas baja a 565 puntos. ¿Qué muestran las acciones argentinas?",
-        "link": "https://www.iprofesional.com/economia/465152-bonos-cortan-racha-de-ocho-caidas-pero-el-riesgo-pais-sigue-arriba-de-los-560-puntos",
-        "source": "iProfesional",
-        "time": "24/09 16:27",
-        "iso_date": "2026-09-24T19:27:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -623,18 +612,6 @@
         "source": "Infobae Economía",
         "time": "23/09 01:23",
         "iso_date": "2026-09-23T04:23:47+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Sin ver lo que ocurre, los bonos siguen flojos y el riesgo es el más alto en casi cinco meses",
-        "summary": "La tasa internacional más alta y los precios de la guerra no tan firmes hacen que los inversores abandonen posiciones en bonos argentinos y el riesgo sube aún más. Pero la ola de dólares que llega sigue creciendo. La tranquilidad cambiaria es absoluta. Se sigue roleando deuda ...",
-        "link": "https://eleconomista.com.ar/finanzas/sin-ver-lo-ocurre-bonos-siguen-flojos-riesgo-mas-alto-casi-cinco-meses-n98353",
-        "source": "El Economista",
-        "time": "22/09 20:23",
-        "iso_date": "2026-09-22T23:23:00+00:00",
         "tickers": [
           "AL30"
         ],
