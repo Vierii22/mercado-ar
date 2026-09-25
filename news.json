@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-09-25T18:45:46.558628",
-  "updated_str": "25/09/2026 18:45",
+  "updated_at": "2026-09-25T19:02:09.321004",
+  "updated_str": "25/09/2026 19:02",
   "cutoff_hours": 48,
   "total_news": 284,
   "news": {
     "GENERAL": [
+      {
+        "title": "Por qué sube el riesgo país de Argentina y cómo afecta a la economía",
+        "summary": "El indicador escala por la caída de cotización de los bonos soberanos debido a adversos factores locales e internacionales. Le impide al Gobierno acceder al crédito para refinanciar la deuda",
+        "link": "https://www.infobae.com/economia/2026/09/25/por-que-sube-el-riesgo-pais-de-argentina-y-como-afecta-a-la-economia/",
+        "source": "Infobae Economía",
+        "time": "25/09 15:49",
+        "iso_date": "2026-09-25T18:49:17+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Vaca Muerta suma fibra óptica y se posiciona para recibir centros de datos",
+        "summary": "Una cooperativa neuquina desplegará una red troncal de 150 kilómetros entre la capital provincial y la ciudad de Añelo en el yacimiento.",
+        "link": "https://www.iprofesional.com/tecnologia/465148-vaca-muerta-tendra-fibra-optica-nueva-y-atrae-proyectos-de-centros-de-datos",
+        "source": "iProfesional",
+        "time": "25/09 15:44",
+        "iso_date": "2026-09-25T18:44:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este viernes 25 de septiembre",
         "summary": "El billete al público finalizó negociado a $1.545 para la venta en el Banco Nación, un récord nominal. El blue siguió ofrecido a $1.560",
@@ -33,18 +57,6 @@
         "time": "25/09 15:04",
         "iso_date": "2026-09-25T18:04:35+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por qué sube el riesgo país de Argentina y cómo afecta a la economía",
-        "summary": "El indicador escala por la caída de cotización de los bonos soberanos debido a adversos factores locales e internacionales. Le impide al Gobierno acceder al crédito para refinanciar la deuda",
-        "link": "https://www.infobae.com/economia/2026/09/25/por-que-sube-el-riesgo-pais-de-argentina-y-como-afecta-a-la-economia/",
-        "source": "Infobae Economía",
-        "time": "25/09 14:40",
-        "iso_date": "2026-09-25T17:40:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -314,21 +326,21 @@
         "iso_date": "2026-09-25T10:49:54+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La City prevé un peso más fuerte y menos riesgo país si Milei logra la reforma del BCRA",
-        "summary": "El fortalecimiento institucional del Central podría impulsar la moneda nacional y reducir los principales indicadores de riesgo, según expertos",
-        "link": "https://www.iprofesional.com/finanzas/465197-la-reforma-del-bcra-provocaria-un-peso-mas-fuerte-y-menos-riesgo-pais",
-        "source": "iProfesional",
-        "time": "25/09 07:00",
-        "iso_date": "2026-09-25T10:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Vaca Muerta suma fibra óptica y se posiciona para recibir centros de datos",
+        "summary": "Una cooperativa neuquina desplegará una red troncal de 150 kilómetros entre la capital provincial y la ciudad de Añelo en el yacimiento.",
+        "link": "https://www.iprofesional.com/tecnologia/465148-vaca-muerta-tendra-fibra-optica-nueva-y-atrae-proyectos-de-centros-de-datos",
+        "source": "iProfesional",
+        "time": "25/09 15:44",
+        "iso_date": "2026-09-25T18:44:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "La venta de combustibles cayó 2,19% en agosto y suma siete meses en baja, según la Secretaría de Energía",
         "summary": "El consumo de combustibles volvió a retroceder en agosto. El gasoil premium fue el único producto que creció, mientras Neuquén se despegó del resto del país con una suba de 10,37%, en medio del avance de la actividad en Vaca Muerta.",
@@ -490,8 +502,8 @@
         "summary": "El indicador escala por la caída de cotización de los bonos soberanos debido a adversos factores locales e internacionales. Le impide al Gobierno acceder al crédito para refinanciar la deuda",
         "link": "https://www.infobae.com/economia/2026/09/25/por-que-sube-el-riesgo-pais-de-argentina-y-como-afecta-a-la-economia/",
         "source": "Infobae Economía",
-        "time": "25/09 14:40",
-        "iso_date": "2026-09-25T17:40:46+00:00",
+        "time": "25/09 15:49",
+        "iso_date": "2026-09-25T18:49:17+00:00",
         "tickers": [
           "AL30"
         ],
