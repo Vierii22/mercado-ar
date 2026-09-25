@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-09-25T22:08:17.463668",
-  "updated_str": "25/09/2026 22:08",
+  "updated_at": "2026-09-25T22:33:13.048992",
+  "updated_str": "25/09/2026 22:33",
   "cutoff_hours": 48,
-  "total_news": 269,
+  "total_news": 271,
   "news": {
     "GENERAL": [
       {
+        "title": "Macri reapareció en Jujuy y volvió a marcar distancia de Milei: “Le dije que tenemos que armar equipo y...”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/macri-reaparecio-en-jujuy-y-volvio-a-marcar-distancia-de-milei-le-dije-que-tenemos-que-armar-equipo-y/",
+        "source": "El Cronista",
+        "time": "25/09 19:15",
+        "iso_date": "2026-09-25T22:15:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Vaca Muerta, Brasil y el salto pendiente: qué se dijo de Argentina en la mayor cumbre energética de Brasil",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/vaca-muerta-brasil-y-el-salto-pendiente-que-se-dijo-de-argentina-en-la-mayor-cumbre-energetica-de-brasil/",
+        "source": "El Cronista",
+        "time": "25/09 19:11",
+        "iso_date": "2026-09-25T22:11:24+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cayó el Merval, el BCRA no compró dólares y subió el riesgo país: qué hay tras este cóctel",
+        "summary": "El precio del dólar avanza y en la última jornada el Banco Central no compró divisas, mientras las acciones y bonos argentinos descienden",
+        "link": "https://www.iprofesional.com/finanzas/465295-por-que-cae-el-merval-avanza-el-dolar-y-sube-el-riesgo-pais",
+        "source": "iProfesional",
+        "time": "25/09 19:05",
+        "iso_date": "2026-09-25T22:05:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Se mantuvo la dolarización y los ahorristas compraron más de u$s2.850 millones en un mes",
         "summary": "En agosto 1,7 millón de argentinos compraron en bancos u$s2.853 millones. En el mercado debaten si se agravará la tendencia antes de la elección de 2027",
-        "link": "https://www.iprofesional.com/economia/465298-dolarizacion-ahorristas-compraron-mas-de-us2-850-millones-en-un-mes",
+        "link": "https://www.iprofesional.com/economia/465298-dolarizacion-ahorristas-compraron-mas-de-us2850-millones-en-un-mes",
+        "source": "iProfesional",
+        "time": "25/09 19:00",
+        "iso_date": "2026-09-25T22:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El precio del dólar tocó un récord nominal pero en la City aseguran que está \"muy barato\"",
+        "summary": "El dólar subió en la semana para ubicarse en $1.545 en la plaza minorista. Un gráfico revela cómo evolucionó en la última década en términos reales",
+        "link": "https://www.iprofesional.com/finanzas/465171-el-dolar-toco-record-pero-la-consultora-amf-dice-que-esta-barato",
         "source": "iProfesional",
         "time": "25/09 19:00",
         "iso_date": "2026-09-25T22:00:00+00:00",
@@ -168,16 +212,6 @@
         "is_general": true
       },
       {
-        "title": "Cómo será el nuevo Banco Central con la ley que Milei busca aprobar en Diputados",
-        "summary": "El proyecto se aprobó en el Senado con un cambio clave, por lo que se volverá a tratar en la Cámara baja. Cuáles son las modificaciones que propone",
-        "link": "https://www.iprofesional.com/politica/465176-como-sera-el-nuevo-bcra-con-la-ley-que-milei-busca-aprobar-en-diputados",
-        "source": "iProfesional",
-        "time": "25/09 15:50",
-        "iso_date": "2026-09-25T18:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Por qué sube el riesgo país de Argentina y cómo afecta a la economía",
         "summary": "El indicador escala por la caída de cotización de los bonos soberanos debido a adversos factores locales e internacionales. Le impide al Gobierno acceder al crédito para refinanciar la deuda",
         "link": "https://www.infobae.com/economia/2026/09/25/por-que-sube-el-riesgo-pais-de-argentina-y-como-afecta-a-la-economia/",
@@ -294,43 +328,21 @@
         "iso_date": "2026-09-25T16:07:38+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "La venta de combustibles cayó 2,19% en agosto y suma siete meses en baja, según la Secretaría de Energía",
-        "summary": "El consumo de combustibles volvió a retroceder en agosto. El gasoil premium fue el único producto que creció, mientras Neuquén se despegó del resto del país con una suba de 10,37%, en medio del avance de la actividad en Vaca Muerta.",
-        "link": "https://www.bloomberglinea.com/economia/la-venta-de-combustibles-cayo-219-en-agosto-y-suma-siete-meses-en-baja-segun-la-secretaria-de-energia/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/09 13:03",
-        "iso_date": "2026-09-25T16:03:43+00:00",
+        "title": "Vaca Muerta, Brasil y el salto pendiente: qué se dijo de Argentina en la mayor cumbre energética de Brasil",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/vaca-muerta-brasil-y-el-salto-pendiente-que-se-dijo-de-argentina-en-la-mayor-cumbre-energetica-de-brasil/",
+        "source": "El Cronista",
+        "time": "25/09 19:11",
+        "iso_date": "2026-09-25T22:11:24+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
-      {
-        "title": "Riesgo país supera los 600 puntos y la consultora 1816 diagnosticó cuál es el problema",
-        "summary": "Javier Milei y Luis Caputo hablaron cara a cara con los inversores en Wall Street y el riesgo no para de subir. La lectura del mercado",
-        "link": "https://www.iprofesional.com/finanzas/465256-el-riesgo-pais-supera-los-600-puntos-y-el-problema-esta-en-las-reservas",
-        "source": "iProfesional",
-        "time": "25/09 13:03",
-        "iso_date": "2026-09-25T16:03:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La peor moneda de Latinoamérica es el peso colombiano y BTG Pactual revela proyección del dólar a corto plazo",
-        "summary": "El banco espera un dólar más alto mientras las tasas internacionales permanecen elevadas y Colombia prepara una fuerte estrategia de endeudamiento externo.",
-        "link": "https://www.bloomberglinea.com/mercados/la-peor-moneda-de-latinoamerica-es-el-peso-colombiano-y-btg-pactual-revela-proyeccion-del-dolar-a-corto-plazo/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/09 12:38",
-        "iso_date": "2026-09-25T15:38:38+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
       {
         "title": "YPF aumenta 1% el precio de sus combustibles desde este sábado, tras el salto del crudo",
         "summary": "La petrolera aseguró que seguirá aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según oferta y demanda",
@@ -464,20 +476,7 @@
         "is_general": false
       }
     ],
-    "GGAL": [
-      {
-        "title": "BYMA revela que Argentina tendrá su primer ETF local: replicará un índice de renta variable",
-        "summary": "El instrumento será emitido por una administradora perteneciente a Grupo Financiero Galicia y cotizará en ByMA. Permitirá acceder a una cartera diversificada mediante un único activo.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/byma-revela-que-argentina-tendra-su-primer-etf-local-replicara-un-indice-de-renta-variable/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/09 19:17",
-        "iso_date": "2026-09-23T22:17:33+00:00",
-        "tickers": [
-          "GGAL"
-        ],
-        "is_general": true
-      }
-    ],
+    "GGAL": [],
     "PAMP": [],
     "BMA": [],
     "TXAR": [],
@@ -522,6 +521,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Cayó el Merval, el BCRA no compró dólares y subió el riesgo país: qué hay tras este cóctel",
+        "summary": "El precio del dólar avanza y en la última jornada el Banco Central no compró divisas, mientras las acciones y bonos argentinos descienden",
+        "link": "https://www.iprofesional.com/finanzas/465295-por-que-cae-el-merval-avanza-el-dolar-y-sube-el-riesgo-pais",
+        "source": "iProfesional",
+        "time": "25/09 19:05",
+        "iso_date": "2026-09-25T22:05:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: el riesgo país superó los 600 puntos básicos y tocó el nivel más alto en seis meses",
         "summary": "Los bonos cayeron 1,2% y el indicador de JP Morgan ascendió a 609 puntos básicos. El S&P Merval cedió 1,6%, influenciado por la baja del crudo, que afectó la cotización de las petroleras. Las reservas cayeron USD 600 millones por un pago al FMI",
