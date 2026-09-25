@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-25T20:58:13.114425",
-  "updated_str": "25/09/2026 20:58",
+  "updated_at": "2026-09-25T21:44:13.356222",
+  "updated_str": "25/09/2026 21:44",
   "cutoff_hours": 48,
-  "total_news": 271,
+  "total_news": 268,
   "news": {
     "GENERAL": [
       {
@@ -10,9 +10,31 @@
         "summary": "El total de personas que adquirió divisas en el mercado oficial alcanzó los 1,7 millones, según el Balance Cambiario del Banco Central. La cifra marcó una desaceleración respecto a julio",
         "link": "https://www.infobae.com/economia/2026/09/25/los-argentinos-compraron-usd-2853-millones-en-agosto-el-segundo-monto-mas-alto-del-ano/",
         "source": "Infobae Economía",
-        "time": "25/09 17:51",
-        "iso_date": "2026-09-25T20:51:23+00:00",
+        "time": "25/09 18:31",
+        "iso_date": "2026-09-25T21:31:58+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Ante la suba del dólar, el Banco Central evitó comprar divisas y las reservas cayeron por un pago al FMI",
+        "summary": "La autoridad monetaria optó por no intervenir en el mercado frente a la suba del tipo de cambio, que marcó un nuevo récord nominal",
+        "link": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/",
+        "source": "Infobae Economía",
+        "time": "25/09 18:21",
+        "iso_date": "2026-09-25T21:21:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: el riesgo país superó los 600 puntos básicos y tocó el nivel más alto en seis meses",
+        "summary": "Los bonos cayeron 1,2% y el indicador de JP Morgan ascendió a 609 puntos básicos. El S&P Merval cedió 1,6%, influenciado por la baja del crudo, que afectó la cotización de las petroleras. Las reservas cayeron USD 600 millones por un pago al FMI",
+        "link": "https://www.infobae.com/economia/2026/09/25/jornada-financiera-el-riesgo-pais-supero-los-600-puntos-basicos-y-toco-el-nivel-mas-alto-en-seis-meses/",
+        "source": "Infobae Economía",
+        "time": "25/09 18:00",
+        "iso_date": "2026-09-25T21:00:10+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -20,8 +42,8 @@
         "summary": "Los bonos cayeron 1,2% y el indicador de JP Morgan ascendió a 609 puntos básicos. El S&P Merval cedió 1,6%, influenciado por la baja del crudo, que afectó la cotización de las compañías del sector energía",
         "link": "https://www.infobae.com/economia/2026/09/25/mercados-la-bolsa-portena-cae-por-quinto-dia-y-el-riesgo-pais-se-acerca-a-los-600-puntos/",
         "source": "Infobae Economía",
-        "time": "25/09 17:43",
-        "iso_date": "2026-09-25T20:43:52+00:00",
+        "time": "25/09 17:58",
+        "iso_date": "2026-09-25T20:58:03+00:00",
         "tickers": [
           "AL30"
         ],
@@ -34,16 +56,6 @@
         "source": "iProfesional",
         "time": "25/09 17:40",
         "iso_date": "2026-09-25T20:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Ante la suba del dólar, el Banco Central evitó comprar divisas por cuarta vez en el año",
-        "summary": "La autoridad monetaria optó por no intervenir en el mercado frente a la suba del tipo de cambio, que marcó un nuevo récord nominal",
-        "link": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/",
-        "source": "Infobae Economía",
-        "time": "25/09 17:39",
-        "iso_date": "2026-09-25T20:39:24+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -318,16 +330,6 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "El precio del dólar tocó un récord nominal pero en la City aseguran que está \"muy barato\"",
-        "summary": "El dólar subió $5 para ubicarse en $1.540 en la plaza minorista. Un gráfico revela cómo evolucionó en la última década en términos reales",
-        "link": "https://www.iprofesional.com/finanzas/465171-el-dolar-toco-record-pero-la-consultora-amf-dice-que-esta-barato",
-        "source": "iProfesional",
-        "time": "25/09 11:30",
-        "iso_date": "2026-09-25T14:30:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -523,12 +525,24 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Jornada financiera: el riesgo país superó los 600 puntos básicos y tocó el nivel más alto en seis meses",
+        "summary": "Los bonos cayeron 1,2% y el indicador de JP Morgan ascendió a 609 puntos básicos. El S&P Merval cedió 1,6%, influenciado por la baja del crudo, que afectó la cotización de las petroleras. Las reservas cayeron USD 600 millones por un pago al FMI",
+        "link": "https://www.infobae.com/economia/2026/09/25/jornada-financiera-el-riesgo-pais-supero-los-600-puntos-basicos-y-toco-el-nivel-mas-alto-en-seis-meses/",
+        "source": "Infobae Economía",
+        "time": "25/09 18:00",
+        "iso_date": "2026-09-25T21:00:10+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Mercados: el riesgo país superó los 600 puntos y la Bolsa porteña cayó por quinto día consecutivo",
         "summary": "Los bonos cayeron 1,2% y el indicador de JP Morgan ascendió a 609 puntos básicos. El S&P Merval cedió 1,6%, influenciado por la baja del crudo, que afectó la cotización de las compañías del sector energía",
         "link": "https://www.infobae.com/economia/2026/09/25/mercados-la-bolsa-portena-cae-por-quinto-dia-y-el-riesgo-pais-se-acerca-a-los-600-puntos/",
         "source": "Infobae Economía",
-        "time": "25/09 17:43",
-        "iso_date": "2026-09-25T20:43:52+00:00",
+        "time": "25/09 17:58",
+        "iso_date": "2026-09-25T20:58:03+00:00",
         "tickers": [
           "AL30"
         ],
@@ -661,18 +675,6 @@
         "source": "Infobae Economía",
         "time": "24/09 02:02",
         "iso_date": "2026-09-24T05:02:30+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el riesgo país subió por octavo día consecutivo y alcanzó un máximo en cinco meses",
-        "summary": "Los bonos perdieron 1,1% y el indicador de JP Morgan subió a 566 puntos, el nivel más alto desde abril. El S&P Merval cayó 0,9% contagiado por una rueda negativa en Wall Street. El BCRA compró solo USD 6 millones en el mercado y las reservas bajaron casi USD 500 millones",
-        "link": "https://www.infobae.com/economia/2026/09/23/jornada-financiera-el-riesgo-pais-subio-por-octavo-dia-consecutivo-y-alcanzo-un-maximo-en-cinco-meses/",
-        "source": "Infobae Economía",
-        "time": "23/09 18:23",
-        "iso_date": "2026-09-23T21:23:58+00:00",
         "tickers": [
           "AL30"
         ],
