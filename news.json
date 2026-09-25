@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-25T20:06:00.079694",
-  "updated_str": "25/09/2026 20:06",
+  "updated_at": "2026-09-25T20:20:03.948650",
+  "updated_str": "25/09/2026 20:20",
   "cutoff_hours": 48,
-  "total_news": 279,
+  "total_news": 275,
   "news": {
     "GENERAL": [
+      {
+        "title": "Con más riesgo país, Caputo cede ante los bancos y archiva plan de patear deuda para 2028",
+        "summary": "El gobierno se muestra conforme con que casi la mitad de la deuda en pesos se extendió para después de la elección. Un cambio forzado por la suba tasas",
+        "link": "https://www.iprofesional.com/economia/465283-con-mas-riesgo-pais-caputo-cede-ante-los-bancos-y-archiva-plan-clave",
+        "source": "iProfesional",
+        "time": "25/09 17:10",
+        "iso_date": "2026-09-25T20:10:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Ante la suba del dólar, el Banco Central evitó comprar divisas por tercera vez en el año",
+        "summary": "La autoridad monetaria optó por no intervenir en el mercado frente a la suba del tipo de cambio, que marcó un nuevo récord nominal",
+        "link": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/",
+        "source": "Infobae Economía",
+        "time": "25/09 17:04",
+        "iso_date": "2026-09-25T20:04:27+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Wall Street cierra al alza mientras el petróleo cae y los bonos mantienen la presión",
         "summary": "Las señales de un posible avance diplomático entre Estados Unidos e Irán presionaron al petróleo y dieron alivio a las acciones, aunque los rendimientos de los bonos del Tesoro permanecieron cerca de máximos.",
@@ -16,14 +38,16 @@
         "is_general": true
       },
       {
-        "title": "Ante la suba del dólar, el Banco Central evitó comprar divisas por tercera vez en el año",
-        "summary": "La autoridad monetaria optó por no intervenir en el mercado frente a la suba del tipo de cambio, que marcó un nuevo récord nominal",
-        "link": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/",
-        "source": "Infobae Economía",
-        "time": "25/09 16:55",
-        "iso_date": "2026-09-25T19:55:48+00:00",
-        "tickers": [],
-        "is_general": true
+        "title": "YPF aumenta 1% el precio de sus combustibles desde este sábado, tras el salto del crudo",
+        "summary": "La petrolera aseguró que seguirá aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según oferta y demanda",
+        "link": "https://www.iprofesional.com/actualidad/465289-ypf-aumenta-el-precio-de-la-nafta-y-el-gasoil-desde-este-sabado",
+        "source": "iProfesional",
+        "time": "25/09 16:59",
+        "iso_date": "2026-09-25T19:59:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "YPF anunció una suba promedio del 1% y mantendrá su sistema de “micropricing”",
@@ -308,29 +332,21 @@
         "iso_date": "2026-09-25T14:03:16+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Deuda: Luis Caputo enfrenta un nuevo vencimiento con el FMI por u$s800 millones",
-        "summary": "De acuerdo con el cronograma oficial, hoy vence un compromiso con el organismo internacional en medio de la misión para revisar los detalles del pacto convenido en 2025.",
-        "link": "https://www.ambito.com/economia/deuda-luis-caputo-enfrenta-un-nuevo-vencimiento-el-fmi-us800-millones-n6326576",
-        "source": "Ámbito",
-        "time": "25/09 10:24",
-        "iso_date": "2026-09-25T13:24:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Trump, pulseada 2027 y el elefante en la habitación: las claves de la semana política de Milei",
-        "summary": "Milei cerró su semana en Nueva York con un alineamiento explícito con Trump e Israel, acuerdos para atraer inversiones bajo el brazo y una política exterior que ya empieza a mirar a 2027. Malvinas y China, los dos temas incómodos con Washington. La ausencia de Rafael Grossi ex...",
-        "link": "https://www.cronista.com/economia-politica/las-claves-de-la-semana-de-milei-la-onu-trump-israel-el-2027-y-el-elefante-en-la-habitacion/",
-        "source": "El Cronista",
-        "time": "25/09 09:50",
-        "iso_date": "2026-09-25T12:50:32+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF aumenta 1% el precio de sus combustibles desde este sábado, tras el salto del crudo",
+        "summary": "La petrolera aseguró que seguirá aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según oferta y demanda",
+        "link": "https://www.iprofesional.com/actualidad/465289-ypf-aumenta-el-precio-de-la-nafta-y-el-gasoil-desde-este-sabado",
+        "source": "iProfesional",
+        "time": "25/09 16:59",
+        "iso_date": "2026-09-25T19:59:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF anunció una suba promedio del 1% y mantendrá su sistema de “micropricing”",
         "summary": "",
@@ -466,20 +482,7 @@
         "is_general": true
       }
     ],
-    "PAMP": [
-      {
-        "title": "Planta de urea de Pampa aportaría tanto EBITDA como electricidad, petróleo y gas juntos, dice Mindlin",
-        "summary": "El fundador y presidente de la energética dimensionó el potencial de la planta de urea de US$2.700 millones que construirá en Bahía Blanca. Un EBITDA anual que podría superar los US$1.000 millones.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/planta-de-urea-de-pampa-aportaria-tanto-ebitda-como-electricidad-petroleo-y-gas-juntos-dice-mindlin/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/09 17:12",
-        "iso_date": "2026-09-23T20:12:58+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      }
-    ],
+    "PAMP": [],
     "BMA": [],
     "TXAR": [],
     "ALUA": [],
@@ -523,6 +526,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Con más riesgo país, Caputo cede ante los bancos y archiva plan de patear deuda para 2028",
+        "summary": "El gobierno se muestra conforme con que casi la mitad de la deuda en pesos se extendió para después de la elección. Un cambio forzado por la suba tasas",
+        "link": "https://www.iprofesional.com/economia/465283-con-mas-riesgo-pais-caputo-cede-ante-los-bancos-y-archiva-plan-clave",
+        "source": "iProfesional",
+        "time": "25/09 17:10",
+        "iso_date": "2026-09-25T20:10:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Por qué sube el riesgo país de Argentina y cómo afecta a la economía",
         "summary": "El indicador escala por la caída de cotización de los bonos soberanos debido a adversos factores locales e internacionales. Le impide al Gobierno acceder al crédito para refinanciar la deuda",
@@ -686,18 +701,6 @@
         "source": "Infobae Economía",
         "time": "23/09 17:49",
         "iso_date": "2026-09-23T20:49:33+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Frente a un auditorio de cuño liberal, Milei respondió las críticas de Kicillof: “Cuando hay p...”",
-        "summary": "\"Cuando hay pelotudos caminando por Nueva York el riesgo país sube\", lanzó Milei. El Presidente encabezó una conferencia organizada por Federalismo y Libertad en Nueva York y remató contra los dichos de el gobernador Axel Kicillof, quien se paseó por la ciudad con una agenda p...",
-        "link": "https://www.cronista.com/economia-politica/la-consecuencia-de-haber-hecho-las-cosas-bien-milei-le-respondio-a-los-que-dicen-que-su-gobierno-tuvo-suerte/",
-        "source": "El Cronista",
-        "time": "23/09 17:11",
-        "iso_date": "2026-09-23T20:11:29+00:00",
         "tickers": [
           "AL30"
         ],
