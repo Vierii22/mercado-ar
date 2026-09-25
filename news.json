@@ -1,17 +1,49 @@
 {
-  "updated_at": "2026-09-25T19:37:44.398982",
-  "updated_str": "25/09/2026 19:37",
+  "updated_at": "2026-09-25T20:06:00.079694",
+  "updated_str": "25/09/2026 20:06",
   "cutoff_hours": 48,
-  "total_news": 283,
+  "total_news": 279,
   "news": {
     "GENERAL": [
+      {
+        "title": "Wall Street cierra al alza mientras el petróleo cae y los bonos mantienen la presión",
+        "summary": "Las señales de un posible avance diplomático entre Estados Unidos e Irán presionaron al petróleo y dieron alivio a las acciones, aunque los rendimientos de los bonos del Tesoro permanecieron cerca de máximos.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-abre-al-alza-mientras-el-petroleo-cede-y-los-bonos-del-tesoro-se-estabilizan/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 17:02",
+        "iso_date": "2026-09-25T20:02:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Ante la suba del dólar, el Banco Central evitó comprar divisas por tercera vez en el año",
+        "summary": "La autoridad monetaria optó por no intervenir en el mercado frente a la suba del tipo de cambio, que marcó un nuevo récord nominal",
+        "link": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/",
+        "source": "Infobae Economía",
+        "time": "25/09 16:55",
+        "iso_date": "2026-09-25T19:55:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF anunció una suba promedio del 1% y mantendrá su sistema de “micropricing”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/ypf-anuncio-una-suba-promedio-del-1-y-mantendra-su-sistema-de-micropricing/",
+        "source": "El Cronista",
+        "time": "25/09 16:51",
+        "iso_date": "2026-09-25T19:51:27+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF confirmó un aumento de 1% promedio los precios de sus combustibles en todo el país",
         "summary": "La empresa aseguró que continuará aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según variables de oferta y demanda, la competencia, franjas horarias, corredores y zonas geográficas",
         "link": "https://www.infobae.com/economia/2026/09/25/ypf-confirmo-un-aumento-de-1-promedio-los-precios-de-sus-combustibles-en-todo-el-pais/",
         "source": "Infobae Economía",
-        "time": "25/09 16:34",
-        "iso_date": "2026-09-25T19:34:35+00:00",
+        "time": "25/09 16:46",
+        "iso_date": "2026-09-25T19:46:08+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -278,16 +310,6 @@
         "is_general": true
       },
       {
-        "title": "S&P 500 abre al alza mientras el petróleo cede y los bonos del Tesoro se estabilizan",
-        "summary": "Las conversaciones entre EE.UU e Irán enfrían el avance del petróleo y ofrecen alivio al mercado de bonos, mientras la IA sostiene a las tecnológicas en medio de expectativas de una política monetaria más restrictiva.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-abre-al-alza-mientras-el-petroleo-cede-y-los-bonos-del-tesoro-se-estabilizan/",
-        "source": "Bloomberg Línea AR",
-        "time": "25/09 10:43",
-        "iso_date": "2026-09-25T13:43:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Deuda: Luis Caputo enfrenta un nuevo vencimiento con el FMI por u$s800 millones",
         "summary": "De acuerdo con el cronograma oficial, hoy vence un compromiso con el organismo internacional en medio de la misión para revisar los detalles del pacto convenido en 2025.",
         "link": "https://www.ambito.com/economia/deuda-luis-caputo-enfrenta-un-nuevo-vencimiento-el-fmi-us800-millones-n6326576",
@@ -306,36 +328,28 @@
         "iso_date": "2026-09-25T12:50:32+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El economista Gabriel Rubinstein criticó el esquema cambiario: “El dólar les quedó demasiado bajo”",
-        "summary": "El ex funcionario consideró que el nivel actual del tipo de cambio está afectando la actividad y dijo que debería estar un 20% más alto en términos reales",
-        "link": "https://www.infobae.com/economia/2026/09/25/el-economista-gabriel-rubinstein-critico-el-esquema-cambiario-el-dolar-les-quedo-demasiado-bajo/",
-        "source": "Infobae Economía",
-        "time": "25/09 09:15",
-        "iso_date": "2026-09-25T12:15:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La pobreza golpea a los más grandes: los mayores de 65 años son el grupo en el que más aumentaron las necesidades insatisfechas",
-        "summary": "La tasa de pobreza en adultos mayores saltó 5,1 puntos porcentuales en seis meses, el mayor incremento entre todos los rangos etarios, según el último informe del Indec",
-        "link": "https://www.infobae.com/economia/2026/09/25/la-pobreza-golpea-a-los-mas-grandes-los-mayores-de-65-anos-son-el-grupo-en-el-que-mas-aumentaron-las-necesidades-insatisfechas/",
-        "source": "Infobae Economía",
-        "time": "25/09 09:00",
-        "iso_date": "2026-09-25T12:00:18+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF anunció una suba promedio del 1% y mantendrá su sistema de “micropricing”",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/ypf-anuncio-una-suba-promedio-del-1-y-mantendra-su-sistema-de-micropricing/",
+        "source": "El Cronista",
+        "time": "25/09 16:51",
+        "iso_date": "2026-09-25T19:51:27+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF confirmó un aumento de 1% promedio los precios de sus combustibles en todo el país",
         "summary": "La empresa aseguró que continuará aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según variables de oferta y demanda, la competencia, franjas horarias, corredores y zonas geográficas",
         "link": "https://www.infobae.com/economia/2026/09/25/ypf-confirmo-un-aumento-de-1-promedio-los-precios-de-sus-combustibles-en-todo-el-pais/",
         "source": "Infobae Economía",
-        "time": "25/09 16:34",
-        "iso_date": "2026-09-25T19:34:35+00:00",
+        "time": "25/09 16:46",
+        "iso_date": "2026-09-25T19:46:08+00:00",
         "tickers": [
           "YPFD"
         ],
