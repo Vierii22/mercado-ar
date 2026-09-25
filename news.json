@@ -1,10 +1,294 @@
 {
-  "updated_at": "2026-09-25T03:27:42.548590",
-  "updated_str": "25/09/2026 03:27",
+  "updated_at": "2026-09-25T15:06:54.905542",
+  "updated_str": "25/09/2026 15:06",
   "cutoff_hours": 48,
-  "total_news": 292,
+  "total_news": 286,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: el riesgo país supera los 600 puntos y la Bolsa porteña cae por quinto día consecutivo",
+        "summary": "Los bonos caen 1,2% y el indicador de JP Morgan asciende a 602 puntos básicos. El S&P Merval cede 0,8%, influenciado por la baja del crudo, que afecta la cotización de las compañías del sector energía",
+        "link": "https://www.infobae.com/economia/2026/09/25/mercados-la-bolsa-portena-cae-por-quinto-dia-y-el-riesgo-pais-se-acerca-a-los-600-puntos/",
+        "source": "Infobae Economía",
+        "time": "25/09 11:56",
+        "iso_date": "2026-09-25T14:56:11+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El precio del dólar tocó un récord nominal pero en la City aseguran que está \"muy barato\"",
+        "summary": "El dólar subió $5 para ubicarse en $1.540 en la plaza minorista. Un gráfico revela cómo evolucionó en la última década en términos reales",
+        "link": "https://www.iprofesional.com/finanzas/465171-el-dolar-toco-record-pero-la-consultora-amf-dice-que-esta-barato",
+        "source": "iProfesional",
+        "time": "25/09 11:30",
+        "iso_date": "2026-09-25T14:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Empleadas domésticas: cuánto cobrarán en octubre, según cada categoría",
+        "summary": "El personal de casas particulares tendrá una suba del 1,7% sobre los básicos vigentes durante septiembre y se incorporará parte de una suma no remunerativa otorgada durante agosto",
+        "link": "https://www.infobae.com/economia/2026/09/25/empleadas-domesticas-cuanto-cobraran-en-octubre-segun-cada-categoria/",
+        "source": "Infobae Economía",
+        "time": "25/09 11:26",
+        "iso_date": "2026-09-25T14:26:34+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Aumento de la nafta: qué va a pasar con los precios en los surtidores",
+        "summary": "Shell, Axion y Puma aplicaron subas de entre 2% y 5% en sus combustibles. YPF todavía no actualizó sus valores, mientras el precio internacional del petróleo se mantiene cerca de los USD 100",
+        "link": "https://www.infobae.com/economia/2026/09/25/aumento-de-la-nafta-que-va-a-pasar-con-los-precios-en-los-surtidores/",
+        "source": "Infobae Economía",
+        "time": "25/09 11:04",
+        "iso_date": "2026-09-25T14:04:21+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Alerta para data centers y minería: nueva exigencia energética para las grandes inversiones en Argentina",
+        "summary": "El Gobierno de Milei creó un régimen especial para proyectos que demanden más de 80 MW. Deberán contratar nueva generación y garantizar potencia firme. Pone foco sobre las inversiones que empiezan a tomar forma en sectores como data centers, minería, plantas de GNL e hidrógeno.",
+        "link": "https://www.bloomberglinea.com/economia/alerta-para-data-centers-y-mineria-nueva-exigencia-energetica-para-las-grandes-inversiones-en-argentina/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 11:03",
+        "iso_date": "2026-09-25T14:03:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 abre al alza mientras el petróleo cede y los bonos del Tesoro se estabilizan",
+        "summary": "Las conversaciones entre EE.UU e Irán enfrían el avance del petróleo y ofrecen alivio al mercado de bonos, mientras la IA sostiene a las tecnológicas en medio de expectativas de una política monetaria más restrictiva.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-abre-al-alza-mientras-el-petroleo-cede-y-los-bonos-del-tesoro-se-estabilizan/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 10:43",
+        "iso_date": "2026-09-25T13:43:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Deuda: Luis Caputo enfrenta un nuevo vencimiento con el FMI por u$s800 millones",
+        "summary": "De acuerdo con el cronograma oficial, hoy vence un compromiso con el organismo internacional en medio de la misión para revisar los detalles del pacto convenido en 2025.",
+        "link": "https://www.ambito.com/economia/deuda-luis-caputo-enfrenta-un-nuevo-vencimiento-el-fmi-us800-millones-n6326576",
+        "source": "Ámbito",
+        "time": "25/09 10:24",
+        "iso_date": "2026-09-25T13:24:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este viernes 25 de septiembre",
+        "summary": "El billete al público es negociado a $1.540 para la venta en el Banco Nación, un récord nominal. El blue sigue ofrecido a $1.560. El BCRA compró ayer USD 8 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/09/25/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-25-de-septiembre/",
+        "source": "Infobae Economía",
+        "time": "25/09 10:21",
+        "iso_date": "2026-09-25T13:21:08+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Trump, pulseada 2027 y el elefante en la habitación: las claves de la semana política de Milei",
+        "summary": "Milei cerró su semana en Nueva York con un alineamiento explícito con Trump e Israel, acuerdos para atraer inversiones bajo el brazo y una política exterior que ya empieza a mirar a 2027. Malvinas y China, los dos temas incómodos con Washington. La ausencia de Rafael Grossi ex...",
+        "link": "https://www.cronista.com/economia-politica/las-claves-de-la-semana-de-milei-la-onu-trump-israel-el-2027-y-el-elefante-en-la-habitacion/",
+        "source": "El Cronista",
+        "time": "25/09 09:50",
+        "iso_date": "2026-09-25T12:50:32+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El economista Gabriel Rubinstein criticó el esquema cambiario: “El dólar les quedó demasiado bajo”",
+        "summary": "El ex funcionario consideró que el nivel actual del tipo de cambio está afectando la actividad y dijo que debería estar un 20% más alto en términos reales",
+        "link": "https://www.infobae.com/economia/2026/09/25/el-economista-gabriel-rubinstein-critico-el-esquema-cambiario-el-dolar-les-quedo-demasiado-bajo/",
+        "source": "Infobae Economía",
+        "time": "25/09 09:15",
+        "iso_date": "2026-09-25T12:15:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La pobreza golpea a los más grandes: los mayores de 65 años son el grupo en el que más aumentaron las necesidades insatisfechas",
+        "summary": "La tasa de pobreza en adultos mayores saltó 5,1 puntos porcentuales en seis meses, el mayor incremento entre todos los rangos etarios, según el último informe del Indec",
+        "link": "https://www.infobae.com/economia/2026/09/25/la-pobreza-golpea-a-los-mas-grandes-los-mayores-de-65-anos-son-el-grupo-en-el-que-mas-aumentaron-las-necesidades-insatisfechas/",
+        "source": "Infobae Economía",
+        "time": "25/09 09:00",
+        "iso_date": "2026-09-25T12:00:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Boom de créditos hipotecarios: las consultas se disparan tras la baja de tasas anunciada por el Gobierno",
+        "summary": "El crédito volvió a aparecer como una posibilidad concreta para quienes buscan comprar una vivienda y ahora comparan qué ofrecen los bancos.",
+        "link": "https://www.ambito.com/economia/boom-creditos-hipotecarios-las-consultas-se-disparan-la-baja-tasas-anunciada-el-gobierno-n6325773",
+        "source": "Ámbito",
+        "time": "25/09 09:00",
+        "iso_date": "2026-09-25T12:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Sube la nafta: Shell, Axion y Puma aumentaron entre 2 y 5 por ciento los precios de sus combustibles",
+        "summary": "El barril de petróleo cotiza en torno a los USD 105, muy por encima del precio de referencia interno; el CEO de YPF advirtió que si el valor se sostiene, la nafta deberá subir",
+        "link": "https://www.infobae.com/economia/2026/09/24/sube-la-nafta-shell-axion-y-puma-aumentaron-entre-2-y-5-por-ciento-los-precios-de-sus-combustibles/",
+        "source": "Infobae Economía",
+        "time": "25/09 07:54",
+        "iso_date": "2026-09-25T10:54:43+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Midieron cuánto pesa el miedo a la reelección de Milei y al regreso del peronismo: el equilibrio que inquieta a la política",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/midieron-cuanto-pesa-el-miedo-a-la-reeleccion-de-milei-y-al-regreso-del-peronismo-el-equilibrio-que-inquieta-a-la-politica/",
+        "source": "El Cronista",
+        "time": "25/09 07:49",
+        "iso_date": "2026-09-25T10:49:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La City prevé un peso más fuerte y menos riesgo país si Milei logra la reforma del BCRA",
+        "summary": "El fortalecimiento institucional del Central podría impulsar la moneda nacional y reducir los principales indicadores de riesgo, según expertos",
+        "link": "https://www.iprofesional.com/finanzas/465197-la-reforma-del-bcra-provocaria-un-peso-mas-fuerte-y-menos-riesgo-pais",
+        "source": "iProfesional",
+        "time": "25/09 07:00",
+        "iso_date": "2026-09-25T10:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Colombia en 2027: mercado proyecta crecimiento a media marcha e inflación que cede despacio",
+        "summary": "Se proyecta que El Niño lleve la inflación a 6,7% a fines de 2026 y que ceda a 5,5% al cierre de 2027, con un promedio anual de 6,5%.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-en-2027-mercado-proyecta-crecimiento-a-media-marcha-e-inflacion-que-cede-despacio/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 07:00",
+        "iso_date": "2026-09-25T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El crédito en Colombia sigue estancado, pero los bancos no pierden su solidez",
+        "summary": "La banca mantiene una rentabilidad de 18,6% y registra una mejora en la calidad de la cartera, mientras las tasas altas siguen limitando el crecimiento del crédito.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/el-credito-en-colombia-sigue-estancado-pero-los-bancos-no-pierden-su-solidez/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 07:00",
+        "iso_date": "2026-09-25T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación en Argentina: qué espera un banco para septiembre y en qué recomienda invertir",
+        "summary": "En el sector financiero prevén un leve repunte del IPC para este mes. Cuál es la proyección, qué espera para el dólar y qué carteras de inversión sugiere.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-en-argentina-que-espera-un-banco-para-septiembre-y-en-que-recomienda-invertir/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 06:01",
+        "iso_date": "2026-09-25T09:01:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Misión del FMI: reuniones en el BCRA, datos duros en vivo, pago de deuda y un diagnóstico atrasado",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/mision-del-fmi-reuniones-en-el-bcra-datos-duros-en-vivo-pago-de-deuda-y-un-diagnostico-atrasado/",
+        "source": "El Cronista",
+        "time": "25/09 06:00",
+        "iso_date": "2026-09-25T09:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Aumentó la pobreza: qué se necesita para que baje, más allá de una menor inflación",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/aumento-la-pobreza-que-se-necesita-para-que-baje-mas-alla-de-una-menor-inflacion/",
+        "source": "El Cronista",
+        "time": "25/09 06:00",
+        "iso_date": "2026-09-25T09:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Préstamos: qué pasa con la deuda cuando muere el titular y cómo saber si quedó cancelada",
+        "summary": "Créditos bancarios: cómo funciona la cobertura sobre saldo deudor cuando fallece el titular",
+        "link": "https://www.cronista.com/economia-politica/deuda-tras-fallecimiento-cuando-la-cobertura-bcra-extingue-el-saldo-y-cuando-no/",
+        "source": "El Cronista",
+        "time": "25/09 06:00",
+        "iso_date": "2026-09-25T09:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Por qué suben los rendimientos de los bonos de EE.UU.? Deutsche Bank resta peso a la inflación",
+        "summary": "El Treasury a 10 años acumula una suba de 97 puntos básicos en 2026, impulsada principalmente por mayores tasas reales y señales de fortaleza económica.",
+        "link": "https://www.bloomberglinea.com/mercados/por-que-suben-los-rendimientos-de-los-bonos-de-eeuu-deutsche-bank-resta-peso-a-la-inflacion/",
+        "source": "Bloomberg Línea AR",
+        "time": "25/09 02:00",
+        "iso_date": "2026-09-25T05:00:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Fin de septiembre complicado para la economía: el riesgo país ronda los 600 puntos y los precios de alimentos se recalientan",
+        "summary": "La última parte del año luce más complicada, en paralelo con el aumento de la incertidumbre política y la proximidad del año electoral",
+        "link": "https://www.infobae.com/economia/2026/09/25/fin-de-septiembre-complicado-para-la-economia-el-riesgo-pais-ronda-los-600-puntos-y-los-precios-de-alimentos-se-recalientan/",
+        "source": "Infobae Economía",
+        "time": "25/09 01:39",
+        "iso_date": "2026-09-25T04:39:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La actividad económica volvió a caer en julio: qué sectores explican el retroceso y por qué preocupa el tercer trimestre",
+        "summary": "El indicador oficial marcó una baja mensual de 2,9% y un retroceso de 1,4% frente a igual período de 2025. Las ramas ligadas al mercado doméstico mostraron las mayores caídas, mientras minería y agro no lograron equilibrar el resultado general",
+        "link": "https://www.infobae.com/economia/2026/09/25/la-actividad-economica-volvio-a-caer-en-julio-que-sectores-explican-el-retroceso-y-por-que-preocupa-el-tercer-trimestre/",
+        "source": "Infobae Economía",
+        "time": "25/09 01:38",
+        "iso_date": "2026-09-25T04:38:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno afronta hoy un nuevo vencimiento de deuda con el FMI: cuánto tiene que pagar y cómo lo hará",
+        "summary": "En el cierre de la semana, Economía enfrenta un nuevo pago al organismo internacional. Los compromisos financieros hasta fin de año",
+        "link": "https://www.infobae.com/economia/2026/09/25/el-gobierno-afronta-hoy-un-nuevo-vencimiento-de-deuda-con-el-fmi-cuanto-tiene-que-pagar-y-como-lo-hara/",
+        "source": "Infobae Economía",
+        "time": "25/09 01:35",
+        "iso_date": "2026-09-25T04:35:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar fuerte, tasas altas y riesgo país en alza: por qué los bonos argentinos caen más que los de la región",
+        "summary": "La suba de las tasas en EEUU y la apreciación global de la divisa norteamericana agravaron la presión sobre los títulos argentinos. Por qué las provincias colocan deuda en el exterior con un riesgo país menor",
+        "link": "https://www.infobae.com/economia/2026/09/25/dolar-fuerte-tasas-altas-y-riesgo-pais-en-alza-por-que-los-bonos-argentinos-caen-mas-que-los-de-la-region/",
+        "source": "Infobae Economía",
+        "time": "25/09 01:35",
+        "iso_date": "2026-09-25T04:35:05+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Boom exportador en seis provincias: solo una logra un derrame amplio sobre salarios y otros sectores",
+        "summary": "La disparidad sectorial en términos de actividad económica tiene su correlato a nivel regional. Sin embargo, ni siquiera la mayoría de las provincias que cuentan con los sectores \"estrella\" disfrutan de una bonanza generalizada.",
+        "link": "https://www.ambito.com/economia/boom-exportador-seis-provincias-solo-una-logra-un-derrame-amplio-salarios-y-otros-sectores-n6326426",
+        "source": "Ámbito",
+        "time": "25/09 00:00",
+        "iso_date": "2026-09-25T03:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El jitomate, la cebolla y el regreso a clases suben la inflación en septiembre en México",
         "summary": "La inflación general se ubicó en 3,42% anual en la primera quincena de septiembre de 2026, reportó el Inegi.",
@@ -12,6 +296,16 @@
         "source": "Bloomberg Línea AR",
         "time": "24/09 22:01",
         "iso_date": "2026-09-25T01:01:36+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuánto cuesta la corbata en homenaje a Adam Smith que usó Milei en la ONU",
+        "summary": "Un accesorio de seda azul marino llamó la atención durante el discurso en Nueva York y esconde una historia muy particular detrás.",
+        "link": "https://www.ambito.com/economia/cuanto-cuesta-la-corbata-homenaje-adam-smith-que-uso-milei-la-onu-n6326253",
+        "source": "Ámbito",
+        "time": "24/09 22:00",
+        "iso_date": "2026-09-25T01:00:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -26,314 +320,40 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "El banco digital más grande de Europa desembarca en la Argentina: el BCRA lo autorizó a comprar una entidad local",
-        "summary": "Revolut le compro el banco Cetelem a BNP Paribas para ingresar en el sistema financiero argentino, como parte de su estrategia regional",
-        "link": "https://www.infobae.com/economia/2026/09/24/el-banco-digital-mas-grande-de-europa-desembarca-en-la-argentina-el-bcra-lo-autorizo-a-comprar-una-entidad-local/",
-        "source": "Infobae Economía",
-        "time": "24/09 19:34",
-        "iso_date": "2026-09-24T22:34:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "San Juan regresó al mercado internacional de deuda tras 27 años: emitió un bono por USD 600 millones",
-        "summary": "La colocación bajo legislación de Nueva York, a nueve años y una tasa cercana al 9%, permitirá financiar obras de infraestructura tras cerca de dos décadas sin acceso al crédito externo",
-        "link": "https://www.infobae.com/economia/2026/09/24/san-juan-regreso-al-mercado-internacional-de-deuda-tras-27-anos-emitio-un-bono-por-usd-600-millones/",
-        "source": "Infobae Economía",
-        "time": "24/09 18:58",
-        "iso_date": "2026-09-24T21:58:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei se reunió con Netanyahu y ratificó su apoyo al primer ministro de Israel",
-        "summary": "El presidente argentino se encontró con el primer ministro israelí, luego del desplante que sufrió Netanyahu por otros líderes en la Asamblea de la ONU",
-        "link": "https://www.iprofesional.com/politica/465185-milei-se-reunio-con-netanyahu-y-ratifico-su-apoyo-al-primer-ministro-de-israel",
-        "source": "iProfesional",
-        "time": "24/09 18:57",
-        "iso_date": "2026-09-24T21:57:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Se desaceleraron las expectativas de inflación y cayeron al 29,8% anual en septiembre",
-        "summary": "Un estudio reveló un descenso de 5,9 puntos porcentuales en la proyección anual a nivel nacional, impulsado por una fuerte caída en los hogares de menores ingresos y una desaceleración pareja en el GBA, CABA y el Interior.",
-        "link": "https://www.ambito.com/economia/se-desaceleraron-las-expectativas-inflacion-y-cayeron-al-298-anual-septiembre-n6326246",
-        "source": "Ámbito",
-        "time": "24/09 18:47",
-        "iso_date": "2026-09-24T21:47:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Con un dato de pobreza peor que lo previsto, Milei pierde su argumento contra las críticas",
-        "summary": "La oposición se ensañó con el plan económico por los dos millones de nuevos pobres. El Gobierno no quiso prometer una mejora el próximo semestre",
-        "link": "https://www.iprofesional.com/politica/465182-hay-dos-millones-de-nuevos-pobres-y-milei-se-queda-sin-argumento",
-        "source": "iProfesional",
-        "time": "24/09 18:40",
-        "iso_date": "2026-09-24T21:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el riesgo país rozó los 580 puntos y las acciones argentinas volvieron a caer",
-        "summary": "Los bonos perdieron 0,5% en promedio y el S&P Merval cayó 1%. El índice de JP Morgan subió a 578 puntos, un máximo desde abril. El dólar marcó un récord de $1.540 en el Banco Nación y el BCRA compró USD 8 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/24/jornada-financiera-el-riesgo-pais-rozo-los-580-puntos-y-las-acciones-argentinas-volvieron-a-caer/",
-        "source": "Infobae Economía",
-        "time": "24/09 18:37",
-        "iso_date": "2026-09-24T21:37:42+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Pobreza: para la UCA, la mejora se agotó y persiste un núcleo estructural cercano al 30%",
-        "summary": "El índice alcanzó al 32,3% de las personas durante el primer semestre de 2026, mientras que la indigencia llegó al 7,5%. El Observatorio de la Deuda Social de la UCA señaló que el descenso registrado hasta 2025 se agotó y comenzó una nueva etapa de aumento.",
-        "link": "https://www.ambito.com/economia/pobreza-la-uca-la-mejora-se-agoto-y-persiste-un-nucleo-estructural-cercano-al-30-n6326400",
-        "source": "Ámbito",
-        "time": "24/09 18:29",
-        "iso_date": "2026-09-24T21:29:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Reforma del BCRA: cuál es el cambio clave que obliga al proyecto del oficialismo a volver a Diputados",
-        "summary": "La Cámara alta modificó el mecanismo para designar y apartar a las autoridades monetarias, por lo que la iniciativa deberá volver a Diputados. Las claves del texto",
-        "link": "https://www.infobae.com/economia/2026/09/24/reforma-del-bcra-cual-es-el-cambio-clave-que-obliga-al-proyecto-del-oficialismo-a-volver-a-diputados/",
-        "source": "Infobae Economía",
-        "time": "24/09 18:27",
-        "iso_date": "2026-09-24T21:27:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei se reunió con Netanyahu en la ONU: Malvinas y un cruce de elogios entre ambos",
-        "summary": "El Presidente cerró su gira por Nueva York con una reunión bilateral con Benjamin Netanyahu, después de reivindicar ante la ONU su alianza con Israel y condenar a Irán. Milei finalmente no participó de la reunión posterior de Netanyahu con líderes latinoamericanos.",
-        "link": "https://www.cronista.com/economia-politica/milei-se-reunio-con-netanyahu-en-medio-de-una-ola-de-criticas-al-premier-israeli-en-la-onu/",
-        "source": "El Cronista",
-        "time": "24/09 18:22",
-        "iso_date": "2026-09-24T21:22:46+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La empresa de maní Manisur pidió su quiebra por deudas millonarias: no puede pagar la luz",
-        "summary": "La histórica industria procesadora de maní está en concurso preventivo desde el 2019 y tiene un pasivo de más de $20.000 millones",
-        "link": "https://www.iprofesional.com/negocios/465183-empresa-de-mani-manisur-pidio-su-quiebra-no-puede-pagar-la-luz",
-        "source": "iProfesional",
-        "time": "24/09 18:18",
-        "iso_date": "2026-09-24T21:18:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Revolut recibe luz verde del BCRA para comprar el Banco Cetelem de BNP Paribas",
-        "summary": "El banco pasará a llamarse Revolut Bank Argentina y todavía no ofrecerá productos al público en la etapa inicial; la fintech británica, que ya suma más de 150.000 anotados en lista de espera en el país, no reveló fecha de lanzamiento.",
-        "link": "https://www.bloomberglinea.com/2026/09/24/revolut-recibe-luz-verde-del-bcra-para-comprar-el-banco-cetelem-de-bnp-paribas/",
-        "source": "Bloomberg Línea AR",
-        "time": "24/09 18:06",
-        "iso_date": "2026-09-24T21:06:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Luis Caputo atribuyó la caída de la actividad a \"shocks transitorios\" y a menos horas trabajadas por el Mundial",
-        "summary": "El EMAE se desplomó 2,9% mensual, el peor registro desde la pandemia. El ministro lo justificó con elementos como el clima, el gas y la Copa del Mundo.",
-        "link": "https://www.ambito.com/economia/luis-caputo-atribuyo-la-caida-la-actividad-shocks-transitorios-y-menos-horas-trabajadas-el-mundial-n6326386",
-        "source": "Ámbito",
-        "time": "24/09 18:06",
-        "iso_date": "2026-09-24T21:06:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El banco que revolucionó Europa llega a la Argentina: el BCRA le dio luz verde y ya tiene 150.000 personas en lista de espera",
-        "summary": "Con más de 80 millones de clientes en todo el mundo, Revolut avanza en su desembarco en la Argentina. El Banco Central aprobó la adquisición de Banco Cetelem y la fintech británica prepara su lanzamiento local, con una propuesta que busca integrar servicios bancarios, crédito,...",
-        "link": "https://eleconomista.com.ar/finanzas/el-banco-revoluciono-europa-llega-argentina-bcra-le-dio-luz-verde-ya-tiene-150000-personas-lista-espera-n98408",
-        "source": "El Economista",
-        "time": "24/09 17:59",
-        "iso_date": "2026-09-24T20:59:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las reservas cayeron u$s2.000 millones en tres semanas y el dólar volvió a subir",
-        "summary": "La autoridad monetaria perdió casi u$s2.000 millones en las últimas tres semanas, pese a mantener compras diarias de divisas en el mercado oficial",
-        "link": "https://www.iprofesional.com/finanzas/465178-las-reservas-cayeron-2000-millones-dolares-en-tres-semanas-y-el-dolar-volvio-a-subir",
-        "source": "iProfesional",
-        "time": "24/09 17:54",
-        "iso_date": "2026-09-24T20:54:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cómo será el nuevo Banco Central con la ley que Milei busca aprobar en Diputados",
-        "summary": "El proyecto se aprobó en el Senado con un cambio clave, por lo que se volverá a tratar en la Cámara baja. Cuáles son las modificaciones que propone",
-        "link": "https://www.iprofesional.com/politica/465176-como-sera-el-nuevo-bcra-con-la-ley-que-milei-busca-aprobar-en-diputados",
-        "source": "iProfesional",
-        "time": "24/09 17:50",
-        "iso_date": "2026-09-24T20:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La actividad económica registró una caída de 2,9% en julio",
-        "summary": "El Indec dio a conocer que el EMAE volvió a caer en el séptimo mes del año y no logra consolidar una tendencia positiva de más de un mes. En la variación interanual cayó 1,4 por ciento. Los sectores más afectados y cómo impacta en el mercado de trabajo",
-        "link": "https://www.infobae.com/economia/2026/09/24/la-actividad-economica-registro-una-caida-de-29-en-julio/",
-        "source": "Infobae Economía",
-        "time": "24/09 17:47",
-        "iso_date": "2026-09-24T20:47:32+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: cayeron las acciones y los bonos argentinos y volvió a subir el riesgo país",
-        "summary": "Los títulos públicos perdieron 0,5% en promedio en la novena rueda con bajas. El índice de JP Morgan subió a 578 puntos. El S&P Merval cedió 1%, arrastrado por la sesión negativa de Wall Street",
-        "link": "https://www.infobae.com/economia/2026/09/24/mercados-caen-las-acciones-y-los-bonos-argentinos-y-vuelve-a-subir-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "24/09 17:38",
-        "iso_date": "2026-09-24T20:38:14+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 24 de septiembre",
-        "summary": "El billete al público subió a $1.540 para la venta en el Banco Nación, un nuevo récord nominal. El blue siguió ofrecido a $1.560. El BCRA compró USD 8 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/24/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-24-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "24/09 17:15",
-        "iso_date": "2026-09-24T20:15:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Se retrasa la reforma del BCRA de Milei: Senado la devolvió a Diputados con cambio clave",
-        "summary": "El proyecto, central para Milei, se aprobó con un cambio en la remoción de autoridades. La jugada del peronismo para blindarlo en Diputados",
-        "link": "https://www.iprofesional.com/politica/465154-el-senado-aprobo-la-reforma-del-bcra-pero-vuelve-a-diputados-con-un-cambio-clave",
-        "source": "iProfesional",
-        "time": "24/09 17:08",
-        "iso_date": "2026-09-24T20:08:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "S&P 500 cae y el Dow extiende pérdidas por presión de los bonos pese a posible acuerdo con Irán",
-        "summary": "Wall Street osciló ante el repunte del petróleo y el salto de los rendimientos del Tesoro, mientras el mercado evaluó nuevas alzas de tasas de la Fed y las conversaciones entre EE.UU. e Irán.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-con-el-alza-del-petroleo-y-el-rendimiento-del-tesoro-en-su-nivel-mas-alto-desde-2004/",
-        "source": "Bloomberg Línea AR",
-        "time": "24/09 17:04",
-        "iso_date": "2026-09-24T20:04:09+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué dijo Caputo tras el aumento de la pobreza y la indigencia en el primer semestre de 2026",
-        "summary": "El ministro de Economía reconoció la suba de 4,1 puntos porcentuales, aunque hizo foco en que se redujo respecto a los datos del mismo período de 2024",
-        "link": "https://www.infobae.com/economia/2026/09/24/que-dijo-caputo-tras-el-aumento-de-la-pobreza-y-la-indigencia-en-el-primer-semestre-de-2026/",
-        "source": "Infobae Economía",
-        "time": "24/09 16:55",
-        "iso_date": "2026-09-24T19:55:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La economía cayó 2,9% en julio contra el mes anterior: los sectores en baja y el “efecto Mundial” según Caputo",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-economia-cayo-29-en-julio-contra-el-mes-anterior-los-sectores-mas-golpeados/",
-        "source": "El Cronista",
-        "time": "24/09 16:47",
-        "iso_date": "2026-09-24T19:47:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cuáles son las ciudades argentinas con mayor nivel de pobreza, según el INDEC",
-        "summary": "Hay 16 centros urbanos de más de 500.000 habitantes que presentan una incidencia de la pobreza superior al 30%. Cuáles son las que menos pobreza tienen",
-        "link": "https://www.iprofesional.com/economia/465173-cuales-son-las-ciudades-argentinas-con-mayor-nivel-de-pobreza",
-        "source": "iProfesional",
-        "time": "24/09 16:45",
-        "iso_date": "2026-09-24T19:45:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Pobreza en Argentina: cuáles son las regiones y ciudades más afectadas y dónde supera el 55%",
-        "summary": "El INDEC reveló fuertes diferencias en la incidencia de la pobreza a lo largo del país durante el primer semestre de 2026. Mientras el promedio de los 31 aglomerados urbanos alcanzó el 32,3%, en algunas ciudades la cifra se acercó o incluso superó a la mitad de la población.",
-        "link": "https://www.ambito.com/economia/pobreza-argentina-cuales-son-las-regiones-y-ciudades-mas-afectadas-y-donde-supera-el-55-n6326350",
-        "source": "Ámbito",
-        "time": "24/09 16:39",
-        "iso_date": "2026-09-24T19:39:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La pobreza subió al 32,3% en el primer semestre del año y afectó a 15,5 millones de personas",
-        "summary": "El dato difundido por el Indec marcó un incremento de 4,1 puntos porcentuales respecto al semestre previo. La indigencia se ubicó en 7,5%",
-        "link": "https://www.infobae.com/economia/2026/09/24/la-pobreza-subio-al-323-en-el-primer-semestre-de-ano-y-afecto-a-155-millones-de-personas/",
-        "source": "Infobae Economía",
-        "time": "24/09 16:36",
-        "iso_date": "2026-09-24T19:36:25+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La actividad económica se desplomó casi 3% mensual en julio, el peor registro desde la pandemia",
-        "summary": "Así lo informó de manera oficial el INDEC a través del EMAE. Desde marzo y abril de 2020 que no se observaba una variación negativa de esa magnitud.",
-        "link": "https://www.ambito.com/economia/la-actividad-economica-se-desplomo-casi-3-mensual-julio-n6326327",
-        "source": "Ámbito",
-        "time": "24/09 16:24",
-        "iso_date": "2026-09-24T19:24:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercado Pago venderá acciones en las próximas semanas y tiemblan IOL y Cocos Capital",
-        "summary": "La billetera virtual de Marcos Galperin amplía sus productos financieros. Entre octubre y noviembre comenzaría a ofrecer unos 200 CEDEARs",
-        "link": "https://www.iprofesional.com/finanzas/465087-mercado-pago-vendera-acciones-y-tiemblan-iol-y-cocos-capital",
-        "source": "iProfesional",
-        "time": "24/09 16:23",
-        "iso_date": "2026-09-24T19:23:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Sube el precio de la nafta hasta un 5%: qué hará YPF",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/sube-el-precio-de-la-nafta-hasta-un-5-que-hara-ypf/",
-        "source": "El Cronista",
-        "time": "24/09 16:19",
-        "iso_date": "2026-09-24T19:19:40+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
       {
-        "title": "Sube el precio de la nafta hasta un 5%: qué hará YPF",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/sube-el-precio-de-la-nafta-hasta-un-5-que-hara-ypf/",
-        "source": "El Cronista",
-        "time": "24/09 16:19",
-        "iso_date": "2026-09-24T19:19:40+00:00",
+        "title": "Aumento de la nafta: qué va a pasar con los precios en los surtidores",
+        "summary": "Shell, Axion y Puma aplicaron subas de entre 2% y 5% en sus combustibles. YPF todavía no actualizó sus valores, mientras el precio internacional del petróleo se mantiene cerca de los USD 100",
+        "link": "https://www.infobae.com/economia/2026/09/25/aumento-de-la-nafta-que-va-a-pasar-con-los-precios-en-los-surtidores/",
+        "source": "Infobae Economía",
+        "time": "25/09 11:04",
+        "iso_date": "2026-09-25T14:04:21+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Shell refuerza su estructura en Argentina, mientras apuesta por Vaca Muerta",
-        "summary": "La petrolera volvió a modificar el capital social y el estatuto de su filial local, mientras concentra su operación en el desarrollo de hidrocarburos",
-        "link": "https://www.iprofesional.com/negocios/465162-shell-refuerza-estructura-en-argentina-mientras-apuesta-un-pleno-por-vaca-muerta",
-        "source": "iProfesional",
-        "time": "24/09 16:15",
-        "iso_date": "2026-09-24T19:15:00+00:00",
+        "title": "Sube la nafta: Shell, Axion y Puma aumentaron entre 2 y 5 por ciento los precios de sus combustibles",
+        "summary": "El barril de petróleo cotiza en torno a los USD 105, muy por encima del precio de referencia interno; el CEO de YPF advirtió que si el valor se sostiene, la nafta deberá subir",
+        "link": "https://www.infobae.com/economia/2026/09/24/sube-la-nafta-shell-axion-y-puma-aumentaron-entre-2-y-5-por-ciento-los-precios-de-sus-combustibles/",
+        "source": "Infobae Economía",
+        "time": "25/09 07:54",
+        "iso_date": "2026-09-25T10:54:43+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Sube el precio de la nafta hasta un 5%: qué hará YPF",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/sube-el-precio-de-la-nafta-hasta-un-5-que-hara-ypf/",
+        "source": "El Cronista",
+        "time": "24/09 16:19",
+        "iso_date": "2026-09-24T19:19:40+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -346,18 +366,6 @@
         "source": "iProfesional",
         "time": "24/09 15:46",
         "iso_date": "2026-09-24T18:46:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Sube la nafta: Shell, Axion y Puma aumentaron entre 2 y 5 por ciento los precios de sus combustibles",
-        "summary": "El barril de petróleo cotiza en torno a los USD 105, muy por encima del precio de referencia interno; el CEO de YPF advirtió que si el valor se sostiene, la nafta deberá subir",
-        "link": "https://www.infobae.com/economia/2026/09/24/sube-la-nafta-shell-axion-y-puma-aumentaron-entre-2-y-5-por-ciento-los-precios-de-sus-combustibles/",
-        "source": "Infobae Economía",
-        "time": "24/09 15:37",
-        "iso_date": "2026-09-24T18:37:43+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -386,18 +394,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Combustibles suben hasta 5% y cambia el esquema con nuevos precios de referencia",
-        "summary": "El Brent llegó a u$s105 y las compañías trasladaron parte del aumento al mercado argentino. YPF, por ahora, no modificó sus valores.",
-        "link": "https://www.iprofesional.com/economia/465136-combustibles-suben-hasta-5-y-cambian-los-precios-de-referencia",
-        "source": "iProfesional",
-        "time": "24/09 11:10",
-        "iso_date": "2026-09-24T14:10:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       },
       {
         "title": "Así es Argentina LNG, el megaproyecto para exportar gas que contará con un millonario financiamiento de EEUU",
@@ -430,30 +426,6 @@
         "source": "Bloomberg Línea AR",
         "time": "23/09 12:48",
         "iso_date": "2026-09-23T15:48:44+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Vaca Muerta cambia el empleo: el fuerte impacto del megayacimiento en la economía de Neuquén",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/vaca-muerta-cambia-el-empleo-el-fuerte-impacto-del-megayacimiento-en-la-economia-de-neuquen/",
-        "source": "El Cronista",
-        "time": "23/09 11:38",
-        "iso_date": "2026-09-23T14:38:06+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Entrevista con Quirno: anticipo sobre el nuevo acuerdo de inversiones de energía con EE.UU.",
-        "summary": "El anuncio será esta tarde en el Consulado junto al subsecretario estadounidense Christopher Landau y el titular de YPF, Horacio Marín. “Es la profundización de la relación estratégica”, dijo el canciller.",
-        "link": "https://www.cronista.com/economia-politica/entrevista-con-quirno-lo-que-anticipo-sobre-el-nuevo-acuerdo-de-inversiones-de-energia-con-eeuu/",
-        "source": "El Cronista",
-        "time": "23/09 07:00",
-        "iso_date": "2026-09-23T10:00:01+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -493,6 +465,18 @@
     "ALUA": [],
     "TECO2": [
       {
+        "title": "Empleadas domésticas: cuánto cobrarán en octubre, según cada categoría",
+        "summary": "El personal de casas particulares tendrá una suba del 1,7% sobre los básicos vigentes durante septiembre y se incorporará parte de una suma no remunerativa otorgada durante agosto",
+        "link": "https://www.infobae.com/economia/2026/09/25/empleadas-domesticas-cuanto-cobraran-en-octubre-segun-cada-categoria/",
+        "source": "Infobae Economía",
+        "time": "25/09 11:26",
+        "iso_date": "2026-09-25T14:26:34+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Peabody cerró su café de Palermo mientras avanza el ajuste en medio del concurso",
         "summary": "El proyecto gastronómico había nacido en 2025 como una apuesta de diversificación. La compañía también dejó otro inmueble y redujo personal",
         "link": "https://www.iprofesional.com/negocios/465192-peabody-cerro-su-cafe-de-palermo-mientras-avanza-el-concurso",
@@ -507,6 +491,54 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Mercados: el riesgo país supera los 600 puntos y la Bolsa porteña cae por quinto día consecutivo",
+        "summary": "Los bonos caen 1,2% y el indicador de JP Morgan asciende a 602 puntos básicos. El S&P Merval cede 0,8%, influenciado por la baja del crudo, que afecta la cotización de las compañías del sector energía",
+        "link": "https://www.infobae.com/economia/2026/09/25/mercados-la-bolsa-portena-cae-por-quinto-dia-y-el-riesgo-pais-se-acerca-a-los-600-puntos/",
+        "source": "Infobae Economía",
+        "time": "25/09 11:56",
+        "iso_date": "2026-09-25T14:56:11+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La City prevé un peso más fuerte y menos riesgo país si Milei logra la reforma del BCRA",
+        "summary": "El fortalecimiento institucional del Central podría impulsar la moneda nacional y reducir los principales indicadores de riesgo, según expertos",
+        "link": "https://www.iprofesional.com/finanzas/465197-la-reforma-del-bcra-provocaria-un-peso-mas-fuerte-y-menos-riesgo-pais",
+        "source": "iProfesional",
+        "time": "25/09 07:00",
+        "iso_date": "2026-09-25T10:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Fin de septiembre complicado para la economía: el riesgo país ronda los 600 puntos y los precios de alimentos se recalientan",
+        "summary": "La última parte del año luce más complicada, en paralelo con el aumento de la incertidumbre política y la proximidad del año electoral",
+        "link": "https://www.infobae.com/economia/2026/09/25/fin-de-septiembre-complicado-para-la-economia-el-riesgo-pais-ronda-los-600-puntos-y-los-precios-de-alimentos-se-recalientan/",
+        "source": "Infobae Economía",
+        "time": "25/09 01:39",
+        "iso_date": "2026-09-25T04:39:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Dólar fuerte, tasas altas y riesgo país en alza: por qué los bonos argentinos caen más que los de la región",
+        "summary": "La suba de las tasas en EEUU y la apreciación global de la divisa norteamericana agravaron la presión sobre los títulos argentinos. Por qué las provincias colocan deuda en el exterior con un riesgo país menor",
+        "link": "https://www.infobae.com/economia/2026/09/25/dolar-fuerte-tasas-altas-y-riesgo-pais-en-alza-por-que-los-bonos-argentinos-caen-mas-que-los-de-la-region/",
+        "source": "Infobae Economía",
+        "time": "25/09 01:35",
+        "iso_date": "2026-09-25T04:35:05+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: el riesgo país rozó los 580 puntos y las acciones argentinas volvieron a caer",
         "summary": "Los bonos perdieron 0,5% en promedio y el S&P Merval cayó 1%. El índice de JP Morgan subió a 578 puntos, un máximo desde abril. El dólar marcó un récord de $1.540 en el Banco Nación y el BCRA compró USD 8 millones en el mercado",
@@ -586,30 +618,6 @@
         "source": "El Cronista",
         "time": "23/09 17:11",
         "iso_date": "2026-09-23T20:11:29+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país arriba de los 550 puntos condiciona la primera emisión de deuda internacional de una provincia",
-        "summary": "San Juan tiene previsto colocar bonos bajo legislación neoyorkina mañana por USD 600 millones. Pero el deterioro de los bonos soberanos elevaría la tasa a niveles cercanos al 10% anual. Caputo ya aclaró que no buscará financiamiento en el exterior",
-        "link": "https://www.infobae.com/economia/2026/09/23/el-riesgo-pais-arriba-de-los-550-puntos-condiciona-la-primera-emision-de-deuda-internacional-de-una-provincia/",
-        "source": "Infobae Economía",
-        "time": "23/09 01:29",
-        "iso_date": "2026-09-23T04:29:34+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Termómetro financiero: las dos señales que muestran por qué el mercado está más atento a la política que a la economía",
-        "summary": "El canje de deuda atada al dólar permitió despejar vencimientos inmediatos, pero la caída de los bonos soberanos y el alza del riesgo país reflejaron la cautela inversora ante la incertidumbre electoral y un escenario externo adverso",
-        "link": "https://www.infobae.com/economia/2026/09/23/termometro-financiero-las-dos-senales-que-muestran-por-que-el-mercado-esta-mas-atento-a-la-politica-que-a-la-economia/",
-        "source": "Infobae Economía",
-        "time": "23/09 01:23",
-        "iso_date": "2026-09-23T04:23:47+00:00",
         "tickers": [
           "AL30"
         ],
