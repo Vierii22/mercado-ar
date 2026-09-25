@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-09-25T19:22:41.599174",
-  "updated_str": "25/09/2026 19:22",
+  "updated_at": "2026-09-25T19:37:44.398982",
+  "updated_str": "25/09/2026 19:37",
   "cutoff_hours": 48,
-  "total_news": 280,
+  "total_news": 283,
   "news": {
     "GENERAL": [
+      {
+        "title": "YPF confirmó un aumento de 1% promedio los precios de sus combustibles en todo el país",
+        "summary": "La empresa aseguró que continuará aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según variables de oferta y demanda, la competencia, franjas horarias, corredores y zonas geográficas",
+        "link": "https://www.infobae.com/economia/2026/09/25/ypf-confirmo-un-aumento-de-1-promedio-los-precios-de-sus-combustibles-en-todo-el-pais/",
+        "source": "Infobae Economía",
+        "time": "25/09 16:34",
+        "iso_date": "2026-09-25T19:34:35+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El dólar subió por tercer día consecutivo, pero todavía está 25% debajo del techo de la banda cambiaria",
+        "summary": "La divisa cerró a $1.525,50 en el segmento mayorista. Al público avanzó a $1.545 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/09/25/el-dolar-subio-por-tercer-dia-consecutivo-pero-todavia-esta-25-debajo-del-techo-de-la-banda-cambiaria/",
+        "source": "Infobae Economía",
+        "time": "25/09 16:22",
+        "iso_date": "2026-09-25T19:22:43+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Cómo será el nuevo Banco Central con la ley que Milei busca aprobar en Diputados",
         "summary": "El proyecto se aprobó en el Senado con un cambio clave, por lo que se volverá a tratar en la Cámara baja. Cuáles son las modificaciones que propone",
@@ -304,31 +326,21 @@
         "iso_date": "2026-09-25T12:00:18+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Boom de créditos hipotecarios: las consultas se disparan tras la baja de tasas anunciada por el Gobierno",
-        "summary": "El crédito volvió a aparecer como una posibilidad concreta para quienes buscan comprar una vivienda y ahora comparan qué ofrecen los bancos.",
-        "link": "https://www.ambito.com/economia/boom-creditos-hipotecarios-las-consultas-se-disparan-la-baja-tasas-anunciada-el-gobierno-n6325773",
-        "source": "Ámbito",
-        "time": "25/09 09:00",
-        "iso_date": "2026-09-25T12:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Sube la nafta: Shell, Axion y Puma aumentaron entre 2 y 5 por ciento los precios de sus combustibles",
-        "summary": "El barril de petróleo cotiza en torno a los USD 105, muy por encima del precio de referencia interno; el CEO de YPF advirtió que si el valor se sostiene, la nafta deberá subir",
-        "link": "https://www.infobae.com/economia/2026/09/24/sube-la-nafta-shell-axion-y-puma-aumentaron-entre-2-y-5-por-ciento-los-precios-de-sus-combustibles/",
+        "title": "YPF confirmó un aumento de 1% promedio los precios de sus combustibles en todo el país",
+        "summary": "La empresa aseguró que continuará aplicando su sistema de micropricing, mediante el cual realiza ajustes específicos según variables de oferta y demanda, la competencia, franjas horarias, corredores y zonas geográficas",
+        "link": "https://www.infobae.com/economia/2026/09/25/ypf-confirmo-un-aumento-de-1-promedio-los-precios-de-sus-combustibles-en-todo-el-pais/",
         "source": "Infobae Economía",
-        "time": "25/09 07:54",
-        "iso_date": "2026-09-25T10:54:43+00:00",
+        "time": "25/09 16:34",
+        "iso_date": "2026-09-25T19:34:35+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
-      }
-    ],
-    "YPFD": [
+      },
       {
         "title": "Vaca Muerta suma fibra óptica y se posiciona para recibir centros de datos",
         "summary": "Una cooperativa neuquina desplegará una red troncal de 150 kilómetros entre la capital provincial y la ciudad de Añelo en el yacimiento.",
