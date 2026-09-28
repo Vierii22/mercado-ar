@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-28T20:24:27.939459",
-  "updated_str": "28/09/2026 20:24",
+  "updated_at": "2026-09-28T20:38:34.411574",
+  "updated_str": "28/09/2026 20:38",
   "cutoff_hours": 48,
-  "total_news": 189,
+  "total_news": 191,
   "news": {
     "GENERAL": [
       {
@@ -12,6 +12,28 @@
         "source": "El Cronista",
         "time": "29/09 07:00",
         "iso_date": "2026-09-29T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país volvió a subir y llegó a su nivel máximo en lo que va del año",
+        "summary": "Los títulos públicos cayeron 0,6%, para encadenar once caídas consecutivas. El S&P Merval porteño cedió 3,3%, en la séptima baja seguida. El indicador de JP Morgan subió a 628 puntos básicos para Argentina",
+        "link": "https://www.infobae.com/economia/2026/09/28/el-riesgo-pais-vuelve-a-subir-y-llega-a-su-nivel-maximo-en-lo-que-va-del-ano/",
+        "source": "Infobae Economía",
+        "time": "28/09 17:31",
+        "iso_date": "2026-09-28T20:31:41+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Malvinas: Milei ordenó un arbitraje internacional para frenar Sea Lion y le dio un ultimátum a Londres",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/malvinas-milei-ordeno-un-arbitraje-internacional-para-frenar-sea-lion-y-le-dio-un-ultimatum-a-londres/",
+        "source": "El Cronista",
+        "time": "28/09 17:22",
+        "iso_date": "2026-09-28T20:22:45+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -190,18 +212,6 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país vuelve a subir y llega a su nivel máximo en lo que va del año",
-        "summary": "Los títulos públicos caen otro 1,8%, para encadenar once caídas consecutivas. El S&P Merval porteño cede 1,5%, en la sexta baja seguida. El indicador de JP Morgan sube a 641 puntos básicos para Argentina",
-        "link": "https://www.infobae.com/economia/2026/09/28/el-riesgo-pais-vuelve-a-subir-y-llega-a-su-nivel-maximo-en-lo-que-va-del-ano/",
-        "source": "Infobae Economía",
-        "time": "28/09 12:28",
-        "iso_date": "2026-09-28T15:28:19+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "La confianza en el Gobierno de Milei marca un nuevo piso y abre interrogantes sobre el respaldo a la gestión",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/fuerte-caida-de-la-confianza-en-el-gobierno-bajo-59-en-septiembre-y-alcanzo-el-valor-mas-bajo-en-la-era-milei/",
@@ -300,16 +310,6 @@
         "iso_date": "2026-09-28T13:23:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Javier Milei sobre los cambios en la Quinta de Olivos: “Es una base militar”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/javier-milei-sobre-los-cambios-en-la-quinta-de-olivos-es-una-base-militar/",
-        "source": "El Cronista",
-        "time": "28/09 10:02",
-        "iso_date": "2026-09-28T13:02:06+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -359,24 +359,24 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "El riesgo país superó los 640 puntos y tocó su valor más alto en lo que va del año",
-        "summary": "Los bonos argentinos vuelven a caer y el indicador tocó su nivel más alto en 10 meses, aunque luego cedió levemente. También caen acciones",
-        "link": "https://www.iprofesional.com/finanzas/465415-el-riesgo-pais-supero-los-640-puntos-y-toco-su-valor-mas-alto-en-lo-que-va-del-ano",
-        "source": "iProfesional",
-        "time": "28/09 15:09",
-        "iso_date": "2026-09-28T18:09:00+00:00",
+        "title": "El riesgo país volvió a subir y llegó a su nivel máximo en lo que va del año",
+        "summary": "Los títulos públicos cayeron 0,6%, para encadenar once caídas consecutivas. El S&P Merval porteño cedió 3,3%, en la séptima baja seguida. El indicador de JP Morgan subió a 628 puntos básicos para Argentina",
+        "link": "https://www.infobae.com/economia/2026/09/28/el-riesgo-pais-vuelve-a-subir-y-llega-a-su-nivel-maximo-en-lo-que-va-del-ano/",
+        "source": "Infobae Economía",
+        "time": "28/09 17:31",
+        "iso_date": "2026-09-28T20:31:41+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país vuelve a subir y llega a su nivel máximo en lo que va del año",
-        "summary": "Los títulos públicos caen otro 1,8%, para encadenar once caídas consecutivas. El S&P Merval porteño cede 1,5%, en la sexta baja seguida. El indicador de JP Morgan sube a 641 puntos básicos para Argentina",
-        "link": "https://www.infobae.com/economia/2026/09/28/el-riesgo-pais-vuelve-a-subir-y-llega-a-su-nivel-maximo-en-lo-que-va-del-ano/",
-        "source": "Infobae Economía",
-        "time": "28/09 12:28",
-        "iso_date": "2026-09-28T15:28:19+00:00",
+        "title": "El riesgo país superó los 640 puntos y tocó su valor más alto en lo que va del año",
+        "summary": "Los bonos argentinos vuelven a caer y el indicador tocó su nivel más alto en 10 meses, aunque luego cedió levemente. También caen acciones",
+        "link": "https://www.iprofesional.com/finanzas/465415-el-riesgo-pais-supero-los-640-puntos-y-toco-su-valor-mas-alto-en-lo-que-va-del-ano",
+        "source": "iProfesional",
+        "time": "28/09 15:09",
+        "iso_date": "2026-09-28T18:09:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -401,30 +401,6 @@
         "source": "Bloomberg Línea AR",
         "time": "28/09 04:15",
         "iso_date": "2026-09-28T07:15:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país en 600 puntos: qué está mirando el mercado y por qué preocupa al Gobierno",
-        "summary": "El indicador volvió a niveles que no alcanzaba desde abril. Tasas de EEUU, reservas, deuda y elecciones, las claves para entender qué pasa.",
-        "link": "https://www.ambito.com/economia/riesgo-pais-600-puntos-que-esta-mirando-el-mercado-y-que-preocupa-al-gobierno-n6327149",
-        "source": "Ámbito",
-        "time": "27/09 11:57",
-        "iso_date": "2026-09-27T14:57:48+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país en 600 puntos: qué está mirando el mercado y por qué preocupa al Gobierno",
-        "summary": "El indicador volvió a niveles que no alcanzaba desde abril. Tasas de EEUU, reservas, deuda y elecciones, las claves para entender qué pasa.",
-        "link": "https://www.ambito.com/economia/riesgo-pais-600-puntos-que-esta-mirando-el-mercado-y-que-preocupa-al-gobierno-n6327149",
-        "source": "Ámbito Mercados",
-        "time": "27/09 11:57",
-        "iso_date": "2026-09-27T14:57:48+00:00",
         "tickers": [
           "AL30"
         ],
