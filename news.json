@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-09-29T21:44:23.188046",
-  "updated_str": "29/09/2026 21:44",
+  "updated_at": "2026-09-29T22:28:05.271112",
+  "updated_str": "29/09/2026 22:28",
   "cutoff_hours": 48,
-  "total_news": 255,
+  "total_news": 258,
   "news": {
     "GENERAL": [
+      {
+        "title": "La cuenta corriente de Argentina retomó el superávit en el segundo trimestre: por dónde creció la deuda",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/la-cuenta-corriente-de-argentina-retomo-el-superavit-en-el-segundo-trimestre-por-donde-crecio-la-deuda/",
+        "source": "El Cronista",
+        "time": "29/09 19:18",
+        "iso_date": "2026-09-29T22:18:19+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Fallo de la Corte reactiva DNU de Milei y quita límites a venta de tierras a extranjeros",
+        "summary": "El fallo permite que personas de otros países accedan a campos argentinos sin restricciones, tras la entrada en vigor del DNU 70/23 de Milei",
+        "link": "https://www.iprofesional.com/legales/465538-fallo-de-la-corte-reactiva-dnu-de-milei-y-quita-limites-a-venta-de-tierras-a-extranjeros",
+        "source": "iProfesional",
+        "time": "29/09 19:04",
+        "iso_date": "2026-09-29T22:04:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El peso de la deuda externa sobre el PBI se redujo al 42,75% en el segundo trimestre, mínimo desde inicios de 2025",
+        "summary": "El porcentaje se ubica lejos de los máximos registrados entre 2018 y 2021, pero bastante arriba de los mínimos de fines del kirchnerismo.",
+        "link": "https://www.ambito.com/economia/el-peso-la-deuda-externa-el-pbi-se-redujo-al-4275-el-segundo-trimestre-minimo-inicios-2025-n6328167",
+        "source": "Ámbito",
+        "time": "29/09 18:51",
+        "iso_date": "2026-09-29T21:51:00+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La Corte Suprema definió el alcance de la prescripción en los blanqueos",
         "summary": "Varios blanqueos han alargado el período en el que ARCA puede exigir el pago de tributos y ahora la Corte sostiene que solo vale para adherentes",
@@ -192,16 +224,6 @@
         "is_general": true
       },
       {
-        "title": "Mal dato para Milei en la encuesta más importante: cayó la confianza en el Gobierno",
-        "summary": "El estudio mensual de la Universidad Di Tella arrojó una baja de casi 6 puntos. El índicede septiembre igualó las marcas más bajas registradas desde 2023",
-        "link": "https://www.iprofesional.com/politica/465412-cayo-la-confianza-en-el-gobierno-a-los-niveles-mas-bajos-de-la-era-milei",
-        "source": "iProfesional",
-        "time": "29/09 15:31",
-        "iso_date": "2026-09-29T18:31:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "La polémica propuesta de un reconocido economista: cobrar impuestos a la compra de dólares",
         "summary": "Rodolfo Santangelo, socio de Carlos Melconian en Macroview, sugirió aplicar un impuesto —como IVA, Impuesto País o a cuenta de Ganancias— a la compra de divisas para turismo y atesoramiento",
         "link": "https://www.infobae.com/economia/2026/09/29/la-polemica-propuesta-de-un-reconocido-economista-cobrar-impuestos-a-la-compra-de-dolares/",
@@ -294,26 +316,6 @@
         "iso_date": "2026-09-29T16:10:29+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "China acelera medidas para impulsar la economía: créditos baratos y un histórico plan de subsidios hipotecarios",
-        "summary": "Tras desacelerar su crecimiento al 4,3%, el régimen despliega rebajas de tasas selectivas para la industria y el agro, junto con una ayuda inédita a la compra de primera vivienda para contener la crisis inmobiliaria. Los detalles, en la nota.",
-        "link": "https://www.ambito.com/economia/china-acelera-medidas-impulsar-la-creditos-baratos-y-un-historico-plan-subsidios-hipotecarios-n6327965",
-        "source": "Ámbito",
-        "time": "29/09 12:52",
-        "iso_date": "2026-09-29T15:52:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "FMI dice que Colombia debe actuar para reducir sus desequilibrios fiscales y anuncia nuevas conversaciones",
-        "summary": "El subdirector del organismo, Nigel Clarke, destacó la fortaleza de la economía colombiana, pero advirtió sobre la necesidad de tomar medidas fiscales creíbles para reducir los desequilibrios, fortalecer la confianza y bajar los costos de financiamiento.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/fmi-dice-que-colombia-debe-actuar-para-reducir-sus-desequilibrios-fiscales-y-anuncia-nuevas-conversaciones/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/09 12:41",
-        "iso_date": "2026-09-29T15:41:22+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -328,6 +330,18 @@
           "YPFD"
         ],
         "is_general": false
+      },
+      {
+        "title": "Milei viaja a París con 13 gobernadores para exponer el potencial de Vaca Muerta y el litio",
+        "summary": "Junto a trece mandatarios provinciales y directivos de empresas el presidente expone la agenda de reformas en el foro Argentina Week",
+        "link": "https://www.iprofesional.com/economia/465419-milei-viaja-a-paris-con-gobernadores-en-busca-de-inversiones",
+        "source": "iProfesional",
+        "time": "29/09 07:35",
+        "iso_date": "2026-09-29T10:35:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
       },
       {
         "title": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta",
@@ -558,6 +572,31 @@
         "is_general": true
       }
     ],
-    "GD30": []
+    "GD30": [
+      {
+        "title": "El peso de la deuda externa sobre el PBI se redujo al 42,75% en el segundo trimestre, mínimo desde inicios de 2025",
+        "summary": "El porcentaje se ubica lejos de los máximos registrados entre 2018 y 2021, pero bastante arriba de los mínimos de fines del kirchnerismo.",
+        "link": "https://www.ambito.com/economia/el-peso-la-deuda-externa-el-pbi-se-redujo-al-4275-el-segundo-trimestre-minimo-inicios-2025-n6328167",
+        "source": "Ámbito",
+        "time": "29/09 18:51",
+        "iso_date": "2026-09-29T21:51:00+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El peso de la deuda externa sobre el PBI se redujo al 42,75% en el segundo trimestre, mínimo desde inicios de 2025",
+        "summary": "El porcentaje se ubica lejos de los máximos registrados entre 2018 y 2021, pero bastante arriba de los mínimos de fines del kirchnerismo.",
+        "link": "https://www.ambito.com/economia/el-peso-la-deuda-externa-el-pbi-se-redujo-al-4275-el-segundo-trimestre-minimo-inicios-2025-n6328167",
+        "source": "Ámbito Mercados",
+        "time": "29/09 18:51",
+        "iso_date": "2026-09-29T21:51:00+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      }
+    ]
   }
 }
