@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-29T00:07:40.472940",
-  "updated_str": "29/09/2026 00:07",
+  "updated_at": "2026-09-29T01:22:27.757625",
+  "updated_str": "29/09/2026 01:22",
   "cutoff_hours": 48,
-  "total_news": 197,
+  "total_news": 201,
   "news": {
     "GENERAL": [
       {
@@ -12,6 +12,28 @@
         "source": "El Cronista",
         "time": "29/09 07:00",
         "iso_date": "2026-09-29T10:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta",
+        "summary": "La iniciativa apunta a evaluar alternativas para abaratar el traslado de insumos, sumar firmas locales a la cadena energética y definir proyectos mediante convenios específicos",
+        "link": "https://www.infobae.com/economia/2026/09/29/ypf-y-entre-rios-firmaron-un-acuerdo-para-mejorar-la-logistica-y-reducir-costos-hacia-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "28/09 21:20",
+        "iso_date": "2026-09-29T00:20:06+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Gobierno de De la Espriella pone las cuentas de Colombia bajo revisión del FMI",
+        "summary": "La administración solicitó al Fondo Monetario Internacional evaluar la economía y los planes macroeconómicos del país, en medio de la presión sobre las finanzas públicas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/gobierno-de-de-la-espriella-pone-las-cuentas-de-colombia-bajo-revision-del-fmi/",
+        "source": "Bloomberg Línea AR",
+        "time": "28/09 21:11",
+        "iso_date": "2026-09-29T00:11:48+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -292,29 +314,21 @@
         "iso_date": "2026-09-28T16:26:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Dólar en México supera los MXN$18: peso mexicano registra su mayor caída desde marzo",
-        "summary": "La moneda mexicana cotiza este lunes en MXN$17,87 en el mercado spot por cada billete verde.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-inicia-la-semana-con-la-mayor-caida-frente-al-dolar-desde-abril/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/09 12:50",
-        "iso_date": "2026-09-28T15:50:48+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La confianza en el Gobierno de Milei marca un nuevo piso y abre interrogantes sobre el respaldo a la gestión",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/fuerte-caida-de-la-confianza-en-el-gobierno-bajo-59-en-septiembre-y-alcanzo-el-valor-mas-bajo-en-la-era-milei/",
-        "source": "El Cronista",
-        "time": "28/09 12:17",
-        "iso_date": "2026-09-28T15:17:54+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta",
+        "summary": "La iniciativa apunta a evaluar alternativas para abaratar el traslado de insumos, sumar firmas locales a la cadena energética y definir proyectos mediante convenios específicos",
+        "link": "https://www.infobae.com/economia/2026/09/29/ypf-y-entre-rios-firmaron-un-acuerdo-para-mejorar-la-logistica-y-reducir-costos-hacia-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "28/09 21:20",
+        "iso_date": "2026-09-29T00:20:06+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Las 3 acciones de Vaca Muerta que recomienda Wall Street y pueden subir casi 50%",
         "summary": "Para JP Morgan y Citi, el desarrollo energético entró en etapa de mayor escala. El precio del petróleo y el momento de entrada pueden cambiar la elección",
