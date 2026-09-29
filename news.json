@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-09-29T16:27:02.067207",
-  "updated_str": "29/09/2026 16:27",
+  "updated_at": "2026-09-29T17:05:58.901541",
+  "updated_str": "29/09/2026 17:05",
   "cutoff_hours": 48,
-  "total_news": 230,
+  "total_news": 233,
   "news": {
     "GENERAL": [
+      {
+        "title": "Los datos que hay que conocer de Anthropic, fabricante de Claude, antes de su llegada a Wall Street",
+        "summary": "Anthropic acelera sus ingresos, pero también acumula fuertes pérdidas y compromisos de infraestructura mientras se prepara para dar el salto al mercado bursátil.",
+        "link": "https://www.bloomberglinea.com/tecnologia/los-datos-que-hay-que-conocer-de-anthropic-fabricante-de-claude-antes-de-su-llegada-a-wall-street/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/09 14:00",
+        "iso_date": "2026-09-29T17:00:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno defendió el nivel de actividad y dijo que los indicadores del Indec “están dando cualquier cosa”",
+        "summary": "El vocero presidencial, Adrian Ravier, explicó que el desarrolló del sector energético y minero implican un cambio para la histórica estacionalidad de la Argentina. Aunque reconoció un recorte en la proyección de crecimiento para 2026",
+        "link": "https://www.infobae.com/economia/2026/09/29/el-gobierno-defendio-el-nivel-de-actividad-y-dijo-que-los-indicadores-del-indec-estan-dando-cualquier-cosa/",
+        "source": "Infobae Economía",
+        "time": "29/09 13:45",
+        "iso_date": "2026-09-29T16:45:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país cae 3,8% tras doce ruedas de subas y toca los 604 puntos",
+        "summary": "El riesgo país corta una racha de doce ruedas en alza y baja a 604 puntos, mientras bonos y acciones argentinas recuperan terreno",
+        "link": "https://www.iprofesional.com/finanzas/465501-riesgo-pais-baja-38-y-pone-fin-a-doce-ruedas-consecutivas-de-subas",
+        "source": "iProfesional",
+        "time": "29/09 13:20",
+        "iso_date": "2026-09-29T16:20:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "“Argentina mejora, yo no”: informe advierte que el pesimismo supera al optimismo por primera vez desde que asumió Milei",
         "summary": "Un estudio de la consultora Moiguer identificó un “cambio de etapa en el humor social”. Desde el tercer trimestre, creció la noción de que la recuperación de la macro no implica necesariamente una mejora del bienestar individual.",
@@ -292,38 +324,6 @@
         "iso_date": "2026-09-29T04:50:45+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Dólar, reservas y bonos: por qué el mercado volvió a elevar la cautela y sube el riesgo país",
-        "summary": "La tensión internacional, el bajo ritmo de compra de divisas y la caída de activos locales profundizaron las dudas de los inversores sobre la capacidad de pago de la deuda",
-        "link": "https://www.infobae.com/economia/2026/09/29/dolar-reservas-y-bonos-por-que-el-mercado-volvio-a-elevar-la-cautela-y-sube-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "29/09 01:50",
-        "iso_date": "2026-09-29T04:50:22+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Polarizar con el riesgo K conspira contra el crecimiento económico",
-        "summary": "Aunque la baja de la inflación y el orden de las cuentas públicas detienen el deterioro estatal, la falta de inversión privada frena la reactivación sostenida en Argentina",
-        "link": "https://www.infobae.com/opinion/2026/09/29/polarizar-con-el-riesgo-k-conspira-contra-el-crecimiento-economico/",
-        "source": "Infobae Economía",
-        "time": "29/09 01:50",
-        "iso_date": "2026-09-29T04:50:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei y un salvavidas a Eurnekian: los ADRs se hundieron en Wall Street pero Corporación América subió un 9%",
-        "summary": "En una jornada negra para los activos argentinos, la compañía fundada por Eduardo Eurnekian fue la gran excepción: ganó cerca de u$s350 millones de valor bursátil luego de que el Gobierno extendiera la concesión de Aeropuertos Argentina. La decisión llega días después de que Á...",
-        "link": "https://www.ambito.com/economia/milei-y-un-salvavidas-eurnekian-los-adr-se-hundieron-wall-street-pero-corporacion-america-subio-un-9-n6327730",
-        "source": "Ámbito",
-        "time": "29/09 00:00",
-        "iso_date": "2026-09-29T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -435,6 +435,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país cae 3,8% tras doce ruedas de subas y toca los 604 puntos",
+        "summary": "El riesgo país corta una racha de doce ruedas en alza y baja a 604 puntos, mientras bonos y acciones argentinas recuperan terreno",
+        "link": "https://www.iprofesional.com/finanzas/465501-riesgo-pais-baja-38-y-pone-fin-a-doce-ruedas-consecutivas-de-subas",
+        "source": "iProfesional",
+        "time": "29/09 13:20",
+        "iso_date": "2026-09-29T16:20:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Qué ve el Citibank tras la suba del riesgo país: el “no te creo” del mercado y la metáfora de la venta de terrenos desde el pozo",
         "summary": "El economista Ricardo Dessy analizó incertidumbre financiera, actividad, elecciones, confianza inversora y las oportunidades que se presentan para la Argentina",
