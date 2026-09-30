@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T00:55:54.750465",
-  "updated_str": "30/09/2026 00:55",
+  "updated_at": "2026-09-30T04:00:13.562738",
+  "updated_str": "30/09/2026 04:00",
   "summary": {
-    "change": -0.94,
+    "change": NaN,
     "leader": "TXAR",
     "leader_change": 0.23,
-    "worst": "CEPU",
-    "worst_change": -2.54,
+    "worst": "YPFD",
+    "worst_change": -2.47,
     "hot_count": 0,
-    "cold_count": 6
+    "cold_count": 5
   },
   "stocks": [
     {
@@ -16,7 +16,7 @@
       "name": "YPF",
       "price": 8110.0,
       "change": -2.47,
-      "volume": 2246774,
+      "volume": 2246574,
       "volume_ratio": 1.0,
       "hot": false,
       "cold": true,
@@ -217,12 +217,12 @@
     {
       "ticker": "CEPU",
       "name": "Central Puerto",
-      "price": 1922.0,
-      "change": -2.54,
+      "price": NaN,
+      "change": NaN,
       "volume": 1880859,
       "volume_ratio": 2.17,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
         2025.08,
         2130.0,
@@ -233,14 +233,14 @@
         2038.0,
         2021.0,
         1972.0,
-        1922.0
+        NaN
       ],
-      "trend_dir": "down",
-      "trend_streak": 4,
-      "ma5": 1995.6,
-      "ma20": 2053.78,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 24,
+      "score": 87,
       "signal": "fuerte_baja"
     }
   ]
