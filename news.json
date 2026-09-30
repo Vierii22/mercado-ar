@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-09-30T19:31:46.733744",
-  "updated_str": "30/09/2026 19:31",
+  "updated_at": "2026-09-30T19:44:00.664682",
+  "updated_str": "30/09/2026 19:44",
   "cutoff_hours": 48,
-  "total_news": 276,
+  "total_news": 251,
   "news": {
     "GENERAL": [
       {
-        "title": "Bullrich vs. Karina Milei: la pelea por la sucesión en la comisión de Acuerdos",
+        "title": "Crece el interés de Alemania en sectores clave de Argentina, pero preocupa el riesgo país y las elecciones",
+        "summary": "La embajada de Alemania, al igual que ejecutivos y expertos del país europeo, destacaron la oportunidad que se abre para las relaciones comerciales tras el acuerdo entre el Mercosur y la Unión Europea. Sin embargo, la incertidumbre respecto a las elecciones de 2027 es un gran ...",
+        "link": "https://www.ambito.com/economia/crece-el-interes-alemania-sectores-clave-argentina-pero-preocupa-el-riesgo-pais-y-las-elecciones-n6328451",
+        "source": "Ámbito",
+        "time": "30/09 16:38",
+        "iso_date": "2026-09-30T19:38:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Bullrich vs. Karina Milei: la pelea por la sucesión en una comisión estratégica que define el futuro de los jueces",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/bullrich-vs-karina-milei-la-pelea-por-los-pliegos-judiciales-tras-la-muerte-de-pagotto/",
         "source": "El Cronista",
         "time": "30/09 16:29",
         "iso_date": "2026-09-30T19:29:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Empeoran las perspectivas de crecimiento para 2026: ya prevén menos de la mitad de lo que dice el Presupuesto",
+        "summary": "A partir del derrumbe de julio, y la escueta recuperación que parece haber mostrado agosto, las consultoras volvieron a bajar sus proyecciones de PBI a menos del 2% para 2026 y 2027, alejándose de las metas del Gobierno y del FMI.",
+        "link": "https://www.ambito.com/economia/empeoran-las-perspectivas-crecimiento-2026-ya-preven-menos-la-mitad-lo-que-dice-el-presupuesto-n6328496",
+        "source": "Ámbito",
+        "time": "30/09 16:28",
+        "iso_date": "2026-09-30T19:28:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -224,18 +246,6 @@
         "is_general": true
       },
       {
-        "title": "Terror en el aire: las fotos y videos del ataque al piloto del avión",
-        "summary": "Personal de investigación analiza si el violento enfrentamiento en cabina puso en riesgo la vida de los pasajeros y la seguridad aérea",
-        "link": "https://www.iprofesional.com/actualidad/465570-pilotos-pelea-feroz-vuelo-comercial-puso-riesgo-vida-pasajeros",
-        "source": "iProfesional",
-        "time": "30/09 10:26",
-        "iso_date": "2026-09-30T13:26:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Caputo anunció que Japón volverá a comprar carne argentina después de 20 años: cómo es la relación comercial",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/buena-noticia-para-caputo-japon-volvera-a-comprar-carne-argentina-despues-de-20-anos/",
@@ -302,16 +312,6 @@
         "source": "Infobae Economía",
         "time": "30/09 07:39",
         "iso_date": "2026-09-30T10:39:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caputo interviene en el mercado y da pistas del precio máximo que permitirá para el dólar",
-        "summary": "La estrategia oficial intensifica la presión en los contratos financieros mientras operadores y analistas revisan expectativas de devaluación",
-        "link": "https://www.iprofesional.com/finanzas/465546-cual-es-el-precio-maximo-que-caputo-permitira-para-el-dolar",
-        "source": "iProfesional",
-        "time": "30/09 07:00",
-        "iso_date": "2026-09-30T10:00:00+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -411,18 +411,6 @@
     "ALUA": [],
     "TECO2": [
       {
-        "title": "Terror en el aire: las fotos y videos del ataque al piloto del avión",
-        "summary": "Personal de investigación analiza si el violento enfrentamiento en cabina puso en riesgo la vida de los pasajeros y la seguridad aérea",
-        "link": "https://www.iprofesional.com/actualidad/465570-pilotos-pelea-feroz-vuelo-comercial-puso-riesgo-vida-pasajeros",
-        "source": "iProfesional",
-        "time": "30/09 10:26",
-        "iso_date": "2026-09-30T13:26:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Tesla desembarca en Argentina y busca empleados: qué puestos y cómo postularse",
         "summary": "La marca de Elon Musk amplió sus búsquedas de personal y ya hay indicios concretos sobre las ubicaciones donde operará en el país",
         "link": "https://www.iprofesional.com/autos/465541-tesla-desembarca-en-argentina-y-busca-empleados-como-postularse",
@@ -433,34 +421,34 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "Empleadas domésticas: cuánto cobrarán en octubre con el nuevo aumento",
-        "summary": "El personal de casas particulares tendrá una suba del 1,7% en octubre y se incorporará al básico parte de la suma no remunerativa otorgada en agosto.",
-        "link": "https://www.ambito.com/economia/empleadas-domesticas-cuanto-cobraran-octubre-el-nuevo-aumento-n6327811",
-        "source": "Ámbito",
-        "time": "29/09 08:54",
-        "iso_date": "2026-09-29T11:54:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Empleadas domésticas: cuánto cobrarán en octubre con el nuevo aumento",
-        "summary": "El personal de casas particulares tendrá una suba del 1,7% en octubre y se incorporará al básico parte de la suma no remunerativa otorgada en agosto.",
-        "link": "https://www.ambito.com/economia/empleadas-domesticas-cuanto-cobraran-octubre-el-nuevo-aumento-n6327811",
-        "source": "Ámbito Mercados",
-        "time": "29/09 08:54",
-        "iso_date": "2026-09-29T11:54:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Crece el interés de Alemania en sectores clave de Argentina, pero preocupa el riesgo país y las elecciones",
+        "summary": "La embajada de Alemania, al igual que ejecutivos y expertos del país europeo, destacaron la oportunidad que se abre para las relaciones comerciales tras el acuerdo entre el Mercosur y la Unión Europea. Sin embargo, la incertidumbre respecto a las elecciones de 2027 es un gran ...",
+        "link": "https://www.ambito.com/economia/crece-el-interes-alemania-sectores-clave-argentina-pero-preocupa-el-riesgo-pais-y-las-elecciones-n6328451",
+        "source": "Ámbito",
+        "time": "30/09 16:38",
+        "iso_date": "2026-09-30T19:38:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Crece el interés de Alemania en sectores clave de Argentina, pero preocupa el riesgo país y las elecciones",
+        "summary": "La embajada de Alemania, al igual que ejecutivos y expertos del país europeo, destacaron la oportunidad que se abre para las relaciones comerciales tras el acuerdo entre el Mercosur y la Unión Europea. Sin embargo, la incertidumbre respecto a las elecciones de 2027 es un gran ...",
+        "link": "https://www.ambito.com/economia/crece-el-interes-alemania-sectores-clave-argentina-pero-preocupa-el-riesgo-pais-y-las-elecciones-n6328451",
+        "source": "Ámbito Mercados",
+        "time": "30/09 16:38",
+        "iso_date": "2026-09-30T19:38:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: las acciones y los bonos argentinos se estabilizan, pero completan un mes de septiembre con amplias pérdidas",
         "summary": "El S&P Merval sube un marginal0,1%, tras ocho sesiones seguidas en baja. Los bonos ganan un 0,5% en promedio, con un riesgo país en los 609 puntos básicos",
@@ -564,30 +552,6 @@
         "source": "Infobae Economía",
         "time": "29/09 12:35",
         "iso_date": "2026-09-29T15:35:54+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Miguel Kiguel advirtió sobre el futuro del dólar: cómo impactan la intervención oficial y la continuidad del cepo",
-        "summary": "El economista advirtió que la paz cambiaria se sostiene con \"intervención implícita\" y cepo. Reclamó un dólar más alto para acelerar la compra de reservas, hoy en u$s9.500 millones, y alertó que la suba del riesgo país responde al ruido político rumbo a 2027.",
-        "link": "https://www.ambito.com/economia/miguel-kiguel-advirtio-el-futuro-del-dolar-como-impactan-la-intervencion-oficial-y-la-continuidad-del-cepo-n6327849",
-        "source": "Ámbito",
-        "time": "29/09 10:18",
-        "iso_date": "2026-09-29T13:18:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Miguel Kiguel advirtió sobre el futuro del dólar: cómo impactan la intervención oficial y la continuidad del cepo",
-        "summary": "El economista advirtió que la paz cambiaria se sostiene con \"intervención implícita\" y cepo. Reclamó un dólar más alto para acelerar la compra de reservas, hoy en u$s9.500 millones, y alertó que la suba del riesgo país responde al ruido político rumbo a 2027.",
-        "link": "https://www.ambito.com/economia/miguel-kiguel-advirtio-el-futuro-del-dolar-como-impactan-la-intervencion-oficial-y-la-continuidad-del-cepo-n6327849",
-        "source": "Ámbito Mercados",
-        "time": "29/09 10:18",
-        "iso_date": "2026-09-29T13:18:00+00:00",
         "tickers": [
           "AL30"
         ],
