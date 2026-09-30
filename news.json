@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-30T20:22:09.859040",
-  "updated_str": "30/09/2026 20:22",
+  "updated_at": "2026-09-30T20:56:59.956621",
+  "updated_str": "30/09/2026 20:56",
   "cutoff_hours": 48,
-  "total_news": 292,
+  "total_news": 291,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,40 @@
         "summary": "La autoridad monetaria adquirió USD 160 millones este miércoles, el monto más alto desde finales de julio. Las reservas internacionales perforaron los USD 47.000 millones",
         "link": "https://www.infobae.com/economia/2026/09/30/el-banco-central-realizo-la-mayor-compra-de-dolares-en-dos-meses-pero-cerro-septiembre-con-el-menor-volumen-de-2026/",
         "source": "Infobae Economía",
-        "time": "30/09 17:17",
-        "iso_date": "2026-09-30T20:17:16+00:00",
+        "time": "30/09 17:54",
+        "iso_date": "2026-09-30T20:54:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Lanzan OUSD, el dólar digital de Visa, Mastercard y Mercado Pago",
+        "summary": "El consorcio OpenUSD anunció que ya está disponible el token en 4 blockchains para que las empresas creen soluciones para pagos internacionales",
+        "link": "https://www.iprofesional.com/finanzas/465614-lanzan-ousd-el-dolar-digital-de-visa-mastercard-y-mercado-pago",
+        "source": "iProfesional",
+        "time": "30/09 17:44",
+        "iso_date": "2026-09-30T20:44:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: las acciones y los bonos argentinos subieron, pero completaron un mes de septiembre con amplias pérdidas",
+        "summary": "El S&P Merval ganó 1,3%, tras ocho sesiones seguidas en baja. Los bonos avanzaron un 0,5% en promedio, con un riesgo país en los 607 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/09/30/mercados-las-acciones-y-los-bonos-argentinos-se-estabilizan-pero-completan-un-mes-de-septiembre-con-amplias-perdidas/",
+        "source": "Infobae Economía",
+        "time": "30/09 17:24",
+        "iso_date": "2026-09-30T20:24:18+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Más competencia, reglas claras y ahorro: el argentino que lideró la Bolsa de Hong Kong marcó las claves para el futuro del país",
+        "summary": "Nicolás Aguzín, economista y ex ejecutivo de JPMorgan, analizó las claves de la competitividad china y planteó la necesidad de canalizar los dólares fuera del sistema financiero hacia proyectos productivos",
+        "link": "https://www.infobae.com/economia/2026/09/30/mas-competencia-reglas-claras-y-ahorro-el-argentino-que-lidero-la-bolsa-de-hong-kong-marco-las-claves-para-el-futuro-del-pais/",
+        "source": "Infobae Economía",
+        "time": "30/09 17:22",
+        "iso_date": "2026-09-30T20:22:14+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -42,16 +74,6 @@
         "source": "Infobae Economía",
         "time": "30/09 16:49",
         "iso_date": "2026-09-30T19:49:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Más competencia, reglas claras y ahorro: el argentino que lideró la Bolsa de Hong Kong marcó las claves para el futuro del país",
-        "summary": "Nicolás Aguzín, economista y ex ejecutivo de JPMorgan, analizó las claves de la competitividad china y planteó la necesidad de canalizar los dólares fuera del sistema financiero hacia proyectos productivos",
-        "link": "https://www.infobae.com/economia/2026/09/30/mas-competencia-reglas-claras-y-ahorro-el-argentino-que-lidero-la-bolsa-de-hong-kong-marco-las-claves-para-el-futuro-del-pais/",
-        "source": "Infobae Economía",
-        "time": "30/09 16:44",
-        "iso_date": "2026-09-30T19:44:40+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -262,15 +284,13 @@
         "is_general": true
       },
       {
-        "title": "Mercados: las acciones y los bonos argentinos se estabilizan, pero completan un mes de septiembre con amplias pérdidas",
-        "summary": "El S&P Merval sube un marginal0,1%, tras ocho sesiones seguidas en baja. Los bonos ganan un 0,5% en promedio, con un riesgo país en los 609 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/09/30/mercados-las-acciones-y-los-bonos-argentinos-se-estabilizan-pero-completan-un-mes-de-septiembre-con-amplias-perdidas/",
-        "source": "Infobae Economía",
-        "time": "30/09 12:53",
-        "iso_date": "2026-09-30T15:53:38+00:00",
-        "tickers": [
-          "AL30"
-        ],
+        "title": "Nueva encuesta: 52% cree que Milei no merece reelegir y se escapan votantes de Bullrich",
+        "summary": "El último sondeo de Equipo Mide mostró que el libertario se beneficia de la división opositora pero no le alcanza. La economía y los desencantados",
+        "link": "https://www.iprofesional.com/politica/465569-nueva-encuesta-alerta-a-milei-sobre-reeleccion-y-votos-de-bullrich",
+        "source": "iProfesional",
+        "time": "30/09 11:30",
+        "iso_date": "2026-09-30T14:30:00+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -286,32 +306,12 @@
         "is_general": true
       },
       {
-        "title": "Nueva encuesta: 52% cree que Milei no merece reelegir y se escapan votantes de Bullrich",
-        "summary": "El último sondeo de Equipo Mide mostró que el libertario se beneficia de la división opositora pero no le alcanza. La economía y los desencantados",
-        "link": "https://www.iprofesional.com/politica/465569-nueva-encuesta-alerta-a-milei-sobre-reeleccion-y-votos-de-bullrich",
-        "source": "iProfesional",
-        "time": "30/09 11:30",
-        "iso_date": "2026-09-30T14:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Caputo anunció que Japón volverá a comprar carne argentina después de 20 años: cómo es la relación comercial",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/buena-noticia-para-caputo-japon-volvera-a-comprar-carne-argentina-despues-de-20-anos/",
         "source": "El Cronista",
         "time": "30/09 09:55",
         "iso_date": "2026-09-30T12:55:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Combustibles: el Gobierno volvió a postergar la suba de impuestos para contener la inflación",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/combustibles-el-gobierno-volvio-a-postergar-la-suba-de-impuestos-para-contener-la-inflacion/",
-        "source": "El Cronista",
-        "time": "30/09 09:08",
-        "iso_date": "2026-09-30T12:08:54+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -450,6 +450,18 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Mercados: las acciones y los bonos argentinos subieron, pero completaron un mes de septiembre con amplias pérdidas",
+        "summary": "El S&P Merval ganó 1,3%, tras ocho sesiones seguidas en baja. Los bonos avanzaron un 0,5% en promedio, con un riesgo país en los 607 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/09/30/mercados-las-acciones-y-los-bonos-argentinos-se-estabilizan-pero-completan-un-mes-de-septiembre-con-amplias-perdidas/",
+        "source": "Infobae Economía",
+        "time": "30/09 17:24",
+        "iso_date": "2026-09-30T20:24:18+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Crece el interés de Alemania en sectores clave de Argentina, pero preocupa el riesgo país y las elecciones",
         "summary": "La embajada de Alemania, al igual que ejecutivos y expertos del país europeo, destacaron la oportunidad que se abre para las relaciones comerciales tras el acuerdo entre el Mercosur y la Unión Europea. Sin embargo, la incertidumbre respecto a las elecciones de 2027 es un gran ...",
         "link": "https://www.ambito.com/economia/crece-el-interes-alemania-sectores-clave-argentina-pero-preocupa-el-riesgo-pais-y-las-elecciones-n6328451",
@@ -468,18 +480,6 @@
         "source": "Ámbito Mercados",
         "time": "30/09 16:38",
         "iso_date": "2026-09-30T19:38:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: las acciones y los bonos argentinos se estabilizan, pero completan un mes de septiembre con amplias pérdidas",
-        "summary": "El S&P Merval sube un marginal0,1%, tras ocho sesiones seguidas en baja. Los bonos ganan un 0,5% en promedio, con un riesgo país en los 609 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/09/30/mercados-las-acciones-y-los-bonos-argentinos-se-estabilizan-pero-completan-un-mes-de-septiembre-con-amplias-perdidas/",
-        "source": "Infobae Economía",
-        "time": "30/09 12:53",
-        "iso_date": "2026-09-30T15:53:38+00:00",
         "tickers": [
           "AL30"
         ],

@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-30T20:21:59.252330",
-  "updated_str": "30/09/2026 20:21",
+  "updated_at": "2026-09-30T20:56:49.962786",
+  "updated_str": "30/09/2026 20:56",
   "summary": {
-    "change": 1.61,
+    "change": 1.62,
     "leader": "TXAR",
-    "leader_change": 3.24,
+    "leader_change": 3.32,
     "worst": "YPFD",
     "worst_change": -0.18,
     "hot_count": 2,
@@ -74,7 +74,7 @@
       "name": "Pampa Energía",
       "price": 5030.0,
       "change": 1.62,
-      "volume": 934935,
+      "volume": 936632,
       "volume_ratio": 0.97,
       "hot": false,
       "cold": false,
@@ -130,8 +130,8 @@
     {
       "ticker": "TXAR",
       "name": "Ternium AR",
-      "price": 669.0,
-      "change": 3.24,
+      "price": 669.5,
+      "change": 3.32,
       "volume": 1013427,
       "volume_ratio": 1.0,
       "hot": true,
@@ -146,12 +146,12 @@
         657.0,
         646.5,
         648.0,
-        669.0
+        669.5
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 655.2,
-      "ma20": 670.12,
+      "ma5": 655.3,
+      "ma20": 670.15,
       "ma_cross": -1,
       "score": 68,
       "signal": "suba"
