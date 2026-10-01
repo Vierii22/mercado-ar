@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T21:13:36.749018",
-  "updated_str": "01/10/2026 21:13",
+  "updated_at": "2026-10-01T21:41:22.597606",
+  "updated_str": "01/10/2026 21:41",
   "cutoff_hours": 48,
   "total_news": 306,
   "news": {
@@ -10,9 +10,43 @@
         "summary": "El ingreso de pagos postergados de meses anteriores de Ganancias e IVA, sumado a la mayor liquidación agroexportadora, determinaron un incremento de los ingresos administrados por ARCA del 33,5% interanual",
         "link": "https://www.infobae.com/economia/2026/10/01/la-recaudacion-tributaria-crecio-por-encima-de-la-inflacion-en-septiembre/",
         "source": "Infobae Economía",
-        "time": "01/10 18:05",
-        "iso_date": "2026-10-01T21:05:22+00:00",
+        "time": "01/10 18:32",
+        "iso_date": "2026-10-01T21:32:51+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las proyecciones de los empresarios para dólar, inflación y riesgo país en 2027",
+        "summary": "El próximo año electoral ya aparece en las previsiones de ejecutivos y bancos, mientras la estabilización entra en una etapa más lenta",
+        "link": "https://www.iprofesional.com/negocios/465711-que-proyectan-los-empresarios-para-dolar-inflacion-y-riesgo-pais-en-2027",
+        "source": "iProfesional",
+        "time": "01/10 18:30",
+        "iso_date": "2026-10-01T21:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Bullrich en IDEA: “No podemos tener la industria, la construcción y el comercio caídos”",
+        "summary": "Luego de que el presidente Javier Milei pidiera paciencia, Bullrich remarcó que las mejoras económicas deben “sumar una mayor velocidad” para que lleguen a todas las familias.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/bullrich-en-idea-no-podemos-tener-la-industria-la-construccion-y-el-comercio-caidos/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/10 18:13",
+        "iso_date": "2026-10-01T21:13:28+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street y el riesgo país saltó a un máximo en diez meses",
+        "summary": "La suba de tasas de los bonos de EEUU afectó a los títulos emergentes. El S&P Merval perdió 2,2% y los bonos cayeron 1,1% en promedio. El dólar subió a $1.545 en el Banco Nación y el BCRA compró USD 93 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/01/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-y-el-riesgo-pais-salto-a-un-maximo-en-diez-meses/",
+        "source": "Infobae Economía",
+        "time": "01/10 18:11",
+        "iso_date": "2026-10-01T21:11:19+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -284,38 +318,6 @@
         "iso_date": "2026-10-01T17:11:53+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Burford presentó un recurso ante la Corte Suprema de EEUU en un último intento por revertir el fallo de YPF",
-        "summary": "El fondo solicitó al máximo tribunal estadounidense que analice la decisión de segunda instancia que dejó sin efecto una condena contra la Argentina por USD 16.000 millones",
-        "link": "https://www.infobae.com/economia/2026/10/01/burford-presento-un-recurso-ante-la-corte-suprema-de-eeuu-en-un-ultimo-intento-por-revertir-el-fallo-de-ypf/",
-        "source": "Infobae Economía",
-        "time": "01/10 14:05",
-        "iso_date": "2026-10-01T17:05:26+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El FMI analiza la economía argentina ante la caída de la actividad y la inversión",
-        "summary": "El FMI prepara la tercera revisión del programa con Argentina y analizará cómo la menor actividad impacta en la recaudación y en el crecimiento.",
-        "link": "https://www.iprofesional.com/economia/465692-fmi-evalua-la-economia-argentina-en-la-tercera-revision",
-        "source": "iProfesional",
-        "time": "01/10 14:05",
-        "iso_date": "2026-10-01T17:05:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Goldman duda de otra subida de tasas en Colombia tras la sorpresa del Banco de la República",
-        "summary": "La firma ve espacio para que el Banco de la República mantenga las tasas tras llevarlas a 12,25%. El Niño, la inflación y el próximo paquete fiscal serán claves para la siguiente decisión.",
-        "link": "https://www.bloomberglinea.com/mercados/goldman-duda-de-otra-subida-de-tasas-en-colombia-tras-la-sorpresa-del-banco-de-la-republica/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/10 13:59",
-        "iso_date": "2026-10-01T16:59:55+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -437,8 +439,8 @@
         "time": "01/10 08:30",
         "iso_date": "2026-10-01T11:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30"
+          "AL30",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -450,8 +452,8 @@
         "time": "01/10 08:30",
         "iso_date": "2026-10-01T11:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30"
+          "AL30",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -484,22 +486,34 @@
           "TECO2"
         ],
         "is_general": true
-      },
-      {
-        "title": "Tesla desembarca en Argentina y busca empleados: qué puestos y cómo postularse",
-        "summary": "La marca de Elon Musk amplió sus búsquedas de personal y ya hay indicios concretos sobre las ubicaciones donde operará en el país",
-        "link": "https://www.iprofesional.com/autos/465541-tesla-desembarca-en-argentina-y-busca-empleados-como-postularse",
-        "source": "iProfesional",
-        "time": "29/09 20:46",
-        "iso_date": "2026-09-29T23:46:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Las proyecciones de los empresarios para dólar, inflación y riesgo país en 2027",
+        "summary": "El próximo año electoral ya aparece en las previsiones de ejecutivos y bancos, mientras la estabilización entra en una etapa más lenta",
+        "link": "https://www.iprofesional.com/negocios/465711-que-proyectan-los-empresarios-para-dolar-inflacion-y-riesgo-pais-en-2027",
+        "source": "iProfesional",
+        "time": "01/10 18:30",
+        "iso_date": "2026-10-01T21:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street y el riesgo país saltó a un máximo en diez meses",
+        "summary": "La suba de tasas de los bonos de EEUU afectó a los títulos emergentes. El S&P Merval perdió 2,2% y los bonos cayeron 1,1% en promedio. El dólar subió a $1.545 en el Banco Nación y el BCRA compró USD 93 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/01/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-y-el-riesgo-pais-salto-a-un-maximo-en-diez-meses/",
+        "source": "Infobae Economía",
+        "time": "01/10 18:11",
+        "iso_date": "2026-10-01T21:11:19+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja",
         "summary": "La suba de tasas de la deuda de EEUU impactó en los activos emergentes. El S&P Merval porteño cayó 2,2% y los ADR restaron hasta 5%. El riesgo país argentino subió a 636 puntos",
@@ -568,8 +582,8 @@
         "time": "01/10 08:30",
         "iso_date": "2026-10-01T11:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30"
+          "AL30",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -581,8 +595,8 @@
         "time": "01/10 08:30",
         "iso_date": "2026-10-01T11:30:00+00:00",
         "tickers": [
-          "GGAL",
-          "AL30"
+          "AL30",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -653,18 +667,6 @@
         "source": "El Economista",
         "time": "29/09 20:35",
         "iso_date": "2026-09-29T23:35:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el riesgo país bajó y se acercó a los 600 puntos, pero la Bolsa porteña cayó por octava rueda seguida",
-        "summary": "Los bonos argentinos ganaron 0,7% en promedio y el indicador de JP Morgan cayó a 607 puntos básicos. El S&P Merval perdió 0,6%. El dólar siguió a $1.545 en el Banco Nación. El BCRA compró USD 70 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/29/jornada-financiera-el-riesgo-pais-bajo-y-se-acerco-a-los-600-puntos-pero-la-bolsa-portena-cayo-por-octava-rueda-seguida/",
-        "source": "Infobae Economía",
-        "time": "29/09 18:24",
-        "iso_date": "2026-09-29T21:24:15+00:00",
         "tickers": [
           "AL30"
         ],
