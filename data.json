@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T00:56:54.644964",
-  "updated_str": "01/10/2026 00:56",
+  "updated_at": "2026-10-01T04:11:14.284995",
+  "updated_str": "01/10/2026 04:11",
   "summary": {
-    "change": 1.62,
-    "leader": "TXAR",
-    "leader_change": 3.32,
+    "change": NaN,
+    "leader": "YPFD",
+    "leader_change": NaN,
     "worst": "YPFD",
-    "worst_change": -0.18,
-    "hot_count": 2,
-    "cold_count": 1
+    "worst_change": NaN,
+    "hot_count": 1,
+    "cold_count": 0
   },
   "stocks": [
     {
       "ticker": "YPFD",
       "name": "YPF",
-      "price": 8095.0,
-      "change": -0.18,
+      "price": NaN,
+      "change": NaN,
       "volume": 1875740,
       "volume_ratio": 0.83,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
         8690.0,
         8760.0,
@@ -30,15 +30,15 @@
         8440.0,
         8315.0,
         8110.0,
-        8095.0
+        NaN
       ],
       "trend_dir": "down",
-      "trend_streak": 5,
-      "ma5": 8319.0,
-      "ma20": 8587.0,
+      "trend_streak": 4,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 34,
-      "signal": "baja"
+      "score": 70,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "GGAL",
@@ -72,8 +72,8 @@
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": 5030.0,
-      "change": 1.62,
+      "price": NaN,
+      "change": NaN,
       "volume": 936632,
       "volume_ratio": 0.97,
       "hot": false,
@@ -88,15 +88,15 @@
         5060.0,
         4970.0,
         4950.0,
-        5030.0
+        NaN
       ],
       "trend_dir": "down",
       "trend_streak": 4,
-      "ma5": 5019.0,
-      "ma20": 5295.25,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 46,
-      "signal": "neutral"
+      "score": 70,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "BMA",
@@ -159,11 +159,11 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": 825.0,
-      "change": 2.8,
+      "price": NaN,
+      "change": NaN,
       "volume": 240899,
       "volume_ratio": 0.68,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         861.0,
@@ -175,15 +175,15 @@
         844.0,
         813.0,
         802.5,
-        825.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 825.2,
-      "ma20": 851.5,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 65,
-      "signal": "suba"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "TECO2",
