@@ -1,10 +1,82 @@
 {
-  "updated_at": "2026-10-01T16:58:26.567589",
-  "updated_str": "01/10/2026 16:58",
+  "updated_at": "2026-10-01T17:34:31.816269",
+  "updated_str": "01/10/2026 17:34",
   "cutoff_hours": 48,
-  "total_news": 295,
+  "total_news": 362,
   "news": {
     "GENERAL": [
+      {
+        "title": "Plazo fijo: cuánto rinden $ 1.000.000 a 30 días y cuánto se gana de interés",
+        "summary": "Las tasas varían según el banco y el canal elegido, con diferencias de varios miles de pesos sobre el mismo capital colocado a un mes.",
+        "link": "https://www.cronista.com/economia-politica/plazo-fijo-cuanto-rinden-1000000-a-30-dias-y-cuanto-se-gana-de-interes/",
+        "source": "El Cronista",
+        "time": "01/10 14:33",
+        "iso_date": "2026-10-01T17:33:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Aumentó el colectivo: cuáles son los tres precios diferentes que quedaron en la Ciudad y provincia de Buenos Aires",
+        "summary": "Desde hoy el pasaje mínimo en la capital cuesta $920 y en el distrito bonaerense más de $1.300. La Secretaría de Transporte de Nación hace más de dos meses no ajusta el valor para ayudar a la desaceleración de la inflación",
+        "link": "https://www.infobae.com/economia/2026/10/01/aumento-el-colectivo-cuales-son-los-tres-precios-diferentes-que-quedaron-en-la-ciudad-y-provincia-de-buenos-aires/",
+        "source": "Infobae Economía",
+        "time": "01/10 14:26",
+        "iso_date": "2026-10-01T17:26:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei en Francia: el Presidente llegó al Palacio Elíseo y comenzó su encuentro con Emmanuel Macron",
+        "summary": "El mandatario está en Francia donde encabeza el Argentina Week, el evento de inversiones que hoy tuvo su primera jornada en la sede de la OCDE",
+        "link": "https://www.infobae.com/economia/2026/10/01/milei-en-francia-el-presidente-llego-al-palacio-eliseo-y-comenzo-su-encuentro-con-emmanuel-macro/",
+        "source": "Infobae Economía",
+        "time": "01/10 14:25",
+        "iso_date": "2026-10-01T17:25:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Petróleo y litio: PAE y Eramet buscan entrar al RIGI con proyectos por US$1.550 millones en Argentina",
+        "summary": "Desde París, donde está el presidente Javier Milei, PAE anunció una inversión de US$1.200 millones vinculada a Cerro Dragón mientras Eramet proyecta otros US$350 millones para ampliar su producción de litio en Salta.",
+        "link": "https://www.bloomberglinea.com/economia/petroleo-y-litio-pae-y-eramet-buscan-entrar-al-rigi-con-proyectos-por-us1550-millones-en-argentina/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/10 14:11",
+        "iso_date": "2026-10-01T17:11:53+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Burford presentó un recurso ante la Corte Suprema de EEUU en un último intento por revertir el fallo de YPF",
+        "summary": "El fondo solicitó al máximo tribunal estadounidense que analice la decisión de segunda instancia que dejó sin efecto una condena contra la Argentina por USD 16.000 millones",
+        "link": "https://www.infobae.com/economia/2026/10/01/burford-presento-un-recurso-ante-la-corte-suprema-de-eeuu-en-un-ultimo-intento-por-revertir-el-fallo-de-ypf/",
+        "source": "Infobae Economía",
+        "time": "01/10 14:05",
+        "iso_date": "2026-10-01T17:05:26+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El FMI analiza la economía argentina ante la caída de la actividad y la inversión",
+        "summary": "El FMI prepara la tercera revisión del programa con Argentina y analizará cómo la menor actividad impacta en la recaudación y en el crecimiento.",
+        "link": "https://www.iprofesional.com/economia/465692-fmi-evalua-la-economia-argentina-en-la-tercera-revision",
+        "source": "iProfesional",
+        "time": "01/10 14:05",
+        "iso_date": "2026-10-01T17:05:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Goldman duda de otra subida de tasas en Colombia tras la sorpresa del Banco de la República",
+        "summary": "La firma ve espacio para que el Banco de la República mantenga las tasas tras llevarlas a 12,25%. El Niño, la inflación y el próximo paquete fiscal serán claves para la siguiente decisión.",
+        "link": "https://www.bloomberglinea.com/mercados/goldman-duda-de-otra-subida-de-tasas-en-colombia-tras-la-sorpresa-del-banco-de-la-republica/",
+        "source": "Bloomberg Línea AR",
+        "time": "01/10 13:59",
+        "iso_date": "2026-10-01T16:59:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Atención monotributistas: todas las opciones que ofrece ARCA para saldar deudas con la entidad",
         "summary": "",
@@ -244,83 +316,21 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Marín confirmó la fecha del megaproyecto Argentina LNG de YPF: el impacto de “la mayor inversión de la historia del país”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/marin-confirmo-que-el-megaproyecto-argentina-lng-de-ypf-se-firmara-en-noviembre-el-impacto-de-la-mayor-inversion-de-la-historia-del-pais/",
-        "source": "El Cronista",
-        "time": "01/10 10:15",
-        "iso_date": "2026-10-01T13:15:49+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este martes 29 de septiembre",
-        "summary": "El billete al público cerró negociado sin variantes a $1.545 en el Banco Nación. El blue cedió a $1.560. El BCRA compró USD 70 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/09/28/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-28-de-septiembre/",
-        "source": "Infobae Economía",
-        "time": "01/10 10:04",
-        "iso_date": "2026-10-01T13:04:57+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cuánto puede costar el dólar en octubre sin que el Gobierno tenga que intervenir según la nueva banda cambiaria",
-        "summary": "La inflación de agosto, de 1,66%, define el nuevo límite superior de la banda cambiaria. Con la cotización actual, el dólar debería subir más de $433 para llegar al límite",
-        "link": "https://www.infobae.com/economia/2026/10/01/cuanto-puede-costar-el-dolar-en-octubre-sin-que-el-gobierno-tenga-que-intervenir-segun-la-nueva-banda-cambiaria/",
-        "source": "Infobae Economía",
-        "time": "01/10 09:55",
-        "iso_date": "2026-10-01T12:55:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las tres preguntas que recibió Caputo de un inversor y su respuesta en el Argentina Week",
-        "summary": "El ministro reveló en la sede de la OCDE en París la consulta clave que recibió en Nueva York la semana pasada. Además, el discurso de Milei: qué dijo de la política industrial, ganar en primera vuelta, y la frase “rico como un argentino”.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/las-tres-preguntas-que-recibio-caputo-de-un-inversor-y-su-respuesta-en-el-argentina-week/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/10 09:53",
-        "iso_date": "2026-10-01T12:53:34+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Del contracoloquio al escenario central: la particular relación de Milei con IDEA",
-        "summary": "Desde que entró en política, alternó acercamientos y desplantes con la pcita empresaria del país, vínculo que volvió a cambiar desde que es Presidente",
-        "link": "https://www.iprofesional.com/negocios/465662-presencias-desplantes-y-ausencias-la-particular-historia-de-milei-con-idea",
-        "source": "iProfesional",
-        "time": "01/10 09:49",
-        "iso_date": "2026-10-01T12:49:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cómo es el proyecto de u$s 51.000 millones que desarrollará YPF junto a Eni y XRG y cuándo arrancan las obras",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/ypf-pone-fecha-a-la-mayor-inversion-de-la-historia-26-de-noviembre/",
-        "source": "El Cronista",
-        "time": "01/10 09:17",
-        "iso_date": "2026-10-01T12:17:56+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Milei dijo en París que cuenta con “una bazuca” de USD 75.000 millones para enfrentar “intentos desestabilizadores y golpistas”",
-        "summary": "En la Argentina Week que se realiza en Francia, el jefe de Estado expuso ante inversores, banqueros y 13 gobernadores aliados a los que les agradeció por acompañarlo. Anticipó que habrá un \"milagro económico\" si es reelecto y dijo que \"el kirchnerismo no volverá a ganar una el...",
-        "link": "https://www.infobae.com/politica/2026/10/01/javier-milei-reitero-en-la-argentina-week-paris-si-reelegimos-2028-sera-el-mejor-ano-economico-de-la-historia/",
-        "source": "Infobae Economía",
-        "time": "01/10 09:04",
-        "iso_date": "2026-10-01T12:04:12+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Burford presentó un recurso ante la Corte Suprema de EEUU en un último intento por revertir el fallo de YPF",
+        "summary": "El fondo solicitó al máximo tribunal estadounidense que analice la decisión de segunda instancia que dejó sin efecto una condena contra la Argentina por USD 16.000 millones",
+        "link": "https://www.infobae.com/economia/2026/10/01/burford-presento-un-recurso-ante-la-corte-suprema-de-eeuu-en-un-ultimo-intento-por-revertir-el-fallo-de-ypf/",
+        "source": "Infobae Economía",
+        "time": "01/10 14:05",
+        "iso_date": "2026-10-01T17:05:26+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Argentina Week: dos petroleras de Vaca Muerta hicieron anuncios de inversión y las mineras destacaron el RIGI y se jugaron por Milei",
         "summary": "Son PAE y TotalEnergies, que presentarán nuevos proyectos al régimen de grandes inversiones",
@@ -441,6 +451,30 @@
         "iso_date": "2026-10-01T11:30:00+00:00",
         "tickers": [
           "AL30",
+          "GGAL"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El respaldo de IDEA al rumbo de Javier Milei y el pedido al Gobierno para sostener la estabilidad",
+        "summary": "El presidente del 62º Coloquio y CEO de Grupo Galicia, Fabián Kon, llenó de elogios a las políticas macroeconómicas, pero advirtió que se necesita pensar a mediano plazo para evitar retroceder otra vez.",
+        "link": "https://www.ambito.com/economia/el-respaldo-idea-al-rumbo-javier-milei-y-el-pedido-al-gobierno-sostener-la-estabilidad-n6328552",
+        "source": "Ámbito",
+        "time": "30/09 16:19",
+        "iso_date": "2026-09-30T19:19:00+00:00",
+        "tickers": [
+          "GGAL"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El respaldo de IDEA al rumbo de Javier Milei y el pedido al Gobierno para sostener la estabilidad",
+        "summary": "El presidente del 62º Coloquio y CEO de Grupo Galicia, Fabián Kon, llenó de elogios a las políticas macroeconómicas, pero advirtió que se necesita pensar a mediano plazo para evitar retroceder otra vez.",
+        "link": "https://www.ambito.com/economia/el-respaldo-idea-al-rumbo-javier-milei-y-el-pedido-al-gobierno-sostener-la-estabilidad-n6328552",
+        "source": "Ámbito Mercados",
+        "time": "30/09 16:19",
+        "iso_date": "2026-09-30T19:19:00+00:00",
+        "tickers": [
           "GGAL"
         ],
         "is_general": true
@@ -577,12 +611,60 @@
         "is_general": true
       },
       {
+        "title": "Crece el interés de Alemania en sectores clave de Argentina, pero preocupa el riesgo país y las elecciones",
+        "summary": "La embajada de Alemania, al igual que ejecutivos y expertos del país europeo, destacaron la oportunidad que se abre para las relaciones comerciales tras el acuerdo entre el Mercosur y la Unión Europea. Sin embargo, la incertidumbre respecto a las elecciones de 2027 es un gran ...",
+        "link": "https://www.ambito.com/economia/crece-el-interes-alemania-sectores-clave-argentina-pero-preocupa-el-riesgo-pais-y-las-elecciones-n6328451",
+        "source": "Ámbito",
+        "time": "30/09 16:38",
+        "iso_date": "2026-09-30T19:38:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Crece el interés de Alemania en sectores clave de Argentina, pero preocupa el riesgo país y las elecciones",
+        "summary": "La embajada de Alemania, al igual que ejecutivos y expertos del país europeo, destacaron la oportunidad que se abre para las relaciones comerciales tras el acuerdo entre el Mercosur y la Unión Europea. Sin embargo, la incertidumbre respecto a las elecciones de 2027 es un gran ...",
+        "link": "https://www.ambito.com/economia/crece-el-interes-alemania-sectores-clave-argentina-pero-preocupa-el-riesgo-pais-y-las-elecciones-n6328451",
+        "source": "Ámbito Mercados",
+        "time": "30/09 16:38",
+        "iso_date": "2026-09-30T19:38:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Repuntaron los bonos y cayó el riesgo país pero el mercado limita el horizonte a octubre de 2027",
         "summary": "Las compras del Banco Central impulsaron a la deuda, aunque la brecha de rendimientos entre vencimientos refleja cautela ante el calendario electoral",
         "link": "https://www.infobae.com/economia/2026/09/30/repuntaron-los-bonos-y-cayo-el-riesgo-pais-pero-el-mercado-limita-el-horizonte-a-octubre-de-2027/",
         "source": "Infobae Economía",
         "time": "30/09 03:05",
         "iso_date": "2026-09-30T06:05:10+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Comenzó el Coloquio de IDEA: las turbulencias económicas se cuelan en la agenda empresarial",
+        "summary": "El círculo rojo busca prefigurar una continuidad reformista para los “próximos 20 años”. Preocupación por la suba del riesgo país y la posibilidad de una recesión. El Gobierno prioriza París.",
+        "link": "https://www.ambito.com/economia/comienza-el-coloquio-idea-las-turbulencias-economicas-se-cuelan-la-agenda-empresarial-n6328082",
+        "source": "Ámbito",
+        "time": "30/09 00:00",
+        "iso_date": "2026-09-30T03:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Comenzó el Coloquio de IDEA: las turbulencias económicas se cuelan en la agenda empresarial",
+        "summary": "El círculo rojo busca prefigurar una continuidad reformista para los “próximos 20 años”. Preocupación por la suba del riesgo país y la posibilidad de una recesión. El Gobierno prioriza París.",
+        "link": "https://www.ambito.com/economia/comienza-el-coloquio-idea-las-turbulencias-economicas-se-cuelan-la-agenda-empresarial-n6328082",
+        "source": "Ámbito Mercados",
+        "time": "30/09 00:00",
+        "iso_date": "2026-09-30T03:00:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -625,6 +707,31 @@
         "is_general": true
       }
     ],
-    "GD30": []
+    "GD30": [
+      {
+        "title": "El peso de la deuda externa sobre el PBI se redujo al 42,75% en el segundo trimestre, mínimo desde inicios de 2025",
+        "summary": "El porcentaje se ubica lejos de los máximos registrados entre 2018 y 2021, pero bastante arriba de los mínimos de fines del kirchnerismo.",
+        "link": "https://www.ambito.com/economia/el-peso-la-deuda-externa-el-pbi-se-redujo-al-4275-el-segundo-trimestre-minimo-inicios-2025-n6328167",
+        "source": "Ámbito",
+        "time": "29/09 18:51",
+        "iso_date": "2026-09-29T21:51:00+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El peso de la deuda externa sobre el PBI se redujo al 42,75% en el segundo trimestre, mínimo desde inicios de 2025",
+        "summary": "El porcentaje se ubica lejos de los máximos registrados entre 2018 y 2021, pero bastante arriba de los mínimos de fines del kirchnerismo.",
+        "link": "https://www.ambito.com/economia/el-peso-la-deuda-externa-el-pbi-se-redujo-al-4275-el-segundo-trimestre-minimo-inicios-2025-n6328167",
+        "source": "Ámbito Mercados",
+        "time": "29/09 18:51",
+        "iso_date": "2026-09-29T21:51:00+00:00",
+        "tickers": [
+          "GD30"
+        ],
+        "is_general": true
+      }
+    ]
   }
 }
