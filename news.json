@@ -1,333 +1,393 @@
 {
-  "updated_at": "2026-10-02T04:05:11.117380",
-  "updated_str": "02/10/2026 04:05",
+  "updated_at": "2026-10-02T16:11:45.273308",
+  "updated_str": "02/10/2026 16:11",
   "cutoff_hours": 48,
-  "total_news": 303,
+  "total_news": 324,
   "news": {
     "GENERAL": [
       {
-        "title": "Argentina LNG de YPF: Marín le puso fecha a “la mayor inversión de la historia del país”",
+        "title": "Ante empresarios en el Coloquio de IDEA, la CGT consideró que “la representación sindical no debe limitarse sólo a los trabajadores formales”",
+        "summary": "El cosecretario de la central obrera, Cristian Jerónimo, señaló que es necesario sumar a los informales, ya que el sector registrado es “cada vez más chico”. Además, el gremialista reconoció el superávit y la baja inflacionaria, pero advirtió que no alcanza si no hay un equili...",
+        "link": "https://www.infobae.com/economia/2026/10/02/ante-empresarios-en-el-coloquio-de-idea-la-cgt-considero-senalo-que-la-representacion-sindical-no-debe-limitarse-solo-a-los-trabajadores-formales/",
+        "source": "Infobae Economía",
+        "time": "02/10 13:00",
+        "iso_date": "2026-10-02T16:00:58+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las potencias del G7 anunciaron la liberación de reservas estratégicas para controlar el precio del barril de petróleo",
+        "summary": "El presidente Emmanuel Macron dijo que se volcarán al mercado global 100 millones de barriles de crudo y diésel en los meses venideros con el fin de contener el impacto inflacionario derivado de la inestabilidad geopolítica",
+        "link": "https://www.infobae.com/america/mundo/2026/10/02/las-potencias-del-g7-anunciaron-la-liberacion-de-reservas-estrategicas-y-baja-el-precio-del-barril-de-petroleo/",
+        "source": "Infobae Economía",
+        "time": "02/10 12:51",
+        "iso_date": "2026-10-02T15:51:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Desde París, Milei auguró que la economía crecerá \"7 u 8 por ciento\" en caso de resultar reelecto",
+        "summary": "Tras recibir el premio a “Economista más influyente” del Foro Económico de París, el presidente argentino aseguró que una eventual reelección reduciría el riesgo país y permitiría acelerar el crecimiento, mientras reivindicó las desregulaciones de Federico Sturzenegger ante qu...",
+        "link": "https://www.infobae.com/economia/2026/10/02/desde-paris-milei-auguro-que-la-economia-crecera-7-u-8-por-ciento-en-caso-de-resultar-reelecto/",
+        "source": "Infobae Economía",
+        "time": "02/10 12:37",
+        "iso_date": "2026-10-02T15:37:27+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Crisis de Lácteos Verónica: 10 meses sin sueldos, 3.400 cheques rebotados y deuda sideral",
+        "summary": "Con un acumulado de salarios impagos, pasivo multimillonario y miles de cheques rebotados, la firma Verónica agrava su parálisis productiva",
+        "link": "https://www.iprofesional.com/negocios/465771-lacteos-veronica-10-meses-sin-sueldos-y-3-400-cheques-rebotados",
+        "source": "iProfesional",
+        "time": "02/10 12:34",
+        "iso_date": "2026-10-02T15:34:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Elecciones en Brasil: qué se juega el real, los bonos y las acciones entre Lula y Bolsonaro",
+        "summary": "Los mercados brasileños se preparan para una elección reñida con la mirada puesta más allá de las urnas. La credibilidad fiscal puede definir el recorrido del real, los bonos y las acciones.",
+        "link": "https://www.bloomberglinea.com/mercados/elecciones-en-brasil-que-se-juega-el-real-los-bonos-y-las-acciones-entre-lula-y-bolsonaro/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 12:24",
+        "iso_date": "2026-10-02T15:24:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cambia el viento y favorece a Caputo: el mercado recorta la expectativa de subas de tasas en EE.UU.",
+        "summary": "Subió el desempleo en EEUU. La mala noticia para Trump puede derivar en una mejora en el contexto financiero internacional, que favorezca a Argentina",
+        "link": "https://www.iprofesional.com/finanzas/465777-el-mercado-recorta-la-expectativa-de-subas-de-tasas-en-eeuu-y-favorece-a-argentina",
+        "source": "iProfesional",
+        "time": "02/10 12:11",
+        "iso_date": "2026-10-02T15:11:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La canasta básica para un jubilado cuadriplica el haber mínimo",
+        "summary": "El valor de la canasta aumentó un 38% en doce meses, por encima de la inflación general. El haber mínimo solo cubre el 24,2% del costo de vida, mientras que las PNC y PUAM cubren menos del 20%. Los detalles, en la nota.",
+        "link": "https://www.ambito.com/economia/la-canasta-basica-un-jubilado-cuadriplica-el-haber-minimo-n6329376",
+        "source": "Ámbito",
+        "time": "02/10 11:47",
+        "iso_date": "2026-10-02T14:47:45+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei sube la apuesta por Malvinas pero EEUU pide \"desescalar\" la tensión con Gran Bretaña",
+        "summary": "Washington advierte sobre el alcance de la demanda argentina en tribunales internacionales y tensiona la agenda energética del Gobierno",
+        "link": "https://www.iprofesional.com/politica/465760-malvinas-eeuu-pide-a-milei-desescalar-la-tension-con-gran-bretana",
+        "source": "iProfesional",
+        "time": "02/10 11:40",
+        "iso_date": "2026-10-02T14:40:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Acción de Nike cae a precios de 2013 y va camino a su peor año bursátil: 5 claves que lo explican",
+        "summary": "Las previsiones para 2027 quedaron muy por debajo del consenso y Nike anticipa que la presión sobre China, Jordan y Sportswear persistirá hasta 2028, mientras Wall Street acelera sus recortes de valoración.",
+        "link": "https://www.bloomberglinea.com/mercados/accion-de-nike-cae-a-precios-de-2013-y-va-camino-a-su-peor-ano-bursatil-5-claves-que-lo-explican/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 11:34",
+        "iso_date": "2026-10-02T14:34:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El BCRA acelera con la compra de dólares, pero la City duda del gran objetivo de Caputo",
+        "summary": "El dinamismo en las intervenciones oficiales impulsa el mercado cambiario, mientras analistas evalúan si las metas actuales son realistas",
+        "link": "https://www.iprofesional.com/finanzas/465636-por-que-el-mercado-duda-de-la-meta-de-reservas-del-bcra-de-caputo",
+        "source": "iProfesional",
+        "time": "02/10 11:30",
+        "iso_date": "2026-10-02T14:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: suben las acciones y los bonos argentinos, con el empuje positivo de Wall Street",
+        "summary": "Los índices de Nueva York avanzan a medida que los operadores reducen sus apuestas sobre un alza de tasas de la Fed tras un fallido dato de empleo en EEUU. El S6P Merval sube 0,4% y los bonos ganan 0,5%, con un riesgo país en los 650 puntos",
+        "link": "https://www.infobae.com/economia/2026/10/02/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-empuje-positivo-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "02/10 11:26",
+        "iso_date": "2026-10-02T14:26:36+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Uno a uno, los anuncios de inversión de miles de millones de dólares en Argentina",
+        "summary": "Empresas globales desembolsan miles de millones en desarrollos estratégicos bajo el nuevo régimen fiscal pensado para atraer capital extranjero",
+        "link": "https://www.iprofesional.com/negocios/465767-uno-a-uno-los-anuncios-de-inversion-de-miles-de-millones-de-dolares-en-argentina",
+        "source": "iProfesional",
+        "time": "02/10 10:48",
+        "iso_date": "2026-10-02T13:48:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 sube tras débil dato de empleo que impulsa los bonos y alivia las apuestas sobre la Fed",
+        "summary": "El débil informe de empleo enfría las apuestas a nuevas alzas de tasas de la Fed, mientras el petróleo retrocede y la tensión fiscal en Francia mantiene bajo presión a los mercados de bonos.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-debil-dato-de-empleo-que-impulsa-los-bonos-y-alivia-las-apuestas-sobre-la-fed/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 10:43",
+        "iso_date": "2026-10-02T13:43:32+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Sueldos adeudados: qué tuvo en cuenta la Justicia para reconocer una indemnización",
+        "summary": "La Cámara Laboral dictaminó una compensación millonaria tras comprobar que la firma mantuvo incumplimientos salariales prolongados",
+        "link": "https://www.iprofesional.com/legales/465763-sueldos-adeudados-que-tuvo-en-cuenta-justicia-para-reconocer-indemnizacion",
+        "source": "iProfesional",
+        "time": "02/10 10:36",
+        "iso_date": "2026-10-02T13:36:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este viernes 2 de octubre",
+        "summary": "El billete al público es ofrecido a $1.545 para la venta en el Banco Nación. El blue se paga a $1.555. El BCRA compró ayer USD 93 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/02/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-2-de-octubre/",
+        "source": "Infobae Economía",
+        "time": "02/10 10:14",
+        "iso_date": "2026-10-02T13:14:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Se aprobó otro RIGI para minería de cobre: Glencore invertirá USD 4.000 millones",
+        "summary": "El yacimiento produciría un promedio de 200.000 toneladas de cobre destinadas íntegramente a mercados internacionales, mientras la empresa financiará los primeros dos años mediante aportes de capital y deuda propios",
+        "link": "https://www.infobae.com/economia/2026/10/02/se-aprobo-otro-rigi-para-mineria-de-cobre-glencore-invertira-usd-4000-millones/",
+        "source": "Infobae Economía",
+        "time": "02/10 09:59",
+        "iso_date": "2026-10-02T12:59:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "En el último día de Argentina Week, Caputo anunció Programa de Ciudadanía por Inversión de Argentina",
+        "summary": "Lo acompañó el jefe de Gabinete, Diego Santilli. Estuvieron presentes representantes de las agencias convocadas al Programa. El día finaliza con la premiación a Milei por parte del París Economic Forum.",
+        "link": "https://www.ambito.com/economia/en-el-ultimo-dia-argentina-week-caputo-anuncio-programa-ciudadania-inversion-argentina-n6329265",
+        "source": "Ámbito",
+        "time": "02/10 09:50",
+        "iso_date": "2026-10-02T12:50:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Glencore invertirá US$4.000 millones en cobre con RIGI y proyecta hasta US$20.000 millones en Argentina",
+        "summary": "El presidente Javier Milei anunció durante la Argentina Week en París la aprobación del RIGI para Agua Rica, el proyecto de cobre de Glencore en Catamarca.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-y-glencore-anuncian-desde-el-argentina-week-en-paris-nueva-inversion-rigi/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 09:36",
+        "iso_date": "2026-10-02T12:36:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo explicó ante inversores la suba del riesgo país: los factores que señaló",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/argentina-lng-de-ypf-marin-le-puso-fecha-a-la-mayor-inversion-de-la-historia-del-pais/",
+        "link": "https://www.cronista.com/economia-politica/caputo-explico-ante-inversores-la-suba-del-riesgo-pais-los-factores-que-senalo/",
         "source": "El Cronista",
-        "time": "02/10 00:01",
-        "iso_date": "2026-10-02T03:01:00+00:00",
+        "time": "02/10 09:32",
+        "iso_date": "2026-10-02T12:32:41+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Los bancos cerrarán sus puertas durante cinco días seguidos por una nueva medida de La Bancaria",
+        "summary": "El esquema combina el Día del Bancario, un feriado nacional y una disposición especial del Banco Central por la visita del papa León XIV.",
+        "link": "https://www.cronista.com/economia-politica/los-bancos-cerraran-sus-puertas-durante-cinco-dias-seguidos-por-una-nueva-medida-de-la-bancaria/",
+        "source": "El Cronista",
+        "time": "02/10 09:30",
+        "iso_date": "2026-10-02T12:30:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno lanzó en París un programa para que extranjeros puedan obtener ciudadanía y pasaporte mediante inversiones: cuánto cuesta",
+        "summary": "La iniciativa, presentada por Luis Caputo y Diego Santilli durante un encuentro económico en Francia, habilitará trámites desde el cuarto trimestre de 2026 y destinará los recursos recaudados a reforzar la posición fiscal y financiera nacional",
+        "link": "https://www.infobae.com/economia/2026/10/02/el-gobierno-lanzo-en-paris-un-programa-para-que-extranjeros-puedan-obtener-ciudadania-y-pasaporte-mediante-inversiones-cuanto-cuesta/",
+        "source": "Infobae Economía",
+        "time": "02/10 09:20",
+        "iso_date": "2026-10-02T12:20:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina anuncia “pasaporte de oro” para extranjeros: podrán adquirirlo desde los US$350.000",
+        "summary": "Caputo y Santilli presentaron en la embajada argentina en París el Programa de Ciudadanía por Inversión, operativo desde el cuarto trimestre. Habrá una vía alternativa, un bono de US$800.000 a tasa cero por siete años.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-anuncia-pasaporte-de-oro-para-extranjeros-podran-adquirirlo-desde-los-us350000/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 09:16",
+        "iso_date": "2026-10-02T12:16:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Marcelo Mindlin destacó el interés por Argentina en Francia: \" Yo prefiero invertir hoy y no esperar a mañana\"",
+        "summary": "El presidente de Pampa Energía, que participó de la Argentina Week en París, afirmó que el país puede consolidarse como un exportador relevante de energía y planteó la necesidad de convertir esos recursos en más industria y empleo local",
+        "link": "https://www.infobae.com/economia/2026/10/02/marcelo-mindlin-destaco-el-interes-por-argentina-en-francia-yo-prefiero-invertir-hoy-no-esperar-a-manana/",
+        "source": "Infobae Economía",
+        "time": "02/10 09:06",
+        "iso_date": "2026-10-02T12:06:23+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Caputo anunció un nuevo RIGI para Vaca Muerta y una inversión de u$s12.400 millones",
+        "summary": "El proyecto de Pluspetrol y GyP tendrá un plazo de 25 años y contempla cuatro plantas, ductos y una producción superior a 100.000 barriles diarios",
+        "link": "https://www.iprofesional.com/energia/465752-caputo-anuncio-un-nuevo-rigi-en-vaca-muerta-por-12500-millones-de-dolares",
+        "source": "iProfesional",
+        "time": "02/10 09:04",
+        "iso_date": "2026-10-02T12:04:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "De Eni a Glencore: qué dijeron sobre Milei y Argentina los CEO de multinacionales en París",
+        "summary": "Los ejecutivos de grandes empresas globales hablaron en el Argentina Week del RIGI, la Ley de Glaciares, dólares y reglas estables. Glencore prevé invertir entre US$14.000 y US$20.000 millones en diez años",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/de-eni-a-glencore-que-dijeron-sobre-milei-y-argentina-los-ceo-de-multinacionales-en-paris/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 08:58",
+        "iso_date": "2026-10-02T11:58:06+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La inflación vuelve a encender las alarmas en la zona euro: saltó al 3,8% en septiembre, un máximo de 3 años",
+        "summary": "El IPC de la zona euro se aceleró y marcó su nivel más alto en tres años. El repunte renueva la presión sobre el BCE antes de su reunión del 29 de octubre. Los detalles y el desglose por país, en la nota.",
+        "link": "https://www.ambito.com/economia/la-inflacion-vuelve-encender-las-alarmas-la-zona-euro-salto-al-38-septiembre-un-maximo-3-anos-n6329252",
+        "source": "Ámbito",
+        "time": "02/10 08:43",
+        "iso_date": "2026-10-02T11:43:45+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Salarios: el dato oficial que revela las fuertes diferencias entre el trabajo registrado y el informal",
+        "summary": "Dos trabajadores, el mismo país y una diferencia que se repite año tras año en las estadísticas oficiales. El último dato del Indec deja en evidencia la desventaja de ingresos de la informalidad",
+        "link": "https://www.infobae.com/economia/2026/10/02/salarios-el-dato-oficial-que-revela-las-fuertes-diferencias-entre-el-trabajo-registrado-y-el-informal/",
+        "source": "Infobae Economía",
+        "time": "02/10 08:27",
+        "iso_date": "2026-10-02T11:27:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Empresarios de IDEA hacen cuentas sobre la economía de Milei",
+        "summary": "Ejecutivos de industria, consumo, agro y finanzas reconocen cambios en la macro, pero llevan la discusión hacia empleo, crédito, impuestos e inversiones",
+        "link": "https://www.iprofesional.com/negocios/465744-empresarios-de-idea-hacen-cuentas-que-cambio-y-que-todavia-preocupa",
+        "source": "iProfesional",
+        "time": "02/10 08:00",
+        "iso_date": "2026-10-02T11:00:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Nuevo RIGI: Pluspetrol invertirá u$s12.400 millones en Vaca Muerta",
+        "summary": "La inclusión del proyecto permitirá acelerar el desarrollo de este yacimiento que contempla una inversión de u$s12.400 millones en un plazo de 25 años.",
+        "link": "https://www.ambito.com/economia/pluspetrol-anuncia-la-inversion-us-12400-millones-vaca-muerta-traves-del-rigi-n6329233",
+        "source": "Ámbito",
+        "time": "02/10 07:31",
+        "iso_date": "2026-10-02T10:31:00+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Federico Sturzenegger destacó en París el crecimiento de las exportaciones y defendió el rumbo económico",
-        "summary": "Ante inversores en la OCDE, el ministro expuso los pilares del programa oficial y señaló oportunidades en energía y minería. Sostuvo que las ventas externas avanzan cinco veces más rápido que el PBI.",
-        "link": "https://www.ambito.com/economia/federico-sturzenegger-destaco-paris-el-crecimiento-las-exportaciones-y-defendio-el-rumbo-economico-n6329206",
-        "source": "Ámbito",
-        "time": "01/10 22:33",
-        "iso_date": "2026-10-02T01:33:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué pasará con alquileres, tarjetas y controles de precios si cae el mega DNU de Milei",
-        "summary": "El decreto 70/2023 introdujo cambios en distintas áreas de la economía, con la desregulación como eje. Las implicancias de la discusión en Diputados",
-        "link": "https://www.iprofesional.com/politica/465732-que-pasara-con-alquileres-y-controles-de-precios-si-cae-mega-dnu-de-milei",
+        "title": "Caputo reconoció que no descarta una mayor turbulencia y refuerza la compra de dólares",
+        "summary": "El Central adquirió más de u$s300 millones en las últimas tres jornadas. Entusiasmo en la delegación argentina que viajó a París",
+        "link": "https://www.iprofesional.com/economia/465721-caputo-no-descarta-que-crezca-la-turbulencia-y-refuerza-compra-de-dolares",
         "source": "iProfesional",
-        "time": "01/10 21:25",
-        "iso_date": "2026-10-02T00:25:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Los empresarios y Argentina Week París: entre el potencial arrollador de la energía y las dudas que busca evaporar Milei",
-        "summary": "El primer día de la jornada empresaria en Francia congregó a medio Gobierno, el círculo rojo y empresarios europeos. Anuncios y reuniones con inversores",
-        "link": "https://www.infobae.com/economia/2026/10/01/los-empresarios-y-argentina-week-paris-entre-el-potencial-arrollador-de-la-energia-y-las-dudas-que-busca-evaporar-milei/",
-        "source": "Infobae Economía",
-        "time": "01/10 20:49",
-        "iso_date": "2026-10-01T23:49:39+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La batalla cultural de Milei: crece el apoyo a un Estado más activo, revela encuesta",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-batalla-cultural-de-milei-crece-apoyo-a-un-estado-mas-activo-revela-encuesta/",
-        "source": "El Cronista",
-        "time": "01/10 20:05",
-        "iso_date": "2026-10-01T23:05:35+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La Libertad Avanza llevó su interna a IDEA: Milei pateó la reforma previsional para 2028 y Bullrich presentó su propuesta",
-        "summary": "La informalidad laboral alcanzó el 45%. Casi la mitad de los empleados no tiene derechos laborales y no aporta al sistema previsional. Ante este vacío de recaudación, el Tesoro se hace cargo de casi el 60% de las jubilaciones. La agenda que impulsa el empresariado.",
-        "link": "https://www.ambito.com/economia/la-libertad-avanza-llevo-su-interna-idea-milei-pateo-la-reforma-previsional-2028-y-bullrich-presento-su-propuesta-n6329118",
-        "source": "Ámbito",
-        "time": "01/10 19:47",
-        "iso_date": "2026-10-01T22:47:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Hay una lluvia de datos positivos, pero el mercado no se convence",
-        "summary": "Hoy se conocieron varios indicadores tranquilizantes, pero el mercado argentino volvió a actuar de forma negativa, mucho peor que lo que pasó en el mundo. Afuera la tasa de EE.UU. sigue muy alta y el dólar global sube contra todo. Aquí, el dólar estuvo mixto, con el BCRA compr...",
-        "link": "https://eleconomista.com.ar/finanzas/hay-una-lluvia-datos-positivos-pero-mercado-convence-n98574",
-        "source": "El Economista",
-        "time": "01/10 19:35",
-        "iso_date": "2026-10-01T22:35:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Sturzenegger defendió el programa económico y ratificó el equilibrio fiscal en París: “Para el Presidente es innegociable”",
-        "summary": "El ministro ubicó a las exportaciones como motor, con ventas externas que crecen cinco veces más que el PBI, y repasó ante la OCDE los cuatro pilares de la gestión",
-        "link": "https://www.infobae.com/economia/2026/10/01/sturzenegger-defendio-el-programa-economico-y-ratifico-el-equilibrio-fiscal-en-paris-para-el-presidente-es-innegociable/",
-        "source": "Infobae Economía",
-        "time": "01/10 18:45",
-        "iso_date": "2026-10-01T21:45:03+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno evalúa 3 alternativas para evitar que la oposición voltee el mega DNU de Milei",
-        "summary": "La sesión fue convocada para el 15 y coincidirá con la marcha universitaria. LLA se debate entre frustrar el quórum y reflotar la Ley de Tierras",
-        "link": "https://www.iprofesional.com/politica/465713-el-gobierno-evalua-3-alternativas-para-impedir-que-la-oposicion-voltee-el-dnu-70",
-        "source": "iProfesional",
-        "time": "01/10 18:45",
-        "iso_date": "2026-10-01T21:45:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La recaudación tributaria creció por encima de la inflación en septiembre",
-        "summary": "El ingreso de pagos postergados de meses anteriores de Ganancias e IVA, sumado a la mayor liquidación agroexportadora, determinaron un incremento de los ingresos administrados por ARCA del 33,5% interanual",
-        "link": "https://www.infobae.com/economia/2026/10/01/la-recaudacion-tributaria-crecio-por-encima-de-la-inflacion-en-septiembre/",
-        "source": "Infobae Economía",
-        "time": "01/10 18:32",
-        "iso_date": "2026-10-01T21:32:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las proyecciones de los empresarios para dólar, inflación y riesgo país en 2027",
-        "summary": "El próximo año electoral ya aparece en las previsiones de ejecutivos y bancos, mientras la estabilización entra en una etapa más lenta",
-        "link": "https://www.iprofesional.com/negocios/465711-que-proyectan-los-empresarios-para-dolar-inflacion-y-riesgo-pais-en-2027",
-        "source": "iProfesional",
-        "time": "01/10 18:30",
-        "iso_date": "2026-10-01T21:30:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Bullrich en IDEA: “No podemos tener la industria, la construcción y el comercio caídos”",
-        "summary": "Luego de que el presidente Javier Milei pidiera paciencia, Bullrich remarcó que las mejoras económicas deben “sumar una mayor velocidad” para que lleguen a todas las familias.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/bullrich-en-idea-no-podemos-tener-la-industria-la-construccion-y-el-comercio-caidos/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/10 18:13",
-        "iso_date": "2026-10-01T21:13:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas cayeron hasta 5% en Wall Street y el riesgo país saltó a un máximo en diez meses",
-        "summary": "La suba de tasas de los bonos de EEUU afectó a los títulos emergentes. El S&P Merval perdió 2,2% y los bonos cayeron 1,1% en promedio. El dólar subió a $1.545 en el Banco Nación y el BCRA compró USD 93 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/01/jornada-financiera-las-acciones-argentinas-cayeron-hasta-5-en-wall-street-y-el-riesgo-pais-salto-a-un-maximo-en-diez-meses/",
-        "source": "Infobae Economía",
-        "time": "01/10 18:11",
-        "iso_date": "2026-10-01T21:11:19+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei y Emmanuel Macron mantuvieron una bilateral: los detalles y el encuentro posterior donde se habló del ajuste",
-        "summary": "Ambos mandatarios se reunieron en el Palacio del Elíseo. Luego hubo un encuentro con empresarios y gobernadores. Se habló de cómo mantener el superávit en las cuentas públicas,",
-        "link": "https://www.ambito.com/economia/javier-milei-y-emmanuel-macron-mantuvieron-una-bilateral-los-detalles-y-el-encuentro-posterior-donde-se-hablo-del-ajuste-n6329115",
-        "source": "Ámbito",
-        "time": "01/10 17:50",
-        "iso_date": "2026-10-01T20:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, actividad, incertidumbre política y reformas: de qué hablan los empresarios en los pasillos de IDEA",
-        "summary": "En Mar del Plata, ejecutivos de distintos sectores analizan el escenario electoral de 2027, reclaman previsibilidad y advierten por el bajo crecimiento, la presión tributaria, la competencia china y un consumo todavía muy selectivo",
-        "link": "https://www.infobae.com/economia/2026/10/01/dolar-actividad-incertidumbre-politica-y-reformas-de-que-hablan-los-empresarios-en-los-pasillos-de-idea/",
-        "source": "Infobae Economía",
-        "time": "01/10 17:48",
-        "iso_date": "2026-10-01T20:48:51+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: el riesgo país volvió a su nivel más alto de 2026 mientras los bonos argentinos profundizaron la baja",
-        "summary": "La suba de tasas de la deuda de EEUU impactó en los activos emergentes. El S&P Merval porteño cayó 2,2% y los ADR restaron hasta 5%. El riesgo país argentino subió a 636 puntos",
-        "link": "https://www.infobae.com/economia/2026/10/01/mercados-los-bonos-argentinos-comenzaron-octubre-hacia-la-baja-y-el-riesgo-pais-volvio-a-subir/",
-        "source": "Infobae Economía",
-        "time": "01/10 17:28",
-        "iso_date": "2026-10-01T20:28:16+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 1 de octubre",
-        "summary": "El billete al público quedó ofrecido a $1.545 para la venta en el Banco Nación. El blue se pagó a $1.555. El BCRA compró USD 93 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/01/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-1-de-octubre/",
-        "source": "Infobae Economía",
-        "time": "01/10 17:13",
-        "iso_date": "2026-10-01T20:13:20+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "S&P 500 inicia octubre al alza con alivio en los bonos pese al repunte del petróleo",
-        "summary": "Las acciones estadounidenses cerraron con leves ganancias después de que los Tesoros recuperaron terreno, mientras el Brent superó los US$102 y la atención se desplazó al informe de empleo del viernes.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-avanza-con-apoyo-de-las-tecnologicas-mientras-petroleo-y-bonos-presionan-al-mercado/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/10 17:10",
-        "iso_date": "2026-10-01T20:10:56+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, riesgo país e inversiones: la mirada del CEO del Citi para la Argentina",
-        "summary": "“El año que viene vamos a tener una economía en crecimiento y un tipo de cambio estable”, afirmó Federico Elewaut, director general del banco en Argentina, en diálogo con Ámbito en el marco del Coloquio de IDEA.",
-        "link": "https://www.ambito.com/economia/dolar-riesgo-pais-e-inversiones-la-mirada-del-ceo-del-citi-la-argentina-n6329070",
-        "source": "Ámbito",
-        "time": "01/10 17:04",
-        "iso_date": "2026-10-01T20:04:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La lectura de Giacobbe hacia 2027: el límite político del ajuste de Milei y la sucesión que desafía a Kicillof",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/la-lectura-de-giacobbe-hacia-2027-el-limite-politico-del-ajuste-de-milei-y-la-sucesion-que-desafia-a-kicillof/",
-        "source": "El Cronista",
-        "time": "01/10 17:01",
-        "iso_date": "2026-10-01T20:01:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Macron recibió a Milei en París: de qué hablaron y cómo sigue la agenda oficial",
-        "summary": "El Presidente argentino mantuvo un encuentro con su par francés y luego se realizó una reunión ampliada con funcionarios, empresarios y gobernadores",
-        "link": "https://www.iprofesional.com/politica/465699-emmanuel-macron-recibio-a-javier-milei-y-a-gobernadores-argentinos-en-palacio-del-eliseo-paris",
-        "source": "iProfesional",
-        "time": "01/10 16:54",
-        "iso_date": "2026-10-01T19:54:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei se reunió con Emmanuel Macron en el Palacio Elíseo: hablaron de superávit, ajuste y negocios",
-        "summary": "El mandatario está en Francia donde encabeza el Argentina Week, el evento de inversiones que hoy tuvo su primera jornada en la sede de la OCDE",
-        "link": "https://www.infobae.com/economia/2026/10/01/milei-en-francia-el-presidente-llego-al-palacio-eliseo-y-comenzo-su-encuentro-con-emmanuel-macro/",
-        "source": "Infobae Economía",
-        "time": "01/10 16:35",
-        "iso_date": "2026-10-01T19:35:14+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La desigualdad aumentó en el segundo trimestre de 2026, en línea con la mayor pobreza",
-        "summary": "Este jueves el INDEC informó un incremento en el Coeficiente de Gini, en relación a los últimos dos trimestres con aguinaldo.",
-        "link": "https://www.ambito.com/economia/la-desigualdad-aumento-el-segundo-trimestre-2026-linea-la-mayor-pobreza-n6329079",
-        "source": "Ámbito",
-        "time": "01/10 16:31",
-        "iso_date": "2026-10-01T19:31:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "A la espera del dato de empleo de EEUU, la inflación y la actividad envían una señal mixta a Wall Street",
-        "summary": "A pesar de que los últimos datos de inflación fueron más moderados de lo esperado, siguen en niveles elevados. A eso se le agrega que el sector industrial norteamericano está enfrentando presiones inflacionarias y los datos privados del mercado de trabajo no dan señales de ala...",
-        "link": "https://www.ambito.com/economia/a-la-espera-del-dato-empleo-eeuu-la-inflacion-y-la-actividad-envian-una-senal-mixta-wall-street-n6329009",
-        "source": "Ámbito",
-        "time": "01/10 16:27",
-        "iso_date": "2026-10-01T19:27:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Argentina Week: dos petroleras de Vaca Muerta hicieron anuncios de inversión y las mineras destacaron el RIGI y se jugaron por Milei",
-        "summary": "Son PAE y TotalEnergies, que presentarán nuevos proyectos al régimen de grandes inversiones",
-        "link": "https://www.infobae.com/economia/2026/10/01/argentina-week-dos-petroleras-de-vaca-muerta-hicieron-anuncios-de-inversion-y-las-mineras-destacaron-el-rigi-y-se-jugaron-por-milei/",
-        "source": "Infobae Economía",
-        "time": "01/10 16:24",
-        "iso_date": "2026-10-01T19:24:14+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Peso fuerte, la destrucción del BCRA y dolarización: las respuestas de Milei a una revista francesa",
-        "summary": "En medio de su vista a París, el Presidente dio una entrevista al semanario francés Le Point en la que aseguró que no se puede revertir en 30 meses un “siglo de colectivismo”. Su lectura del crecimiento de pobreza y el manejo de los recursos naturales con el RIGI",
-        "link": "https://www.infobae.com/economia/2026/10/01/peso-fuerte-la-destruccion-del-bcra-y-dolarizacion-las-respuestas-de-milei-a-una-revista-francesa/",
-        "source": "Infobae Economía",
-        "time": "01/10 15:58",
-        "iso_date": "2026-10-01T18:58:04+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar rebotó y cortó una racha de tres caídas consecutivas",
-        "summary": "La divisa subió a $1.524,50 y poco más de USD 400 millones de oferta en el mercado mayorista. Al público subió a $1.545 para la venta en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/10/01/el-dolar-reboto-y-corto-una-racha-de-tres-caidas-consecutivas/",
-        "source": "Infobae Economía",
-        "time": "01/10 15:48",
-        "iso_date": "2026-10-01T18:48:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Juan Politi, CEO de Allaria, tras la suba del riesgo país: \"Al mercado también le preocupan los datos de la economía real\"",
-        "summary": "El ejecutivo diferenció la situación del país en el corto y largo plazo. Por un lado, advirtió que el contexto electoral traerá más volatilidad a las inversiones. Por otro, sostuvo que la restricción externa ya no será un problema a futuro.",
-        "link": "https://www.ambito.com/economia/juan-politi-ceo-allaria-la-suba-del-riesgo-pais-al-mercado-tambien-le-preocupan-los-datos-la-real-n6328737",
-        "source": "Ámbito",
-        "time": "01/10 15:43",
-        "iso_date": "2026-10-01T18:43:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Los bancos chicos aventajan a los grandes y pagan más por los plazos fijos",
-        "summary": "Las tasas de los plazos fijos llegan al 23% anual y muestran importantes diferencias entre bancos al momento de invertir $500.000",
-        "link": "https://www.iprofesional.com/finanzas/465534-que-bancos-chicos-pagan-mas-que-los-grandes-por-un-plazo-fijo",
-        "source": "iProfesional",
-        "time": "01/10 15:40",
-        "iso_date": "2026-10-01T18:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La oposición convocó a sesión para rechazar el DNU 70/2023 de Milei y otros temas sensibles",
-        "summary": "La convocatoria fue fijada para el jueves 15 de octubre junto con los proyectos de Endeudamiento y Discapacidad. Será el mismo día de la Marcha Federal Universitaria. Apuestan a conseguir los votos de los gobernadores que ahora se encuentran en París con Milei",
-        "link": "https://www.cronista.com/economia-politica/la-oposicion-convoco-a-sesion-para-rechazar-el-dnu-702023-de-milei-y-otros-temas-sensibles/",
-        "source": "El Cronista",
-        "time": "01/10 15:35",
-        "iso_date": "2026-10-01T18:35:05+00:00",
+        "time": "02/10 07:00",
+        "iso_date": "2026-10-02T10:00:00+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
       {
+        "title": "Caputo anunció un nuevo RIGI para Vaca Muerta y una inversión de u$s12.400 millones",
+        "summary": "El proyecto de Pluspetrol y GyP tendrá un plazo de 25 años y contempla cuatro plantas, ductos y una producción superior a 100.000 barriles diarios",
+        "link": "https://www.iprofesional.com/energia/465752-caputo-anuncio-un-nuevo-rigi-en-vaca-muerta-por-12500-millones-de-dolares",
+        "source": "iProfesional",
+        "time": "02/10 09:04",
+        "iso_date": "2026-10-02T12:04:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Nuevo RIGI: Pluspetrol invertirá u$s12.400 millones en Vaca Muerta",
+        "summary": "La inclusión del proyecto permitirá acelerar el desarrollo de este yacimiento que contempla una inversión de u$s12.400 millones en un plazo de 25 años.",
+        "link": "https://www.ambito.com/economia/pluspetrol-anuncia-la-inversion-us-12400-millones-vaca-muerta-traves-del-rigi-n6329233",
+        "source": "Ámbito",
+        "time": "02/10 07:31",
+        "iso_date": "2026-10-02T10:31:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Nuevo RIGI: Pluspetrol invertirá u$s12.400 millones en Vaca Muerta",
+        "summary": "La inclusión del proyecto permitirá acelerar el desarrollo de este yacimiento que contempla una inversión de u$s12.400 millones en un plazo de 25 años.",
+        "link": "https://www.ambito.com/economia/pluspetrol-anuncia-la-inversion-us-12400-millones-vaca-muerta-traves-del-rigi-n6329233",
+        "source": "Ámbito Mercados",
+        "time": "02/10 07:31",
+        "iso_date": "2026-10-02T10:31:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Pluspetrol recibe luz verde del RIGI para invertir US$12.400 millones en Vaca Muerta",
+        "summary": "El Comité Evaluador aprobó el proyecto de la petrolera y Gas y Petróleo del Neuquén para Bajo del Choique-La Invernada, que prevé más de 620 pozos petroleros, cuatro plantas y una producción superior a los 100.000 barriles diarios.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/pluspetrol-recibe-luz-verde-del-rigi-para-invertir-us12400-millones-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 06:28",
+        "iso_date": "2026-10-02T09:28:08+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "La explicación de Marín sobre el máximo histórico de las acciones de YPF y cuándo pagaría dividendos",
+        "summary": "El CEO de la petrolera argentina dijo a Bloomberg Línea en París que, ajustada por dividendos y por el bajo flotante de la era Repsol, la acción ya está en máximos. Cuándo definirá si el pago de dividendos arranca en 2027.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-explicacion-de-marin-sobre-el-maximo-historico-de-las-acciones-de-ypf-y-cuando-pagaria-dividendos/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/10 03:35",
+        "iso_date": "2026-10-02T06:35:14+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Argentina LNG de YPF: Marín le puso fecha a “la mayor inversión de la historia del país”",
         "summary": "",
         "link": "https://www.cronista.com/economia-politica/argentina-lng-de-ypf-marin-le-puso-fecha-a-la-mayor-inversion-de-la-historia-del-pais/",
         "source": "El Cronista",
-        "time": "02/10 00:01",
-        "iso_date": "2026-10-02T03:01:00+00:00",
+        "time": "02/10 01:00",
+        "iso_date": "2026-10-02T04:00:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -432,8 +492,34 @@
         "is_general": false
       }
     ],
-    "PAMP": [],
-    "BMA": [],
+    "PAMP": [
+      {
+        "title": "Marcelo Mindlin destacó el interés por Argentina en Francia: \" Yo prefiero invertir hoy y no esperar a mañana\"",
+        "summary": "El presidente de Pampa Energía, que participó de la Argentina Week en París, afirmó que el país puede consolidarse como un exportador relevante de energía y planteó la necesidad de convertir esos recursos en más industria y empleo local",
+        "link": "https://www.infobae.com/economia/2026/10/02/marcelo-mindlin-destaco-el-interes-por-argentina-en-francia-yo-prefiero-invertir-hoy-no-esperar-a-manana/",
+        "source": "Infobae Economía",
+        "time": "02/10 09:06",
+        "iso_date": "2026-10-02T12:06:23+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      }
+    ],
+    "BMA": [
+      {
+        "title": "Empresarios de IDEA hacen cuentas sobre la economía de Milei",
+        "summary": "Ejecutivos de industria, consumo, agro y finanzas reconocen cambios en la macro, pero llevan la discusión hacia empleo, crédito, impuestos e inversiones",
+        "link": "https://www.iprofesional.com/negocios/465744-empresarios-de-idea-hacen-cuentas-que-cambio-y-que-todavia-preocupa",
+        "source": "iProfesional",
+        "time": "02/10 08:00",
+        "iso_date": "2026-10-02T11:00:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      }
+    ],
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
@@ -452,6 +538,66 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Desde París, Milei auguró que la economía crecerá \"7 u 8 por ciento\" en caso de resultar reelecto",
+        "summary": "Tras recibir el premio a “Economista más influyente” del Foro Económico de París, el presidente argentino aseguró que una eventual reelección reduciría el riesgo país y permitiría acelerar el crecimiento, mientras reivindicó las desregulaciones de Federico Sturzenegger ante qu...",
+        "link": "https://www.infobae.com/economia/2026/10/02/desde-paris-milei-auguro-que-la-economia-crecera-7-u-8-por-ciento-en-caso-de-resultar-reelecto/",
+        "source": "Infobae Economía",
+        "time": "02/10 12:37",
+        "iso_date": "2026-10-02T15:37:27+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: suben las acciones y los bonos argentinos, con el empuje positivo de Wall Street",
+        "summary": "Los índices de Nueva York avanzan a medida que los operadores reducen sus apuestas sobre un alza de tasas de la Fed tras un fallido dato de empleo en EEUU. El S6P Merval sube 0,4% y los bonos ganan 0,5%, con un riesgo país en los 650 puntos",
+        "link": "https://www.infobae.com/economia/2026/10/02/mercados-suben-las-acciones-y-los-bonos-argentinos-con-el-empuje-positivo-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "02/10 11:26",
+        "iso_date": "2026-10-02T14:26:36+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Caputo explicó ante inversores la suba del riesgo país: los factores que señaló",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/caputo-explico-ante-inversores-la-suba-del-riesgo-pais-los-factores-que-senalo/",
+        "source": "El Cronista",
+        "time": "02/10 09:32",
+        "iso_date": "2026-10-02T12:32:41+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Los dólares que están en duda para 2027 y que están sacudiendo al riesgo país",
+        "summary": "Con la suba de tasas y el freno en la colocaciones del Bonar 2029, calculan que al programa financiero de Caputo le faltan más USD 23.000 millones. Se aleja la opción de regresar a los mercados internacionales",
+        "link": "https://www.infobae.com/economia/2026/10/02/los-dolares-que-estan-en-duda-para-2027-y-que-estan-sacudiendo-al-riesgo-pais/",
+        "source": "Infobae Economía",
+        "time": "02/10 01:37",
+        "iso_date": "2026-10-02T04:37:20+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La Argentina no logró capitalizar el alivio de los mercados globales y el riesgo país tocó el mayor nivel del año",
+        "summary": "Los bonos soberanos cayeron hasta 2%, las acciones retrocedieron y el dólar mayorista subió, en medio de las compras de divisas del Banco Central",
+        "link": "https://www.infobae.com/economia/2026/10/02/la-argentina-no-logro-capitalizar-el-alivio-de-los-mercados-globales-y-el-riesgo-pais-toco-el-mayor-nivel-del-ano/",
+        "source": "Infobae Economía",
+        "time": "02/10 01:35",
+        "iso_date": "2026-10-02T04:35:49+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las proyecciones de los empresarios para dólar, inflación y riesgo país en 2027",
         "summary": "El próximo año electoral ya aparece en las previsiones de ejecutivos y bancos, mientras la estabilización entra en una etapa más lenta",
@@ -513,30 +659,6 @@
         "is_general": true
       },
       {
-        "title": "Juan Politi, CEO de Allaria, tras la suba del riesgo país: \"Al mercado también le preocupan los datos de la economía real\"",
-        "summary": "El ejecutivo diferenció la situación del país en el corto y largo plazo. Por un lado, advirtió que el contexto electoral traerá más volatilidad a las inversiones. Por otro, sostuvo que la restricción externa ya no será un problema a futuro.",
-        "link": "https://www.ambito.com/economia/juan-politi-ceo-allaria-la-suba-del-riesgo-pais-al-mercado-tambien-le-preocupan-los-datos-la-real-n6328737",
-        "source": "Ámbito",
-        "time": "01/10 15:43",
-        "iso_date": "2026-10-01T18:43:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Juan Politi, CEO de Allaria, tras la suba del riesgo país: \"Al mercado también le preocupan los datos de la economía real\"",
-        "summary": "El ejecutivo diferenció la situación del país en el corto y largo plazo. Por un lado, advirtió que el contexto electoral traerá más volatilidad a las inversiones. Por otro, sostuvo que la restricción externa ya no será un problema a futuro.",
-        "link": "https://www.ambito.com/economia/juan-politi-ceo-allaria-la-suba-del-riesgo-pais-al-mercado-tambien-le-preocupan-los-datos-la-real-n6328737",
-        "source": "Ámbito Mercados",
-        "time": "01/10 15:43",
-        "iso_date": "2026-10-01T18:43:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Tasa que refleja el riesgo electoral se disparó en Argentina y reduce margen del programa financiero",
         "summary": "La tasa forward implícita entre Bonares 2027 y 2028, que observan inversores para medir el riesgo electoral, se disparó a 20% esta semana. Analistas anticipan que el repunte puede complicar o al menos quitar opcionalidades al programa financiero del Gobierno.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/tasa-que-refleja-el-riesgo-electoral-se-disparo-en-argentina-y-reduce-margen-del-programa-financiero/",
@@ -579,18 +701,6 @@
         "source": "Infobae Economía",
         "time": "30/09 17:24",
         "iso_date": "2026-09-30T20:24:18+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Repuntaron los bonos y cayó el riesgo país pero el mercado limita el horizonte a octubre de 2027",
-        "summary": "Las compras del Banco Central impulsaron a la deuda, aunque la brecha de rendimientos entre vencimientos refleja cautela ante el calendario electoral",
-        "link": "https://www.infobae.com/economia/2026/09/30/repuntaron-los-bonos-y-cayo-el-riesgo-pais-pero-el-mercado-limita-el-horizonte-a-octubre-de-2027/",
-        "source": "Infobae Economía",
-        "time": "30/09 03:05",
-        "iso_date": "2026-09-30T06:05:10+00:00",
         "tickers": [
           "AL30"
         ],
