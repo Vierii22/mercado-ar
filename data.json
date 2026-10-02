@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-02T01:12:52.057752",
-  "updated_str": "02/10/2026 01:12",
+  "updated_at": "2026-10-02T04:04:57.301981",
+  "updated_str": "02/10/2026 04:04",
   "summary": {
-    "change": -2.18,
+    "change": NaN,
     "leader": "TXAR",
     "leader_change": -1.05,
     "worst": "TECO2",
     "worst_change": -4.28,
     "hot_count": 0,
-    "cold_count": 7
+    "cold_count": 6
   },
   "stocks": [
     {
@@ -43,12 +43,12 @@
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 5865.0,
-      "change": -3.06,
+      "price": NaN,
+      "change": NaN,
       "volume": 5552826,
       "volume_ratio": 2.53,
       "hot": false,
-      "cold": true,
+      "cold": false,
       "trend": [
         6685.0,
         6665.0,
@@ -59,14 +59,14 @@
         6020.0,
         6000.0,
         6050.0,
-        5865.0
+        NaN
       ],
-      "trend_dir": "down",
-      "trend_streak": 4,
-      "ma5": 6045.0,
-      "ma20": 6617.83,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 23,
+      "score": 89,
       "signal": "fuerte_baja"
     },
     {
