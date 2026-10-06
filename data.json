@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T01:59:35.828229",
-  "updated_str": "06/10/2026 01:59",
+  "updated_at": "2026-10-06T04:54:00.089434",
+  "updated_str": "06/10/2026 04:54",
   "summary": {
-    "change": 3.4,
-    "leader": "TECO2",
-    "leader_change": 5.22,
+    "change": NaN,
+    "leader": "BMA",
+    "leader_change": 5.14,
     "worst": "TXAR",
     "worst_change": -0.22,
-    "hot_count": 5,
+    "hot_count": 3,
     "cold_count": 0
   },
   "stocks": [
@@ -43,11 +43,11 @@
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 6135.0,
-      "change": 5.14,
+      "price": NaN,
+      "change": NaN,
       "volume": 4937103,
       "volume_ratio": 2.31,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         6640.0,
@@ -59,15 +59,15 @@
         6050.0,
         5865.0,
         5835.0,
-        6135.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 5977.0,
-      "ma20": 6519.75,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
       "score": 88,
-      "signal": "fuerte_suba"
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "PAMP",
@@ -159,8 +159,8 @@
     {
       "ticker": "ALUA",
       "name": "Aluar",
-      "price": 830.0,
-      "change": 1.59,
+      "price": NaN,
+      "change": NaN,
       "volume": 309419,
       "volume_ratio": 0.89,
       "hot": false,
@@ -175,24 +175,24 @@
         825.0,
         812.0,
         817.0,
-        830.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 817.3,
-      "ma20": 847.58,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 56,
-      "signal": "suba"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "TECO2",
       "name": "Telecom AR",
-      "price": 4032.5,
-      "change": 5.22,
+      "price": NaN,
+      "change": NaN,
       "volume": 69092,
       "volume_ratio": 0.44,
-      "hot": true,
+      "hot": false,
       "cold": false,
       "trend": [
         4555.0,
@@ -204,15 +204,15 @@
         3972.5,
         3802.5,
         3832.5,
-        4032.5
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 3914.0,
-      "ma20": 4235.0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
       "score": 80,
-      "signal": "fuerte_suba"
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "CEPU",
