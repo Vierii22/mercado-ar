@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-06T16:38:36.813743",
-  "updated_str": "06/10/2026 16:38",
+  "updated_at": "2026-10-06T17:28:19.957300",
+  "updated_str": "06/10/2026 17:28",
   "cutoff_hours": 48,
-  "total_news": 230,
+  "total_news": 236,
   "news": {
     "GENERAL": [
+      {
+        "title": "El riesgo país bajó a 575 puntos y los activos argentinos extienden el rebote",
+        "summary": "El buen desempeño de la deuda local y la reacción positiva de los mercados externos brindaron nuevos impulsos a los activos argentinos en alza",
+        "link": "https://www.iprofesional.com/finanzas/466019-el-riesgo-pais-cayo-80-puntos-desde-el-maximo-de-octubre-y-llego-a-575",
+        "source": "iProfesional",
+        "time": "06/10 14:05",
+        "iso_date": "2026-10-06T17:05:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La deuda detrás de Flybondi: organismos, proveedores, empleados y pasajeros esperan cobrar",
+        "summary": "El proceso judicial deberá ordenar reclamos dispersos entre organismos públicos, proveedores, trabajadores y pasajeros, para preservar la continuidad",
+        "link": "https://www.iprofesional.com/negocios/465994-deuda-de-flybondi-a-quienes-les-debe-y-que-negociara-en-la-justicia",
+        "source": "iProfesional",
+        "time": "06/10 13:37",
+        "iso_date": "2026-10-06T16:37:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El desempleo desplaza a la inflación como principal preocupación de los argentinos, según Management & Fit",
         "summary": "La desocupación pasó al primer lugar entre los principales problemas del país y desplazó a los aumentos de precios y tarifas. Según la directora de Management & Fit, no ocurría desde 2012. También creció la preocupación por perder el empleo.",
@@ -288,28 +310,6 @@
         "iso_date": "2026-10-06T04:30:52+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Más ricos que nunca: el auge de la IA disparó las fortunas de un grupo de magnates tecnológicos a niveles que nunca se vieron",
-        "summary": "El índice de Bloomberg atribuye el avance al alza de las acciones del sector en Estados Unidos, cuyos grandes patrimonios suman ahora USD 4,6 billones, el 36% del total de las 500 mayores fortunas",
-        "link": "https://www.infobae.com/economia/2026/10/06/mas-ricos-que-nunca-el-auge-de-la-ia-disparo-las-fortunas-de-un-grupo-de-magnates-tecnologicos-a-niveles-que-nunca-se-vieron/",
-        "source": "Infobae Economía",
-        "time": "06/10 01:30",
-        "iso_date": "2026-10-06T04:30:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Elecciones en Brasil: cuál fue el factor inesperado que cambió el ánimo de los inversores argentinos",
-        "summary": "El triunfo de Flavio Bolsonaro impulsó los bonos y las acciones locales, redujo el riesgo país y atenuó el impacto de la suba de las tasas en Estados Unidos",
-        "link": "https://www.infobae.com/economia/2026/10/06/elecciones-en-brasil-cual-fue-el-factor-inesperado-que-cambio-el-animo-de-los-inversores-argentinos/",
-        "source": "Infobae Economía",
-        "time": "06/10 01:30",
-        "iso_date": "2026-10-06T04:30:04+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -346,6 +346,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país bajó a 575 puntos y los activos argentinos extienden el rebote",
+        "summary": "El buen desempeño de la deuda local y la reacción positiva de los mercados externos brindaron nuevos impulsos a los activos argentinos en alza",
+        "link": "https://www.iprofesional.com/finanzas/466019-el-riesgo-pais-cayo-80-puntos-desde-el-maximo-de-octubre-y-llego-a-575",
+        "source": "iProfesional",
+        "time": "06/10 14:05",
+        "iso_date": "2026-10-06T17:05:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país argentino vuelve a caer con fuerza ante una mejoría del ánimo inversor",
         "summary": "Los bonos en dólares suben un 1% y el indicador de JP Morgan cede a los 575 puntos. El S&P Merval avanza 0,5%, impulsado por la suba de las bolsas en Wall Street y San Pablo",
