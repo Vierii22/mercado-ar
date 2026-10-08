@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-08T23:42:00.761782",
-  "updated_str": "08/10/2026 23:42",
+  "updated_at": "2026-10-08T23:48:48.994782",
+  "updated_str": "08/10/2026 23:48",
   "cutoff_hours": 48,
   "total_news": 245,
   "news": {
     "GENERAL": [
+      {
+        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
+        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
+        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
+        "source": "Infobae Economía",
+        "time": "08/10 20:44",
+        "iso_date": "2026-10-08T23:44:25+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF se queda con el 100% de su empresa de energía eléctrica tras una inversión de u$s430 M",
         "summary": "Acordó adquirir la participación que está en manos del fondo BNR Power Investments y podrá integrar la totalidad de los resultados de la generadora",
@@ -12,18 +24,6 @@
         "source": "iProfesional",
         "time": "08/10 20:18",
         "iso_date": "2026-10-08T23:18:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
-        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
-        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
-        "source": "Infobae Economía",
-        "time": "08/10 20:11",
-        "iso_date": "2026-10-08T23:11:43+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -318,24 +318,24 @@
     ],
     "YPFD": [
       {
-        "title": "YPF se queda con el 100% de su empresa de energía eléctrica tras una inversión de u$s430 M",
-        "summary": "Acordó adquirir la participación que está en manos del fondo BNR Power Investments y podrá integrar la totalidad de los resultados de la generadora",
-        "link": "https://www.iprofesional.com/energia/466246-ypf-se-queda-con-el-100-de-su-empresa-de-energia-electrica-tras-una-inversion-de-us430-m",
-        "source": "iProfesional",
-        "time": "08/10 20:18",
-        "iso_date": "2026-10-08T23:18:00+00:00",
+        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
+        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
+        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
+        "source": "Infobae Economía",
+        "time": "08/10 20:44",
+        "iso_date": "2026-10-08T23:44:25+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
-        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
-        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
-        "source": "Infobae Economía",
-        "time": "08/10 20:11",
-        "iso_date": "2026-10-08T23:11:43+00:00",
+        "title": "YPF se queda con el 100% de su empresa de energía eléctrica tras una inversión de u$s430 M",
+        "summary": "Acordó adquirir la participación que está en manos del fondo BNR Power Investments y podrá integrar la totalidad de los resultados de la generadora",
+        "link": "https://www.iprofesional.com/energia/466246-ypf-se-queda-con-el-100-de-su-empresa-de-energia-electrica-tras-una-inversion-de-us430-m",
+        "source": "iProfesional",
+        "time": "08/10 20:18",
+        "iso_date": "2026-10-08T23:18:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -361,8 +361,8 @@
         "time": "08/10 05:30",
         "iso_date": "2026-10-08T08:30:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -413,8 +413,8 @@
         "time": "08/10 05:30",
         "iso_date": "2026-10-08T08:30:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
