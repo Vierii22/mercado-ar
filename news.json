@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-10-08T01:27:37.403199",
-  "updated_str": "08/10/2026 01:27",
+  "updated_at": "2026-10-08T04:32:31.312355",
+  "updated_str": "08/10/2026 04:32",
   "cutoff_hours": 48,
-  "total_news": 253,
+  "total_news": 254,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno llegaría a las elecciones con recuperación económica modesta y una baja de la inflación a casi 20% anual",
+        "summary": "La economía sufrió una caída en el tercer trimestre, lo que implica entrar en “recesión técnica”. Sin embargo, se vislumbra un repunte para fin de año, mientras se consolida el proceso de desinflación",
+        "link": "https://www.infobae.com/economia/2026/10/08/el-gobierno-llegaria-a-las-elecciones-con-recuperacion-economica-modesta-y-una-baja-de-la-inflacion-a-casi-20-anual/",
+        "source": "Infobae Economía",
+        "time": "08/10 01:14",
+        "iso_date": "2026-10-08T04:14:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Banco Central acelera el ritmo de compra de dólares, pero los pagos de deuda limitan la acumulación de reservas",
+        "summary": "Tras las charlas con los técnicos del FMI, el BCRA agilizó las adquisiciones de divisas, pero aún no logra retener buena parte por los pagos de deuda. La falta de colocaciones en el mercado local suma presión",
+        "link": "https://www.infobae.com/economia/2026/10/08/el-banco-central-acelera-el-ritmo-de-compra-de-dolares-pero-los-pagos-de-deuda-limitan-la-acumulacion-de-reservas/",
+        "source": "Infobae Economía",
+        "time": "08/10 01:14",
+        "iso_date": "2026-10-08T04:14:24+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados volátiles: la caída de los bonos globales arrastró a la Argentina y el riesgo país se acercó a los 600 puntos",
+        "summary": "Las tasas largas de Estados Unidos, la debilidad de Wall Street y la incertidumbre sobre nuevas decisiones de la Reserva Federal condicionaron a los activos locales, aunque el dólar oficial bajó y el Banco Central volvió a comprar divisas",
+        "link": "https://www.infobae.com/economia/2026/10/08/mercados-volatiles-la-caida-de-los-bonos-globales-arrastro-a-la-argentina-y-el-riesgo-pais-se-acerco-a-los-600-puntos/",
+        "source": "Infobae Economía",
+        "time": "08/10 01:12",
+        "iso_date": "2026-10-08T04:12:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La Coparticipación: una deuda impaga desde 1996",
+        "summary": "A treinta años del mandato constitucional incumplido de sancionar una nueva Ley de Coparticipación, el CeATS presentó el Observatorio de Federalismo Fiscal en una jornada realizada en el Senado de la Nación",
+        "link": "https://www.infobae.com/opinion/2026/10/08/la-coparticipacion-una-deuda-impaga-desde-1996/",
+        "source": "Infobae Economía",
+        "time": "08/10 01:11",
+        "iso_date": "2026-10-08T04:11:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Malestar y preocupación entre empresarios cercanos a Milei por nuevos ataques e insultos",
         "summary": "Temen que los ataques \"escatológicos\" de Milei a la prensa y a empresarios impidan inversiones en un momento de estancamiento de la economía",
@@ -272,52 +314,6 @@
         "iso_date": "2026-10-07T19:07:19+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Riesgo país amenaza con cortar la lluvia de dólares por emisiones de provincias y empresas",
-        "summary": "Se diluyó el efecto Bolsonaro y el indicador volvió a acercarse a los 600 puntos. Cómo puede impactar en la emisión de empresas y provincias",
-        "link": "https://www.iprofesional.com/finanzas/465550-el-riesgo-pais-amenaza-con-cerrar-una-importante-canilla-de-dolares",
-        "source": "iProfesional",
-        "time": "07/10 16:00",
-        "iso_date": "2026-10-07T19:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país vuelve a subir y el Citi alerta que Argentina recibe castigo desproporcionado",
-        "summary": "El spread soberano vuelve a amenazar con cruzar el techo de los 600 puntos básicos. Argentina aún tiene el riesgo país más alto de la región",
-        "link": "https://www.iprofesional.com/finanzas/465627-el-citi-dio-las-razones-tras-el-castigo-desproporcionado-al-mercado-argentino",
-        "source": "iProfesional",
-        "time": "07/10 16:00",
-        "iso_date": "2026-10-07T19:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El dólar volvió a bajar y la brecha con el techo de las bandas es la más amplia en un año y medio",
-        "summary": "La divisa mayorista cedió a $1.517, a pesar de una caída en el monto de operaciones. Al público continuó a $1.540 para la venta en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/10/07/el-dolar-volvio-a-bajar-y-la-brecha-con-el-techo-de-las-bandas-es-la-mas-amplia-en-un-ano-y-medio/",
-        "source": "Infobae Economía",
-        "time": "07/10 15:38",
-        "iso_date": "2026-10-07T18:38:12+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Un negocio de hasta USD 1.000 millones: YPF confirmó que producirá en la Argentina el combustible estrella del transporte aéreo",
-        "summary": "La petrolera firmó un acuerdo de venta de largo plazo con TotalEnergies para toda su producción de SAF, el combustible sostenible aviones que es un boom en el mundo. El contrato es la llave para ejecutar el proyecto",
-        "link": "https://www.infobae.com/economia/2026/10/07/un-negocio-de-hasta-usd-1000-millones-ypf-confirmo-que-producira-en-la-argentina-el-combustible-estrella-del-transporte-aereo/",
-        "source": "Infobae Economía",
-        "time": "07/10 15:02",
-        "iso_date": "2026-10-07T18:02:36+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -454,6 +450,18 @@
     ],
     "AL30": [
       {
+        "title": "Mercados volátiles: la caída de los bonos globales arrastró a la Argentina y el riesgo país se acercó a los 600 puntos",
+        "summary": "Las tasas largas de Estados Unidos, la debilidad de Wall Street y la incertidumbre sobre nuevas decisiones de la Reserva Federal condicionaron a los activos locales, aunque el dólar oficial bajó y el Banco Central volvió a comprar divisas",
+        "link": "https://www.infobae.com/economia/2026/10/08/mercados-volatiles-la-caida-de-los-bonos-globales-arrastro-a-la-argentina-y-el-riesgo-pais-se-acerco-a-los-600-puntos/",
+        "source": "Infobae Economía",
+        "time": "08/10 01:12",
+        "iso_date": "2026-10-08T04:12:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Jornada financiera: el escenario global jugó en contra de los activos argentinos y volvió a subir el riesgo país",
         "summary": "El S&P Merval cayó 2,5%, arrastrado por las bajas de las bolsas de Nueva York y San Pablo. El indicador de JP Morgan avanzó a 586 puntos. El dólar siguió a $1.540 en el Banco Nación y el BCRA compró USD 45 millones en el mercado",
         "link": "https://www.infobae.com/economia/2026/10/07/jornada-financiera-el-escenario-global-jugo-en-contra-de-los-activos-argentinos-y-volvio-a-subir-el-riesgo-pais/",
@@ -556,18 +564,6 @@
         "source": "Infobae Economía",
         "time": "06/10 17:35",
         "iso_date": "2026-10-06T20:35:32+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Elecciones en Brasil: cuál fue el factor inesperado que cambió el ánimo de los inversores argentinos",
-        "summary": "El triunfo de Flavio Bolsonaro impulsó los bonos y las acciones locales, redujo el riesgo país y atenuó el impacto de la suba de las tasas en Estados Unidos",
-        "link": "https://www.infobae.com/economia/2026/10/06/elecciones-en-brasil-cual-fue-el-factor-inesperado-que-cambio-el-animo-de-los-inversores-argentinos/",
-        "source": "Infobae Economía",
-        "time": "06/10 01:30",
-        "iso_date": "2026-10-06T04:30:04+00:00",
         "tickers": [
           "AL30"
         ],
