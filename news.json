@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-10-08T21:27:00.024555",
-  "updated_str": "08/10/2026 21:27",
+  "updated_at": "2026-10-08T21:53:18.140496",
+  "updated_str": "08/10/2026 21:53",
   "cutoff_hours": 48,
-  "total_news": 295,
+  "total_news": 291,
   "news": {
     "GENERAL": [
       {
+        "title": "El oro del BCRA: la AGN dice que el organismo especuló con el precio del metal, “erró el cálculo” y perdió más de USD 1.000 millones",
+        "summary": "Según el organismo auditor, las operaciones con derivados, que tomaron parte del oro de las reservas como respaldo, se pagaron con divisas de la entidad. Un segundo informe sobre el traslado del metal al exterior ya está en el BCRA para su descargo",
+        "link": "https://www.infobae.com/economia/2026/10/08/el-oro-del-bcra-la-agn-dice-que-el-organismo-especulo-con-el-precio-del-metal-erro-el-calculo-y-perdio-mas-de-usd-1000-millones/",
+        "source": "Infobae Economía",
+        "time": "08/10 18:45",
+        "iso_date": "2026-10-08T21:45:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas subieron hasta 5% y el riesgo país tuvo una leve baja",
+        "summary": "Los índices de Nueva York perdieron hasta 1,3%, aunque las acciones argentinas avanzaron hasta 5% y el S&P Merval ganó 0,3%. El riesgo país cedió a 588 puntos. El dólar siguió a $1.540 en el Banco Nación y el BCRA compró USD 43 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/08/jornada-financiera-las-acciones-argentinas-subieron-hasta-5-y-el-riesgo-pais-tuvo-una-leve-baja/",
+        "source": "Infobae Economía",
+        "time": "08/10 18:42",
+        "iso_date": "2026-10-08T21:42:40+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Milei avanza con más privatizaciones tras AySA: cuáles siguen y cuánto espera recaudar",
+        "summary": "El Gobierno proyecta ingresos por u$s2.300 millones entre este año y el 2027 y prepara nuevas licitaciones con Belgrano Cargas como próxima operación",
+        "link": "https://www.iprofesional.com/negocios/466227-cuales-son-las-empresas-que-quiere-privatizar-milei-tras-aysa",
+        "source": "iProfesional",
+        "time": "08/10 18:35",
+        "iso_date": "2026-10-08T21:35:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "La AGN reveló que el BCRA perdió más de u$s1.000 millones por operaciones con el oro",
-        "summary": "La investigación de la Auditoría General de la Nación presentó un informe sobre las operaciones que usaron el oro de las reservas como respaldo",
+        "summary": "La Auditoría General de la Nación presentó un informe en el que reveló que el BCRA usó el oro de las reservas como respaldo para operaciones",
         "link": "https://www.iprofesional.com/finanzas/466235-la-agn-revelo-que-el-bcra-perdio-mas-de-us1000-millones-por-operaciones-con-el-oro",
         "source": "iProfesional",
         "time": "08/10 18:19",
@@ -57,16 +89,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "El oro del BCRA: la AGN dice que el organismo especuló con el precio del metal, “erró el cálculo” y perdió más de USD 1.000 millones",
-        "summary": "Según el organismo auditor, las operaciones con derivados, que tomaron parte del oro de las reservas como respaldo, se pagaron con divisas de la entidad. Un segundo informe sobre el traslado del metal al exterior ya está en el BCRA para su descargo",
-        "link": "https://www.infobae.com/economia/2026/10/08/el-oro-del-bcra-la-agn-dice-que-el-organismo-especulo-con-el-precio-del-metal-erro-el-calculo-y-perdio-mas-de-usd-1000-millones/",
-        "source": "Infobae Economía",
-        "time": "08/10 17:51",
-        "iso_date": "2026-10-08T20:51:42+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -290,26 +312,6 @@
         "iso_date": "2026-10-08T13:30:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El régimen Ciudadanía por inversión de Milei ya tiene proyectos en contra en Diputados",
-        "summary": "El Gobierno quiere ponerlo en marcha este trimestre. La oposición empezó a pedir su derogación con críticas puntuales. El conflicto que asoma",
-        "link": "https://www.iprofesional.com/politica/466147-ciudadania-por-inversion-empiezan-a-surgir-proyectos-para-desactivar-la-medida-de-milei",
-        "source": "iProfesional",
-        "time": "08/10 09:25",
-        "iso_date": "2026-10-08T12:25:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Los peajes de las rutas a la Costa Atlántica aumentan 8,29% desde este viernes",
-        "summary": "La Provincia aprobó una actualización trimestral de las tarifas que cobra AUBASA en el Sistema Vial Integrado del Atlántico. El ajuste se calcula con un coeficiente que combina salarios, precios mayoristas e inflación.",
-        "link": "https://www.ambito.com/los-peajes-las-rutas-la-costa-atlantica-aumentan-829-este-viernes-n6331431",
-        "source": "Ámbito",
-        "time": "08/10 08:45",
-        "iso_date": "2026-10-08T11:45:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -333,8 +335,8 @@
         "time": "08/10 05:30",
         "iso_date": "2026-10-08T08:30:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -385,8 +387,8 @@
         "time": "08/10 05:30",
         "iso_date": "2026-10-08T08:30:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -459,6 +461,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: las acciones argentinas subieron hasta 5% y el riesgo país tuvo una leve baja",
+        "summary": "Los índices de Nueva York perdieron hasta 1,3%, aunque las acciones argentinas avanzaron hasta 5% y el S&P Merval ganó 0,3%. El riesgo país cedió a 588 puntos. El dólar siguió a $1.540 en el Banco Nación y el BCRA compró USD 43 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/08/jornada-financiera-las-acciones-argentinas-subieron-hasta-5-y-el-riesgo-pais-tuvo-una-leve-baja/",
+        "source": "Infobae Economía",
+        "time": "08/10 18:42",
+        "iso_date": "2026-10-08T21:42:40+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street",
         "summary": "Los indicadores de Nueva York cayeron frente a una suba de 3% para el petróleo, dato que incrementó la preocupación por la inflación. El S&P Merval ganó 0,3% y los bonos, un 0,5% en promedio",
@@ -538,18 +552,6 @@
         "source": "El Economista",
         "time": "06/10 19:41",
         "iso_date": "2026-10-06T22:41:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Otra jornada financiera “verde”: el récord de Wall Street sostuvo las ganancias de activos locales y volvió a bajar el riesgo país",
-        "summary": "Los bonos en dólares subieron un 1% y el indicador de JP Morgan cedió a los 573 puntos. El S&P Merval avanzó 1 por ciento. El dólar siguió a $1.540 en el Banco Nación y el BCRA compró USD 41 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/06/otra-jornada-financiera-verde-el-record-de-wall-street-sostuvo-las-ganancias-de-activos-locales-y-volvio-a-bajar-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "06/10 18:36",
-        "iso_date": "2026-10-06T21:36:18+00:00",
         "tickers": [
           "AL30"
         ],
