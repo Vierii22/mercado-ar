@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-08T20:00:59.432370",
-  "updated_str": "08/10/2026 20:00",
+  "updated_at": "2026-10-08T20:21:30.656381",
+  "updated_str": "08/10/2026 20:21",
   "cutoff_hours": 48,
-  "total_news": 247,
+  "total_news": 246,
   "news": {
     "GENERAL": [
+      {
+        "title": "El oro del BCRA: la AGN dice que el organismo especuló con el precio del metal, “erró el cálculo” y perdió más de USD 1.000 millones",
+        "summary": "Según el organismo auditor, las operaciones con derivados, que tomaron parte del oro de las reservas como respaldo, se pagaron con divisas de la entidad. Un segundo informe sobre el traslado del metal al exterior ya está en el BCRA para su descargo",
+        "link": "https://www.infobae.com/economia/2026/10/08/el-oro-del-bcra-la-agn-dice-que-el-organismo-especulo-con-el-precio-del-metal-erro-el-calculo-y-perdio-mas-de-usd-1000-millones/",
+        "source": "Infobae Economía",
+        "time": "08/10 17:18",
+        "iso_date": "2026-10-08T20:18:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mercados: suben las acciones argentinas y baja el riesgo país pese a la rueda negativa de Wall Street",
+        "summary": "Los indicadores de Nueva York caen frente a una suba de 4% para el petróleo, dato que incrementa la preocupación por la inflación. El S&P Merval gana 0,3% y los ADR rebotan",
+        "link": "https://www.infobae.com/economia/2026/10/08/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-pese-a-la-rueda-negativa-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "08/10 17:01",
+        "iso_date": "2026-10-08T20:01:01+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Inflación de septiembre: tras la aceleración de CABA, el IPC podría subir por el aumento de alimentos y energía",
         "summary": "Los estacionales pegaron un salto en septiembre tras la deflación de agosto. Los alimentos, vivienda y salud encabezaron los avances.",
@@ -156,18 +178,6 @@
         "is_general": true
       },
       {
-        "title": "Mercados: suben las acciones argentinas y baja el riesgo país pese a la rueda negativa de Wall Street",
-        "summary": "Los indicadores de Nueva York caen frente a una suba de 4% para el petróleo, dato que incrementa la preocupación por la inflación. El S&P Merval gana 0,9% y los ADR rebotan hasta 3%",
-        "link": "https://www.infobae.com/economia/2026/10/08/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-pese-a-la-rueda-negativa-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "08/10 11:43",
-        "iso_date": "2026-10-08T14:43:19+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Inflación CABA: los alimentos y la vivienda impulsaron los precios en septiembre",
         "summary": "Los aumentos de alimentos, servicios y alquileres lideraron el encarecimiento en septiembre según el último informe de evolución de precios oficial",
         "link": "https://www.iprofesional.com/economia/466190-inflacion-caba-subio-1-8-por-ciento-rubros-pegaron-bolsillo-octubre-2026",
@@ -208,16 +218,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "S&P 500 retrocede mientras el petróleo supera los US$104 y aumentan los temores inflacionarios",
-        "summary": "El encarecimiento del petróleo reaviva los temores inflacionarios y refuerza las expectativas de nuevas alzas de tasas por parte de la Reserva Federal.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-retrocede-mientras-el-petroleo-supera-los-us104-y-aumentan-los-temores-inflacionarios/",
-        "source": "Bloomberg Línea AR",
-        "time": "08/10 10:45",
-        "iso_date": "2026-10-08T13:45:21+00:00",
-        "tickers": [],
-        "is_general": true
       },
       {
         "title": "Plazo fijo o dólar: cuál sería la mejor inversión durante los próximos 6 meses",
@@ -425,11 +425,11 @@
     "AL30": [
       {
         "title": "Mercados: suben las acciones argentinas y baja el riesgo país pese a la rueda negativa de Wall Street",
-        "summary": "Los indicadores de Nueva York caen frente a una suba de 4% para el petróleo, dato que incrementa la preocupación por la inflación. El S&P Merval gana 0,9% y los ADR rebotan hasta 3%",
+        "summary": "Los indicadores de Nueva York caen frente a una suba de 4% para el petróleo, dato que incrementa la preocupación por la inflación. El S&P Merval gana 0,3% y los ADR rebotan",
         "link": "https://www.infobae.com/economia/2026/10/08/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-pese-a-la-rueda-negativa-de-wall-street/",
         "source": "Infobae Economía",
-        "time": "08/10 11:43",
-        "iso_date": "2026-10-08T14:43:19+00:00",
+        "time": "08/10 17:01",
+        "iso_date": "2026-10-08T20:01:01+00:00",
         "tickers": [
           "AL30"
         ],
