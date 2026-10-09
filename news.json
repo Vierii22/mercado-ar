@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-09T21:30:49.693199",
-  "updated_str": "09/10/2026 21:30",
+  "updated_at": "2026-10-09T21:48:08.572131",
+  "updated_str": "09/10/2026 21:48",
   "cutoff_hours": 48,
-  "total_news": 283,
+  "total_news": 279,
   "news": {
     "GENERAL": [
+      {
+        "title": "Jornada financiera: las acciones y los bonos argentinos cayeron pese a la mejora global y el riesgo país tuvo una leve suba",
+        "summary": "Mientras que Wall Street y San Pablo negociaron en zona de récord, el S&P Merval cedió 0,2% y el riesgo país subió un punto, a 589 unidades. El dólar bajó a $1.535 en el Banco Nación y el BCRA compró USD 69 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/09/jornada-financiera-las-acciones-y-los-bonos-argentinos-cayeron-pese-a-la-mejora-global-y-el-riesgo-pais-tuvo-una-leve-suba/",
+        "source": "Infobae Economía",
+        "time": "09/10 18:40",
+        "iso_date": "2026-10-09T21:40:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las acciones y los bonos argentinos cerraron con escasa reacción a las alzas del exterior",
         "summary": "Los índices de Nueva York ganaron hasta 0,8% y la Bolsa de San Pablo ascendió 1,4%. El S&P Merval restó 0,2% y los bonos cerraron mixtos, con un riesgo país en los 589 puntos",
@@ -306,16 +318,6 @@
         "iso_date": "2026-10-09T13:39:55+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Créditos UVA en octubre de 2026: cuáles son los bancos con las tasas más bajas y qué proporción cuota/ingreso piden",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/creditos-uva-en-octubre-de-2026-cuales-son-los-bancos-con-las-tasas-mas-bajas-y-que-proporcion-cuotaingreso-piden/",
-        "source": "El Cronista",
-        "time": "09/10 10:13",
-        "iso_date": "2026-10-09T13:13:07+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -400,8 +402,8 @@
         "time": "09/10 06:00",
         "iso_date": "2026-10-09T09:00:00+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": true
       },
@@ -437,8 +439,8 @@
         "time": "08/10 05:30",
         "iso_date": "2026-10-08T08:30:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -453,8 +455,8 @@
         "time": "08/10 05:30",
         "iso_date": "2026-10-08T08:30:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -524,13 +526,25 @@
         "time": "09/10 06:00",
         "iso_date": "2026-10-09T09:00:00+00:00",
         "tickers": [
-          "CEPU",
-          "YPFD"
+          "YPFD",
+          "CEPU"
         ],
         "is_general": true
       }
     ],
     "AL30": [
+      {
+        "title": "Jornada financiera: las acciones y los bonos argentinos cayeron pese a la mejora global y el riesgo país tuvo una leve suba",
+        "summary": "Mientras que Wall Street y San Pablo negociaron en zona de récord, el S&P Merval cedió 0,2% y el riesgo país subió un punto, a 589 unidades. El dólar bajó a $1.535 en el Banco Nación y el BCRA compró USD 69 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/09/jornada-financiera-las-acciones-y-los-bonos-argentinos-cayeron-pese-a-la-mejora-global-y-el-riesgo-pais-tuvo-una-leve-suba/",
+        "source": "Infobae Economía",
+        "time": "09/10 18:40",
+        "iso_date": "2026-10-09T21:40:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las acciones y los bonos argentinos cerraron con escasa reacción a las alzas del exterior",
         "summary": "Los índices de Nueva York ganaron hasta 0,8% y la Bolsa de San Pablo ascendió 1,4%. El S&P Merval restó 0,2% y los bonos cerraron mixtos, con un riesgo país en los 589 puntos",
@@ -610,18 +624,6 @@
         "source": "Infobae Economía",
         "time": "08/10 01:12",
         "iso_date": "2026-10-08T04:12:14+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el escenario global jugó en contra de los activos argentinos y volvió a subir el riesgo país",
-        "summary": "El S&P Merval cayó 2,5%, arrastrado por las bajas de las bolsas de Nueva York y San Pablo. El indicador de JP Morgan avanzó a 586 puntos. El dólar siguió a $1.540 en el Banco Nación y el BCRA compró USD 45 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/07/jornada-financiera-el-escenario-global-jugo-en-contra-de-los-activos-argentinos-y-volvio-a-subir-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "07/10 18:30",
-        "iso_date": "2026-10-07T21:30:51+00:00",
         "tickers": [
           "AL30"
         ],
