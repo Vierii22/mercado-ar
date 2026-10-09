@@ -1,343 +1,410 @@
 {
-  "updated_at": "2026-10-09T04:35:50.731653",
-  "updated_str": "09/10/2026 04:35",
+  "updated_at": "2026-10-09T16:55:31.678824",
+  "updated_str": "09/10/2026 16:55",
   "cutoff_hours": 48,
-  "total_news": 244,
+  "total_news": 304,
   "news": {
     "GENERAL": [
       {
-        "title": "Subsecretaria de Hacienda afirma que riesgo país de México vinculado a Pemex se comprimió",
-        "summary": "María del Carmen Bonilla, subsecretaria de la dependencia federal, dijo que hay evidencia de que la economía mexicana crecerá con impulso de la inversión pública y privada.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/subsecretaria-de-hacienda-afirma-que-riesgo-pais-de-mexico-vinculado-a-pemex-se-comprimio/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/10 00:08",
-        "iso_date": "2026-10-09T03:08:40+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Del Movistar Arena a Milei Media: el Presidente estrena una versión ampliada de su recital",
+        "title": "Tras semanas de críticas y diferencias, Bullrich se reunió con Milei: “Conversación profunda, con total sinceridad”",
         "summary": "",
-        "link": "https://www.cronista.com/economia-politica/del-movistar-arena-a-milei-media-el-presidente-estrena-una-version-ampliada-de-su-recital-con-la-banda-presidencial/",
+        "link": "https://www.cronista.com/economia-politica/tras-semanas-de-criticas-y-diferencias-bullrich-se-reunio-con-milei-conversacion-profunda-con-total-sinceridad/",
         "source": "El Cronista",
-        "time": "08/10 22:27",
-        "iso_date": "2026-10-09T01:27:09+00:00",
+        "time": "09/10 13:48",
+        "iso_date": "2026-10-09T16:48:38+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
-        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
-        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
+        "title": "Aeropuertos Argentina anunció el mayor plan de inversión de su historia: desembolsará USD 1.500 millones en los próximos 5 años",
+        "summary": "Se construirán nuevas terminales en Ezeiza, se ampliará Aeroparque y se harán obras en 33 terminales aéreas. El objetivo es hacer frente al crecimiento de la actividad aerocomercial",
+        "link": "https://www.infobae.com/economia/2026/10/09/aeropuertos-argentina-anuncio-el-mayor-plan-de-inversion-de-su-historia-desembolsara-usd-1500-millones-en-los-proximos-5-anos/",
         "source": "Infobae Economía",
-        "time": "08/10 20:44",
-        "iso_date": "2026-10-08T23:44:25+00:00",
+        "time": "09/10 13:47",
+        "iso_date": "2026-10-09T16:47:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Argentina cara o barata?: cómo están los precios locales en dólares en comparación con los del resto del mundo",
+        "summary": "La depreciación de la moneda chilena modificó el orden regional en julio, pese a que el costo local medido en moneda estadounidense registró una leve disminución",
+        "link": "https://www.infobae.com/economia/2026/10/09/argentina-cara-o-barata-como-estan-los-precios-locales-en-dolares-en-comparacion-con-los-del-resto-del-mundo/",
+        "source": "Infobae Economía",
+        "time": "09/10 13:43",
+        "iso_date": "2026-10-09T16:43:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Empleadas domésticas: de cuánto es el aumento de octubre y cómo se liquida con los adicionales por antigüedad y zona desfavorable",
+        "summary": "El personal de casas particulares tendrá nuevos salarios mínimos a partir de octubre.",
+        "link": "https://www.cronista.com/economia-politica/empleadas-domesticas-de-cuanto-es-el-aumento-de-octubre-y-como-se-liquida-con-los-adicionales-por-antiguedad-y-zona-desfavorable/",
+        "source": "El Cronista",
+        "time": "09/10 13:35",
+        "iso_date": "2026-10-09T16:35:33+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "La confianza del consumidor en EEUU cayó a su nivel más bajo en cinco meses",
+        "summary": "El impacto inflacionario de la guerra en Medio Oriente se hizo sentir en la población estadounidense. El dato se conoce a solo un mes de las elecciones de medio término en EEUU.",
+        "link": "https://www.ambito.com/economia/la-confianza-del-consumidor-eeuu-cayo-su-nivel-mas-cinco-meses-n6332014",
+        "source": "Ámbito",
+        "time": "09/10 13:09",
+        "iso_date": "2026-10-09T16:09:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Neuquén alcanzó un nuevo hito de recaudación por el boom de Vaca Muerta",
+        "summary": "La actividad petrolera impulsó la recaudación del distrito hasta montos inéditos durante septiembre. Las regalías del sector energético explicaron cerca de la mitad de los fondos",
+        "link": "https://www.infobae.com/economia/2026/10/09/neuquen-alcanzo-un-nuevo-hito-de-recaudacion-por-el-boom-de-vaca-muerta/",
+        "source": "Infobae Economía",
+        "time": "09/10 13:02",
+        "iso_date": "2026-10-09T16:02:37+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "YPF se queda con el 100% de su empresa de energía eléctrica tras una inversión de u$s430 M",
-        "summary": "Acordó adquirir la participación que está en manos del fondo BNR Power Investments y podrá integrar la totalidad de los resultados de la generadora",
-        "link": "https://www.iprofesional.com/energia/466246-ypf-se-queda-con-el-100-de-su-empresa-de-energia-electrica-tras-una-inversion-de-us430-m",
+        "title": "El mercado busca refugio ante el riesgo electoral y apunta a estos bonos argentinos",
+        "summary": "Con la volatilidad al alza y el temor electoral, los inversores redireccionan sus estrategias hacia diversos bonos y deuda privada",
+        "link": "https://www.iprofesional.com/finanzas/466136-los-bonos-argentinos-estrella-para-refugiarse-del-riesgo-electoral",
         "source": "iProfesional",
-        "time": "08/10 20:18",
-        "iso_date": "2026-10-08T23:18:00+00:00",
+        "time": "09/10 13:00",
+        "iso_date": "2026-10-09T16:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "¿Dónde invertir en bonos de América Latina? Las oportunidades que ve Goldman Sachs",
+        "summary": "El banco de inversión analiza las oportunidades en los mercados de renta fija latinoamericanos y distingue entre el potencial de Brasil, las valoraciones de Chile y los riesgos fiscales y monetarios que afectan a Colombia y México.",
+        "link": "https://www.bloomberglinea.com/mercados/donde-invertir-en-bonos-de-america-latina-las-oportunidades-que-ve-goldman-sachs/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 12:58",
+        "iso_date": "2026-10-09T15:58:43+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Suben las acciones argentinas y baja el riesgo país, con el empuje de Wall Street y Brasil",
+        "summary": "Los índices de Nueva York ganan 0,3% y la Bolsa de San Pablo asciende 1,6%. El S&P Merval gana 0,5% y los bonos en dólares avanzan 0,1%",
+        "link": "https://www.infobae.com/economia/2026/10/09/suben-las-acciones-argentinas-y-baja-el-riesgo-pais-con-el-empuje-de-wall-street-y-brasil/",
+        "source": "Infobae Economía",
+        "time": "09/10 11:56",
+        "iso_date": "2026-10-09T14:56:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "YPF compra el 25% de YPF Luz: cuánto desembolsa para quedarse con el control total de la compañía",
+        "summary": "La adquisición fue aprobada por el directorio de la petrolera. La generación de YPF Luz equivale aproximadamente al 10% de la energía eléctrica abastecida en el país.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-compra-el-25-de-ypf-luz-cuanto-desembolsa-para-quedarse-con-el-control-total-de-la-compania/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 11:52",
+        "iso_date": "2026-10-09T14:52:51+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "¿Cuánto podría subir el salario mínimo en 2027 y por qué los gremios hablan de entre 8% y 9,5%?",
+        "summary": "Los empresarios ven espacio para un incremento de un solo dígito, en una negociación marcada por la inflación, la productividad y las presiones sobre las finanzas públicas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/cuanto-podria-subir-el-salario-minimo-en-2027-y-por-que-los-gremios-hablan-de-entre-8-y-95/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 11:49",
+        "iso_date": "2026-10-09T14:49:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Un gran banco suizo advierte que la caída del salario y el empleo resienten las chances electorales de Javier Milei",
+        "summary": "Aunque el grupo financiero destacó que el Gobierno \"alejó al país de la hiperinflación mediante el ajuste fiscal y la desregulación\", pero advirtió que un giro en las demandas sociales pone el foco en la recuperación del poder adquisitivo.",
+        "link": "https://www.ambito.com/economia/un-gran-banco-suizo-advierte-que-la-caida-del-salario-y-el-empleo-resienten-las-chances-electorales-javier-milei-n6331922",
+        "source": "Ámbito",
+        "time": "09/10 10:43",
+        "iso_date": "2026-10-09T13:43:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Recalienta la inflación? Qué anticipan las principales consultoras para el dato de septiembre",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/recalienta-la-inflacion-que-anticipan-las-principales-consultoras-para-el-dato-de-septiembre/",
+        "source": "El Cronista",
+        "time": "09/10 10:40",
+        "iso_date": "2026-10-09T13:40:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina se abarata en dólares: qué consumos siguen caros y cuáles son más accesibles",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/argentina-se-abarata-en-dolares-que-consumos-que-siguen-caros-y-cuales-son-mas-accesibles/",
+        "source": "El Cronista",
+        "time": "09/10 10:39",
+        "iso_date": "2026-10-09T13:39:55+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 sube tras mayor claridad sobre ingresos de OpenAI y caída del petróleo",
+        "summary": "Las acciones estadounidenses avanzan ante el renovado optimismo por la inteligencia artificial y el descenso del petróleo, después de que Trump descartara ataques contra Irán antes de noviembre.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-tras-mayor-claridad-sobre-ingresos-de-openai-y-caida-del-petroleo/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 10:39",
+        "iso_date": "2026-10-09T13:39:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este viernes 9 de octubre",
+        "summary": "El billete al público sigue a $1.540 para la venta en el Banco Nación. El blue también es ofrecido a $1.540. El BCRA compró ayer USD 43 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/09/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-9-de-octubre/",
+        "source": "Infobae Economía",
+        "time": "09/10 10:25",
+        "iso_date": "2026-10-09T13:25:45+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Créditos UVA en octubre de 2026: cuáles son los bancos con las tasas más bajas y qué proporción cuota/ingreso piden",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/creditos-uva-en-octubre-de-2026-cuales-son-los-bancos-con-las-tasas-mas-bajas-y-que-proporcion-cuotaingreso-piden/",
+        "source": "El Cronista",
+        "time": "09/10 10:13",
+        "iso_date": "2026-10-09T13:13:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Ya rige la regularización de dólares del colchón con la publicación de Inocencia Fiscal II",
+        "summary": "Ya rige la regularización de dólares del colchón tras publicarse la ley. Analizan el impacto en Ganancias Simplificado y Bienes Personales",
+        "link": "https://www.iprofesional.com/impuestos/466275-inocencia-fiscal-ii-rige-regulacion-dolares-colchon",
+        "source": "iProfesional",
+        "time": "09/10 09:59",
+        "iso_date": "2026-10-09T12:59:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Argentina aprueba inversión RIGI por US$6.400 millones para aumentar producción en Vaca Muerta",
+        "summary": "Se trata de un proyecto de Tecpetrol en la provincia de Neuquén, que había sido anticipado por el ministro de Economía Luis Caputo",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-aprueba-inversion-rigi-por-us6400-millones-para-aumentar-produccion-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 09:56",
+        "iso_date": "2026-10-09T12:56:44+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "RIGI en Vaca Muerta con u$s6432 millones para extraer petróleo y gas",
+        "summary": "Con una inversión histórica, el desarrollo de hidrocarburos no convencionales promete transformar la matriz productiva y laboral neuquina",
+        "link": "https://www.iprofesional.com/energia/466273-rigi-tecpetrol-invertira-6432-millones-de-dolares-en-vaca-muerta-hasta-2054",
+        "source": "iProfesional",
+        "time": "09/10 09:53",
+        "iso_date": "2026-10-09T12:53:00+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "El Banco Central argentino y la AGN protagonizan duro cruce por la gestión de reservas de oro",
-        "summary": "La AGN volvió a apuntar contra la autoridad monetaria por el manejo del oro: “Erró el cálculo y perdió US$1.023 millones”. “La actual conducción de la AGN se encuentra avocada a desprestigiar a la conducción del BCRA, con fines puramente políticos”, respondió el Central.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/el-banco-central-argentino-y-la-agn-protagonizan-duro-cruce-por-la-gestion-de-reservas-de-oro/",
+        "title": "¿La inflación encontró un nuevo piso?: las proyecciones privadas alejan la meta de perforar el 1% mensual en el corto plazo",
+        "summary": "Los privados marcaron en el último Relevamiento de Expectativas de Mercado (REM) que se va a mantener por arriba del 1,6% hasta marzo. Identifican presiones de costos, estacionalidad y expectativas cambiarias",
+        "link": "https://www.infobae.com/economia/2026/10/09/la-inflacion-encontro-un-nuevo-piso-las-proyecciones-privadas-alejan-la-meta-de-perforar-el-1-mensual-en-el-corto-plazo/",
+        "source": "Infobae Economía",
+        "time": "09/10 09:29",
+        "iso_date": "2026-10-09T12:29:52+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Qué esperar de Banxico ahora que abre la puerta a recortar la tasa de interés?",
+        "summary": "La Minuta mostró que tres de los cinco integrantes de la Junta de Gobierno abrieron el debate sobre un posible recorte de tasas, aunque persisten diferencias sobre cuándo podría ocurrir.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/que-esperar-de-banxico-ahora-que-abre-la-puerta-a-recortar-la-tasa-de-interes/",
         "source": "Bloomberg Línea AR",
-        "time": "08/10 20:00",
-        "iso_date": "2026-10-08T23:00:22+00:00",
+        "time": "09/10 09:29",
+        "iso_date": "2026-10-09T12:29:25+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El Banco Central acelera el ritmo de compras y las reservas tocan máximos en dos semanas",
-        "summary": "La entidad financiera aprovechó la mayor liquidez e incrementó sus compras en los primeros días de octubre, a diferencia del arranque de septiembre",
-        "link": "https://www.iprofesional.com/finanzas/466243-el-banco-central-acelera-el-ritmo-de-compras-y-las-reservas-tocan-maximos-en-dos-semanas",
-        "source": "iProfesional",
-        "time": "08/10 19:58",
-        "iso_date": "2026-10-08T22:58:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La fuerte respuesta del Banco Central a la AGN: “La conducción se encuentra abocada a desprestigiar con fines puramente políticos”",
-        "summary": "El BCRA rechazó que las operaciones con derivados sobre el oro hayan sido especulativas y defendió un resultado neto positivo de USD 2.505 millones en 2025",
-        "link": "https://www.infobae.com/economia/2026/10/08/la-fuerte-respuesta-del-banco-central-a-la-agn-se-encuentra-abocada-a-desprestigiar-con-fines-puramente-politicos/",
+        "title": "Un banco advierte que en 2026 se registrará “el superávit primario más bajo de la era Milei”",
+        "summary": "La entidad financiera sostiene que el margen para continuar reduciendo el gasto se ha estrechado y que la recuperación de la recaudación está siendo más gradual de lo esperado",
+        "link": "https://www.infobae.com/economia/2026/10/09/un-banco-advierte-que-en-2026-se-registrara-el-superavit-primario-mas-bajo-de-la-era-milei/",
         "source": "Infobae Economía",
-        "time": "08/10 19:49",
-        "iso_date": "2026-10-08T22:49:35+00:00",
+        "time": "09/10 08:46",
+        "iso_date": "2026-10-09T11:46:11+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El mundo se complica y la Argentina parece querer hacer pie",
-        "summary": "Otra suba del petróleo y renovadas dudas sobre la inteligencia artificial volvieron a poner a los mercados mundiales en zona roja. La plaza financiera argentina, en cambio, con precios muy altos en el crudo y los granos, asoma la cabeza. El dólar no se movió. El BCRA compró di...",
-        "link": "https://eleconomista.com.ar/finanzas/el-mundo-complica-argentina-parece-querer-hacer-pie-n98728",
-        "source": "El Economista",
-        "time": "08/10 19:38",
-        "iso_date": "2026-10-08T22:38:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "BCRA salió a responderle a la AGN y dice que ganó u$s2.500 millones por su posición en oro",
-        "summary": "En un comunicado, el Banco Central señaló que \"la AGN se encuentra abocada a desprestigiar a la conducción del BCRA, con fines puramente políticos\"",
-        "link": "https://www.iprofesional.com/economia/466242-contundente-respuesta-del-bcra-a-la-agn-dice-que-gano-us2500-m-por-su-posicion-en-oro",
-        "source": "iProfesional",
-        "time": "08/10 19:38",
-        "iso_date": "2026-10-08T22:38:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tras reunirse con Milei, Alberto Ades propuso debatir el dólar, el crédito y la política monetaria",
-        "summary": "Respaldó los avances fiscales e inflacionarios, pero alertó que compañías potencialmente viables podrían no sobrevivir a la transición. Planteó revisar las condiciones monetarias, cambiarias y crediticias.",
-        "link": "https://www.ambito.com/economia/tras-reunirse-milei-alberto-ades-propuso-debatir-el-dolar-el-credito-y-la-politica-monetaria-n6331805",
-        "source": "Ámbito",
-        "time": "08/10 19:37",
-        "iso_date": "2026-10-08T22:37:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El economista que Milei invitó a una reunión de Gabinete se hizo tres preguntas clave sobre el futuro del plan libertario",
-        "summary": "Alberto Ades respaldó los avances fiscales y la desinflación, pero planteó algunos dilemas sobre las tasas, el crédito privado y el nivel del tipo de cambio real",
-        "link": "https://www.infobae.com/economia/2026/10/08/el-economista-que-milei-invito-a-una-reunion-de-gabinete-se-hizo-tres-preguntas-clave-sobre-el-futuro-del-plan-libertario/",
+        "title": "Billetes rotos o manchados: en qué casos los bancos están obligados a cambiarlos, según el BCRA",
+        "summary": "Ante la consulta de un usuario, el Banco Central compartió la reglamentación que deben cumplir la entidades financieras y las sanciones a las que se exponen",
+        "link": "https://www.infobae.com/economia/2026/10/09/billetes-rotos-o-manchados-en-que-casos-los-bancos-estan-obligados-a-cambiarlos-segun-el-bcra/",
         "source": "Infobae Economía",
-        "time": "08/10 19:19",
-        "iso_date": "2026-10-08T22:19:29+00:00",
+        "time": "09/10 08:31",
+        "iso_date": "2026-10-09T11:31:33+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Milei se suma a frente antichino de Trump: ¿stop al ingreso de autos asiáticos?",
-        "summary": "En Cancillería aseguran que el documento no tiene efectos prácticos y que se crearán plataformas informativas de todos los países para futuras medidas",
-        "link": "https://www.iprofesional.com/comex/466239-milei-se-suma-a-frente-antichino-de-trump-stop-al-ingreso-de-autos-asiaticos",
-        "source": "iProfesional",
-        "time": "08/10 19:11",
-        "iso_date": "2026-10-08T22:11:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El oro del BCRA: la AGN dice que el organismo especuló con el precio del metal, “erró el cálculo” y perdió más de USD 1.000 millones",
-        "summary": "Según el organismo auditor, las operaciones con derivados, que tomaron parte del oro de las reservas como respaldo, se pagaron con divisas de la entidad. Un segundo informe sobre el traslado del metal al exterior ya está en el BCRA para su descargo",
-        "link": "https://www.infobae.com/economia/2026/10/08/el-oro-del-bcra-la-agn-dice-que-el-organismo-especulo-con-el-precio-del-metal-erro-el-calculo-y-perdio-mas-de-usd-1000-millones/",
+        "title": "El Gobierno oficializó la aprobación en el RIGI de un proyecto petrolero en Vaca Muerta por USD 6.400 millones",
+        "summary": "Se trata de un plan impulsado por Tecpetrol, la petrolera de Paolo Rocca. La iniciativa busca producir unos 70.000 barriles diarios",
+        "link": "https://www.infobae.com/economia/2026/10/09/el-gobierno-oficializo-la-aprobacion-en-el-rigi-de-un-proyecto-petrolero-en-vaca-muerta-por-usd-6400-millones/",
         "source": "Infobae Economía",
-        "time": "08/10 19:03",
-        "iso_date": "2026-10-08T22:03:23+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas subieron hasta 5% y el riesgo país tuvo una leve baja",
-        "summary": "Los índices de Nueva York perdieron hasta 1,3%, aunque las acciones argentinas avanzaron hasta 5% y el S&P Merval ganó 0,3%. El riesgo país cedió a 588 puntos. El dólar siguió a $1.540 en el Banco Nación y el BCRA compró USD 43 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/08/jornada-financiera-las-acciones-argentinas-subieron-hasta-5-y-el-riesgo-pais-tuvo-una-leve-baja/",
-        "source": "Infobae Economía",
-        "time": "08/10 18:42",
-        "iso_date": "2026-10-08T21:42:40+00:00",
+        "time": "09/10 08:08",
+        "iso_date": "2026-10-09T11:08:31+00:00",
         "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Milei avanza con más privatizaciones tras AySA: cuáles siguen y cuánto espera recaudar",
-        "summary": "El Gobierno proyecta ingresos por u$s2.300 millones entre este año y el 2027 y prepara nuevas licitaciones con Belgrano Cargas como próxima operación",
-        "link": "https://www.iprofesional.com/negocios/466227-cuales-son-las-empresas-que-quiere-privatizar-milei-tras-aysa",
-        "source": "iProfesional",
-        "time": "08/10 18:35",
-        "iso_date": "2026-10-08T21:35:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La AGN reveló que el BCRA perdió más de u$s1.000 millones por operaciones con el oro",
-        "summary": "La Auditoría General de la Nación presentó un informe en el que reveló que el BCRA usó el oro de las reservas como respaldo para operaciones",
-        "link": "https://www.iprofesional.com/finanzas/466235-la-agn-revelo-que-el-bcra-perdio-mas-de-us1000-millones-por-operaciones-con-el-oro",
-        "source": "iProfesional",
-        "time": "08/10 18:19",
-        "iso_date": "2026-10-08T21:19:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Fondos FAL: el BCRA permitirá a bancos invertir en FCI autorizados",
-        "summary": "La norma habilita a entidades a participar como titulares de cuotapartes de FCI autorizados por la CNV.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/fondos-fal-el-bcra-permitira-a-bancos-invertir-en-fci-autorizados/",
-        "source": "Bloomberg Línea AR",
-        "time": "08/10 18:10",
-        "iso_date": "2026-10-08T21:10:36+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Nueva tensión entre Bullrich y Karina Milei: qué puede pasar con el pliego de la fiscal del caso Chocobar",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/nueva-tension-entre-bullrich-y-karina-milei-que-puede-pasar-con-el-pliego-de-la-fiscal-del-caso-chocobar/",
-        "source": "El Cronista",
-        "time": "08/10 17:58",
-        "iso_date": "2026-10-08T20:58:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inversión de USD 110 millones: con la presencia de Jorge Brito y el gobernador Orrego, Genneia inauguró el Parque Solar San Juan Sur",
-        "summary": "El complejo fotovoltaico ubicado en Retamito dispone de 129 MW y destinará su producción a grandes usuarios fabriles y mineros mediante el Mercado a Término de Energías Renovables de la provincia",
-        "link": "https://www.infobae.com/economia/2026/10/08/inversion-de-usd-110-millones-con-la-presencia-de-jorge-brito-y-el-gobernador-orrego-genneia-inauguro-el-parque-solar-san-juan-sur/",
-        "source": "Infobae Economía",
-        "time": "08/10 17:57",
-        "iso_date": "2026-10-08T20:57:44+00:00",
-        "tickers": [
-          "BMA"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street",
-        "summary": "Los indicadores de Nueva York cayeron frente a una suba de 3% para el petróleo, dato que incrementó la preocupación por la inflación. El S&P Merval ganó 0,3% y los bonos, un 0,5% en promedio",
-        "link": "https://www.infobae.com/economia/2026/10/08/mercados-suben-las-acciones-argentinas-y-baja-el-riesgo-pais-pese-a-la-rueda-negativa-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "08/10 17:55",
-        "iso_date": "2026-10-08T20:55:44+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 8 de octubre",
-        "summary": "El billete al público siguió a $1.540 para la venta en el Banco Nación. El blue cayó 1%, a $1.540, ahora igual que el minorista. El BCRA compró USD 43 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/08/dolar-hoy-a-cuanto-operaron-todas-las-cotizaciones-minuto-a-minuto-este-jueves-8-de-octubre/",
-        "source": "Infobae Economía",
-        "time": "08/10 17:27",
-        "iso_date": "2026-10-08T20:27:25+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Flybondi acumula una colosal deuda de $610.000 millones y estos son sus acreedores",
-        "summary": "La presentación judicial detalló la gravedad del déficit y reveló el alcance de las obligaciones pendientes con diversas compañías",
-        "link": "https://www.iprofesional.com/negocios/466226-flybondi-reconocio-ante-la-justicia-que-sufre-una-colosal-deuda",
-        "source": "iProfesional",
-        "time": "08/10 16:58",
-        "iso_date": "2026-10-08T19:58:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación de septiembre: tras la aceleración de CABA, el IPC podría subir por el aumento de alimentos y energía",
-        "summary": "Los estacionales pegaron un salto en septiembre tras la deflación de agosto. Los alimentos, vivienda y salud encabezaron los avances.",
-        "link": "https://www.ambito.com/economia/inflacion-septiembre-la-aceleracion-caba-el-ipc-podria-subir-el-aumento-alimentos-y-energia-n6331696",
-        "source": "Ámbito",
-        "time": "08/10 16:40",
-        "iso_date": "2026-10-08T19:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Pánico financiero en Francia: sus bonos se hunden por la suba del déficit y un posible triunfo de Marine Le Pen",
-        "summary": "La deuda francesa experimenta un fuerte sell-off durante las últimas semanas, golpeada tanto por factores internacionales como por cuestiones estructurales de su economía. Tensión política de cara a las presidenciales de 2027 y protestas sociales.",
-        "link": "https://www.ambito.com/economia/panico-financiero-francia-sus-bonos-se-hunden-la-suba-del-deficit-y-un-posible-triunfo-marine-le-pen-n6331054",
-        "source": "Ámbito",
-        "time": "08/10 16:35",
-        "iso_date": "2026-10-08T19:35:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar operó en baja, volvió a valores de septiembre y se consolida el “ancla” cambiaria",
-        "summary": "La divisa mayorista cedió a $1.515,50, con operaciones por unos USD 500 millones. Al público siguió a $1.540 para la venta en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/10/08/el-dolar-opero-en-baja-volvio-a-valores-de-septiembre-y-se-consolida-el-ancla-cambiaria/",
-        "source": "Infobae Economía",
-        "time": "08/10 16:02",
-        "iso_date": "2026-10-08T19:02:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Fed: crece el contexto entre sus miembros sobre una nueva suba de tasas antes de que termine el año",
-        "summary": "Tanto las últimas declaraciones de Christopher Waller como las minutas de la reunión de septiembre dejaron en claro que los miembros de la autoridad monetaria creen que seguramente sea necesario un nuevo incremento en los tipos de interés antes de 2027.",
-        "link": "https://www.ambito.com/economia/fed-crece-el-contexto-sus-miembros-una-nueva-suba-tasas-antes-que-termine-el-ano-n6331572",
-        "source": "Ámbito",
-        "time": "08/10 15:59",
-        "iso_date": "2026-10-08T18:59:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Deuda récord, Brexit y estancamiento: por qué la situación actual de Reino Unido puede ser clave para su futuro",
-        "summary": "Las últimas reivindicaciones independentistas de Escocia, Irlanda del Norte y Gales dejaron de manifiesto una tensión de difícil resolución con Londres y que tiene su origen en la incapacidad del Estado británico de adaptarse a un mundo poscrisis financiera de 2008.",
-        "link": "https://www.ambito.com/economia/deuda-record-brexit-y-estancamiento-que-la-situacion-actual-reino-unido-puede-ser-clave-su-futuro-n6327528",
-        "source": "Ámbito",
-        "time": "08/10 15:41",
-        "iso_date": "2026-10-08T18:41:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La inflación no cede, surge el riesgo electoral y la City elige inversiones para cubrirse",
-        "summary": "La suba de los precios siembra dudas en inversores, que buscan cobertura en bonos indexados y refugio en moneda extranjera en un clima de tensión",
-        "link": "https://www.iprofesional.com/finanzas/466063-la-inflacion-vuelve-a-subir-y-los-inversores-buscan-refugio-en-pesos-y-dolares",
-        "source": "iProfesional",
-        "time": "08/10 14:30",
-        "iso_date": "2026-10-08T17:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Estos serán los premios del Mundial de Pádel 2026",
-        "summary": "El Mundial de Pádel 2026 repartirá una bolsa récord de €1,2 millones entre las competencias masculina y femenina. Catar repetirá como sede en 2028, con un premio mayor.",
-        "link": "https://www.bloomberglinea.com/linea-deportiva/estos-seran-los-premios-del-mundial-de-padel-2026/",
+        "title": "El Niño amenaza los precios de los alimentos, del café al cacao: ¿cuánto pueden subir?",
+        "summary": "Las amenazas sobre las cosechas, los mayores costos de producción y la demanda de biocombustibles podrían impulsar los precios agrícolas y añadir presión a la inflación alimentaria.",
+        "link": "https://www.bloomberglinea.com/mercados/el-nino-amenaza-los-precios-de-los-alimentos-del-cafe-al-cacao-cuanto-pueden-subir/",
         "source": "Bloomberg Línea AR",
-        "time": "08/10 14:25",
-        "iso_date": "2026-10-08T17:25:43+00:00",
+        "time": "09/10 08:00",
+        "iso_date": "2026-10-09T11:00:01+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El sueldo no alcanza en Argentina: vivienda y alimentos suben más que la inflación y obligan a recortar gastos",
-        "summary": "Encuestas recientes muestran que ya 8 de cada 10 trabajadores tienen dificultades para llegar a fin de mes.",
-        "link": "https://www.bloomberglinea.com/economia/el-sueldo-no-alcanza-en-argentina-vivienda-y-alimentos-suben-mas-que-la-inflacion-y-obligan-a-recortar-gastos/",
-        "source": "Bloomberg Línea AR",
-        "time": "08/10 14:13",
-        "iso_date": "2026-10-08T17:13:41+00:00",
+        "title": "Aeropuertos: nuevas tarifas en dólares tras el acuerdo de concesión hasta 2056",
+        "summary": "El Gobierno nacional aprobó el nuevo cuadro tarifario para los aeropuertos concesionados a AA2000 que fija la tasa de cabotaje en nueve dólares",
+        "link": "https://www.iprofesional.com/negocios/466260-gobierno-dolariza-tasa-de-cabotaje-nuevas-tarifas-de-aeropuertos",
+        "source": "iProfesional",
+        "time": "09/10 07:53",
+        "iso_date": "2026-10-09T10:53:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno reglamentó la ley de Inocencia Fiscal II: cómo se aplicará la norma que busca sacar los “dólares del colchón”",
+        "summary": "Sancionada por el Congreso en septiembre, la ley modificó los regímenes tributarios, la declaración simplificada de Ganancias y el trabajo rural, e incorpora reducciones de multas y nuevos criterios de fiscalización. Qué dice su reglamentación",
+        "link": "https://www.infobae.com/economia/2026/10/09/el-gobierno-reglamento-la-ley-de-inocencia-fiscal-ii-como-se-aplicara-la-norma-que-busca-sacar-los-dolares-del-colchon/",
+        "source": "Infobae Economía",
+        "time": "09/10 07:19",
+        "iso_date": "2026-10-09T10:19:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Alberto Ades presenta un esbozo de plan económico mientras crecen rumores sobre Caputo",
+        "summary": "El economista que Milei convocó para exponer ante el gabinete de ministros culminó un raid mediático y presentó un esquema que incluye dólar más alto",
+        "link": "https://www.iprofesional.com/economia/466233-alberto-ades-presenta-plan-economico-y-crece-rumor-sobre-caputo",
+        "source": "iProfesional",
+        "time": "09/10 07:02",
+        "iso_date": "2026-10-09T10:02:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Actividad económica en serrucho: tras el repunte de agosto, septiembre vuelve a mostrar señales mixtas",
+        "summary": "La economía habría rebotado al menos 1% en agosto, aunque sin compensar la fuerte caída de julio. Para septiembre, los indicadores anticipan un leve avance, en un contexto de alta volatilidad y estancamiento de fondo.",
+        "link": "https://www.ambito.com/economia/actividad-economica-serrucho-el-repunte-agosto-septiembre-vuelve-mostrar-senales-mixtas-n6331625",
+        "source": "Ámbito",
+        "time": "09/10 07:00",
+        "iso_date": "2026-10-09T10:00:00+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
       {
-        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
-        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
-        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
+        "title": "Neuquén alcanzó un nuevo hito de recaudación por el boom de Vaca Muerta",
+        "summary": "La actividad petrolera impulsó la recaudación del distrito hasta montos inéditos durante septiembre. Las regalías del sector energético explicaron cerca de la mitad de los fondos",
+        "link": "https://www.infobae.com/economia/2026/10/09/neuquen-alcanzo-un-nuevo-hito-de-recaudacion-por-el-boom-de-vaca-muerta/",
         "source": "Infobae Economía",
-        "time": "08/10 20:44",
-        "iso_date": "2026-10-08T23:44:25+00:00",
+        "time": "09/10 13:02",
+        "iso_date": "2026-10-09T16:02:37+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "YPF se queda con el 100% de su empresa de energía eléctrica tras una inversión de u$s430 M",
-        "summary": "Acordó adquirir la participación que está en manos del fondo BNR Power Investments y podrá integrar la totalidad de los resultados de la generadora",
-        "link": "https://www.iprofesional.com/energia/466246-ypf-se-queda-con-el-100-de-su-empresa-de-energia-electrica-tras-una-inversion-de-us430-m",
+        "title": "YPF compra el 25% de YPF Luz: cuánto desembolsa para quedarse con el control total de la compañía",
+        "summary": "La adquisición fue aprobada por el directorio de la petrolera. La generación de YPF Luz equivale aproximadamente al 10% de la energía eléctrica abastecida en el país.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-compra-el-25-de-ypf-luz-cuanto-desembolsa-para-quedarse-con-el-control-total-de-la-compania/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 11:52",
+        "iso_date": "2026-10-09T14:52:51+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Argentina aprueba inversión RIGI por US$6.400 millones para aumentar producción en Vaca Muerta",
+        "summary": "Se trata de un proyecto de Tecpetrol en la provincia de Neuquén, que había sido anticipado por el ministro de Economía Luis Caputo",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-aprueba-inversion-rigi-por-us6400-millones-para-aumentar-produccion-en-vaca-muerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 09:56",
+        "iso_date": "2026-10-09T12:56:44+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "RIGI en Vaca Muerta con u$s6432 millones para extraer petróleo y gas",
+        "summary": "Con una inversión histórica, el desarrollo de hidrocarburos no convencionales promete transformar la matriz productiva y laboral neuquina",
+        "link": "https://www.iprofesional.com/energia/466273-rigi-tecpetrol-invertira-6432-millones-de-dolares-en-vaca-muerta-hasta-2054",
         "source": "iProfesional",
-        "time": "08/10 20:18",
-        "iso_date": "2026-10-08T23:18:00+00:00",
+        "time": "09/10 09:53",
+        "iso_date": "2026-10-09T12:53:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El Gobierno oficializó la aprobación en el RIGI de un proyecto petrolero en Vaca Muerta por USD 6.400 millones",
+        "summary": "Se trata de un plan impulsado por Tecpetrol, la petrolera de Paolo Rocca. La iniciativa busca producir unos 70.000 barriles diarios",
+        "link": "https://www.infobae.com/economia/2026/10/09/el-gobierno-oficializo-la-aprobacion-en-el-rigi-de-un-proyecto-petrolero-en-vaca-muerta-por-usd-6400-millones/",
+        "source": "Infobae Economía",
+        "time": "09/10 08:08",
+        "iso_date": "2026-10-09T11:08:31+00:00",
+        "tickers": [
+          "TXAR",
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Central Puerto colocó US$50 millones al 6% mientras planea crecer en Vaca Muerta, minería y generación",
+        "summary": "La generadora recibió ofertas por casi US$62 millones y emitió deuda a tres años. La operación se produce mientras evalúa nuevas inversiones en petróleo, minería y generación eléctrica.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/central-puerto-coloco-us50-millones-al-6-mientras-planea-crecer-en-vaca-muerta-mineria-y-generacion/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 06:00",
+        "iso_date": "2026-10-09T09:00:00+00:00",
+        "tickers": [
+          "YPFD",
+          "CEPU"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "YPF cerró un acuerdo para quedarse con el 100% de su empresa de energía eléctrica",
+        "summary": "La petrolera acordó adquirir la participación de BNR Power Investments B.V de YPF Luz por USD 430 millones. La operación le permitirá quedarse con la totalidad de la generadora eléctrica",
+        "link": "https://www.infobae.com/economia/2026/10/08/ypf-cerro-un-acuerdo-para-quedarse-con-el-100-de-su-empresa-de-energia-electrica/",
+        "source": "Infobae Economía",
+        "time": "08/10 20:44",
+        "iso_date": "2026-10-08T23:44:25+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -391,18 +458,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Argentina partida: una gran ciudad supera el 11% de desempleo, mientras Vaca Muerta suma nuevos puestos",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/argentina-partida-una-gran-ciudad-supera-el-11-de-desempleo-mientras-vaca-muerta-suma-nuevos-puestos/",
-        "source": "El Cronista",
-        "time": "07/10 12:59",
-        "iso_date": "2026-10-07T15:59:35+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -423,6 +478,18 @@
     ],
     "BMA": [
       {
+        "title": "“La política elige el camino”: tres escenarios para la economía argentina rumbo a las elecciones",
+        "summary": "La consultora MAP trazó tres escenarios macro para 2027 y proyectó cómo evolucionarían la actividad, inflación, dólar y tasas de interés en función de cada uno.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-politica-elige-el-camino-como-llega-la-economia-argentina-a-las-elecciones-de-2027/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 04:00",
+        "iso_date": "2026-10-09T07:00:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Inversión de USD 110 millones: con la presencia de Jorge Brito y el gobernador Orrego, Genneia inauguró el Parque Solar San Juan Sur",
         "summary": "El complejo fotovoltaico ubicado en Retamito dispone de 129 MW y destinará su producción a grandes usuarios fabriles y mineros mediante el Mercado a Término de Energías Renovables de la provincia",
         "link": "https://www.infobae.com/economia/2026/10/08/inversion-de-usd-110-millones-con-la-presencia-de-jorge-brito-y-el-gobernador-orrego-genneia-inauguro-el-parque-solar-san-juan-sur/",
@@ -435,24 +502,112 @@
         "is_general": false
       }
     ],
-    "TXAR": [],
-    "ALUA": [],
-    "TECO2": [
+    "TXAR": [
       {
-        "title": "Cuánto cobran por hora las niñeras y cuidadores de adultos en octubre 2026",
-        "summary": "La Comisión Nacional de Trabajo en Casas Particulares aplicó una suba del 1,7% a los salarios mínimos del personal dedicado a tareas de asistencia y cuidado",
-        "link": "https://www.infobae.com/economia/2026/10/07/cuanto-cobran-por-hora-las-nineras-y-cuidadores-de-adultos-en-octubre-2026/",
+        "title": "El Gobierno oficializó la aprobación en el RIGI de un proyecto petrolero en Vaca Muerta por USD 6.400 millones",
+        "summary": "Se trata de un plan impulsado por Tecpetrol, la petrolera de Paolo Rocca. La iniciativa busca producir unos 70.000 barriles diarios",
+        "link": "https://www.infobae.com/economia/2026/10/09/el-gobierno-oficializo-la-aprobacion-en-el-rigi-de-un-proyecto-petrolero-en-vaca-muerta-por-usd-6400-millones/",
         "source": "Infobae Economía",
-        "time": "07/10 06:52",
-        "iso_date": "2026-10-07T09:52:18+00:00",
+        "time": "09/10 08:08",
+        "iso_date": "2026-10-09T11:08:31+00:00",
         "tickers": [
-          "TECO2"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
     ],
-    "CEPU": [],
+    "ALUA": [],
+    "TECO2": [
+      {
+        "title": "Empleadas domésticas: de cuánto es el aumento de octubre y cómo se liquida con los adicionales por antigüedad y zona desfavorable",
+        "summary": "El personal de casas particulares tendrá nuevos salarios mínimos a partir de octubre.",
+        "link": "https://www.cronista.com/economia-politica/empleadas-domesticas-de-cuanto-es-el-aumento-de-octubre-y-como-se-liquida-con-los-adicionales-por-antiguedad-y-zona-desfavorable/",
+        "source": "El Cronista",
+        "time": "09/10 13:35",
+        "iso_date": "2026-10-09T16:35:33+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Gritos, cambios de personal y metas incumplidas: crece el malestar de Scott Bessent de cara a las elecciones",
+        "summary": "El secretario del Tesoro se encuentra en una encrucijada, debido al incumpliento de las metas económicas de la administración de Trump, según Wall Street Journal. A solo un mes de unas elecciones de medio término en las que se anticipa un revés electoral para la administración...",
+        "link": "https://www.ambito.com/economia/gritos-cambios-personal-y-metas-incumplidas-crece-el-malestar-scott-bessent-cara-las-elecciones-n6331180",
+        "source": "Ámbito",
+        "time": "07/10 14:20",
+        "iso_date": "2026-10-07T17:20:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Gritos, cambios de personal y metas incumplidas: crece el malestar de Scott Bessent de cara a las elecciones",
+        "summary": "El secretario del Tesoro se encuentra en una encrucijada, debido al incumpliento de las metas económicas de la administración de Trump, según Wall Street Journal. A solo un mes de unas elecciones de medio término en las que se anticipa un revés electoral para la administración...",
+        "link": "https://www.ambito.com/economia/gritos-cambios-personal-y-metas-incumplidas-crece-el-malestar-scott-bessent-cara-las-elecciones-n6331180",
+        "source": "Ámbito Mercados",
+        "time": "07/10 14:20",
+        "iso_date": "2026-10-07T17:20:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": true
+      }
+    ],
+    "CEPU": [
+      {
+        "title": "Central Puerto colocó US$50 millones al 6% mientras planea crecer en Vaca Muerta, minería y generación",
+        "summary": "La generadora recibió ofertas por casi US$62 millones y emitió deuda a tres años. La operación se produce mientras evalúa nuevas inversiones en petróleo, minería y generación eléctrica.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/central-puerto-coloco-us50-millones-al-6-mientras-planea-crecer-en-vaca-muerta-mineria-y-generacion/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/10 06:00",
+        "iso_date": "2026-10-09T09:00:00+00:00",
+        "tickers": [
+          "YPFD",
+          "CEPU"
+        ],
+        "is_general": true
+      }
+    ],
     "AL30": [
+      {
+        "title": "El mercado busca refugio ante el riesgo electoral y apunta a estos bonos argentinos",
+        "summary": "Con la volatilidad al alza y el temor electoral, los inversores redireccionan sus estrategias hacia diversos bonos y deuda privada",
+        "link": "https://www.iprofesional.com/finanzas/466136-los-bonos-argentinos-estrella-para-refugiarse-del-riesgo-electoral",
+        "source": "iProfesional",
+        "time": "09/10 13:00",
+        "iso_date": "2026-10-09T16:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Suben las acciones argentinas y baja el riesgo país, con el empuje de Wall Street y Brasil",
+        "summary": "Los índices de Nueva York ganan 0,3% y la Bolsa de San Pablo asciende 1,6%. El S&P Merval gana 0,5% y los bonos en dólares avanzan 0,1%",
+        "link": "https://www.infobae.com/economia/2026/10/09/suben-las-acciones-argentinas-y-baja-el-riesgo-pais-con-el-empuje-de-wall-street-y-brasil/",
+        "source": "Infobae Economía",
+        "time": "09/10 11:56",
+        "iso_date": "2026-10-09T14:56:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Petróleo en alza y bonos bajo presión: las señales externas que vuelven a inquietar a la Argentina",
+        "summary": "La deuda soberana de Estados Unidos, Europa y Japón atraviesa jornadas de tensión, mientras el Brent superó los USD 104. Los activos locales mostraron mayor resistencia, aunque el encarecimiento de la energía puede sumar presión sobre los precios internos",
+        "link": "https://www.infobae.com/economia/2026/10/09/petroleo-en-alza-y-bonos-bajo-presion-las-senales-externas-que-vuelven-a-inquietar-a-la-argentina/",
+        "source": "Infobae Economía",
+        "time": "09/10 01:59",
+        "iso_date": "2026-10-09T04:59:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Subsecretaria de Hacienda afirma que riesgo país de México vinculado a Pemex se comprimió",
         "summary": "María del Carmen Bonilla, subsecretaria de la dependencia federal, dijo que hay evidencia de que la economía mexicana crecerá con impulso de la inversión pública y privada.",
@@ -520,30 +675,6 @@
         "source": "Infobae Economía",
         "time": "07/10 17:21",
         "iso_date": "2026-10-07T20:21:41+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Las alternativas que evalúa Economía para pagar la deuda en 2027 ante la suba de tasas y el freno de las colocaciones locales",
-        "summary": "El Tesoro apuesta a refinanciar los vencimientos de los Bonares para cubrir los compromisos en dólares del año próximo. Si no consigue respaldo de los inversores, el Gobierno asegura que cuenta con recursos alternativos, aunque todavía no detalló cuáles serían",
-        "link": "https://www.infobae.com/economia/2026/10/07/las-alternativas-que-evalua-economia-para-pagar-la-deuda-en-2027-ante-la-suba-de-tasas-y-el-freno-de-las-colocaciones-locales/",
-        "source": "Infobae Economía",
-        "time": "07/10 03:01",
-        "iso_date": "2026-10-07T06:01:05+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país cayó casi 90 puntos en dos días, pero la volatilidad de los bonos globales enciende una alerta",
-        "summary": "Los títulos públicos locales extendieron las ganancias, pero el repunte de las tasas largas en Estados Unidos y la tensión en el estrecho de Ormuz condicionan el clima financiero",
-        "link": "https://www.infobae.com/economia/2026/10/07/el-riesgo-pais-cayo-casi-90-puntos-en-dos-dias-pero-la-volatilidad-de-los-bonos-globales-enciende-una-alerta/",
-        "source": "Infobae Economía",
-        "time": "07/10 02:59",
-        "iso_date": "2026-10-07T05:59:50+00:00",
         "tickers": [
           "AL30"
         ],
