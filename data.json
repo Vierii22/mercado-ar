@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T01:35:49.038492",
-  "updated_str": "09/10/2026 01:35",
+  "updated_at": "2026-10-09T04:35:39.753976",
+  "updated_str": "09/10/2026 04:35",
   "summary": {
-    "change": 0.67,
+    "change": NaN,
     "leader": "TECO2",
     "leader_change": 1.59,
     "worst": "BMA",
@@ -43,8 +43,8 @@
     {
       "ticker": "GGAL",
       "name": "Galicia",
-      "price": 5950.0,
-      "change": -0.34,
+      "price": NaN,
+      "change": NaN,
       "volume": 2729496,
       "volume_ratio": 1.16,
       "hot": false,
@@ -59,21 +59,21 @@
         6135.0,
         6165.0,
         5970.0,
-        5950.0
+        NaN
       ],
       "trend_dir": "neutral",
       "trend_streak": 0,
-      "ma5": 6011.0,
-      "ma20": 6369.0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 43,
-      "signal": "baja"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "PAMP",
       "name": "Pampa Energía",
-      "price": 5190.0,
-      "change": 0.78,
+      "price": NaN,
+      "change": NaN,
       "volume": 907905,
       "volume_ratio": 0.99,
       "hot": false,
@@ -88,15 +88,15 @@
         5130.0,
         5265.0,
         5150.0,
-        5190.0
+        NaN
       ],
-      "trend_dir": "up",
-      "trend_streak": 4,
-      "ma5": 5141.5,
-      "ma20": 5196.5,
+      "trend_dir": "neutral",
+      "trend_streak": 0,
+      "ma5": NaN,
+      "ma20": NaN,
       "ma_cross": -1,
-      "score": 60,
-      "signal": "suba"
+      "score": 80,
+      "signal": "fuerte_baja"
     },
     {
       "ticker": "BMA",
