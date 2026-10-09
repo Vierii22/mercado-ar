@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-09T22:05:54.327514",
-  "updated_str": "09/10/2026 22:05",
+  "updated_at": "2026-10-09T22:47:16.091318",
+  "updated_str": "09/10/2026 22:47",
   "cutoff_hours": 48,
-  "total_news": 280,
+  "total_news": 240,
   "news": {
     "GENERAL": [
+      {
+        "title": "BCRA compró más de u$s200 millones en la semana y tuvo su mejor inicio de mes desde julio",
+        "summary": "El avance en la acumulación de divisas marca un repunte tras varias jornadas exitosas de intervención en el mercado de cambios argentino",
+        "link": "https://www.iprofesional.com/finanzas/466334-bcra-compro-mas-de-200-millones-dolares-en-la-semana-y-tuvo-su-mejor-inicio-de-mes-desde-julio",
+        "source": "iProfesional",
+        "time": "09/10 19:36",
+        "iso_date": "2026-10-09T22:36:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El BCRA aceleró las compras de dólares y acumula casi USD 15.000 millones en 2026",
+        "summary": "La autoridad monetaria sumó USD 69 millones este viernes y cerró la semana con adquisiciones por USD 212 millones",
+        "link": "https://www.infobae.com/economia/2026/10/09/el-bcra-acelero-las-compras-de-dolares-y-acumula-casi-usd-15000-millones-en-2026/",
+        "source": "Infobae Economía",
+        "time": "09/10 19:10",
+        "iso_date": "2026-10-09T22:10:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Economía, reforma previsional y sin pliegos sobre la mesa: cómo fue el cara a cara entre Milei y Bullrich",
         "summary": "Tras semanas de cruces públicos, Milei y Bullrich hablaron durante más de dos horas en Olivos solo de economía, sin pliegos sobre la mesa. El Presidente validó las diferencias de la senadora y coincidió en varios puntos, pero dejó abierta la reforma previsional que ella presen...",
@@ -298,26 +318,6 @@
         "iso_date": "2026-10-09T13:43:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "¿Recalienta la inflación? Qué anticipan las principales consultoras para el dato de septiembre",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/recalienta-la-inflacion-que-anticipan-las-principales-consultoras-para-el-dato-de-septiembre/",
-        "source": "El Cronista",
-        "time": "09/10 10:40",
-        "iso_date": "2026-10-09T13:40:09+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Argentina se abarata en dólares: qué consumos siguen caros y cuáles son más accesibles",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/argentina-se-abarata-en-dolares-que-consumos-que-siguen-caros-y-cuales-son-mas-accesibles/",
-        "source": "El Cronista",
-        "time": "09/10 10:39",
-        "iso_date": "2026-10-09T13:39:55+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -389,8 +389,8 @@
         "time": "09/10 08:08",
         "iso_date": "2026-10-09T11:08:31+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -402,8 +402,8 @@
         "time": "09/10 06:00",
         "iso_date": "2026-10-09T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -496,8 +496,8 @@
         "time": "09/10 08:08",
         "iso_date": "2026-10-09T11:08:31+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -526,8 +526,8 @@
         "time": "09/10 06:00",
         "iso_date": "2026-10-09T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "CEPU"
+          "CEPU",
+          "YPFD"
         ],
         "is_general": true
       }
