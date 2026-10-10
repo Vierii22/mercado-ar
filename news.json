@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-10-09T23:46:30.869033",
-  "updated_str": "09/10/2026 23:46",
+  "updated_at": "2026-10-10T01:25:11.022666",
+  "updated_str": "10/10/2026 01:25",
   "cutoff_hours": 48,
-  "total_news": 285,
+  "total_news": 278,
   "news": {
     "GENERAL": [
+      {
+        "title": "Trump acordó con Putin para que libere miles de toneladas de diésel al mercado mundial",
+        "summary": "El acuerdo entre líderes globales reconfigura la oferta energética y provoca reacciones en Kiev y Europa antes de cruciales comicios",
+        "link": "https://www.iprofesional.com/energia/466340-trump-acordo-con-putin-para-que-libere-miles-de-toneladas-de-diesel-al-mercado-mundial",
+        "source": "iProfesional",
+        "time": "09/10 21:12",
+        "iso_date": "2026-10-10T00:12:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación en dólares: pese a abaratarse en julio, Argentina tiene los restaurantes y la indumentaria más caros de la región",
+        "summary": "Argentina resulta relativamente más barata en alimentos, educación, vivienda y servicios, alcohol y tabaco y salud. Además, quedó por encima en precios relativos que Chile por primera vez desde abril de 2025.Argentina tiene los R",
+        "link": "https://www.ambito.com/economia/inflacion-dolares-pese-abaratarse-julio-argentina-tiene-los-restaurantes-y-la-indumentaria-mas-caros-la-region-n6332214",
+        "source": "Ámbito",
+        "time": "09/10 20:44",
+        "iso_date": "2026-10-09T23:44:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Brasil acelera, mientras que la Argentina baja un cambio",
+        "summary": "El cierre de la semana encontró al mundo con tasas de interés cada vez más altas y con preocupación en los bonos de los países centrales europeos. En esta parte del mundo, el mercado brasileño sigue a todo vapor, por encuestas que le dan bien a Bolsonaro para el balotaje. En A...",
+        "link": "https://eleconomista.com.ar/finanzas/brasil-acelera-mientras-argentina-baja-cambio-n98764",
+        "source": "El Economista",
+        "time": "09/10 20:44",
+        "iso_date": "2026-10-09T23:44:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Metrotel cambia de manos: luego de la venta de Telefónica, es la empresa que se quedará con 6 millones de clientes de Telecom",
         "summary": "La operación marca la salida de Blackstone y Riverwood Capital y abre una nueva etapa para la compañía, que va camino a convertirse en el tercer operador de telefonía fija y móvil del país",
@@ -288,38 +318,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "¿Dónde invertir en bonos de América Latina? Las oportunidades que ve Goldman Sachs",
-        "summary": "El banco de inversión analiza las oportunidades en los mercados de renta fija latinoamericanos y distingue entre el potencial de Brasil, las valoraciones de Chile y los riesgos fiscales y monetarios que afectan a Colombia y México.",
-        "link": "https://www.bloomberglinea.com/mercados/donde-invertir-en-bonos-de-america-latina-las-oportunidades-que-ve-goldman-sachs/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/10 12:58",
-        "iso_date": "2026-10-09T15:58:43+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "YPF compra el 25% de YPF Luz: cuánto desembolsa para quedarse con el control total de la compañía",
-        "summary": "La adquisición fue aprobada por el directorio de la petrolera. La generación de YPF Luz equivale aproximadamente al 10% de la energía eléctrica abastecida en el país.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-compra-el-25-de-ypf-luz-cuanto-desembolsa-para-quedarse-con-el-control-total-de-la-compania/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/10 11:52",
-        "iso_date": "2026-10-09T14:52:51+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "¿Cuánto podría subir el salario mínimo en 2027 y por qué los gremios hablan de entre 8% y 9,5%?",
-        "summary": "Los empresarios ven espacio para un incremento de un solo dígito, en una negociación marcada por la inflación, la productividad y las presiones sobre las finanzas públicas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/cuanto-podria-subir-el-salario-minimo-en-2027-y-por-que-los-gremios-hablan-de-entre-8-y-95/",
-        "source": "Bloomberg Línea AR",
-        "time": "09/10 11:49",
-        "iso_date": "2026-10-09T14:49:14+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -391,8 +389,8 @@
         "time": "09/10 08:08",
         "iso_date": "2026-10-09T11:08:31+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -498,8 +496,8 @@
         "time": "09/10 08:08",
         "iso_date": "2026-10-09T11:08:31+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
