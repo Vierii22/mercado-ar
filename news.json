@@ -1,17 +1,275 @@
 {
-  "updated_at": "2026-10-12T04:21:42.950473",
-  "updated_str": "12/10/2026 04:21",
+  "updated_at": "2026-10-12T19:44:48.095342",
+  "updated_str": "12/10/2026 19:44",
   "cutoff_hours": 48,
-  "total_news": 117,
+  "total_news": 143,
   "news": {
     "GENERAL": [
       {
-        "title": "Según un reconocido consultor, la potencial corrida cambiaria es mayor y la “bazuca” de dólares para afrontarla menor de lo que dice el gobierno",
-        "summary": "En los últimos tres meses el riesgo argentino aumentó mucho más que en otros mercados emergentes, salvo Ucrania. Qué proporción de los “pesos dolarizables” cubre un cálculo más realista de los recursos oficiales en divisas",
+        "title": "Viajaron 1,5 millones de turistas, pero el gasto del fin de semana largo cayó",
+        "summary": "La ocupación hotelera subió durante el feriado, pero la recesión y la inflación hicieron que el consumo per cápita cayera respecto a años anteriores",
+        "link": "https://www.iprofesional.com/turismo/466410-fin-semana-largo-turismo-gasto",
+        "source": "iProfesional",
+        "time": "12/10 16:17",
+        "iso_date": "2026-10-12T19:17:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuál es la gran \"bazuka de dólares\" de Caputo y Milei para repeler una ola especulativa",
+        "summary": "La combinación de dos factores clave le permitiría al Banco Central imaginar una oferta potencial de entre u$s45.000 y u$s50.000 millones",
+        "link": "https://www.iprofesional.com/finanzas/466240-cual-es-la-verdadera-bazuka-de-dolares-de-milei-y-caputo",
+        "source": "iProfesional",
+        "time": "12/10 16:00",
+        "iso_date": "2026-10-12T19:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La dura queja de Marcos Galperin contra la norma del BCRA que obliga a informar el costo financiero de los préstamos de su app",
+        "summary": "El fundador de Mercado Libre cuestionó el método de cálculo del Costo Financiero Total Efectivo Anual, que la normativa exige mostrar. Qué establece la norma, cómo define el BCRA al CFT y qué recomienda a quienes piden un préstamo.",
+        "link": "https://www.infobae.com/economia/2026/10/12/la-dura-queja-de-marcos-galperin-contra-la-norma-del-bcra-que-obliga-a-informar-el-costo-financiero-de-los-prestamos-de-su-app/",
+        "source": "Infobae Economía",
+        "time": "12/10 15:43",
+        "iso_date": "2026-10-12T18:43:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Luis Caputo negó rumores sobre su salida del gabinete: \"Quédate tranquilo que no voy a renunciar\"",
+        "summary": "El ministro de Economía cruzó a usuarios en redes sociales respecto a su continuidad en el gobierno libertario, tras la aparición de Alberto Ades. Milei lo bancó, y señaló que las versiones que lo dan afuera a Caputo es \"traición a la patria\".",
+        "link": "https://www.ambito.com/economia/luis-caputo-nego-rumores-su-salida-del-gabinete-quedate-tranquilo-que-no-voy-renunciar-n6332824",
+        "source": "Ámbito",
+        "time": "12/10 15:37",
+        "iso_date": "2026-10-12T18:37:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Empleadas domésticas: de cuánto es el aumento en octubre, noviembre y diciembre",
+        "summary": "El personal de casas particulares tendrá nuevos salarios mínimos a partir de octubre.",
+        "link": "https://www.cronista.com/economia-politica/empleadas-domesticas-de-cuanto-es-el-aumento-en-octubre-noviembre-y-diciembre/",
+        "source": "El Cronista",
+        "time": "12/10 15:33",
+        "iso_date": "2026-10-12T18:33:42+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Cuál es el verdadero peso de los autos extranjeros en el mercado argentino tras la apertura de las importaciones",
+        "summary": "Hubo un cambio en el mapa automotriz desde inicios de 2024 pero no tan grande como parece a simple vista. Hay un peso específico de la industria local que cayó un 10%, pero más por el cupo que por la apertura en sí misma",
+        "link": "https://www.infobae.com/economia/2026/10/12/cual-es-el-verdadero-peso-de-los-autos-extranjeros-en-el-mercado-argentino-tras-la-apertura-de-las-importaciones/",
+        "source": "Infobae Economía",
+        "time": "12/10 15:05",
+        "iso_date": "2026-10-12T18:05:06+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Turismo espacial: la experiencia de lujo para viajar al espacio por 760 mil dólares",
+        "summary": "Una plataforma china ya comercializa una propuesta inesperada que te lleva a observar la Tierra desde otra perspectiva.",
+        "link": "https://www.ambito.com/economia/turismo-espacial-la-experiencia-lujo-viajar-al-espacio-760-mil-dolares-n6331785",
+        "source": "Ámbito",
+        "time": "12/10 15:00",
+        "iso_date": "2026-10-12T18:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "ARCA puso el foco en OnlyFans y empieza a investigar a creadoras de contenidos",
+        "summary": "ARCA avanza sobre OnlyFans con reclamos de deuda millonarios por cobros no declarados en el exterior: el rastreo de billeteras virtuales exige a las creadoras formalizarse bajo el Monotributo y la emisión de Factura E.",
+        "link": "https://www.ambito.com/economia/arca-puso-el-foco-onlyfans-y-empieza-investigar-creadoras-contenidos-n6332809",
+        "source": "Ámbito",
+        "time": "12/10 14:43",
+        "iso_date": "2026-10-12T17:43:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Alberto Fernández aseguró que “si hacía lo que pedía Cristina con el FMI, la Argentina hubiera estallado en mil pedazos”",
+        "summary": "El ex presidente defendió su postura en relación al organismo durante su gestión y cuestionó los planteos de los sectores cercanos a la ex vicepresidenta",
+        "link": "https://www.infobae.com/economia/2026/10/12/alberto-fernandez-aseguro-que-si-hacia-lo-que-pedia-cristina-con-el-fmi-la-argentina-hubiera-estallado-en-mil-pedazos/",
+        "source": "Infobae Economía",
+        "time": "12/10 14:30",
+        "iso_date": "2026-10-12T17:30:53+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El oro del BCRA: el abogado Gregorio Dalbón pidió la detención de Luis Caputo y Santiago Bausili por administración fraudulenta",
+        "summary": "La presentación del letrado también alcanza a Juan Curutchet, director del Banco Central y superintendente de Entidades Financieras y Cambiarias",
+        "link": "https://www.infobae.com/economia/2026/10/12/el-oro-del-bcra-el-abogado-gregorio-dalbon-pidio-la-detencion-de-luis-caputo-y-santiago-bausili-por-administracion-fraudulenta/",
+        "source": "Infobae Economía",
+        "time": "12/10 14:10",
+        "iso_date": "2026-10-12T17:10:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno habilitó a Mascarello y la brasileña avanza en el mercado argentino de colectivos",
+        "summary": "Obtuvo una autorización oficial para operar en el sector y para ampliar su presencia mediante un distribuidor exclusivo vinculado con Volkswagen.",
+        "link": "https://www.iprofesional.com/negocios/466401-brasilena-mascarello-avanza-en-negocio-de-colectivos-en-argentina",
+        "source": "iProfesional",
+        "time": "12/10 13:24",
+        "iso_date": "2026-10-12T16:24:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Clima de Negocios: el “efecto Peter Thiel” y cómo Argentina se volvió atractiva para una polémica élite de magnates libertarios",
+        "summary": "Visitas de alto nivel político y empresarial, anuncios de inversión y fascinación por el proyecto político de Javier Milei",
+        "link": "https://www.infobae.com/economia/2026/10/11/clima-de-negocios-el-efecto-peter-thiel-y-como-argentina-se-volvio-atractiva-para-una-polemica-elite-de-magnates-libertarios/",
+        "source": "Infobae Economía",
+        "time": "12/10 12:49",
+        "iso_date": "2026-10-12T15:49:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El FMI sostiene que la inversión en IA impulsa el crecimiento mundial en torno al 3%",
+        "summary": "\"La IA, guste o no, ya está aquí\", destacó Georgieva. El FMI y el Banco Mundial analizan las consecuencias y oportunidades de la inteligencia artificial en la economía mundial, donde podría transformar el 40 % de los empleos globales.",
+        "link": "https://www.ambito.com/economia/el-fmi-sostiene-que-la-inversion-ia-impulsa-el-crecimiento-mundial-torno-al-3-n6332770",
+        "source": "Ámbito",
+        "time": "12/10 12:49",
+        "iso_date": "2026-10-12T15:49:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Incómoda lección de Nobel de Economía a Milei: por qué estabilidad de la macro no alcanza",
+        "summary": "La distinción a dos estadounidenses reabre el debate sobre el papel del Estado para evitar recesiones. Llega cuando la actividad argentina no despega",
+        "link": "https://www.iprofesional.com/economia/466402-leccion-de-nobel-de-economia-a-milei-por-que-estabilidad-de-la-macro-no-alcanza",
+        "source": "iProfesional",
+        "time": "12/10 12:34",
+        "iso_date": "2026-10-12T15:34:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "“Error técnico”: Martín Redrado reveló por qué el BCRA perdió u$s 1000 millones",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/error-tecnico-martin-redrado-revelo-por-que-el-bcra-perdio-us-1000-millones/",
+        "source": "El Cronista",
+        "time": "12/10 11:23",
+        "iso_date": "2026-10-12T14:23:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Descubridores de otro mundo: el 12 de octubre y la conquista de la inteligencia artificial en las empresas",
+        "summary": "La incorporación de algoritmos avanzados genera tensiones en las compañías, donde parte del personal percibe las nuevas métricas y la automatización como un riesgo para los saberes, el trato humano y la autonomía",
+        "link": "https://www.infobae.com/opinion/2026/10/12/descubridores-de-otro-mundo-el-12-de-octubre-y-la-conquista-de-la-inteligencia-artificial-en-las-empresas/",
+        "source": "Infobae Economía",
+        "time": "12/10 11:13",
+        "iso_date": "2026-10-12T14:13:09+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Milei: “Tengo USD 125.000 millones en la billetera para enfrentar una corrida el año que viene”",
+        "summary": "El Presidente aseguró que en 2027 contará con la cantidad suficiente de dólares, por distintas vías, para resguardarse en una eventual situación de tensión cambiaria. Fuerte respaldo a la continuidad de Caputo en el ministerio de Economía",
+        "link": "https://www.infobae.com/economia/2026/10/12/milei-tenemos-usd-125000-millones-para-enfrentar-una-corrida-el-ano-que-viene/",
+        "source": "Infobae Economía",
+        "time": "12/10 11:12",
+        "iso_date": "2026-10-12T14:12:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Empieza la cumbre del FMI con agenda ‘a la Argentina’: gasto, deuda, financiamiento y el fenómeno “K” global",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/empieza-la-cumbre-del-fmi-con-una-agenda-a-la-argentina-gasto-deuda-financiamiento-y-el-fenomeno-k-global/",
+        "source": "El Cronista",
+        "time": "12/10 10:29",
+        "iso_date": "2026-10-12T13:29:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei reveló cómo reunirá u$s125.000 millones para blindarse ante una corrida cambiaria",
+        "summary": "Con medidas inéditas en el mercado de divisas, el gobierno busca robustecer reservas y disipar tensiones frente a la presión financiera",
+        "link": "https://www.iprofesional.com/negocios/466388-milei-revelo-como-reunira-125000-millones-de-dolares-para-blindarse-ante-una-corrida-cambiaria",
+        "source": "iProfesional",
+        "time": "12/10 10:06",
+        "iso_date": "2026-10-12T13:06:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Según Miguel Ángel Broda, la potencial corrida cambiaria es mayor y la “bazuca” de dólares para afrontarla menor de lo que dice el gobierno",
+        "summary": "En los últimos tres meses el riesgo argentino aumentó mucho más que en otros mercados emergentes salvo Ucrania, destacó el reconocido economista. Qué proporción de los “pesos dolarizables” cubre un cálculo más realista de los recursos oficiales en divisas",
         "link": "https://www.infobae.com/economia/2026/10/12/segun-un-reconocido-consultor-la-potencial-corrida-cambiaria-es-mayor-y-la-bazuca-de-dolares-para-afrontarla-menor-de-lo-que-dice-el-gobierno/",
         "source": "Infobae Economía",
-        "time": "12/10 01:16",
-        "iso_date": "2026-10-12T04:16:50+00:00",
+        "time": "12/10 10:04",
+        "iso_date": "2026-10-12T13:04:48+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei echó por tierra las versiones de distanciamiento con Caputo y negó su salida del equipo económico",
+        "summary": "",
+        "link": "https://www.cronista.com/economia-politica/milei-les-respondio-a-los-que-especulan-con-un-salto-del-dolar-tengo-us-125000-millones-para-enfrentar-una-corrida-el-ano-que-viene/",
+        "source": "El Cronista",
+        "time": "12/10 09:32",
+        "iso_date": "2026-10-12T12:32:05+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "De Texas a Neuquén: por qué Vaca Muerta es atractivo para las empresas de la cuenca petrolera más grande de EEUU",
+        "summary": "En los próximos años la joya energética argentina afrontará desafíos que hoy tiene Permian, una formación de petróleo y gas diez veces más grande, aseguró el fundador de la Cámara de Comercio Argentino-Texana",
+        "link": "https://www.infobae.com/economia/2026/10/12/de-texas-a-neuquen-por-que-vaca-muerta-es-atractivo-para-las-empresas-de-la-cuenca-petrolera-mas-grande-de-eeuu/",
+        "source": "Infobae Economía",
+        "time": "12/10 08:42",
+        "iso_date": "2026-10-12T11:42:38+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Jubilaciones, AUH y asignaciones familiares: A cuánto llegan las principales prestaciones sociales en octubre",
+        "summary": "Los beneficiarios de la ANSES recibirán este mes un aumento ajustado por inflación. Cómo quedó el calendario de pagos",
+        "link": "https://www.infobae.com/economia/2026/10/12/jubilaciones-auh-y-asignaciones-familiares-a-cuanto-llegan-las-principales-prestaciones-sociales-en-octubre/",
+        "source": "Infobae Economía",
+        "time": "12/10 08:37",
+        "iso_date": "2026-10-12T11:37:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El mercado alcista del S&P 500 cumple cuatro años: las 10 acciones más rentables desde 2022",
+        "summary": "El noveno mercado alcista más prolongado del S&P 500 desde 1928 cumple cuatro años. Un grupo de compañías vinculadas a la inteligencia artificial concentra las mayores ganancias del período.",
+        "link": "https://www.bloomberglinea.com/mercados/el-mercado-alcista-del-sp-500-cumple-cuatro-anos-las-10-acciones-mas-rentables-desde-2022/",
+        "source": "Bloomberg Línea AR",
+        "time": "12/10 08:00",
+        "iso_date": "2026-10-12T11:00:01+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar más bajo a fin de año pero más alto preelecciones, la nueva expectativa de la City",
+        "summary": "La encuesta REM muestra expectativa de calma de corto plazo pero una devaluación de 28% a un año vista, pese al discurso \"tranquilizador\" de Milei",
+        "link": "https://www.iprofesional.com/economia/466129-para-cuando-el-mercado-preve-una-suba-del-dolar-en-argentina",
+        "source": "iProfesional",
+        "time": "12/10 08:00",
+        "iso_date": "2026-10-12T11:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Inflación y dólar en Argentina: las proyecciones de BBVA para fin de año",
+        "summary": "La entidad financiera realizó sus proyecciones para las principales variables. Cuáles son los desafíos que podrían incidir en la actividad.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-y-dolar-en-argentina-las-proyecciones-de-bbva-para-fin-de-ano/",
+        "source": "Bloomberg Línea AR",
+        "time": "12/10 06:05",
+        "iso_date": "2026-10-12T09:05:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -58,261 +316,21 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Una plataforma de predicciones incluyó a Milei y a Reidel entre los economistas que podrían llevarse el premio Nobel 2026",
-        "summary": "El sitio Polymarket diseñó escenarios posibles para anticipar quién obtendrá el galardón de este año. El presidente y el asesor figuran con chances por su paper “Tamaño mínimo viable”",
-        "link": "https://www.infobae.com/economia/2026/10/12/una-plataforma-de-predicciones-incluyo-a-milei-y-a-reidel-entre-los-economistas-que-podrian-llevarse-el-premio-nobel-2026/",
-        "source": "Infobae Economía",
-        "time": "11/10 22:43",
-        "iso_date": "2026-10-12T01:43:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La Fed muestra sus cartas y las tasas largas empiezan a calmarse",
-        "summary": "La Fed confirmó alzas de tasas sin urgencia, y se espera una subida trimestral. Así será más fácil que el mercado bull festeje su cuarto cumpleaños (y lo disfrute).",
-        "link": "https://www.ambito.com/economia/la-fed-muestra-sus-cartas-y-las-tasas-largas-empiezan-calmarse-n6332627",
-        "source": "Ámbito",
-        "time": "11/10 20:16",
-        "iso_date": "2026-10-11T23:16:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por tercer año consecutivo: Milei reedita los “superávits gemelos” de los primeros años del kirchnerismo",
-        "summary": "Un informe privado, con datos hasta agosto de 2026, destacó que el gobierno está alcanzando por tercera vez la combinación de saldos favorables que el kirchnerismo tanto reivindicaba pero resignó a poco andar",
-        "link": "https://www.infobae.com/economia/2026/10/11/por-tercer-ano-consecutivo-milei-reedito-los-superavits-gemelos-de-los-primeros-anos-del-kirchnerismo/",
-        "source": "Infobae Economía",
-        "time": "11/10 19:06",
-        "iso_date": "2026-10-11T22:06:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Papa León XIV será operado a un mes de su visita a Argentina: el mensaje de Milei",
-        "summary": "El Papa atravesará una intervención, luego de que le detectaran un nódulo en un pulmón: el presidente argentino se pronunció al respecto",
-        "link": "https://www.iprofesional.com/actualidad/466371-el-papa-leon-xiv-sera-operado-a-un-mes-de-su-visita-a-argentina-el-mensaje-de-milei",
-        "source": "iProfesional",
-        "time": "11/10 19:03",
-        "iso_date": "2026-10-11T22:03:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por qué el riesgo país sigue atado a una alta volatilidad pese a la baja reciente",
-        "summary": "El indicador de JP Morgan cedió 10% en la última semana y quedó debajo de los 600 puntos básicos. Los factores locales globales que observan los analistas detrás de esta dinámica",
-        "link": "https://www.infobae.com/economia/2026/10/11/por-que-el-riesgo-pais-sigue-atado-a-una-alta-volatilidad-pese-a-la-baja-reciente/",
-        "source": "Infobae Economía",
-        "time": "11/10 18:06",
-        "iso_date": "2026-10-11T21:06:14+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Preocupación por los ruidos alrededor de Caputo y una interna que crece sobre la economía",
-        "summary": "En la City y Wall Street hay intranquilidad por los rumores que involucran al ministro. Más que en Alberto Ades, las miradas van hacia Sturzenegger",
-        "link": "https://www.iprofesional.com/economia/466329-preocupacion-por-los-ruidos-alrededor-del-ministro-luis-caputo",
-        "source": "iProfesional",
-        "time": "11/10 17:45",
-        "iso_date": "2026-10-11T20:45:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei se expresó sobre la salud de León XIV tras el anuncio de su cirugía: “Toda la Argentina acompaña con afecto y oración”",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/milei-brindo-su-apoyo-a-leon-xiv-tras-el-anuncio-de-su-cirugia-toda-la-argentina-acompana-con-afecto-y-oracion/",
-        "source": "El Cronista",
-        "time": "11/10 15:05",
-        "iso_date": "2026-10-11T18:05:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Malvinas mejoró la imagen digital de Milei, pero hay un dato que limita el repunte",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/malvinas-mejoro-la-imagen-digital-de-milei-pero-hay-un-dato-que-limita-el-repunte/",
-        "source": "El Cronista",
-        "time": "11/10 13:22",
-        "iso_date": "2026-10-11T16:22:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las propuestas que llegan de Wall Street en pleno “efecto sandwich” de costos",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/las-propuestas-que-llegan-de-wall-street-en-pleno-sandwich-de-costos/",
-        "source": "El Cronista",
-        "time": "11/10 12:20",
-        "iso_date": "2026-10-11T15:20:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Una provincia vive el mes más grande de su historia minera: se estrenan cuatro plantas de litio por USD 2.000 millones",
-        "summary": "Las inauguraciones se concentran en el Salar del Hombre Muerto y consolidan a la provincia con la mayor cantidad de proyectos bajo el RIGI, con presencia en seis de las 13 iniciativas aprobadas por el Ministerio de Economía",
-        "link": "https://www.infobae.com/economia/2026/10/11/una-provincia-vive-el-mes-mas-grande-de-su-historia-minera-se-estrenan-cuatro-plantas-de-litio-por-usd-2000-millones/",
-        "source": "Infobae Economía",
-        "time": "11/10 11:21",
-        "iso_date": "2026-10-11T14:21:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El INDEC calculó cuánto vale el capital físico de la Argentina y Milei celebró un dato clave",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/el-indec-calculo-cuanto-vale-el-capital-fisico-de-la-argentina-y-milei-celebro-un-dato-clave/",
-        "source": "El Cronista",
-        "time": "11/10 11:10",
-        "iso_date": "2026-10-11T14:10:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street ve margen para más ganancias en el S&P 500: las 5 acciones con mayor potencial al alza",
-        "summary": "Los analistas prevén que el S&P 500 siga subiendo hasta 2027, pese a las tasas elevadas. Cinco compañías concentran algunas de las mayores expectativas de valorización, aunque enfrentan riesgos operativos y financieros.",
-        "link": "https://www.bloomberglinea.com/mercados/wall-street-ve-margen-para-mas-ganancias-en-el-sp-500-las-5-acciones-con-mayor-potencial-al-alza/",
-        "source": "Bloomberg Línea AR",
-        "time": "11/10 11:00",
-        "iso_date": "2026-10-11T14:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Prisión preventiva para dueños de concesionaria de autos de Pilar acusados de estafa",
-        "summary": "Cobraron miles de dólares por autos y camionetas que nunca entregaron. También vendieron vehículos que les habían dejado en consignación",
-        "link": "https://www.iprofesional.com/autos/466363-prision-preventiva-para-duenos-de-concesionaria-de-autos-de-pilar-acusados-de-estafa",
-        "source": "iProfesional",
-        "time": "11/10 10:50",
-        "iso_date": "2026-10-11T13:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Anticipan más crédito y mayor flujo en acciones con reforma del mercado de capitales",
-        "summary": "Los analistas avalan la reforma del mercado de capitales que propone Milei, cuyo proyecto será enviado próximamente al Congreso",
-        "link": "https://www.iprofesional.com/finanzas/466160-que-cambia-con-la-reforma-del-mercado-de-capitales-de-milei",
-        "source": "iProfesional",
-        "time": "11/10 07:03",
-        "iso_date": "2026-10-11T10:03:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei llevó al Gabinete el debate sobre el tipo de cambio: ¿puede crecer Argentina con un dólar bajo?",
-        "summary": "Ades advirtió sobre un atraso de casi 30%, pero el Gobierno descarta una devaluación como salida. La economía llegaría con mejores datos a fin de año y le da más aire al oficialismo de cara al año electoral. ¿La “recesión técnica” terminó antes de comenzar?",
-        "link": "https://www.infobae.com/economia/2026/10/11/milei-llevo-al-gabinete-el-debate-sobre-el-tipo-de-cambio-puede-crecer-argentina-con-un-dolar-bajo/",
-        "source": "Infobae Economía",
-        "time": "11/10 02:35",
-        "iso_date": "2026-10-11T05:35:25+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Clima de Negocios: el “efecto Peter Thiel” y cómo Argentina se volvió atractiva para una polémica élite de magnates libertarios",
-        "summary": "Visitas de alto nivel político y empresarial, anuncios de inversión y fascinación por el proyecto político de Javier Milei",
-        "link": "https://www.infobae.com/economia/2026/10/11/clima-de-negocios-el-efecto-peter-thiel-y-como-argentina-se-volvio-atractiva-para-una-polemica-elite-de-magnates-libertarios/",
-        "source": "Infobae Economía",
-        "time": "11/10 02:34",
-        "iso_date": "2026-10-11T05:34:56+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El atraso cambiario no es un mito: es un ancla con cambio de contexto exportador",
-        "summary": "Los números del comercio exterior muestran un fenómeno que pocos anticipaban: un tipo de cambio débil conviviendo con ventas externas récord, una combinación que redefine las reglas del esquema económico",
-        "link": "https://www.infobae.com/opinion/2026/10/11/el-atraso-cambiario-no-es-un-mito-es-un-ancla-con-cambio-de-contexto-exportador/",
-        "source": "Infobae Economía",
-        "time": "11/10 02:33",
-        "iso_date": "2026-10-11T05:33:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei y Flávio Bolsonaro ponen en jaque al Mercosur, ruido en el sector automotor y desplome de la inversión",
-        "summary": "El candidato más votado en Brasil sintoniza con la mirada aperturista del mandatario argentino. Ya advirtió que su país debe “liberarse de las amarras del Mercosur”.",
-        "link": "https://www.ambito.com/economia/javier-milei-y-flavio-bolsonaro-ponen-jaque-al-mercosur-ruido-el-sector-automotor-y-desplome-la-inversion-n6332375",
-        "source": "Ámbito",
-        "time": "11/10 00:00",
-        "iso_date": "2026-10-11T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Leonardo Chialva: “Todo peso que inyectes de manera espuria termina en un dólar más alto e inflación”",
-        "summary": "El socio de Delphos Investment respondió al planteo de Alberto Ades sobre los amortiguadores en la transición productiva, calificó de \"papelón\" el informe de la AGN sobre el oro del Banco Central y anticipó un 2027 con mayor estabilidad cambiaria.",
-        "link": "https://www.ambito.com/economia/leonardo-chialva-todo-peso-que-inyectes-manera-pura-termina-un-dolar-mas-alto-e-inflacion-n6332137",
-        "source": "Ámbito",
-        "time": "11/10 00:00",
-        "iso_date": "2026-10-11T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar estable y volvió el superávit, pero una señal alerta al Gobierno rumbo al año electoral",
-        "summary": "",
-        "link": "https://www.cronista.com/economia-politica/un-solo-motor-y-una-economia-en-modo-espera-el-escenario-que-condiciona-el-ano-electoral/",
-        "source": "El Cronista",
-        "time": "10/10 21:52",
-        "iso_date": "2026-10-11T00:52:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Alberto Ades, el economista que habló en el Gabinete, reforzó sus dichos sobre el dólar",
-        "summary": "Ades fue el hombre que Milei llevó esta semana a la reunión de Ministros en la que no estuvo Toto Caputo y luego salió en varios medios",
-        "link": "https://www.iprofesional.com/economia/466356-alberto-ades-el-economista-que-hablo-en-el-gabinete-reforzo-sus-dichos-sobre-el-dolar",
-        "source": "iProfesional",
-        "time": "10/10 19:12",
-        "iso_date": "2026-10-10T22:12:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Precio más bajo de dólar previsto por 15 economistas de bancos y consultoras",
-        "summary": "Un grupo de analistas espera un avance en la cotización del tipo de cambio que podría ser de 2% de ahora a fin de año. Qué espera la City",
-        "link": "https://www.iprofesional.com/finanzas/466331-precio-mas-bajo-de-dolar-previsto-por-15-economistas-de-bancos-y-consultoras",
-        "source": "iProfesional",
-        "time": "10/10 18:30",
-        "iso_date": "2026-10-10T21:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Advierten sobre el riesgo de estanflación y una posible recesión técnica en la Argentina",
-        "summary": "Lorenzo Sigaut Gravina, de Equilibra, proyectó una expansión de apenas 1,3% para este año. Señaló que la incertidumbre electoral podría complicar la recuperación en 2027 y cuestionó el uso del dólar como ancla antiinflacionaria.",
-        "link": "https://www.ambito.com/economia/advierten-el-riesgo-estanflacion-y-una-posible-recesion-tecnica-la-argentina-n6332391",
-        "source": "Ámbito",
-        "time": "10/10 18:24",
-        "iso_date": "2026-10-10T21:24:48+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El oro de la polémica: reservas, “error de cálculo”, acusaciones y otras claves del fuerte cruce entre el BCRA y la AGN",
-        "summary": "Un informe de la Auditoría cuestionó el resultado de contratos financieros realizados en 2025, mientras la autoridad monetaria defendió la estrategia como cobertura y sostuvo que el saldo total fue favorable",
-        "link": "https://www.infobae.com/economia/2026/10/10/el-oro-de-la-polemica-reservas-error-de-calculo-acusacion-cruzadas-y-otras-claves-del-fuerte-cruce-entre-el-bcra-y-la-agn/",
-        "source": "Infobae Economía",
-        "time": "10/10 18:08",
-        "iso_date": "2026-10-10T21:08:44+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación, mora y tasas reales de interés, las claves que definirán el futuro del crédito",
-        "summary": "Analistas coinciden en que la recuperación del financiamiento privado dependerá de estas tres variables, aunque mantienen posturas divididas sobre la velocidad y la magnitud del posible repunte. El ministro de Economía sostuvo que las tasas de los bonos del Tesoro de Estados U...",
-        "link": "https://www.infobae.com/economia/2026/10/10/inflacion-mora-y-tasas-reales-de-interes-las-claves-que-definiran-el-futuro-del-credito/",
-        "source": "Infobae Economía",
-        "time": "10/10 18:08",
-        "iso_date": "2026-10-10T21:08:06+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "De Texas a Neuquén: por qué Vaca Muerta es atractivo para las empresas de la cuenca petrolera más grande de EEUU",
+        "summary": "En los próximos años la joya energética argentina afrontará desafíos que hoy tiene Permian, una formación de petróleo y gas diez veces más grande, aseguró el fundador de la Cámara de Comercio Argentino-Texana",
+        "link": "https://www.infobae.com/economia/2026/10/12/de-texas-a-neuquen-por-que-vaca-muerta-es-atractivo-para-las-empresas-de-la-cuenca-petrolera-mas-grande-de-eeuu/",
+        "source": "Infobae Economía",
+        "time": "12/10 08:42",
+        "iso_date": "2026-10-12T11:42:38+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
         "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
@@ -340,10 +358,48 @@
     ],
     "GGAL": [],
     "PAMP": [],
-    "BMA": [],
+    "BMA": [
+      {
+        "title": "Incómoda lección de Nobel de Economía a Milei: por qué estabilidad de la macro no alcanza",
+        "summary": "La distinción a dos estadounidenses reabre el debate sobre el papel del Estado para evitar recesiones. Llega cuando la actividad argentina no despega",
+        "link": "https://www.iprofesional.com/economia/466402-leccion-de-nobel-de-economia-a-milei-por-que-estabilidad-de-la-macro-no-alcanza",
+        "source": "iProfesional",
+        "time": "12/10 12:34",
+        "iso_date": "2026-10-12T15:34:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      }
+    ],
     "TXAR": [],
     "ALUA": [],
-    "TECO2": [],
+    "TECO2": [
+      {
+        "title": "Empleadas domésticas: de cuánto es el aumento en octubre, noviembre y diciembre",
+        "summary": "El personal de casas particulares tendrá nuevos salarios mínimos a partir de octubre.",
+        "link": "https://www.cronista.com/economia-politica/empleadas-domesticas-de-cuanto-es-el-aumento-en-octubre-noviembre-y-diciembre/",
+        "source": "El Cronista",
+        "time": "12/10 15:33",
+        "iso_date": "2026-10-12T18:33:42+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Descubridores de otro mundo: el 12 de octubre y la conquista de la inteligencia artificial en las empresas",
+        "summary": "La incorporación de algoritmos avanzados genera tensiones en las compañías, donde parte del personal percibe las nuevas métricas y la automatización como un riesgo para los saberes, el trato humano y la autonomía",
+        "link": "https://www.infobae.com/opinion/2026/10/12/descubridores-de-otro-mundo-el-12-de-octubre-y-la-conquista-de-la-inteligencia-artificial-en-las-empresas/",
+        "source": "Infobae Economía",
+        "time": "12/10 11:13",
+        "iso_date": "2026-10-12T14:13:09+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      }
+    ],
     "CEPU": [],
     "AL30": [
       {
