@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-13T21:28:36.140226",
-  "updated_str": "13/10/2026 21:28",
+  "updated_at": "2026-10-13T21:46:26.234283",
+  "updated_str": "13/10/2026 21:46",
   "cutoff_hours": 48,
-  "total_news": 213,
+  "total_news": 250,
   "news": {
     "GENERAL": [
+      {
+        "title": "Subieron las acciones pero el riesgo país rozó los 600 puntos en un mercado que siguió de cerca el dato de inflación",
+        "summary": "El Indec informó una inflación de 1,9% en septiembre. El S&P Merval cerró con alza de 1,5%, a pesar de la rueda negativa de Wall Street. Los bonos cayeron 0,3% y el indicador de JP Morgan se arrimó a los 600 puntos básicos. El BCRA compró casi USD 300 millones y las reservas r...",
+        "link": "https://www.infobae.com/economia/2026/10/13/subieron-las-acciones-pero-el-riesgo-pais-rozo-los-600-puntos-en-un-mercado-que-siguio-de-cerca-el-dato-de-inflacion/",
+        "source": "Infobae Economía",
+        "time": "13/10 18:29",
+        "iso_date": "2026-10-13T21:29:58+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "“Se asemeja mucho a un seguro de auto”: el Gobierno defendió la maniobra del BCRA con el oro tras la polémica con la AGN",
         "summary": "El vocero presidencial Adrián Ravier defendió los contratos de cobertura sobre las reservas de oro, cuestionados por la AGN, y sostuvo que el Banco Central obtuvo un resultado neto positivo de más de USD 2.500 millones",
@@ -296,16 +308,6 @@
         "iso_date": "2026-10-13T18:31:52+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Billetes rotos o manchados: en qué casos los bancos están obligados a cambiarlos, según el BCRA",
-        "summary": "Qué se puede hacer en los casos en los que se tenga dinero en efectivo en esas condiciones, según la entidad monetaria.",
-        "link": "https://www.cronista.com/economia-politica/billetes-rotos-o-manchados-en-que-casos-los-bancos-estan-obligados-a-cambiarlos-segun-el-bcra/",
-        "source": "El Cronista",
-        "time": "13/10 15:26",
-        "iso_date": "2026-10-13T18:26:13+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -328,6 +330,30 @@
         "source": "Infobae Economía",
         "time": "12/10 08:42",
         "iso_date": "2026-10-12T11:42:38+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
+        "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
+        "link": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
+        "source": "Ámbito",
+        "time": "12/10 00:00",
+        "iso_date": "2026-10-12T03:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
+        "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
+        "link": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
+        "source": "Ámbito Mercados",
+        "time": "12/10 00:00",
+        "iso_date": "2026-10-12T03:00:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -380,6 +406,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Subieron las acciones pero el riesgo país rozó los 600 puntos en un mercado que siguió de cerca el dato de inflación",
+        "summary": "El Indec informó una inflación de 1,9% en septiembre. El S&P Merval cerró con alza de 1,5%, a pesar de la rueda negativa de Wall Street. Los bonos cayeron 0,3% y el indicador de JP Morgan se arrimó a los 600 puntos básicos. El BCRA compró casi USD 300 millones y las reservas r...",
+        "link": "https://www.infobae.com/economia/2026/10/13/subieron-las-acciones-pero-el-riesgo-pais-rozo-los-600-puntos-en-un-mercado-que-siguio-de-cerca-el-dato-de-inflacion/",
+        "source": "Infobae Economía",
+        "time": "13/10 18:29",
+        "iso_date": "2026-10-13T21:29:58+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Acciones argentinas trepan hasta 5,7%, caen los bonos y el riesgo país queda en 589 puntos",
         "summary": "Tras el feriado largo, las acciones argentinas suben hasta 5,7% en Wall Street, los bonos caen y el mercado espera el dato de inflación nacional",
