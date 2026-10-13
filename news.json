@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-13T22:09:15.004896",
-  "updated_str": "13/10/2026 22:09",
+  "updated_at": "2026-10-13T22:58:38.291105",
+  "updated_str": "13/10/2026 22:58",
   "cutoff_hours": 48,
-  "total_news": 249,
+  "total_news": 214,
   "news": {
     "GENERAL": [
       {
@@ -10,11 +10,21 @@
         "summary": "El Indec informó una inflación de 1,9% en septiembre. El S&P Merval cerró con alza de 1,5%, a pesar de la rueda negativa de Wall Street. Los bonos cayeron 0,3% y el indicador de JP Morgan se arrimó a los 600 puntos básicos. El BCRA compró casi USD 300 millones y las reservas r...",
         "link": "https://www.infobae.com/economia/2026/10/13/subieron-las-acciones-pero-el-riesgo-pais-rozo-los-600-puntos-en-un-mercado-que-siguio-de-cerca-el-dato-de-inflacion/",
         "source": "Infobae Economía",
-        "time": "13/10 18:29",
-        "iso_date": "2026-10-13T21:29:58+00:00",
+        "time": "13/10 19:37",
+        "iso_date": "2026-10-13T22:37:28+00:00",
         "tickers": [
           "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Cuáles fueron los 5 productos de la canasta familiar que más aumentaron en un año",
+        "summary": "Frente a una inflación anual que superó el 33%, existen algunos productos de la canasta familiar que muestran incrementos cercanos al 260%",
+        "link": "https://www.iprofesional.com/finanzas/466518-los-5-productos-de-la-canasta-familiar-que-mas-aumentaron-en-un-ano",
+        "source": "iProfesional",
+        "time": "13/10 19:15",
+        "iso_date": "2026-10-13T22:15:00+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -188,16 +198,6 @@
         "is_general": true
       },
       {
-        "title": "Los servicios impulsaron el IPC de septiembre y en un año subieron casi 50%",
-        "summary": "La inflación se aceleró el mes pasado y los servicios fueron el rubro que más aumento. También crecieron por encima del IPC en la variación interanual",
-        "link": "https://www.iprofesional.com/economia/466502-los-servicios-impulsaron-el-ipc-de-septiembre-y-en-un-ano-subieron-casi-50",
-        "source": "iProfesional",
-        "time": "13/10 16:14",
-        "iso_date": "2026-10-13T19:14:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "La tercera revisión del FMI sigue abierta: cuánto dinero está en juego y qué metas pesan más",
         "summary": "Con elogios por “la disciplina fiscal”, Caputo y todo el equipo económico busca el acuerdo técnico entre el staff del Fondo y el Gobierno para aprobar el desembolso.",
         "link": "https://www.cronista.com/economia-politica/la-tercera-revision-del-fmi-sigue-abierta-cuanto-dinero-esta-en-juego-y-que-metas-pesan-mas/",
@@ -208,7 +208,7 @@
         "is_general": true
       },
       {
-        "title": "La inflación se aceleró a 1,9% en septiembre y acumula un alza de 23,6 en el año, según INDEC",
+        "title": "La inflación se aceleró a 1,9% en septiembre y acumula un alza de 23,6% en el año, según INDEC",
         "summary": "Vivienda, agua, electricidad, gas y otros combustibles fue la división con mayor aumento durante septiembre (+3,1%), mientras que los alimentos y bebidas no alcohólicas sufrieron un avance de 2% debido al componente estacional de las verduras.",
         "link": "https://www.ambito.com/economia/la-inflacion-se-acelero-19-septiembre-y-acumula-un-alza-236-el-ano-segun-indec-n6333284",
         "source": "Ámbito",
@@ -229,7 +229,7 @@
       },
       {
         "title": "IPC: inflación en Argentina se acelera en septiembre pero se mantiene debajo del 2%",
-        "summary": "El Indec dio a conocer este martes una leve aceleración del Índice de Precios al Consumidor.",
+        "summary": "El Indec dio a conocer este martes una leve aceleración del Índice de Precios al Consumidor. Pese a ello, Caputo destacó que se trató de la inflación mensual más baja para un mes de septiembre desde el año 2017.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipc-inflacion-en-argentina-se-acelera-en-septiembre-pero-se-mantiene-debajo-del-2/",
         "source": "Bloomberg Línea AR",
         "time": "13/10 16:00",
@@ -334,30 +334,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
-        "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
-        "link": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
-        "source": "Ámbito",
-        "time": "12/10 00:00",
-        "iso_date": "2026-10-12T03:00:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
-        "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
-        "link": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
-        "source": "Ámbito Mercados",
-        "time": "12/10 00:00",
-        "iso_date": "2026-10-12T03:00:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
@@ -411,8 +387,8 @@
         "summary": "El Indec informó una inflación de 1,9% en septiembre. El S&P Merval cerró con alza de 1,5%, a pesar de la rueda negativa de Wall Street. Los bonos cayeron 0,3% y el indicador de JP Morgan se arrimó a los 600 puntos básicos. El BCRA compró casi USD 300 millones y las reservas r...",
         "link": "https://www.infobae.com/economia/2026/10/13/subieron-las-acciones-pero-el-riesgo-pais-rozo-los-600-puntos-en-un-mercado-que-siguio-de-cerca-el-dato-de-inflacion/",
         "source": "Infobae Economía",
-        "time": "13/10 18:29",
-        "iso_date": "2026-10-13T21:29:58+00:00",
+        "time": "13/10 19:37",
+        "iso_date": "2026-10-13T22:37:28+00:00",
         "tickers": [
           "AL30"
         ],
