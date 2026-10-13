@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-13T20:06:32.989809",
-  "updated_str": "13/10/2026 20:06",
+  "updated_at": "2026-10-13T20:17:29.617140",
+  "updated_str": "13/10/2026 20:17",
   "cutoff_hours": 48,
-  "total_news": 207,
+  "total_news": 239,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,18 @@
         "summary": "La autoridad monetaria adquirió USD 291 millones este martes y las reservas internacionales se acercaron a los USD 50.000 millones",
         "link": "https://www.infobae.com/economia/2026/10/13/el-banco-central-realizo-la-mayor-compra-de-dolares-desde-julio-y-ya-acumula-mas-de-usd-15000-millones-en-2026/",
         "source": "Infobae Economía",
-        "time": "13/10 16:57",
-        "iso_date": "2026-10-13T19:57:19+00:00",
+        "time": "13/10 17:13",
+        "iso_date": "2026-10-13T20:13:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 cierra casi plano entre señales de la Fed, resultados bancarios y caída de chips",
+        "summary": "Los principales índices estadounidenses terminaron en terreno negativo, aunque moderaron sus pérdidas después de que John Williams descartara, por ahora, nuevos aumentos de tasas en 2027.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-opera-mixto-mientras-caen-los-chips-y-los-bancos-marcan-el-pulso-de-la-jornada/",
+        "source": "Bloomberg Línea AR",
+        "time": "13/10 17:08",
+        "iso_date": "2026-10-13T20:08:54+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -298,16 +308,6 @@
         "iso_date": "2026-10-13T16:57:53+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El emisario de Caputo abrió el debate por Presupuesto: universidades, Discapacidad y la hoja de ruta",
-        "summary": "El proyecto destina $7,3 billones a las universidades nacionales, contra los $11 billones que reclaman los rectores, y la oposición pidió compensar la diferencia con partidas del Tesoro. El oficialismo, en tanto, confirmó que bajará el capítulo de Discapacidad y apunta a sesio...",
-        "link": "https://www.cronista.com/economia-politica/el-numero-dos-de-caputo-abrio-el-debate-por-presupuesto-universidades-discapacidad-y-la-hoja-de-ruta/",
-        "source": "El Cronista",
-        "time": "13/10 13:29",
-        "iso_date": "2026-10-13T16:29:53+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -330,6 +330,30 @@
         "source": "Infobae Economía",
         "time": "12/10 08:42",
         "iso_date": "2026-10-12T11:42:38+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
+        "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
+        "link": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
+        "source": "Ámbito",
+        "time": "12/10 00:00",
+        "iso_date": "2026-10-12T03:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
+        "summary": "Sulaiman Syarif visitó Neuquén para explorar inversiones en Vaca Muerta y el GNL argentino. Además, explicó por qué su país abrió el mercado a la carne local.",
+        "link": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
+        "source": "Ámbito Mercados",
+        "time": "12/10 00:00",
+        "iso_date": "2026-10-12T03:00:00+00:00",
         "tickers": [
           "YPFD"
         ],
