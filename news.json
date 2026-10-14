@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-14T20:31:20.451607",
-  "updated_str": "14/10/2026 20:31",
+  "updated_at": "2026-10-14T20:50:08.851881",
+  "updated_str": "14/10/2026 20:50",
   "cutoff_hours": 48,
   "total_news": 251,
   "news": {
     "GENERAL": [
+      {
+        "title": "Licitación clave: el Gobierno renovó todos los vencimientos de deuda y absorbió 1,75 billones de pesos",
+        "summary": "Economía adjudicó $6,61 billones, logró un rollover de 136,14% y descartó emitir el AO29 en dólares por el aumento de los rendimientos tras la suba del riesgo país",
+        "link": "https://www.infobae.com/economia/2026/10/14/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-de-deuda-y-absorbio-175-billones-de-pesos/",
+        "source": "Infobae Economía",
+        "time": "14/10 17:44",
+        "iso_date": "2026-10-14T20:44:03+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El Banco Central compró otros USD 100 millones y busca fortalecer la “bazuca” de dólares para evitar tensiones en 2027",
         "summary": "La autoridad monetaria hilvanó doce jornadas consecutivas con saldo comprador y está cerca de superar las compras de agosto",
@@ -48,7 +60,7 @@
         "is_general": true
       },
       {
-        "title": "Monzó en el Rotary: la apuesta por una tercera opción en 2027 y qué esconde el plan de bajar las PASO",
+        "title": "Monzó en el Rotary: la apuesta por una tercera opción y qué esconde el plan de bajar las PASO",
         "summary": "El expresidente de Diputados y negociador clave en los tiempos de Juntos por el Cambio planteó la necesidad de construir una alternativa amplia que confronte con Milei y el kirchnerismo. El impacto de la Boleta Única en las presidenciales y las figuras más competitivas",
         "link": "https://www.cronista.com/economia-politica/monzo-en-el-rotary-la-apuesta-por-una-tercera-opcion-en-2027-y-que-esconde-el-plan-de-bajar-las-paso/",
         "source": "El Cronista",
@@ -300,16 +312,6 @@
         "iso_date": "2026-10-14T16:11:17+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Argentina quedó con la segunda inflación mensual más alta de América Latina en septiembre, detrás de Venezuela",
-        "summary": "Argentina quedó con la segunda inflación mensual más alta de América Latina en septiembre, detrás de Venezuela",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina-quedo-con-la-segunda-inflacion-mensual-mas-alta-de-america-latina-en-septiembre-detras-de-venezuela/",
-        "source": "Bloomberg Línea AR",
-        "time": "14/10 13:08",
-        "iso_date": "2026-10-14T16:08:34+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -321,8 +323,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -349,8 +351,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -434,6 +436,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Licitación clave: el Gobierno renovó todos los vencimientos de deuda y absorbió 1,75 billones de pesos",
+        "summary": "Economía adjudicó $6,61 billones, logró un rollover de 136,14% y descartó emitir el AO29 en dólares por el aumento de los rendimientos tras la suba del riesgo país",
+        "link": "https://www.infobae.com/economia/2026/10/14/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-de-deuda-y-absorbio-175-billones-de-pesos/",
+        "source": "Infobae Economía",
+        "time": "14/10 17:44",
+        "iso_date": "2026-10-14T20:44:03+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La inflación en EEUU llevó cautela a los mercados: cayeron las acciones y el riesgo país superó los 600 puntos",
         "summary": "Los índices de Wall Street perdieron hasta 1,9% luego de conocido que el IPC norteamericano se elevó al 3,7% anual. El S&P Merval bajó 1,2%",
