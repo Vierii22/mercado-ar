@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-10-15T00:12:21.848987",
-  "updated_str": "15/10/2026 00:12",
+  "updated_at": "2026-10-15T03:13:32.538306",
+  "updated_str": "15/10/2026 03:13",
   "cutoff_hours": 48,
-  "total_news": 262,
+  "total_news": 263,
   "news": {
     "GENERAL": [
+      {
+        "title": "Telecom aceptó venderle a Metrotel más de 6 millones de clientes por USD 450 millones",
+        "summary": "La operación forma parte de la condición que fijó el Tribunal de Defensa de la Competencia para autorizar la compra de Telefónica. Cómo será el traspaso",
+        "link": "https://www.infobae.com/economia/2026/10/15/telecom-acepto-venderle-a-metrotel-mas-de-6-millones-de-clientes-por-usd-450-millones/",
+        "source": "Infobae Economía",
+        "time": "14/10 22:23",
+        "iso_date": "2026-10-15T01:23:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Milei en Estados Unidos: prédica anticomunista, respaldo a Flávio Bolsonaro y foto con Eduardo",
+        "summary": "El Presidente aprovechó una gala organizada por Latino Wall Street para reivindicar su alineamiento con Donald Trump, cuestionar al socialismo y respaldar a dirigentes de derecha de la región",
+        "link": "https://www.cronista.com/economia-politica/milei-en-estados-unidos-predica-anticomunista-respaldo-a-flavio-bolsonaro-y-foto-con-eduardo/",
+        "source": "El Cronista",
+        "time": "14/10 22:19",
+        "iso_date": "2026-10-15T01:19:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei ratificó su alineamiento con Trump y volvió a cargar contra Lula da Silva",
+        "summary": "El Presidente participó de la Gala Oficial de la Herencia Hispana y señaló: \"No podemos ceder un milímetro en la reconquista del hemisferio\"",
+        "link": "https://www.iprofesional.com/politica/466636-milei-ratifico-su-alineamiento-con-trump-y-volvio-a-cargar-contra-lula-da-silva",
+        "source": "iProfesional",
+        "time": "14/10 21:03",
+        "iso_date": "2026-10-15T00:03:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El salto exportador de YPF: una política de Estado blindada ante los cambios de gobierno",
         "summary": "El presidente y CEO de YPF, Horacio Marín, participó del almuerzo del Consejo Interamericano de Comercio y Producción. Allí repasó los números de la compañía y volvió a ratificar el plan 4x4 que busca cuadruplicar el valor de la petrolera para 2030. Empresarios y ejecutivos se...",
@@ -288,38 +320,6 @@
         "iso_date": "2026-10-14T19:25:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Por qué Telecom eligió a Metrotel para transferir 6 millones de líneas móviles",
-        "summary": "Telecom Argentina señaló a Metrotel como la compañía que recibiría los activos que debe desprender tras la adquisición de Telefónica",
-        "link": "https://www.iprofesional.com/tecnologia/466586-por-que-telecom-eligio-a-metrotel-para-transferir-6-millones-de-lineas",
-        "source": "iProfesional",
-        "time": "14/10 16:00",
-        "iso_date": "2026-10-14T19:00:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El dólar operó estable a la espera de una licitación de deuda clave del Tesoro",
-        "summary": "La Secretaría de Finanzas procura extender plazos para después de las elecciones y renovar vencimientos por $4,9 billones. La divisa mayorista quedó a $1.513 y al público continuó a $1.535 en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/10/14/el-dolar-opero-estable-a-la-espera-de-una-licitacion-de-deuda-clave-del-tesoro/",
-        "source": "Infobae Economía",
-        "time": "14/10 15:41",
-        "iso_date": "2026-10-14T18:41:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El FMI elogió el ajuste fiscal de Argentina al tiempo que reclamó reducir exenciones impositivas y mejorar la calidad del gasto",
-        "summary": "Era Dabla-Norris, subdirectora de Asuntos Fiscales del organismo, pidió avanzar con reformas tributarias, reemplazar gravámenes distorsivos y focalizar los subsidios en los hogares vulnerables.",
-        "link": "https://www.infobae.com/economia/2026/10/14/el-fmi-elogio-el-ajuste-fiscal-de-argentina-al-tiempo-que-reclamo-reducir-exenciones-impositivas-y-mejorar-la-calidad-del-gasto/",
-        "source": "Infobae Economía",
-        "time": "14/10 15:27",
-        "iso_date": "2026-10-14T18:27:41+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -379,8 +379,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -407,8 +407,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -417,6 +417,18 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
+      {
+        "title": "Telecom aceptó venderle a Metrotel más de 6 millones de clientes por USD 450 millones",
+        "summary": "La operación forma parte de la condición que fijó el Tribunal de Defensa de la Competencia para autorizar la compra de Telefónica. Cómo será el traspaso",
+        "link": "https://www.infobae.com/economia/2026/10/15/telecom-acepto-venderle-a-metrotel-mas-de-6-millones-de-clientes-por-usd-450-millones/",
+        "source": "Infobae Economía",
+        "time": "14/10 22:23",
+        "iso_date": "2026-10-15T01:23:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Por qué Telecom eligió a Metrotel para transferir 6 millones de líneas móviles",
         "summary": "Telecom Argentina señaló a Metrotel como la compañía que recibiría los activos que debe desprender tras la adquisición de Telefónica",
