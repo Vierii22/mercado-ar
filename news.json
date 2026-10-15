@@ -1,17 +1,59 @@
 {
-  "updated_at": "2026-10-15T19:59:50.280592",
-  "updated_str": "15/10/2026 19:59",
+  "updated_at": "2026-10-15T20:15:30.137487",
+  "updated_str": "15/10/2026 20:15",
   "cutoff_hours": 48,
-  "total_news": 266,
+  "total_news": 267,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Banco Central volvió a realizar una fuerte compra de dólares y las reservas superaron los USD 50.000 millones",
+        "summary": "La autoridad monetaria sumó USD 182 millones este jueves y acumula más de USD 900 millones en el transcurso de octubre",
+        "link": "https://www.infobae.com/economia/2026/10/15/el-banco-central-volvio-a-realizar-una-fuerte-compra-de-dolares-y-las-reservas-superaron-los-usd-50000-millones/",
+        "source": "Infobae Economía",
+        "time": "15/10 17:09",
+        "iso_date": "2026-10-15T20:09:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Wall Street rebota y el Dow Jones lidera las ganancias ante las dudas sobre inversiones en IA",
+        "summary": "Los inversionistas buscaron oportunidades fuera de las compañías vinculadas a la inteligencia artificial, lo que favoreció al Dow Jones, mientras las dudas sobre el gasto tecnológico y la inflación persistieron.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-ante-nuevos-temores-por-la-ia-y-presiones-inflacionarias-que-complican-a-la-fed/",
+        "source": "Bloomberg Línea AR",
+        "time": "15/10 17:07",
+        "iso_date": "2026-10-15T20:07:45+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Qué son los \"kilómetros fantasma\" que le cuestan a Vaca Muerta u$s16 millones al año",
+        "summary": "Mover trabajadores a los yacimientos cuesta más de u$s100 millones al año, pero se pierden hasta 15% de lo que facturan en combis con asientos vacíos",
+        "link": "https://www.iprofesional.com/energia/466710-que-son-kilometros-fantasma-que-cuestan-a-vaca-muerta-16-millones-de-dolares-anuales",
+        "source": "iProfesional",
+        "time": "15/10 17:01",
+        "iso_date": "2026-10-15T20:01:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "La titular del FMI aseguró que la Argentina cancelará antes de tiempo su deuda y Caputo le respondió: “Te vas a sorprender”",
         "summary": "El ministro de Economía participó de un panel en la asamblea anual del Fondo y el Banco Mundial en Tailandia. Defendió el modelo económico libertario y relativizó el riesgo electoral",
         "link": "https://www.infobae.com/economia/2026/10/15/la-titular-del-fmi-aseguro-que-la-argentina-cancelara-antes-de-tiempo-su-deuda-y-caputo-le-respondio-te-vas-a-sorprender/",
         "source": "Infobae Economía",
-        "time": "15/10 16:53",
-        "iso_date": "2026-10-15T19:53:06+00:00",
+        "time": "15/10 16:59",
+        "iso_date": "2026-10-15T19:59:35+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar operó estable y se alejó del techo de la bandas cambiaria",
+        "summary": "La divisa mayorista permaneció a $1.513, a unos $422,12 o 27,9% del límite del esquema oficial. Al público continuó a $1.535 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/10/15/el-dolar-opero-estable-y-se-alejo-del-techo-de-la-bandas-cambiaria/",
+        "source": "Infobae Economía",
+        "time": "15/10 16:55",
+        "iso_date": "2026-10-15T19:55:40+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -149,8 +191,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -279,54 +321,21 @@
         "iso_date": "2026-10-15T15:47:58+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Tras el cambio de dueños, Profertil arrancó el diseño de su segunda planta de urea en Bahía Blanca",
-        "summary": "Techint y la italiana Saipem desarrollarán la evaluación para la nueva planta que elevará la capacidad de producción de la empresa. El proyecto, postergado durante una década, se concreta con nuevos accionistas y el impulso del gas de Vaca Muerta",
-        "link": "https://www.infobae.com/economia/2026/10/15/tras-el-cambio-de-duenos-profertil-arranco-el-diseno-de-su-segunda-planta-de-urea-en-bahia-blanca/",
-        "source": "Infobae Economía",
-        "time": "15/10 12:46",
-        "iso_date": "2026-10-15T15:46:55+00:00",
+        "title": "Qué son los \"kilómetros fantasma\" que le cuestan a Vaca Muerta u$s16 millones al año",
+        "summary": "Mover trabajadores a los yacimientos cuesta más de u$s100 millones al año, pero se pierden hasta 15% de lo que facturan en combis con asientos vacíos",
+        "link": "https://www.iprofesional.com/energia/466710-que-son-kilometros-fantasma-que-cuestan-a-vaca-muerta-16-millones-de-dolares-anuales",
+        "source": "iProfesional",
+        "time": "15/10 17:01",
+        "iso_date": "2026-10-15T20:01:00+00:00",
         "tickers": [
-          "TXAR",
           "YPFD"
         ],
         "is_general": false
       },
-      {
-        "title": "Riesgo país argentino supera los 630 puntos y se acerca al valor más alto que tocó en 2026",
-        "summary": "El índice que mide JPMorgan llegó a subir 4,7% este jueves, ante la caída de los bonos argentinos, que operan a contramano de la dinámica del mercado global de renta fija.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/riesgo-pais-argentino-supera-los-630-puntos-y-se-acerca-al-valor-mas-alto-que-toco-en-2026/",
-        "source": "Bloomberg Línea AR",
-        "time": "15/10 12:45",
-        "iso_date": "2026-10-15T15:45:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Inflación de septiembre 2026 en América Latina, país por país, de México hasta Argentina",
-        "summary": "Argentina está estancada por encima del 30%, Colombia se mantiene arriba del 6% y Brasil se acerca al 5%.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/inflacion-de-septiembre-2026-en-america-latina-pais-por-pais-de-mexico-hasta-argentina/",
-        "source": "Bloomberg Línea AR",
-        "time": "15/10 11:55",
-        "iso_date": "2026-10-15T14:55:45+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La apuesta de Caputo para el dólar 2027: el BCRA acelera compras y revela de dónde vendrán",
-        "summary": "El vicepresidente del BCRA, Vladimir Werning, presentó ante inversores internacionales las proyecciones de una mayor oferta de dólares",
-        "link": "https://www.iprofesional.com/finanzas/466682-apuesta-caputo-dolar-2027-bcra-compras-de-donde-vendran",
-        "source": "iProfesional",
-        "time": "15/10 11:53",
-        "iso_date": "2026-10-15T14:53:00+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
       {
         "title": "Galperin, Marín y Rocca, los empresarios con mejor reputación de Argentina en 2026",
         "summary": "El fundador de MercadoLibre conservó el primer puesto por séptimo año consecutivo en el Merco Líderes, mientras que los ejecutivos de YPF y Techint desplazaron del podio a los referentes de Arcor y Globant. Quiénes integran el top 10.",
@@ -335,8 +344,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -348,8 +357,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -409,8 +418,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -437,8 +446,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       }
@@ -453,8 +462,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -466,8 +475,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
