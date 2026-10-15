@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-15T22:51:36.025726",
-  "updated_str": "15/10/2026 22:51",
+  "updated_at": "2026-10-15T23:59:32.657805",
+  "updated_str": "15/10/2026 23:59",
   "cutoff_hours": 48,
-  "total_news": 265,
+  "total_news": 264,
   "news": {
     "GENERAL": [
+      {
+        "title": "La disputa por el financiamiento universitario complica a Milei más allá de los disturbios",
+        "summary": "La pelea es de larga data y se mete en el debate del Presupuesto 2027. Milei busca aprovecharlo, pero el conflicto político excede los incidentes",
+        "link": "https://www.iprofesional.com/politica/466733-financiamiento-universitario-la-puja-que-desafia-a-milei-mas-alla-de-los-disturbios",
+        "source": "iProfesional",
+        "time": "15/10 20:40",
+        "iso_date": "2026-10-15T23:40:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Estiman que costará $90 millones reparar los destrozos y denuncian a manifestantes",
+        "summary": "Tras los incidentes frente al Congreso, las autoridades buscan responsables e impulsan acciones judiciales por los daños ocasionados en la protesta",
+        "link": "https://www.iprofesional.com/politica/466730-gobierno-denuncia-penal-marcha-universitaria-danos-millonarios-busca-responsables",
+        "source": "iProfesional",
+        "time": "15/10 19:38",
+        "iso_date": "2026-10-15T22:38:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Milei liga reclamo universitario con grupos violentos y sale fortalecido de los incidentes",
         "summary": "El reclamo por la ley universitaria pasó a un segundo plano, en medio de acusaciones cruzadas sobre quién fue responsable de desatar la violencia",
@@ -112,7 +132,7 @@
         "is_general": true
       },
       {
-        "title": "Universidades públicas exigen a Milei que aplique la ley y actualice los fondos",
+        "title": "Universidades públicas exigieron a Milei que aplique la ley y actualice los fondos",
         "summary": "Docentes, estudiantes y autoridades universitarias exigen recursos adecuados mientras denuncian incumplimiento estatal y tensión creciente",
         "link": "https://www.iprofesional.com/politica/466714-universidades-publicas-alerta-fondos-recortados-preocupa-estudiantes",
         "source": "iProfesional",
@@ -140,18 +160,6 @@
         "iso_date": "2026-10-15T20:07:45+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Qué son los \"kilómetros fantasma\" que le cuestan a Vaca Muerta u$s16 millones al año",
-        "summary": "Mover trabajadores a los yacimientos cuesta más de u$s100 millones al año, pero se pierden hasta 15% de lo que facturan en combis con asientos vacíos",
-        "link": "https://www.iprofesional.com/energia/466710-que-son-kilometros-fantasma-que-cuestan-a-vaca-muerta-16-millones-de-dolares-anuales",
-        "source": "iProfesional",
-        "time": "15/10 17:01",
-        "iso_date": "2026-10-15T20:01:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       },
       {
         "title": "La titular del FMI aseguró que la Argentina cancelará antes de tiempo su deuda y Caputo le respondió: “Te vas a sorprender”",
@@ -275,8 +283,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -311,31 +319,9 @@
         "iso_date": "2026-10-15T16:55:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "¿Dólares del colchón e inmuebles?: qué se puede regularizar con Inocencia Fiscal",
-        "summary": "La Ley de Inocencia Fiscal prevé la regularización de dólares, pesos y criptomonedas, pero los expertos creen que la definición es más amplia",
-        "link": "https://www.iprofesional.com/impuestos/466678-inocencia-fiscal-discuten-si-regularizar-inmuebles-ademas-de-dolares",
-        "source": "iProfesional",
-        "time": "15/10 13:50",
-        "iso_date": "2026-10-15T16:50:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
-      {
-        "title": "Qué son los \"kilómetros fantasma\" que le cuestan a Vaca Muerta u$s16 millones al año",
-        "summary": "Mover trabajadores a los yacimientos cuesta más de u$s100 millones al año, pero se pierden hasta 15% de lo que facturan en combis con asientos vacíos",
-        "link": "https://www.iprofesional.com/energia/466710-que-son-kilometros-fantasma-que-cuestan-a-vaca-muerta-16-millones-de-dolares-anuales",
-        "source": "iProfesional",
-        "time": "15/10 17:01",
-        "iso_date": "2026-10-15T20:01:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
       {
         "title": "Galperin, Marín y Rocca, los empresarios con mejor reputación de Argentina en 2026",
         "summary": "El fundador de MercadoLibre conservó el primer puesto por séptimo año consecutivo en el Merco Líderes, mientras que los ejecutivos de YPF y Techint desplazaron del podio a los referentes de Arcor y Globant. Quiénes integran el top 10.",
@@ -344,8 +330,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -357,8 +343,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -450,8 +436,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -463,8 +449,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -637,18 +623,6 @@
         "source": "Infobae Economía",
         "time": "15/10 02:43",
         "iso_date": "2026-10-15T05:43:12+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país cruza los 600 puntos y Caputo ajusta el plan para evitar otra crisis del dólar",
-        "summary": "El Gobierno evalúa recurrir al swap chino, acelera la compra de reservas y prepara una millonaria defensa financiera para atravesar el año electoral",
-        "link": "https://www.iprofesional.com/finanzas/466624-riesgo-pais-cruza-los-600-puntos-y-caputo-ajusta-su-plan-para-el-dolar",
-        "source": "iProfesional",
-        "time": "14/10 19:13",
-        "iso_date": "2026-10-14T22:13:00+00:00",
         "tickers": [
           "AL30"
         ],
