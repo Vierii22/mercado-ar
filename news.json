@@ -1,38 +1,20 @@
 {
-  "updated_at": "2026-10-15T18:25:58.987521",
-  "updated_str": "15/10/2026 18:25",
+  "updated_at": "2026-10-15T18:46:10.228242",
+  "updated_str": "15/10/2026 18:46",
   "cutoff_hours": 48,
-  "total_news": 269,
+  "total_news": 272,
   "news": {
     "GENERAL": [
       {
-        "title": "Dólar blue hoy: a cuánto opera este jueves 15 de octubre",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-15-octubre-n6333949",
-        "source": "Ámbito Mercados",
-        "time": "15/10 15:20",
-        "iso_date": "2026-10-15T18:20:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: a cuánto cotiza este jueves 15 de octubre",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-15-octubre-n6333948",
-        "source": "Ámbito Mercados",
-        "time": "15/10 15:20",
-        "iso_date": "2026-10-15T18:20:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar oficial pisó el freno y los economistas anticipan a cuánto llegará en diciembre",
-        "summary": "El dólar mayorista se mantuvo estable en los $1.513, mientras las consultoras ajustan sus previsiones para el cierre de 2026. Los analistas estiman que la divisa podría ubicarse entre $1.600 y $1.720 en diciembre.",
-        "link": "https://www.ambito.com/finanzas/el-dolar-extiende-la-calma-y-los-economistas-anticipan-cuanto-llegara-diciembre-n6333982",
-        "source": "Ámbito Mercados",
-        "time": "15/10 15:19",
-        "iso_date": "2026-10-15T18:19:00+00:00",
-        "tickers": [],
+        "title": "El riesgo país sube con fuerza y supera los 620 puntos: los factores que impulsan el alza",
+        "summary": "El indicador sube ante el miedo global de que la Fed vuelva a subir tasas. En EE.UU. Milei pronosticó que en 2027 estará por debajo de los 100 puntos",
+        "link": "https://www.iprofesional.com/finanzas/466697-riesgo-pais-argentina-salto-640-puntos-genero-preocupacion-inversores-octubre-2026",
+        "source": "iProfesional",
+        "time": "15/10 15:25",
+        "iso_date": "2026-10-15T18:25:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -42,16 +24,6 @@
         "source": "Bloomberg Línea AR",
         "time": "15/10 15:08",
         "iso_date": "2026-10-15T18:08:02+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 15 de octubre",
-        "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-        "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-15-octubre-n6333972",
-        "source": "Ámbito Mercados",
-        "time": "15/10 14:56",
-        "iso_date": "2026-10-15T17:56:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -115,8 +87,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -160,18 +132,6 @@
         "time": "15/10 13:50",
         "iso_date": "2026-10-15T16:50:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país subió 4,7% a 640 puntos, mientras Milei lo proyectaba a menos de 100 para 2027",
-        "summary": "En pleno viaje oficial del Presidente por Estados Unidos, se disparan los valores de los títulos y crecen las dudas sobre la confianza inversora",
-        "link": "https://www.iprofesional.com/finanzas/466697-riesgo-pais-argentina-salto-640-puntos-genero-preocupacion-inversores-octubre-2026",
-        "source": "iProfesional",
-        "time": "15/10 13:43",
-        "iso_date": "2026-10-15T16:43:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -266,8 +226,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -322,6 +282,50 @@
         "iso_date": "2026-10-15T14:32:03+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "El Niño trae también electricidad récord: represas al tope y energía más barata",
+        "summary": "El fenómeno El Niño llena las represas y dispara la generación eléctrica más económica, aliviando costos mientras crecen los alertas en el Litoral.",
+        "link": "https://www.iprofesional.com/energia/466679-el-nino-trae-tambien-hidricidad-record-represas-al-tope-y-energia-mas-barata",
+        "source": "iProfesional",
+        "time": "15/10 11:05",
+        "iso_date": "2026-10-15T14:05:00+00:00",
+        "tickers": [
+          "CEPU"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Luis Caputo, en cumbre del FMI: \"Argentina será una de las economías con mejor desempeño en los próximos años\"",
+        "summary": "En el marco de las Reuniones Anuales del FMI y del Banco Mundial, el ministro de economía se mostró optimista respecto al futuro próximo, e indicó que los argentinos \"nunca van a votar para volver a un pasado de casi hiperinflación y de múltiples tipos de cambio\".",
+        "link": "https://www.ambito.com/economia/luis-caputo-cumbre-del-fmi-argentina-sera-una-las-s-mejor-desempeno-los-proximos-anos-n6334061",
+        "source": "Ámbito",
+        "time": "15/10 10:59",
+        "iso_date": "2026-10-15T13:59:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mindlin busca estirar vencimientos con un nuevo canje de deuda de Loma Negra",
+        "summary": "La cementera lanzó un canje voluntario para extender vencimientos, seis meses después de la llegada del dueño de Pampa Energía al grupo controlante",
+        "link": "https://www.iprofesional.com/negocios/466674-mindlin-busca-mas-plazo-para-pagar-parte-de-la-deuda-de-loma-negra",
+        "source": "iProfesional",
+        "time": "15/10 10:58",
+        "iso_date": "2026-10-15T13:58:00+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 cae ante nuevos temores por la IA y presiones inflacionarias que complican a la Fed",
+        "summary": "El mayor aumento de los precios al productor en más de cuatro años refuerza las apuestas por nuevas alzas de tasas de la Fed, en una jornada marcada por las pérdidas tecnológicas y la búsqueda de activos refugio.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-ante-nuevos-temores-por-la-ia-y-presiones-inflacionarias-que-complican-a-la-fed/",
+        "source": "Bloomberg Línea AR",
+        "time": "15/10 10:51",
+        "iso_date": "2026-10-15T13:51:05+00:00",
+        "tickers": [],
+        "is_general": true
       }
     ],
     "YPFD": [
@@ -333,8 +337,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -346,8 +350,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -368,6 +372,18 @@
         "summary": "El presidente y CEO de YPF, Horacio Marín, participó del almuerzo del Consejo Interamericano de Comercio y Producción. Allí repasó los números de la compañía y volvió a ratificar el plan 4x4 que busca cuadruplicar el valor de la petrolera para 2030. Empresarios y ejecutivos se...",
         "link": "https://www.ambito.com/economia/el-salto-exportador-ypf-una-politica-estado-blindada-los-cambios-gobierno-n6333898",
         "source": "Ámbito",
+        "time": "14/10 20:21",
+        "iso_date": "2026-10-14T23:21:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El salto exportador de YPF: una política de Estado blindada ante los cambios de gobierno",
+        "summary": "El presidente y CEO de YPF, Horacio Marín, participó del almuerzo del Consejo Interamericano de Comercio y Producción. Allí repasó los números de la compañía y volvió a ratificar el plan 4x4 que busca cuadruplicar el valor de la petrolera para 2030. Empresarios y ejecutivos se...",
+        "link": "https://www.ambito.com/economia/el-salto-exportador-ypf-una-politica-estado-blindada-los-cambios-gobierno-n6333898",
+        "source": "Ámbito Mercados",
         "time": "14/10 20:21",
         "iso_date": "2026-10-14T23:21:00+00:00",
         "tickers": [
@@ -439,8 +455,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -452,8 +468,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -525,24 +541,24 @@
     ],
     "AL30": [
       {
-        "title": "Incertidumbre local y volatilidad internacional: por qué el riesgo país se consolida por encima de los 600 puntos básicos",
-        "summary": "La presión a la baja para los bonos argentinos combinada con los movimientos de las tasas en los EEUU cierran las puertas a nuevas emisiones de deuda en el exterior, a un año de las elecciones",
-        "link": "https://www.infobae.com/economia/2026/10/15/incertidumbre-local-y-volatilidad-internacional-por-que-el-riesgo-pais-se-consolida-por-encima-de-los-600-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "15/10 13:57",
-        "iso_date": "2026-10-15T16:57:23+00:00",
+        "title": "El riesgo país sube con fuerza y supera los 620 puntos: los factores que impulsan el alza",
+        "summary": "El indicador sube ante el miedo global de que la Fed vuelva a subir tasas. En EE.UU. Milei pronosticó que en 2027 estará por debajo de los 100 puntos",
+        "link": "https://www.iprofesional.com/finanzas/466697-riesgo-pais-argentina-salto-640-puntos-genero-preocupacion-inversores-octubre-2026",
+        "source": "iProfesional",
+        "time": "15/10 15:25",
+        "iso_date": "2026-10-15T18:25:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país subió 4,7% a 640 puntos, mientras Milei lo proyectaba a menos de 100 para 2027",
-        "summary": "En pleno viaje oficial del Presidente por Estados Unidos, se disparan los valores de los títulos y crecen las dudas sobre la confianza inversora",
-        "link": "https://www.iprofesional.com/finanzas/466697-riesgo-pais-argentina-salto-640-puntos-genero-preocupacion-inversores-octubre-2026",
-        "source": "iProfesional",
-        "time": "15/10 13:43",
-        "iso_date": "2026-10-15T16:43:00+00:00",
+        "title": "Incertidumbre local y volatilidad internacional: por qué el riesgo país se consolida por encima de los 600 puntos básicos",
+        "summary": "La presión a la baja para los bonos argentinos combinada con los movimientos de las tasas en los EEUU cierran las puertas a nuevas emisiones de deuda en el exterior, a un año de las elecciones",
+        "link": "https://www.infobae.com/economia/2026/10/15/incertidumbre-local-y-volatilidad-internacional-por-que-el-riesgo-pais-se-consolida-por-encima-de-los-600-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "15/10 13:57",
+        "iso_date": "2026-10-15T16:57:23+00:00",
         "tickers": [
           "AL30"
         ],
@@ -615,18 +631,6 @@
         "source": "Infobae Economía",
         "time": "15/10 02:43",
         "iso_date": "2026-10-15T05:43:12+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Tres razones por las que el riesgo país volvió a superar los 600 puntos",
-        "summary": "La referencia que mide la probabilidad que un Estado incumpla con sus obligaciones llegó a 611 puntos básicos, muy cerca del máximo del año.",
-        "link": "https://www.iprofesional.com/finanzas/466625-3-razones-por-las-que-le-riesgo-pais-volvio-a-superar-los-600-puntos",
-        "source": "iProfesional",
-        "time": "14/10 20:05",
-        "iso_date": "2026-10-14T23:05:00+00:00",
         "tickers": [
           "AL30"
         ],
