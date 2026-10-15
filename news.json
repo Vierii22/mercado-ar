@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-10-15T20:26:14.636758",
-  "updated_str": "15/10/2026 20:26",
+  "updated_at": "2026-10-15T20:49:08.544846",
+  "updated_str": "15/10/2026 20:49",
   "cutoff_hours": 48,
-  "total_news": 266,
+  "total_news": 310,
   "news": {
     "GENERAL": [
+      {
+        "title": "Mercados: las acciones argentinas se recuperaron, pero el riesgo país vuelve a subir",
+        "summary": "El S&P Merval revirtió las bajas de la mañana y ganó 0,8%, gracias al repunte de Wall Street. Los títulos públicos finalizaron mixtos",
+        "link": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "15/10 17:37",
+        "iso_date": "2026-10-15T20:37:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El Banco Central volvió a realizar una fuerte compra de dólares y las reservas superaron los USD 50.000 millones",
         "summary": "La autoridad monetaria sumó USD 182 millones este jueves y acumula más de USD 900 millones en el transcurso de octubre",
         "link": "https://www.infobae.com/economia/2026/10/15/el-banco-central-volvio-a-realizar-una-fuerte-compra-de-dolares-y-las-reservas-superaron-los-usd-50000-millones/",
         "source": "Infobae Economía",
-        "time": "15/10 17:09",
-        "iso_date": "2026-10-15T20:09:10+00:00",
+        "time": "15/10 17:36",
+        "iso_date": "2026-10-15T20:36:24+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La deuda pública registró una leve suba en septiembre: los motivos del incremento y cómo evolucionaron los pasivos con el FMI",
+        "summary": "La Administración Central hizo operaciones financieras por USD 33.476 millones: USD 15.721 millones correspondieron a financiaciones y USD 17.755 millones a cancelaciones",
+        "link": "https://www.infobae.com/economia/2026/10/15/la-deuda-publica-registro-una-leve-suba-en-septiembre-los-motivos-del-incremento-y-como-evolucionaron-los-pasivos-con-el-fmi/",
+        "source": "Infobae Economía",
+        "time": "15/10 17:22",
+        "iso_date": "2026-10-15T20:22:35+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -191,8 +213,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -291,34 +313,12 @@
         "is_general": true
       },
       {
-        "title": "Mercados: caen las acciones argentinas y el riesgo país vuelve a subir",
-        "summary": "Los títulos públicos pierden 0,3% en promedio y empuja al alza del indicador de JP Morgan. El S&P Merval cede 0,2%, mientras que los índices de Wall Street negocian dispares",
-        "link": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "15/10 12:54",
-        "iso_date": "2026-10-15T15:54:48+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "La inflación mayorista de EEUU se disparó a su nivel más alto desde 2022 por la guerra en Medio Oriente",
         "summary": "Los precios al productor de EEUU subieron en septiembre al ritmo más rápido en más de cuatro años, a medida que el aumento de los costos de la energía se propagó por toda la economía estadounidense.",
         "link": "https://www.ambito.com/economia/la-inflacion-mayorista-eeuu-se-disparo-su-nivel-mas-alto-2022-la-guerra-medio-oriente-n6334081",
         "source": "Ámbito",
         "time": "15/10 12:52",
         "iso_date": "2026-10-15T15:52:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Conviene dolarizar? Qué dijo el economista libertario más escuchado sobre el Gobierno y los planes de 2027",
-        "summary": "Agustín Etchebarne fue contundente al hablar de una medida que la gestión Milei no llevó adelante.",
-        "link": "https://www.cronista.com/economia-politica/conviene-dolarizar-que-dijo-el-economista-libertario-mas-escuchado-sobre-el-gobierno-y-los-planes-de-2027/",
-        "source": "El Cronista",
-        "time": "15/10 12:47",
-        "iso_date": "2026-10-15T15:47:58+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -344,8 +344,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -357,8 +357,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -462,8 +462,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -475,8 +475,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -542,6 +542,30 @@
           "TECO2"
         ],
         "is_general": false
+      },
+      {
+        "title": "Empleadas domésticas: cómo funciona la nueva herramienta de ARCA para liquidar los sueldos",
+        "summary": "El organismo incorporó la función “Recibo Asistido” al sistema de Personal de Casas Particulares. Qué funciones y opciones presenta la herramienta para calcular los haberes.",
+        "link": "https://www.ambito.com/economia/empleadas-domesticas-como-funciona-la-nueva-herramienta-arca-liquidar-los-sueldos-n6333475",
+        "source": "Ámbito",
+        "time": "14/10 08:07",
+        "iso_date": "2026-10-14T11:07:06+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Empleadas domésticas: cómo funciona la nueva herramienta de ARCA para liquidar los sueldos",
+        "summary": "El organismo incorporó la función “Recibo Asistido” al sistema de Personal de Casas Particulares. Qué funciones y opciones presenta la herramienta para calcular los haberes.",
+        "link": "https://www.ambito.com/economia/empleadas-domesticas-como-funciona-la-nueva-herramienta-arca-liquidar-los-sueldos-n6333475",
+        "source": "Ámbito Mercados",
+        "time": "14/10 08:07",
+        "iso_date": "2026-10-14T11:07:06+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
       }
     ],
     "CEPU": [
@@ -559,6 +583,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "Mercados: las acciones argentinas se recuperaron, pero el riesgo país vuelve a subir",
+        "summary": "El S&P Merval revirtió las bajas de la mañana y ganó 0,8%, gracias al repunte de Wall Street. Los títulos públicos finalizaron mixtos",
+        "link": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "15/10 17:37",
+        "iso_date": "2026-10-15T20:37:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país sube con fuerza y supera los 620 puntos: los factores que impulsan el alza",
         "summary": "El indicador sube ante el miedo global de que la Fed vuelva a subir tasas. En EE.UU. Milei pronosticó que en 2027 estará por debajo de los 100 puntos",
@@ -590,18 +626,6 @@
         "source": "iProfesional",
         "time": "15/10 13:17",
         "iso_date": "2026-10-15T16:17:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados: caen las acciones argentinas y el riesgo país vuelve a subir",
-        "summary": "Los títulos públicos pierden 0,3% en promedio y empuja al alza del indicador de JP Morgan. El S&P Merval cede 0,2%, mientras que los índices de Wall Street negocian dispares",
-        "link": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
-        "source": "Infobae Economía",
-        "time": "15/10 12:54",
-        "iso_date": "2026-10-15T15:54:48+00:00",
         "tickers": [
           "AL30"
         ],
