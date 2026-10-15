@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-15T19:31:16.160339",
-  "updated_str": "15/10/2026 19:31",
+  "updated_at": "2026-10-15T19:59:50.280592",
+  "updated_str": "15/10/2026 19:59",
   "cutoff_hours": 48,
-  "total_news": 269,
+  "total_news": 266,
   "news": {
     "GENERAL": [
+      {
+        "title": "La titular del FMI aseguró que la Argentina cancelará antes de tiempo su deuda y Caputo le respondió: “Te vas a sorprender”",
+        "summary": "El ministro de Economía participó de un panel en la asamblea anual del Fondo y el Banco Mundial en Tailandia. Defendió el modelo económico libertario y relativizó el riesgo electoral",
+        "link": "https://www.infobae.com/economia/2026/10/15/la-titular-del-fmi-aseguro-que-la-argentina-cancelara-antes-de-tiempo-su-deuda-y-caputo-le-respondio-te-vas-a-sorprender/",
+        "source": "Infobae Economía",
+        "time": "15/10 16:53",
+        "iso_date": "2026-10-15T19:53:06+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La canasta alimentaria subió menos que la inflación tras cuatro meses de encarecimiento",
+        "summary": "Tanto la canasta que marca la línea de pobreza como la de indigencia se encarecieron 1,7% frente al 1,9% de la inflación. ¿Un quiebre de tendencia?",
+        "link": "https://www.iprofesional.com/economia/466709-la-canasta-alimentaria-volvio-a-subir-menos-que-la-inflacion",
+        "source": "iProfesional",
+        "time": "15/10 16:39",
+        "iso_date": "2026-10-15T19:39:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 15 de octubre",
         "summary": "El billete al público continuó ofrecido a $1.535 para la venta en el Banco Nación. El blue cerró ofrecido a $1.545",
@@ -80,7 +100,7 @@
         "is_general": true
       },
       {
-        "title": "Fracasó el intento opositor de voltear el mega DNU y Milei busca acelerar su agenda",
+        "title": "El Gobierno salvó el mega DNU de Milei y acelera con su agenda entre señales de alerta",
         "summary": "Le faltaron 8 diputados para llegar al quórum. Tres gobernadores y una jugada final de LLA fueron clave. Al Gobierno le espera otro desafío",
         "link": "https://www.iprofesional.com/politica/466696-fracaso-el-intento-opositor-de-voltear-el-mega-dnu-y-milei-busca-acelerar-su-agenda",
         "source": "iProfesional",
@@ -304,26 +324,6 @@
         "iso_date": "2026-10-15T14:53:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "A cuánto llegó el índice de inflación de septiembre en cada provincia",
-        "summary": "Las provincias registraron diferencias en la evolución del costo de vida, con aceleraciones en algunos casos y mermas en otros",
-        "link": "https://www.infobae.com/economia/2026/10/15/a-cuanto-llego-el-indice-de-inflacion-de-septiembre-en-cada-provincia/",
-        "source": "Infobae Economía",
-        "time": "15/10 11:40",
-        "iso_date": "2026-10-15T14:40:17+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cedear, bonos y FCI: para qué sirve cada uno y cómo se usan",
-        "summary": "Quien empieza a invertir suele mirar primero cuánto rindió cada alternativa. Pero antes hay otras preguntas más importantes: cuándo se necesitará el dinero, cuánto riesgo se está dispuesto a asumir y si se quiere elegir cada activo o delegar la administración. Para cada respue...",
-        "link": "https://www.cronista.com/finanzas-mercados/cedear-bonos-y-fci-para-que-sirve-cada-uno-y-como-se-usan/",
-        "source": "El Cronista",
-        "time": "15/10 11:32",
-        "iso_date": "2026-10-15T14:32:03+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -409,8 +409,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -437,8 +437,8 @@
         "time": "14/10 05:00",
         "iso_date": "2026-10-14T08:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       }
