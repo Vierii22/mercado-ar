@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-16T21:27:35.079626",
-  "updated_str": "16/10/2026 21:27",
+  "updated_at": "2026-10-16T21:58:17.635697",
+  "updated_str": "16/10/2026 21:58",
   "cutoff_hours": 48,
   "total_news": 247,
   "news": {
     "GENERAL": [
+      {
+        "title": "Economía colombiana se enfría: crecimiento caería por debajo del 2% en el tercer trimestre",
+        "summary": "La revaluación del peso, la moderación del gasto público, las altas tasas de interés y los efectos del terremoto están debilitando la actividad económica.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/economia-colombiana-se-enfria-crecimiento-caeria-por-debajo-del-2-en-el-tercer-trimestre/",
+        "source": "Bloomberg Línea AR",
+        "time": "16/10 18:45",
+        "iso_date": "2026-10-16T21:45:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: cayeron las acciones argentinas y el riesgo país volvió a tocar máximos de 2026",
+        "summary": "Ante una sesión muy negativa de Wall Street, el S&P Merval restó 0,4% y los títulos públicos recortaron 1,5%. El indicador de JP Morgan subió a 648 puntos. El BCRA compró USD 68 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/16/jornada-financiera-cayeron-las-acciones-argentinas-y-el-riesgo-pais-volvio-a-tocar-maximos-de-2026/",
+        "source": "Infobae Economía",
+        "time": "16/10 18:33",
+        "iso_date": "2026-10-16T21:33:27+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Movistar dejará de existir como marca en Argentina y detalló que deberán hacer sus clientes que pasarán a Tuenti",
         "summary": "Unos 6 millones de usuarios móviles de la empresa y 200.000 clientes de internet fija pasarán al nuevo sello comercial de Metrotel. El movimiento se da como parte de la compra de Telefónica por parte de Telecom",
@@ -294,26 +316,6 @@
         "iso_date": "2026-10-16T16:41:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Bank of America propone una nueva estrategia para invertir y superar al portafolio 60/40",
-        "summary": "La estrategia de inversión que durante décadas combinó acciones y bonos enfrenta dificultades para diversificar riesgos. Bank of America plantea una nueva composición de cartera.",
-        "link": "https://www.bloomberglinea.com/mercados/bank-of-america-propone-una-nueva-estrategia-para-invertir-y-superar-al-portafolio-6040/",
-        "source": "Bloomberg Línea AR",
-        "time": "16/10 13:35",
-        "iso_date": "2026-10-16T16:35:13+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El FMI se mostró confiado en un repunte de la actividad económica en la Argentina y remarcó la necesidad de crear empleo",
-        "summary": "Autoridades monetarias expusieron previsiones, revisión técnica, reservas, deuda local, inversiones y cambios laborales durante rueda regional celebrada 16 octubre",
-        "link": "https://www.infobae.com/economia/2026/10/16/el-fmi-se-mostro-confiado-en-un-repunte-de-la-actividad-economica-en-la-argentina-y-remarco-la-necesidad-de-crear-empleo/",
-        "source": "Infobae Economía",
-        "time": "16/10 13:04",
-        "iso_date": "2026-10-16T16:04:42+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -349,8 +351,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -362,8 +364,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -417,8 +419,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -430,8 +432,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -525,6 +527,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Jornada financiera: cayeron las acciones argentinas y el riesgo país volvió a tocar máximos de 2026",
+        "summary": "Ante una sesión muy negativa de Wall Street, el S&P Merval restó 0,4% y los títulos públicos recortaron 1,5%. El indicador de JP Morgan subió a 648 puntos. El BCRA compró USD 68 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/16/jornada-financiera-cayeron-las-acciones-argentinas-y-el-riesgo-pais-volvio-a-tocar-maximos-de-2026/",
+        "source": "Infobae Economía",
+        "time": "16/10 18:33",
+        "iso_date": "2026-10-16T21:33:27+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país subió por sexto día consecutivo y se acercó a los 650 puntos",
         "summary": "La escalada del indicador refleja el escepticismo de los operadores ante la incertidumbre económica y la presión sobre los activos argentinos",
