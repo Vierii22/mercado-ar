@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16T19:39:16.832966",
-  "updated_str": "16/10/2026 19:39",
+  "updated_at": "2026-10-16T19:50:27.692850",
+  "updated_str": "16/10/2026 19:50",
   "cutoff_hours": 48,
-  "total_news": 255,
+  "total_news": 257,
   "news": {
     "GENERAL": [
       {
@@ -10,8 +10,18 @@
         "summary": "El crudo aumentó 15% en el noveno mes y afectó al índice. Los precios mayoristas acumulan una suba de 22,8% en 2026",
         "link": "https://www.infobae.com/economia/2026/10/16/por-la-fuerte-suba-del-petroleo-la-inflacion-mayorista-se-acelero-a-32-en-septiembre/",
         "source": "Infobae Economía",
-        "time": "16/10 16:14",
-        "iso_date": "2026-10-16T19:14:27+00:00",
+        "time": "16/10 16:45",
+        "iso_date": "2026-10-16T19:45:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Wall Street profundiza las bajas ante la salida de fondos de las acciones tecnológicas",
+        "summary": "El panel Nasdaq baja 1,9%, en una drástica toma de ganancias frente a las altas tasas de los bonos del Tesoro de EEUU y la suba del petróleo",
+        "link": "https://www.infobae.com/economia/2026/10/16/wall-street-profundiza-las-bajas-ante-la-salida-de-fondos-de-las-acciones-tecnologicas/",
+        "source": "Infobae Economía",
+        "time": "16/10 16:37",
+        "iso_date": "2026-10-16T19:37:28+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -300,16 +310,6 @@
         "iso_date": "2026-10-16T13:42:03+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Tras la inyección de fondos de la Anses, los bancos bajaron las tasas de los créditos hipotecarios",
-        "summary": "Nueve bancos redujeron las tasas de sus préstamos UVA y el promedio del mercado cayó un punto porcentual",
-        "link": "https://www.infobae.com/economia/2026/10/16/tras-la-inyeccion-de-fondos-de-la-anses-los-bancos-bajaron-las-tasas-de-los-creditos-hipotecarios/",
-        "source": "Infobae Economía",
-        "time": "16/10 10:25",
-        "iso_date": "2026-10-16T13:25:16+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -333,8 +333,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -346,8 +346,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -401,8 +401,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -414,8 +414,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
