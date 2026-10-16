@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-16T18:13:12.361890",
-  "updated_str": "16/10/2026 18:13",
+  "updated_at": "2026-10-16T18:31:26.178918",
+  "updated_str": "16/10/2026 18:31",
   "cutoff_hours": 48,
-  "total_news": 256,
+  "total_news": 257,
   "news": {
     "GENERAL": [
+      {
+        "title": "El riesgo país vuelve a subir y rompió la barrera de los 630 puntos básicos",
+        "summary": "La escalada del indicador refleja el escepticismo de los operadores ante la incertidumbre económica y la presión sobre los activos argentinos",
+        "link": "https://www.iprofesional.com/finanzas/466785-el-riesgo-pais-vuelve-a-subir-y-rompe-la-barrera-de-los-630-puntos-basicos",
+        "source": "iProfesional",
+        "time": "16/10 15:15",
+        "iso_date": "2026-10-16T18:15:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Créditos al 60% y mora del 12,9%: la presión que enfrenta el consumo",
         "summary": "El deterioro de la capacidad de pago de los hogares se combina con tasas elevadas y salarios formales que todavía pierden frente a la inflación",
@@ -145,18 +157,6 @@
         "time": "16/10 13:03",
         "iso_date": "2026-10-16T16:03:23+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país sube a 629 puntos y acumula seis ruedas consecutivas en alza",
-        "summary": "La escalada del indicador refleja el escepticismo de los operadores ante la incertidumbre económica y la presión sobre los activos argentinos",
-        "link": "https://www.iprofesional.com/finanzas/466785-riesgo-pais-por-que-sube-a-629-puntos-y-que-pasa-con-los-bonos-argentinos",
-        "source": "iProfesional",
-        "time": "16/10 12:50",
-        "iso_date": "2026-10-16T15:50:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -321,8 +321,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -334,8 +334,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -389,8 +389,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -402,8 +402,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -486,24 +486,24 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Ceden los bonos argentinos y el riesgo país sube por sexto día consecutivo",
-        "summary": "El S&P Merval resta 0,2% y los títulos “hard dollar” recortan 0,8%. El indicador de JP Morgan sube 13 unidades, a 637 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/10/16/mercados-ceden-los-bonos-argentinos-y-el-riesgo-pais-sube-por-sexto-dia-consecutivo/",
-        "source": "Infobae Economía",
-        "time": "16/10 13:52",
-        "iso_date": "2026-10-16T16:52:47+00:00",
+        "title": "El riesgo país vuelve a subir y rompió la barrera de los 630 puntos básicos",
+        "summary": "La escalada del indicador refleja el escepticismo de los operadores ante la incertidumbre económica y la presión sobre los activos argentinos",
+        "link": "https://www.iprofesional.com/finanzas/466785-el-riesgo-pais-vuelve-a-subir-y-rompe-la-barrera-de-los-630-puntos-basicos",
+        "source": "iProfesional",
+        "time": "16/10 15:15",
+        "iso_date": "2026-10-16T18:15:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país sube a 629 puntos y acumula seis ruedas consecutivas en alza",
-        "summary": "La escalada del indicador refleja el escepticismo de los operadores ante la incertidumbre económica y la presión sobre los activos argentinos",
-        "link": "https://www.iprofesional.com/finanzas/466785-riesgo-pais-por-que-sube-a-629-puntos-y-que-pasa-con-los-bonos-argentinos",
-        "source": "iProfesional",
-        "time": "16/10 12:50",
-        "iso_date": "2026-10-16T15:50:00+00:00",
+        "title": "Ceden los bonos argentinos y el riesgo país sube por sexto día consecutivo",
+        "summary": "El S&P Merval resta 0,2% y los títulos “hard dollar” recortan 0,8%. El indicador de JP Morgan sube 13 unidades, a 637 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/10/16/mercados-ceden-los-bonos-argentinos-y-el-riesgo-pais-sube-por-sexto-dia-consecutivo/",
+        "source": "Infobae Economía",
+        "time": "16/10 13:52",
+        "iso_date": "2026-10-16T16:52:47+00:00",
         "tickers": [
           "AL30"
         ],
