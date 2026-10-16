@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16T18:52:11.763940",
-  "updated_str": "16/10/2026 18:52",
+  "updated_at": "2026-10-16T19:05:30.007783",
+  "updated_str": "16/10/2026 19:05",
   "cutoff_hours": 48,
-  "total_news": 257,
+  "total_news": 255,
   "news": {
     "GENERAL": [
       {
@@ -14,6 +14,18 @@
         "iso_date": "2026-10-16T18:31:11+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "YPF detalló el plan con Tesla para desplegar una megared de cargadores eléctricos",
+        "summary": "El CEO de YPF Horacio Marín anticipó el proyecto para unir el país con una red de cargadores eléctricos y las razones para la compra de YPF Luz",
+        "link": "https://www.iprofesional.com/energia/466801-ypf-detallo-el-plan-con-tesla-para-desplegar-red-de-cargadores-electricos",
+        "source": "iProfesional",
+        "time": "16/10 15:21",
+        "iso_date": "2026-10-16T18:21:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "El riesgo país vuelve a subir y rompió la barrera de los 630 puntos básicos",
@@ -28,7 +40,7 @@
         "is_general": true
       },
       {
-        "title": "El Gobierno volvió a registrar superávit en septiembre y se acerca a la meta fiscal con el FMI",
+        "title": "El Gobierno volvió a registrar superávit: cuánto le falta para cumplir la meta del FMI",
         "summary": "Según el IARAF, el resultado primario de septiembre registró una suba real interanual de 53,6%, mientras que el financiero exhibió un aumento de 136,7%. Qué sucedió en el acumulado de los primeros nueve meses.",
         "link": "https://www.cronista.com/economia-politica/el-gobierno-volvio-a-registrar-superavit-fiscal-y-acumula-un-12-en-lo-que-va-del-ano/",
         "source": "El Cronista",
@@ -300,19 +312,21 @@
         "iso_date": "2026-10-16T12:47:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El FMI pidió sostener la baja de subsidios a la energía y bajó la previsión de crecimiento argentino",
-        "summary": "El organismo también recortó su proyección de crecimiento para el país al 2,1% en 2026, aunque prevé una recuperación al 3,5% en 2027",
-        "link": "https://www.iprofesional.com/economia/466758-subsidios-energeticos-pedido-fmi-argentina-advertencia",
-        "source": "iProfesional",
-        "time": "16/10 09:39",
-        "iso_date": "2026-10-16T12:39:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF detalló el plan con Tesla para desplegar una megared de cargadores eléctricos",
+        "summary": "El CEO de YPF Horacio Marín anticipó el proyecto para unir el país con una red de cargadores eléctricos y las razones para la compra de YPF Luz",
+        "link": "https://www.iprofesional.com/energia/466801-ypf-detallo-el-plan-con-tesla-para-desplegar-red-de-cargadores-electricos",
+        "source": "iProfesional",
+        "time": "16/10 15:21",
+        "iso_date": "2026-10-16T18:21:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Galperin, Marín y Rocca, los empresarios con mejor reputación de Argentina en 2026",
         "summary": "El fundador de MercadoLibre conservó el primer puesto por séptimo año consecutivo en el Merco Líderes, mientras que los ejecutivos de YPF y Techint desplazaron del podio a los referentes de Arcor y Globant. Quiénes integran el top 10.",
@@ -321,8 +335,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -334,8 +348,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -389,8 +403,8 @@
         "time": "15/10 13:58",
         "iso_date": "2026-10-15T16:58:44+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -402,8 +416,8 @@
         "time": "15/10 12:46",
         "iso_date": "2026-10-15T15:46:55+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
