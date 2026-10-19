@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-19T22:31:30.251168",
-  "updated_str": "19/10/2026 22:31",
+  "updated_at": "2026-10-19T22:50:31.272748",
+  "updated_str": "19/10/2026 22:50",
   "cutoff_hours": 48,
-  "total_news": 180,
+  "total_news": 184,
   "news": {
     "GENERAL": [
+      {
+        "title": "Cómo funciona la retención de Ingresos Brutos en las billeteras virtuales",
+        "summary": "Supermercados reclamaron al Gobierno que CABA, Santa Fe y La Pampa adhieran al sistema que permite retener anticipos de IIBB en algunas operaciones",
+        "link": "https://www.iprofesional.com/economia/466964-como-funciona-la-retencion-de-ingresos-brutos-en-las-billeteras-virtuales",
+        "source": "iProfesional",
+        "time": "19/10 19:31",
+        "iso_date": "2026-10-19T22:31:00+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
       {
         "title": "Vaca Muerta, cabeza del récord: más de la mitad del superávit comercial del país ya se explica por las exportaciones de energía",
         "summary": "El saldo positivo del sector alcanzó los USD 9.427 millones entre enero y septiembre, frente a los USD 7.815 millones que había generado en los doce meses del año anterior, según datos oficiales",
@@ -322,16 +334,6 @@
         "iso_date": "2026-10-19T17:15:10+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Inversores apuestan a que subirá el precio del dólar, aunque persisten riesgos de una caída",
-        "summary": "La acumulación de apuestas a favor del dólar coincide con señales de una posible corrección que ponen a prueba la fortaleza de la moneda estadounidense.",
-        "link": "https://www.bloomberglinea.com/mercados/inversores-apuestan-a-que-subira-el-precio-del-dolar-aunque-persisten-riesgos-de-una-caida/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 14:05",
-        "iso_date": "2026-10-19T17:05:22+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -453,13 +455,37 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
     ],
     "PAMP": [
+      {
+        "title": "Cómo funciona la retención de Ingresos Brutos en las billeteras virtuales",
+        "summary": "Supermercados reclamaron al Gobierno que CABA, Santa Fe y La Pampa adhieran al sistema que permite retener anticipos de IIBB en algunas operaciones",
+        "link": "https://www.iprofesional.com/economia/466964-como-funciona-la-retencion-de-ingresos-brutos-en-las-billeteras-virtuales",
+        "source": "iProfesional",
+        "time": "19/10 19:31",
+        "iso_date": "2026-10-19T22:31:00+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Supermercados exigen que todos los comercios tributen por cobros con bileteras virtuales",
+        "summary": "La ASU pidió al Gobierno sumar a CABA, Santa Fe y La Pampa al sistema de retenciones para reducir las diferencias fiscales entre comercios",
+        "link": "https://www.iprofesional.com/impuestos/466953-el-reclamo-de-los-supermercados-a-caputo-por-pagos-con-billeteras-virtuales-en-comercios",
+        "source": "iProfesional",
+        "time": "19/10 17:51",
+        "iso_date": "2026-10-19T20:51:00+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
       {
         "title": "Supermercados exigen que todos los comercios tributen por cobros con bileteras virtuales",
         "summary": "La ASU pidió al Gobierno sumar a CABA, Santa Fe y La Pampa al sistema de retenciones para reducir las diferencias fiscales entre comercios",
@@ -518,8 +544,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
