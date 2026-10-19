@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-10-19T20:01:24.600615",
-  "updated_str": "19/10/2026 20:01",
+  "updated_at": "2026-10-19T20:17:35.077903",
+  "updated_str": "19/10/2026 20:17",
   "cutoff_hours": 48,
-  "total_news": 177,
+  "total_news": 179,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Banco Central ya compró más de USD 1.000 millones en lo que va de octubre",
+        "summary": "La autoridad monetaria adquirió USD 18 millones este lunes y apunta a cerrar 2026 con adquisiciones cercanas a USD 20.000 millones",
+        "link": "https://www.infobae.com/economia/2026/10/19/el-banco-central-ya-compro-mas-de-usd-1000-millones-en-lo-que-va-de-octubre/",
+        "source": "Infobae Economía",
+        "time": "19/10 17:11",
+        "iso_date": "2026-10-19T20:11:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "S&P 500 y Nasdaq suben por repunte tecnológico, pese al débil inicio de los reportes trimestrales",
+        "summary": "Las acciones tecnológicas lideraron la recuperación de Wall Street. El repunte llega en medio de dudas sobre el financiamiento de la inteligencia artificial y un comienzo débil de la temporada de balances.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-y-el-petroleo-cae-mientras-el-mercado-espera-los-reportes-de-meta-y-tesla/",
+        "source": "Bloomberg Línea AR",
+        "time": "19/10 17:05",
+        "iso_date": "2026-10-19T20:05:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país subió a 678 puntos y alcanzó su nivel más alto de 2026",
+        "summary": "El indicador de JP Morgan avanzó 4,6% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
+        "link": "https://www.iprofesional.com/finanzas/466915-el-riesgo-pais-llego-a-660-puntos-y-alcanzo-su-maximo-de-2026",
+        "source": "iProfesional",
+        "time": "19/10 17:00",
+        "iso_date": "2026-10-19T20:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Por qué el riesgo país argentino se acerca otra vez a los 700 puntos, su nivel más alto en un año",
         "summary": "Mientras los bonos en dólares de Argentina caían por séptima rueda seguida, el indicador de JP Morgan trepaba a 678 puntos básicos, un máximo desde el 28 de octubre del año pasado",
@@ -187,8 +219,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -295,40 +327,6 @@
         "iso_date": "2026-10-19T15:54:23+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Riesgo país argentino vuelve a subir y alcanza un nuevo máximo para este año",
-        "summary": "La sobretasa que debería pagar el Estado en caso de tomar nueva deuda en el exterior se acerca a los 700 puntos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/riesgo-pais-argentino-vuelve-a-subir-y-alcanza-un-nuevo-maximo-para-este-ano/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 12:39",
-        "iso_date": "2026-10-19T15:39:45+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país subió a 676 puntos y alcanzó su nivel más alto de 2026",
-        "summary": "El indicador de JP Morgan avanzó 4,3% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
-        "link": "https://www.iprofesional.com/finanzas/466915-el-riesgo-pais-llego-a-660-puntos-y-alcanzo-su-maximo-de-2026",
-        "source": "iProfesional",
-        "time": "19/10 12:36",
-        "iso_date": "2026-10-19T15:36:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Milei busca restablecer los límites a la compra de tierras por extranjeros: cómo vienen los votos",
-        "summary": "La Libertad Avanza convocó a una sesión especial para este miércoles con proyectos sobre discapacidad, propiedad privada y control de medicamentos. Tras el fracaso opositor para reunir quórum, el oficialismo buscará sumar apoyos y evitar un nuevo revés parlamentario.",
-        "link": "https://www.cronista.com/economia-politica/milei-busca-restablecer-los-limites-a-la-compra-de-tierras-por-extranjeros-como-vienen-los-votos/",
-        "source": "El Cronista",
-        "time": "19/10 12:05",
-        "iso_date": "2026-10-19T15:05:09+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -426,8 +424,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -467,8 +465,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -503,6 +501,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país subió a 678 puntos y alcanzó su nivel más alto de 2026",
+        "summary": "El indicador de JP Morgan avanzó 4,6% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
+        "link": "https://www.iprofesional.com/finanzas/466915-el-riesgo-pais-llego-a-660-puntos-y-alcanzo-su-maximo-de-2026",
+        "source": "iProfesional",
+        "time": "19/10 17:00",
+        "iso_date": "2026-10-19T20:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Por qué el riesgo país argentino se acerca otra vez a los 700 puntos, su nivel más alto en un año",
         "summary": "Mientras los bonos en dólares de Argentina caían por séptima rueda seguida, el indicador de JP Morgan trepaba a 678 puntos básicos, un máximo desde el 28 de octubre del año pasado",
@@ -570,18 +580,6 @@
         "source": "Bloomberg Línea AR",
         "time": "19/10 12:39",
         "iso_date": "2026-10-19T15:39:45+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país subió a 676 puntos y alcanzó su nivel más alto de 2026",
-        "summary": "El indicador de JP Morgan avanzó 4,3% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
-        "link": "https://www.iprofesional.com/finanzas/466915-el-riesgo-pais-llego-a-660-puntos-y-alcanzo-su-maximo-de-2026",
-        "source": "iProfesional",
-        "time": "19/10 12:36",
-        "iso_date": "2026-10-19T15:36:00+00:00",
         "tickers": [
           "AL30"
         ],
