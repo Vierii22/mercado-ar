@@ -1,21 +1,121 @@
 {
-  "updated_at": "2026-10-19T17:49:43.659464",
-  "updated_str": "19/10/2026 17:49",
+  "updated_at": "2026-10-19T19:40:50.882472",
+  "updated_str": "19/10/2026 19:40",
   "cutoff_hours": 48,
-  "total_news": 168,
+  "total_news": 176,
   "news": {
     "GENERAL": [
       {
-        "title": "Cómo cambió el riesgo país durante el gobierno de Milei y qué factores explican sus movimientos",
-        "summary": "Tras una histórica baja del indicador financiero clave, las recientes tensiones en los mercados generan inquietud sobre el rumbo económico nacional",
-        "link": "https://www.iprofesional.com/finanzas/466928-riesgo-pais-en-argentina-como-evoluciono-durante-el-gobierno-de-javier-milei",
+        "title": "El proyecto de Milei sobre Malvinas se traba en Diputados y EE.UU. complica al Gobierno",
+        "summary": "LLA tuvo que suspender la reunión donde iban a buscar dictamen, al mismo tiempo que se conoció un planteo de Trump incómodo para la posición argentina",
+        "link": "https://www.iprofesional.com/politica/466938-se-traba-el-proyecto-de-milei-sobre-malvinas-mientras-ee-uu-complica-al-gobierno",
         "source": "iProfesional",
-        "time": "19/10 14:24",
-        "iso_date": "2026-10-19T17:24:00+00:00",
+        "time": "19/10 16:25",
+        "iso_date": "2026-10-19T19:25:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Los supermercados quieren que todas las provincias adhieran al régimen que retiene Ingresos Brutos en billeteras virtuales",
+        "summary": "La cámara que reúne a las principales cadenas y autoservicios le solicitó formalmente al Gobierno que promueva la adhesión inmediata de CABA, Santa Fe y La Pampa. Aclaró que no se trata de un nuevo impuesto, sino que buscan equiparar el control que ya rige para las cuentas ban...",
+        "link": "https://www.infobae.com/economia/2026/10/19/los-supermercados-quieren-que-todas-las-provincias-adhieran-al-regimen-que-retiene-ingresos-brutos-en-billeteras-virtuales/",
+        "source": "Infobae Economía",
+        "time": "19/10 16:23",
+        "iso_date": "2026-10-19T19:23:30+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Por qué el riesgo país argentino se acerca otra vez a los 700 puntos, su nivel más alto en un año",
+        "summary": "Mientras los bonos en dólares de Argentina caían por séptima rueda seguida, el indicador de JP Morgan trepaba a 678 puntos básicos, un máximo desde el 28 de octubre del año pasado",
+        "link": "https://www.infobae.com/economia/2026/10/19/por-que-el-riesgo-pais-argentino-se-acerca-otra-vez-a-los-700-puntos-su-nivel-mas-alto-en-un-ano/",
+        "source": "Infobae Economía",
+        "time": "19/10 16:21",
+        "iso_date": "2026-10-19T19:21:04+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
+      },
+      {
+        "title": "Martín Guzmán pronosticó qué necesitará el Gobierno para cerrar su programa financiero de 2027",
+        "summary": "Un informe de Suramericana Visión advierte que existe una alta probabilidad de que el Gobierno deba recurrir a financiamiento para completar el programa financiero del año próximo. El riesgo país, las reservas y el costo de emitir deuda aparecen como las principales variables.",
+        "link": "https://www.cronista.com/economia-politica/martin-guzman-pronostico-que-necesitara-el-gobierno-para-cerrar-su-programa-financiero-de-2027/",
+        "source": "El Cronista",
+        "time": "19/10 16:10",
+        "iso_date": "2026-10-19T19:10:56+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país escala y en la City temen que contagie al dólar",
+        "summary": "El indicador que mide la probabilidad de que un Estado incumpla con sus obligaciones financieras acaba de tocar su nivel más alto del año",
+        "link": "https://www.iprofesional.com/finanzas/466932-el-riesgo-pais-escala-y-la-city-teme-que-contagie-al-dolar",
+        "source": "iProfesional",
+        "time": "19/10 16:07",
+        "iso_date": "2026-10-19T19:07:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Para el Gobierno, el salto del riesgo país se debe a la \"incertidumbre global\"",
+        "summary": "Frente a la fuerte suba del indicador, el Ejecutivo asegura que cuenta con medidas para enfrentar la volatilidad financiera y sostener la confianza",
+        "link": "https://www.iprofesional.com/finanzas/466937-por-que-salto-el-riesgo-pais-segun-la-mirada-del-gobierno",
+        "source": "iProfesional",
+        "time": "19/10 16:06",
+        "iso_date": "2026-10-19T19:06:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Malvinas: el Gobierno suspendió el debate de la ley en Diputados tras el giro de EE.UU. en la ONU",
+        "summary": "La Comisión de Defensa iba a avanzar esta semana con el tratamiento de la iniciativa, pero el oficialismo frenó la reunión tras el pedido de Washington de poner fin al Comité de Descolonización en la ONU. La abstención de Javier Milei en otra votación de Naciones Unidas y las ...",
+        "link": "https://www.cronista.com/economia-politica/malvinas-el-gobierno-suspendio-el-debate-de-la-ley-en-diputados-tras-el-giro-de-eeuu-en-la-onu/",
+        "source": "El Cronista",
+        "time": "19/10 16:03",
+        "iso_date": "2026-10-19T19:03:49+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cifra récord: el costo de los intereses de la deuda de EEUU superó el u$s1 billón",
+        "summary": "El rápido aumento de los costos de financiamiento genera preocupaciones en el mercado ante la posibilidad de que el endeudamiento norteamericano se acelere como una bola de nieve.",
+        "link": "https://www.ambito.com/economia/cifra-record-el-costo-los-intereses-la-deuda-eeuu-supero-el-us1-billon-n6335424",
+        "source": "Ámbito",
+        "time": "19/10 15:58",
+        "iso_date": "2026-10-19T18:58:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar volvió a subir pero acumula un aumento de solo 3% en el último año",
+        "summary": "La divisa mayorista avanzó a $1.524,50 para la venta, con más de USD 600 millones negociados. Al público subió a $1.540 para la venta en el Banco Nación",
+        "link": "https://www.infobae.com/economia/2026/10/19/el-dolar-volvio-a-subir-pero-acumula-un-aumento-de-solo-3-en-el-ultimo-ano/",
+        "source": "Infobae Economía",
+        "time": "19/10 15:53",
+        "iso_date": "2026-10-19T18:53:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Nafta en noviembre: Marín anticipa que YPF no bajará precios aunque caiga el petróleo",
+        "summary": "El presidente de YPF explicó por qué la petrolera mantendrá los precios de los combustibles ante una eventual caída del crudo y reveló cuánto debería costar la nafta en Argentina.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/nafta-en-noviembre-marin-anticipa-que-ypf-no-bajara-precios-aunque-caiga-el-petroleo/",
+        "source": "Bloomberg Línea AR",
+        "time": "19/10 14:52",
+        "iso_date": "2026-10-19T17:52:33+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "Karina Milei cerró la primera fase de traslados en Devoto: cuántos presos quedan para recibir al Papa",
@@ -77,8 +177,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       },
@@ -105,7 +205,7 @@
         "is_general": true
       },
       {
-        "title": "Riesgo país en 675 puntos: qué significa y cómo afecta a la economía argentina",
+        "title": "Riesgo país en 676 puntos: qué significa y cómo afecta a la economía argentina",
         "summary": "La presión sobre los activos argentinos creció ante la desconfianza global y la incertidumbre que afecta al financiamiento y a la economía local",
         "link": "https://www.iprofesional.com/finanzas/466925-riesgo-pais-salto-feroz-impacta-economia-bolsillo-argentino",
         "source": "iProfesional",
@@ -199,8 +299,8 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país subió a 675 puntos y alcanzó su nivel más alto de 2026",
-        "summary": "El indicador de JP Morgan avanzó 1,9% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
+        "title": "El riesgo país subió a 676 puntos y alcanzó su nivel más alto de 2026",
+        "summary": "El indicador de JP Morgan avanzó 4,3% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
         "link": "https://www.iprofesional.com/finanzas/466915-el-riesgo-pais-llego-a-660-puntos-y-alcanzo-su-maximo-de-2026",
         "source": "iProfesional",
         "time": "19/10 12:36",
@@ -229,107 +329,21 @@
         "iso_date": "2026-10-19T14:39:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Goldman Sachs advierte sobre riesgos en Wall Street y revela 23 acciones para protegerse",
-        "summary": "La firma estadounidense seleccionó acciones de salud y consumo básico con menor volatilidad y elevados flujos de caja, mientras advierte sobre los riesgos que enfrenta el mercado bursátil.",
-        "link": "https://www.bloomberglinea.com/mercados/goldman-sachs-advierte-sobre-riesgos-en-wall-street-y-revela-23-acciones-para-protegerse/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 11:38",
-        "iso_date": "2026-10-19T14:38:41+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caen los bonos argentinos y el riesgo país sube a un nuevo máximo en lo que va de 2026",
-        "summary": "Los títulos Globales ceden 0,5% en Wall Street. El indicador de JP Morgan avanza a los 675 puntos básicos, el nivel más alto desde el 28 de octubre del año pasado",
-        "link": "https://www.infobae.com/economia/2026/10/19/caen-los-bonos-argentinos-y-el-riesgo-pais-sube-a-un-nuevo-maximo-en-lo-que-va-de-2026/",
-        "source": "Infobae Economía",
-        "time": "19/10 11:37",
-        "iso_date": "2026-10-19T14:37:22+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La advertencia del mercado a Milei sobre la \"súper bazuka\" de 125.000 millones de dólares",
-        "summary": "Milei intenta enviar una fuerte señal al mercado para que no corra al dólar previo a las elecciones. Calculan cómo está compuesto el monto",
-        "link": "https://www.iprofesional.com/finanzas/466866-que-advierte-la-city-sobre-la-super-bazuca-de-dolares-de-milei",
-        "source": "iProfesional",
-        "time": "19/10 11:30",
-        "iso_date": "2026-10-19T14:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "YPF abre más estaciones de su marca low cost y la opción premium en el interior del país",
-        "summary": "Con surtidores de autodespacho, tiendas ajustadas y alianzas gourmet, la petrolera estatal viene segmentando su red en tres modelos comerciales",
-        "link": "https://www.iprofesional.com/negocios/466910-ypf-abre-mas-estaciones-de-sus-marcas-low-cost-y-premium",
-        "source": "iProfesional",
-        "time": "19/10 11:29",
-        "iso_date": "2026-10-19T14:29:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Planta multimillonaria de NGL de TGS entra al RIGI: cuánto exportará desde 2030",
-        "summary": "El Comité Evaluador aprobó dos proyectos de la transportista de gas para separar, transportar y exportar líquidos desde Tratayén hasta Bahía Blanca, con un ducto de 577 kilómetros. Qué exportaciones proyecta el Gobierno",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/planta-multimillonaria-de-ngl-de-tgs-entra-al-rigi-cuanto-exportara-desde-2030/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 11:03",
-        "iso_date": "2026-10-19T14:03:48+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Milei busca profundizar el alcance de su motosierra con nuevos recortes de empleo público",
-        "summary": "El Gobierno lanzó un plan de retiro voluntario de la administración pública. “Unos 20.000 son elegibles”, señaló el ministro de Desregulación, Federico Sturzenegger.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-busca-profundizar-el-alcance-de-su-motosierra-con-nuevos-recortes-de-empleo-publico/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 11:00",
-        "iso_date": "2026-10-19T14:00:22+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "S&P 500 sube y el petróleo cae mientras el mercado espera los reportes de Meta y Tesla",
-        "summary": "Las acciones tecnológicas lideran el repunte de Wall Street tras una semana de pérdidas, mientras el petróleo cae. Los inversionistas esperan los resultados de Meta y Tesla para evaluar las perspectivas del sector.",
-        "link": "https://www.bloomberglinea.com/mercados/sp-500-sube-y-el-petroleo-cae-mientras-el-mercado-espera-los-reportes-de-meta-y-tesla/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 10:39",
-        "iso_date": "2026-10-19T13:39:58+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno aprobó tres proyectos RIGI por más de USD 15.400 millones para producir petróleo y gas de Vaca Muerta",
-        "summary": "Se trata del proyecto Bajo del Choique–La Invernada, a cargo de la empresa Pluspetrol, anunciado durante el Argentina Week en París. Cuántos empleos generará",
-        "link": "https://www.infobae.com/economia/2026/10/19/el-gobierno-aprobo-un-proyecto-rigi-de-mas-de-usd-12200-millones-para-producir-petroleo-y-gas-en-vaca-muerta/",
-        "source": "Infobae Economía",
-        "time": "19/10 10:32",
-        "iso_date": "2026-10-19T13:32:10+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Gobierno blindó bajo secreto militar una nueva compra para las FF.AA. en plena tensión por Malvinas",
-        "summary": "La medida lleva la firma de Javier Milei y del ministro de Defensa, Carlos Presti, y no da detalles del tipo de material, los costos involucrados y la empresa proveedora de la operación.",
-        "link": "https://www.cronista.com/economia-politica/en-medio-del-conflicto-por-malvinas-el-gobierno-blindo-bajo-secreto-militar-una-nueva-compra-de-equipamiento-para-las-ffaa/",
-        "source": "El Cronista",
-        "time": "19/10 10:17",
-        "iso_date": "2026-10-19T13:17:50+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Nafta en noviembre: Marín anticipa que YPF no bajará precios aunque caiga el petróleo",
+        "summary": "El presidente de YPF explicó por qué la petrolera mantendrá los precios de los combustibles ante una eventual caída del crudo y reveló cuánto debería costar la nafta en Argentina.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/nafta-en-noviembre-marin-anticipa-que-ypf-no-bajara-precios-aunque-caiga-el-petroleo/",
+        "source": "Bloomberg Línea AR",
+        "time": "19/10 14:52",
+        "iso_date": "2026-10-19T17:52:33+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Argentina LNG: YPF y sus socios internacionales pospusieron la licitación clave por los tubos del gasoducto más grande de Vaca Muerta",
         "summary": "La compulsa por la mayor compra de caños de la historia energética del país, valuada en USD 2.000 millones, fue reprogramada para las próximas semanas tras demoras en las evaluaciones técnicas de los oferentes",
@@ -361,18 +375,6 @@
         "source": "Infobae Economía",
         "time": "19/10 10:32",
         "iso_date": "2026-10-19T13:32:10+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Pluspetrol en Vaca Muerta: compra de ExxonMobil, salto de producción y RIGI",
-        "summary": "La histórica petrolera consolidó su crecimiento tras adquirir los activos de ExxonMobil, liderar bloques clave y sumar proyectos de infraestructura",
-        "link": "https://www.iprofesional.com/energia/466902-pluspetrol-en-vaca-muerta-compra-de-exxonmobil-salto-de-produccion-y-rigi",
-        "source": "iProfesional",
-        "time": "19/10 09:49",
-        "iso_date": "2026-10-19T12:49:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -424,13 +426,25 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
     ],
     "PAMP": [
+      {
+        "title": "Los supermercados quieren que todas las provincias adhieran al régimen que retiene Ingresos Brutos en billeteras virtuales",
+        "summary": "La cámara que reúne a las principales cadenas y autoservicios le solicitó formalmente al Gobierno que promueva la adhesión inmediata de CABA, Santa Fe y La Pampa. Aclaró que no se trata de un nuevo impuesto, sino que buscan equiparar el control que ya rige para las cuentas ban...",
+        "link": "https://www.infobae.com/economia/2026/10/19/los-supermercados-quieren-que-todas-las-provincias-adhieran-al-regimen-que-retiene-ingresos-brutos-en-billeteras-virtuales/",
+        "source": "Infobae Economía",
+        "time": "19/10 16:23",
+        "iso_date": "2026-10-19T19:23:30+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
       {
         "title": "Planta multimillonaria de NGL de TGS entra al RIGI: cuánto exportará desde 2030",
         "summary": "El Comité Evaluador aprobó dos proyectos de la transportista de gas para separar, transportar y exportar líquidos desde Tratayén hasta Bahía Blanca, con un ducto de 577 kilómetros. Qué exportaciones proyecta el Gobierno",
@@ -453,8 +467,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
@@ -490,19 +504,55 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Cómo cambió el riesgo país durante el gobierno de Milei y qué factores explican sus movimientos",
-        "summary": "Tras una histórica baja del indicador financiero clave, las recientes tensiones en los mercados generan inquietud sobre el rumbo económico nacional",
-        "link": "https://www.iprofesional.com/finanzas/466928-riesgo-pais-en-argentina-como-evoluciono-durante-el-gobierno-de-javier-milei",
-        "source": "iProfesional",
-        "time": "19/10 14:24",
-        "iso_date": "2026-10-19T17:24:00+00:00",
+        "title": "Por qué el riesgo país argentino se acerca otra vez a los 700 puntos, su nivel más alto en un año",
+        "summary": "Mientras los bonos en dólares de Argentina caían por séptima rueda seguida, el indicador de JP Morgan trepaba a 678 puntos básicos, un máximo desde el 28 de octubre del año pasado",
+        "link": "https://www.infobae.com/economia/2026/10/19/por-que-el-riesgo-pais-argentino-se-acerca-otra-vez-a-los-700-puntos-su-nivel-mas-alto-en-un-ano/",
+        "source": "Infobae Economía",
+        "time": "19/10 16:21",
+        "iso_date": "2026-10-19T19:21:04+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Riesgo país en 675 puntos: qué significa y cómo afecta a la economía argentina",
+        "title": "Martín Guzmán pronosticó qué necesitará el Gobierno para cerrar su programa financiero de 2027",
+        "summary": "Un informe de Suramericana Visión advierte que existe una alta probabilidad de que el Gobierno deba recurrir a financiamiento para completar el programa financiero del año próximo. El riesgo país, las reservas y el costo de emitir deuda aparecen como las principales variables.",
+        "link": "https://www.cronista.com/economia-politica/martin-guzman-pronostico-que-necesitara-el-gobierno-para-cerrar-su-programa-financiero-de-2027/",
+        "source": "El Cronista",
+        "time": "19/10 16:10",
+        "iso_date": "2026-10-19T19:10:56+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país escala y en la City temen que contagie al dólar",
+        "summary": "El indicador que mide la probabilidad de que un Estado incumpla con sus obligaciones financieras acaba de tocar su nivel más alto del año",
+        "link": "https://www.iprofesional.com/finanzas/466932-el-riesgo-pais-escala-y-la-city-teme-que-contagie-al-dolar",
+        "source": "iProfesional",
+        "time": "19/10 16:07",
+        "iso_date": "2026-10-19T19:07:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Para el Gobierno, el salto del riesgo país se debe a la \"incertidumbre global\"",
+        "summary": "Frente a la fuerte suba del indicador, el Ejecutivo asegura que cuenta con medidas para enfrentar la volatilidad financiera y sostener la confianza",
+        "link": "https://www.iprofesional.com/finanzas/466937-por-que-salto-el-riesgo-pais-segun-la-mirada-del-gobierno",
+        "source": "iProfesional",
+        "time": "19/10 16:06",
+        "iso_date": "2026-10-19T19:06:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país en 676 puntos: qué significa y cómo afecta a la economía argentina",
         "summary": "La presión sobre los activos argentinos creció ante la desconfianza global y la incertidumbre que afecta al financiamiento y a la economía local",
         "link": "https://www.iprofesional.com/finanzas/466925-riesgo-pais-salto-feroz-impacta-economia-bolsillo-argentino",
         "source": "iProfesional",
@@ -526,8 +576,8 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país subió a 675 puntos y alcanzó su nivel más alto de 2026",
-        "summary": "El indicador de JP Morgan avanzó 1,9% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
+        "title": "El riesgo país subió a 676 puntos y alcanzó su nivel más alto de 2026",
+        "summary": "El indicador de JP Morgan avanzó 4,3% y volvió a acercarse a los niveles de octubre de 2025, mientras retrocedieron bonos y acciones locales",
         "link": "https://www.iprofesional.com/finanzas/466915-el-riesgo-pais-llego-a-660-puntos-y-alcanzo-su-maximo-de-2026",
         "source": "iProfesional",
         "time": "19/10 12:36",
