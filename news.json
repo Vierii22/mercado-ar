@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-19T21:54:49.712271",
-  "updated_str": "19/10/2026 21:54",
+  "updated_at": "2026-10-19T22:31:30.251168",
+  "updated_str": "19/10/2026 22:31",
   "cutoff_hours": 48,
   "total_news": 180,
   "news": {
     "GENERAL": [
+      {
+        "title": "Vaca Muerta, cabeza del récord: más de la mitad del superávit comercial del país ya se explica por las exportaciones de energía",
+        "summary": "El saldo positivo del sector alcanzó los USD 9.427 millones entre enero y septiembre, frente a los USD 7.815 millones que había generado en los doce meses del año anterior, según datos oficiales",
+        "link": "https://www.infobae.com/economia/2026/10/19/vaca-muerta-cabeza-del-record-mas-de-la-mitad-del-superavit-comercial-del-pais-ya-se-explica-por-las-exportaciones-de-energia/",
+        "source": "Infobae Economía",
+        "time": "19/10 19:19",
+        "iso_date": "2026-10-19T22:19:25+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Milei habló de un “seguro” de US$125.000 millones para 2027 y del “wait and see” de los inversores",
+        "summary": "El Presidente argentino defendió su programa económico ante empresarios petroleros en Neuquén, anticipó una reducción de impuestos y se mostró confiado de cara a las elecciones de 2027. “Toda la economía va ser un RIGI”, dijo.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-hablo-de-un-seguro-de-us125000-millones-para-2027-y-del-wait-and-see-de-los-inversores/",
+        "source": "Bloomberg Línea AR",
+        "time": "19/10 19:00",
+        "iso_date": "2026-10-19T22:00:34+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Riesgo país: Ravier explicó por qué subió y anticipó qué pasará con el plan económico",
         "summary": "El vocero presidencial se pronunció hoy sobre el alza del indicador y también sobre el pedido de EE.UU. para disolver el Comité de Descolonización de las Naciones Unidas.",
@@ -72,7 +94,7 @@
         "is_general": true
       },
       {
-        "title": "El reclamo de los supermercados a Caputo por pagos con billeteras virtuales en comercios",
+        "title": "Supermercados exigen que todos los comercios tributen por cobros con bileteras virtuales",
         "summary": "La ASU pidió al Gobierno sumar a CABA, Santa Fe y La Pampa al sistema de retenciones para reducir las diferencias fiscales entre comercios",
         "link": "https://www.iprofesional.com/impuestos/466953-el-reclamo-de-los-supermercados-a-caputo-por-pagos-con-billeteras-virtuales-en-comercios",
         "source": "iProfesional",
@@ -81,7 +103,7 @@
         "tickers": [
           "PAMP"
         ],
-        "is_general": true
+        "is_general": false
       },
       {
         "title": "Bullrich aceptó la propuesta de Milei de ser candidata a vice pero puso condiciones",
@@ -310,31 +332,21 @@
         "iso_date": "2026-10-19T17:05:22+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Argentina LNG: YPF y sus socios internacionales pospusieron la licitación clave por los tubos del gasoducto más grande de Vaca Muerta",
-        "summary": "La compulsa por la mayor compra de caños de la historia energética del país, valuada en USD 2.000 millones, fue reprogramada para las próximas semanas tras demoras en las evaluaciones técnicas de los oferentes",
-        "link": "https://www.infobae.com/economia/2026/10/19/argentina-lng-ypf-y-sus-socios-internacionales-pospusieron-la-licitacion-clave-por-los-tubos-del-gasoducto-mas-grande-de-vaca-muerta/",
+        "title": "Vaca Muerta, cabeza del récord: más de la mitad del superávit comercial del país ya se explica por las exportaciones de energía",
+        "summary": "El saldo positivo del sector alcanzó los USD 9.427 millones entre enero y septiembre, frente a los USD 7.815 millones que había generado en los doce meses del año anterior, según datos oficiales",
+        "link": "https://www.infobae.com/economia/2026/10/19/vaca-muerta-cabeza-del-record-mas-de-la-mitad-del-superavit-comercial-del-pais-ya-se-explica-por-las-exportaciones-de-energia/",
         "source": "Infobae Economía",
-        "time": "19/10 14:05",
-        "iso_date": "2026-10-19T17:05:15+00:00",
+        "time": "19/10 19:19",
+        "iso_date": "2026-10-19T22:19:25+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
-      {
-        "title": "Precio del dólar en Colombia se mantiene estable: se cotiza en la franja de COP$3.150",
-        "summary": "El dólar arrancó la semana en Colombia sin sobresaltos. En la apertura de este lunes 19 de octubre, la divisa marcó COP$3.178,9, muy cerca de la Tasa Representativa del Mercado (TRM) vigente.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/precio-del-dolar-en-colombia-se-mantiene-estable-se-cotiza-en-la-franja-de-cop3150/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/10 14:03",
-        "iso_date": "2026-10-19T17:03:36+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
       {
         "title": "Milei habló del dólar y el superávit: \"Con el viejo modelo hubiéramos volado por el aire\"",
         "summary": "El Presidente participó de la Expo Argentina Oil & Gas (AOG) Patagonia 2026. Se refirió al crecimiento de Vaca Muerta y la compra de reservas",
@@ -441,15 +453,15 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
     ],
     "PAMP": [
       {
-        "title": "El reclamo de los supermercados a Caputo por pagos con billeteras virtuales en comercios",
+        "title": "Supermercados exigen que todos los comercios tributen por cobros con bileteras virtuales",
         "summary": "La ASU pidió al Gobierno sumar a CABA, Santa Fe y La Pampa al sistema de retenciones para reducir las diferencias fiscales entre comercios",
         "link": "https://www.iprofesional.com/impuestos/466953-el-reclamo-de-los-supermercados-a-caputo-por-pagos-con-billeteras-virtuales-en-comercios",
         "source": "iProfesional",
@@ -458,7 +470,7 @@
         "tickers": [
           "PAMP"
         ],
-        "is_general": true
+        "is_general": false
       },
       {
         "title": "Ingresos Brutos: supermercados presionan para extender las retenciones a las billeteras virtuales y apuntan a tres provincias",
@@ -506,8 +518,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
