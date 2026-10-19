@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-19T21:12:07.076010",
-  "updated_str": "19/10/2026 21:12",
+  "updated_at": "2026-10-19T21:22:51.047255",
+  "updated_str": "19/10/2026 21:22",
   "cutoff_hours": 48,
-  "total_news": 179,
+  "total_news": 178,
   "news": {
     "GENERAL": [
       {
@@ -33,6 +33,18 @@
         "time": "19/10 17:40",
         "iso_date": "2026-10-19T20:40:25+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei habló del dólar y el superávit: \"Con el viejo modelo hubiéramos volado por el aire\"",
+        "summary": "El Presidente participó de la Expo Argentina Oil & Gas (AOG) Patagonia 2026. Se refirió al crecimiento de Vaca Muerta y la compra de reservas",
+        "link": "https://www.iprofesional.com/politica/466952-milei-hablo-del-dolar-y-el-superavit-con-el-viejo-modelo-hubieramos-volado-por-el-aire",
+        "source": "iProfesional",
+        "time": "19/10 17:40",
+        "iso_date": "2026-10-19T20:40:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
         "is_general": true
       },
       {
@@ -273,8 +285,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       },
@@ -321,19 +333,21 @@
         "iso_date": "2026-10-19T16:46:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Ciudadanía por inversión: qué atrae a los extranjeros y qué cuestionan los especialistas",
-        "summary": "El esquema permitirá a extranjeros solicitar la ciudadanía con un aporte de u$s 350.000 al Tesoro o con la suscripción de un título público por u$s 800.000. Hay críticas por su validez legal.",
-        "link": "https://www.cronista.com/economia-politica/ciudadania-por-inversion-que-atrae-a-los-extranjeros-y-que-cuestionan-los-especialistas/",
-        "source": "El Cronista",
-        "time": "19/10 13:28",
-        "iso_date": "2026-10-19T16:28:34+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Milei habló del dólar y el superávit: \"Con el viejo modelo hubiéramos volado por el aire\"",
+        "summary": "El Presidente participó de la Expo Argentina Oil & Gas (AOG) Patagonia 2026. Se refirió al crecimiento de Vaca Muerta y la compra de reservas",
+        "link": "https://www.iprofesional.com/politica/466952-milei-hablo-del-dolar-y-el-superavit-con-el-viejo-modelo-hubieramos-volado-por-el-aire",
+        "source": "iProfesional",
+        "time": "19/10 17:40",
+        "iso_date": "2026-10-19T20:40:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
       {
         "title": "Nafta en noviembre: Marín anticipa que YPF no bajará precios aunque caiga el petróleo",
         "summary": "El presidente de YPF explicó por qué la petrolera mantendrá los precios de los combustibles ante una eventual caída del crudo y reveló cuánto debería costar la nafta en Argentina.",
@@ -428,8 +442,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
@@ -481,8 +495,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "GGAL",
-          "BMA"
+          "BMA",
+          "GGAL"
         ],
         "is_general": true
       }
