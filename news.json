@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-20T19:25:58.520314",
-  "updated_str": "20/10/2026 19:25",
+  "updated_at": "2026-10-20T19:41:07.136180",
+  "updated_str": "20/10/2026 19:41",
   "cutoff_hours": 48,
-  "total_news": 242,
+  "total_news": 243,
   "news": {
     "GENERAL": [
+      {
+        "title": "Impacto de la guerra en Medio Oriente: se desploma la venta de viviendas en EEUU tras el aumento de las hipotecas",
+        "summary": "El aumento de los costes de endeudamiento — que siguen la evolución de los rendimientos de los bonos del Tesoro — y la guerra en Medio Oriente — que aviva la inflación de EEUU — están afectando al sector inmobiliario norteamericano.",
+        "link": "https://www.ambito.com/economia/impacto-la-guerra-medio-oriente-se-desploma-la-venta-viviendas-eeuu-el-aumento-las-hipotecas-n6335874",
+        "source": "Ámbito",
+        "time": "20/10 16:29",
+        "iso_date": "2026-10-20T19:29:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El riesgo país llegó a superar la línea de los 700 puntos básicos tras una nueva caída de los bonos argentinos",
         "summary": "Los títulos Globales iniciaron la rueda con una baja de 1,5% en Wall Street, que se fue moderando a lo largo de la sesión. En el último mes la caída de precios alcanza el 6%",
@@ -306,16 +316,6 @@
         "iso_date": "2026-10-20T13:42:22+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Milei desafió a quienes dicen que se quedan sin plata el día 20 del mes: \"¿Cómo viven?\"",
-        "summary": "Milei defendió su gestión en Neuquén, negó una devaluación y proyectó un superávit comercial de US$ 30.000 millones para el país",
-        "link": "https://www.iprofesional.com/politica/467007-milei-duda-que-la-gente-no-llegue-a-fin-de-mes-como-viven-sin-comer",
-        "source": "iProfesional",
-        "time": "20/10 10:31",
-        "iso_date": "2026-10-20T13:31:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -351,8 +351,8 @@
         "time": "20/10 06:51",
         "iso_date": "2026-10-20T09:51:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -474,8 +474,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
@@ -489,8 +489,8 @@
         "time": "20/10 06:51",
         "iso_date": "2026-10-20T09:51:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -540,8 +540,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
