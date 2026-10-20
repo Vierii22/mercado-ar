@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-20T00:50:47.281859",
-  "updated_str": "20/10/2026 00:50",
+  "updated_at": "2026-10-20T03:25:35.594921",
+  "updated_str": "20/10/2026 03:25",
   "cutoff_hours": 48,
-  "total_news": 177,
+  "total_news": 172,
   "news": {
     "GENERAL": [
+      {
+        "title": "Juicio por YPF: la jueza Preska cerró formalmente el caso y la Corte Suprema deberá definir el pedido de Burford",
+        "summary": "Se trata de una formalidad tras la decisión que la Cámara de Apelaciones tomó en marzo, cuando revirtió el fallo que obligaba a la Argentina a pagar USD 16.000 millones a los fondos que demandaron al Estado por la expropiación de la petrolera en 2012",
+        "link": "https://www.infobae.com/economia/2026/10/20/juicio-por-ypf-la-jueza-preska-cerro-formalmente-el-caso-y-la-corte-suprema-debera-definir-el-pedido-de-burford/",
+        "source": "Infobae Economía",
+        "time": "20/10 00:13",
+        "iso_date": "2026-10-20T03:13:34+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Caso YPF: Preska dio un nuevo paso para cerrar el juicio contra la Argentina en Nueva York",
         "summary": "La resolución formaliza en el expediente de primera instancia las consecuencias de la decisión favorable al Estado argentino y representa un nuevo paso en el desenlace de uno de los litigios más costosos que enfrentó el país en el exterior.",
@@ -320,19 +332,21 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Karina Milei cerró la primera fase de traslados en Devoto: cuántos presos quedan para recibir al Papa",
-        "summary": "La secretaria general de la Presidencia encabezó una conferencia junto a la ministra de Seguridad, Alejandra Monteoliva, para confirmar que ya se concretó el traslado de 1.400 internos al nuevo complejo de Marcos Paz. En el penal porteño permanecen 74 presos vinculados a la vi...",
-        "link": "https://www.cronista.com/economia-politica/karina-milei-cerro-la-primera-fase-de-traslados-en-devoto-cuantos-presos-quedan-para-recibir-al-papa/",
-        "source": "El Cronista",
-        "time": "19/10 14:15",
-        "iso_date": "2026-10-19T17:15:39+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Juicio por YPF: la jueza Preska cerró formalmente el caso y la Corte Suprema deberá definir el pedido de Burford",
+        "summary": "Se trata de una formalidad tras la decisión que la Cámara de Apelaciones tomó en marzo, cuando revirtió el fallo que obligaba a la Argentina a pagar USD 16.000 millones a los fondos que demandaron al Estado por la expropiación de la petrolera en 2012",
+        "link": "https://www.infobae.com/economia/2026/10/20/juicio-por-ypf-la-jueza-preska-cerro-formalmente-el-caso-y-la-corte-suprema-debera-definir-el-pedido-de-burford/",
+        "source": "Infobae Economía",
+        "time": "20/10 00:13",
+        "iso_date": "2026-10-20T03:13:34+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Caso YPF: Preska dio un nuevo paso para cerrar el juicio contra la Argentina en Nueva York",
         "summary": "La resolución formaliza en el expediente de primera instancia las consecuencias de la decisión favorable al Estado argentino y representa un nuevo paso en el desenlace de uno de los litigios más costosos que enfrentó el país en el exterior.",
@@ -451,8 +465,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
@@ -504,8 +518,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
