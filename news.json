@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-20T22:26:32.668742",
-  "updated_str": "20/10/2026 22:26",
+  "updated_at": "2026-10-20T22:53:27.311444",
+  "updated_str": "20/10/2026 22:53",
   "cutoff_hours": 48,
   "total_news": 244,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Banco Central sumó otros USD 100 millones y ya compró más del doble que en septiembre",
+        "summary": "La autoridad monetaria hilvanó 16 jornadas consecutivas con saldo positivo en el mercado cambiario y las reservas brutas se consolidan por encima de los USD 50.000 millones",
+        "link": "https://www.infobae.com/economia/2026/10/20/el-banco-central-sumo-otros-usd-100-millones-y-ya-compro-mas-del-doble-que-en-septiembre/",
+        "source": "Infobae Economía",
+        "time": "20/10 19:48",
+        "iso_date": "2026-10-20T22:48:19+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caputo canjeó con éxito bonos atados al dólar y redujo vencimientos de fin de mes",
+        "summary": "El ministerio de Economía concretó un canje de bonos dólar linked por u$s3.896 millones que vencían a fin de mes, logrando una adhesión del 72,85%",
+        "link": "https://www.iprofesional.com/finanzas/467072-caputo-canjeo-con-exito-bonos-atados-al-dolar-y-redujo-vencimientos-de-fin-de-mes",
+        "source": "iProfesional",
+        "time": "20/10 19:27",
+        "iso_date": "2026-10-20T22:27:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "“¿Cómo hacen para vivir 10 días sin comer?“ Qué dice la polémica encuesta que hizo enojar a Milei",
         "summary": "El Presidente denunció una operación del kirchnerismo con base en un relevamiento de la consultora Zentrix. ¿Qué dice el estudio?",
@@ -294,30 +314,6 @@
         "iso_date": "2026-10-20T16:56:59+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "“Supera la lógica”: tres economistas intentaron descifrar las razones de la suba del riesgo país argentino",
-        "summary": "Miguel Kiguel, Luciano Laspina y Martín Redrado coincidieron en que los fundamentos de la economía mejoraron, pero advirtieron que sin resolver asignaturas pendientes el crecimiento seguirá concentrado en pocos sectores",
-        "link": "https://www.infobae.com/economia/2026/10/20/supera-la-logica-tres-economistas-intentaron-descifrar-las-razones-de-la-suba-del-riesgo-pais-argentino/",
-        "source": "Infobae Economía",
-        "time": "20/10 13:55",
-        "iso_date": "2026-10-20T16:55:57+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Cómo le fue a la acción que debutó en el MSCI Merval y qué pasó con las que salieron del índice",
-        "summary": "Cresud entró al panel líder con la llegada de MSCI, mientras que Telecom y Comercial del Plata quedaron afuera. Qué criterios de free float y liquidez aplica la nueva metodología y cómo reaccionaron los papeles.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/como-le-fue-a-la-accion-que-debuto-en-el-msci-merval-y-que-paso-con-las-que-salieron-del-indice/",
-        "source": "Bloomberg Línea AR",
-        "time": "20/10 13:14",
-        "iso_date": "2026-10-20T16:14:11+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -352,18 +348,6 @@
         "source": "iProfesional",
         "time": "20/10 09:03",
         "iso_date": "2026-10-20T12:03:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Argentina ganó otra batalla por YPF en Nueva York y ahora espera la decisión de la Corte Suprema",
-        "summary": "El proceso iniciado por fondos especulativos tras la privatización queda oficialmente cerrado, aunque aún buscan apelar ante la Corte de EEUU",
-        "link": "https://www.iprofesional.com/legales/466988-argentina-anulo-condena-millonaria-juicio-ypf-cerro-expediente",
-        "source": "iProfesional",
-        "time": "20/10 08:16",
-        "iso_date": "2026-10-20T11:16:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -500,8 +484,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
@@ -566,8 +550,8 @@
         "time": "19/10 14:01",
         "iso_date": "2026-10-19T17:01:52+00:00",
         "tickers": [
-          "BMA",
-          "GGAL"
+          "GGAL",
+          "BMA"
         ],
         "is_general": true
       }
