@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-21T20:19:03.638561",
-  "updated_str": "21/10/2026 20:19",
+  "updated_at": "2026-10-21T20:28:38.644361",
+  "updated_str": "21/10/2026 20:28",
   "cutoff_hours": 48,
-  "total_news": 259,
+  "total_news": 258,
   "news": {
     "GENERAL": [
+      {
+        "title": "La actividad económica creció menos de lo esperado en agosto tras la fuerte caída de julio",
+        "summary": "El Estimador Mensual de Actividad Económica (EMAE) avanzó 0,1%, tuvo una variación interanual negativa de -1,7% y acumula un alza de 1,2% en 2026",
+        "link": "https://www.infobae.com/economia/2026/10/21/la-actividad-economica-crecio-menos-de-lo-esperado-en-agosto-tras-la-fuerte-caida-de-julio/",
+        "source": "Infobae Economía",
+        "time": "21/10 17:22",
+        "iso_date": "2026-10-21T20:22:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Los salarios formales le ganaron a la inflación en agosto, pero acumulan una caída real del 2,3% en el último año",
         "summary": "Los ingresos aumentaron 2,7% mensual y superaron la inflación del 1,7%, según el INDEC. Sin embargo, los salarios privados registrados y públicos todavía retroceden en términos reales frente a un año atrás, en un mercado laboral marcado por la caída del empleo formal.",
@@ -22,16 +32,6 @@
         "source": "Infobae Economía",
         "time": "21/10 17:08",
         "iso_date": "2026-10-21T20:08:55+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La actividad económica creció menos de lo esperado en agosto tras la fuerte caída de julio",
-        "summary": "El Estimador Mensual de Actividad Económica (EMAE) avanzó 0,1%, tuvo una variación interanual negativa de -1,7% y acumula un alza de 1,2% en 2026",
-        "link": "https://www.infobae.com/economia/2026/10/21/la-actividad-economica-crecio-menos-de-lo-esperado-en-agosto-tras-la-fuerte-caida-de-julio/",
-        "source": "Infobae Economía",
-        "time": "21/10 17:06",
-        "iso_date": "2026-10-21T20:06:30+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -440,20 +440,7 @@
         "is_general": true
       }
     ],
-    "PAMP": [
-      {
-        "title": "Ingresos Brutos: supermercados presionan para extender las retenciones a las billeteras virtuales y apuntan a tres provincias",
-        "summary": "La asociación que los nuclea, ASU, le solicitó a Economía que interceda ante los gobiernos de CABA, Santa Fe y La Pampa para que adhieran al Sistema Informático de Recaudación y Control de Acreditaciones en Cuentas de Pago (Sircupa).",
-        "link": "https://www.cronista.com/economia-politica/ingresos-brutos-supermercados-presionan-para-extender-las-retenciones-a-las-billeteras-virtuales-y-apuntan-a-tres-provincias/",
-        "source": "El Cronista",
-        "time": "19/10 17:22",
-        "iso_date": "2026-10-19T20:22:34+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": false
-      }
-    ],
+    "PAMP": [],
     "BMA": [],
     "TXAR": [],
     "ALUA": [],
