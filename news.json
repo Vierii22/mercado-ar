@@ -1,20 +1,52 @@
 {
-  "updated_at": "2026-10-22T21:04:23.251033",
-  "updated_str": "22/10/2026 21:04",
+  "updated_at": "2026-10-22T21:48:50.438812",
+  "updated_str": "22/10/2026 21:48",
   "cutoff_hours": 48,
-  "total_news": 263,
+  "total_news": 264,
   "news": {
     "GENERAL": [
+      {
+        "title": "Sube el canje en Argentina: por qué creció el costo implícito de sacar los dólares del país",
+        "summary": "La diferencia entre los dólares implícitos del mercado bursátil había rondando, durante todo el año, entre 3,5 y 4%, pero tuvo un salto en las últimas horas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/sube-el-canje-en-argentina-por-que-crecio-el-costo-implicito-de-sacar-los-dolares-del-pais/",
+        "source": "Bloomberg Línea AR",
+        "time": "22/10 18:41",
+        "iso_date": "2026-10-22T21:41:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 6% en Wall Street y el riesgo país superó los 700 puntos",
+        "summary": "El desplome de acciones tecnológicas en EEUU afectó en los activos argentinos. El MSCI Merval perdió 1,5% y los bonos Globales, un 0,5%. El dólar subió a $1.550 en el Banco Nación y el BCRA compró USD 61 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/22/jornada-financiera-las-acciones-argentinas-cayeron-hasta-6-en-wall-street-y-el-riesgo-pais-supero-los-700-puntos/",
+        "source": "Infobae Economía",
+        "time": "22/10 18:20",
+        "iso_date": "2026-10-22T21:20:21+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Las acciones argentinas caen a precios mínimos en un año por factores locales y externos",
         "summary": "La toma de ganancias de Wall Street y la suba de tasas de interés impacta en los activos, a la vez que los datos “macro” domésticos también se trasladan a las valuaciones",
         "link": "https://www.infobae.com/economia/2026/10/22/las-acciones-argentinas-caen-a-precios-minimos-en-un-ano-por-factores-locales-y-externos/",
         "source": "Infobae Economía",
-        "time": "22/10 17:47",
-        "iso_date": "2026-10-22T20:47:34+00:00",
+        "time": "22/10 18:10",
+        "iso_date": "2026-10-22T21:10:40+00:00",
         "tickers": [
           "BMA"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Crece la presión a Milei para blindar políticamente la economía, con Bullrich a la cabeza",
+        "summary": "La senadora pidió abiertamente cerrar acuerdos para bajar la incertidumbre. Santilli y Luis Caputo apoyan el planteo. Fricción en la mesa política",
+        "link": "https://www.iprofesional.com/politica/467257-crece-presion-a-milei-para-blindar-politicamente-la-economia-con-bullrich-a-la-cabeza",
+        "source": "iProfesional",
+        "time": "22/10 18:00",
+        "iso_date": "2026-10-22T21:00:00+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -48,18 +80,6 @@
         "iso_date": "2026-10-22T20:22:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Investigan a Watchman Seguridad por presuntas irregularidades en contratos públicos",
-        "summary": "Operativos y allanamientos en una investigación por presuntas estafas en licitaciones, sueldos y manejo de personal dentro del circuito estatal",
-        "link": "https://www.iprofesional.com/legales/467180-investigan-a-watchman-seguridad-por-presuntas-irregularidades",
-        "source": "iProfesional",
-        "time": "22/10 17:20",
-        "iso_date": "2026-10-22T20:20:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       },
       {
         "title": "Bancos y billeteras deberán informar cada 7 días cuánto rinden sus cuentas remuneradas",
@@ -306,28 +326,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "YPF ya produce 248.000 barriles diarios y Marín apuesta a que Vaca Muerta llegue a dos millones",
-        "summary": "La petrolera quedó a solo 2.000 barriles diarios de alcanzar la meta que había fijado para diciembre. Su presidente y CEO proyecta un fuerte crecimiento de la producción no convencional, que requerirá mayores inversiones e infraestructura de transporte.",
-        "link": "https://www.bloomberglinea.com/economia/ypf-ya-produce-248000-barriles-diarios-y-marin-apuesta-a-que-vaca-muerta-llegue-a-dos-millones/",
-        "source": "Bloomberg Línea AR",
-        "time": "22/10 11:50",
-        "iso_date": "2026-10-22T14:50:30+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Miguel Broda criticó el plan económico de Javier Milei, pidió un dólar más alto y advirtió sobre el cierre de empresas",
-        "summary": "El economista detalló un duro diagnóstico de la política económica, alertando sobre los \"errores no forzados\" del Gobierno. Pidió un dólar a $1.750, y proyectó que \"si no hay reactivación, Milei corre riesgo para 2027 y abre la puerta a un cambio de régimen\".",
-        "link": "https://www.ambito.com/economia/miguel-broda-critico-el-plan-economico-javier-milei-pidio-un-dolar-mas-alto-y-advirtio-el-cierre-empresas-n6336746",
-        "source": "Ámbito",
-        "time": "22/10 11:47",
-        "iso_date": "2026-10-22T14:47:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -427,18 +425,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "¿Cuánto le falta a Argentina para el millón de barriles de petróleo? Vaca Muerta marcó récord en septiembre",
-        "summary": "La producción de petróleo alcanzó un récord histórico de 973.700 barriles diarios en septiembre y quedó a solo 26.300 del millón. Vaca Muerta también registró un nuevo máximo.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cuanto-le-falta-a-argentina-para-el-millon-de-barriles-de-petroleo-vaca-muerta-marco-record-en-septiembre/",
-        "source": "Bloomberg Línea AR",
-        "time": "20/10 18:37",
-        "iso_date": "2026-10-20T21:37:23+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [
@@ -462,8 +448,8 @@
         "summary": "La toma de ganancias de Wall Street y la suba de tasas de interés impacta en los activos, a la vez que los datos “macro” domésticos también se trasladan a las valuaciones",
         "link": "https://www.infobae.com/economia/2026/10/22/las-acciones-argentinas-caen-a-precios-minimos-en-un-ano-por-factores-locales-y-externos/",
         "source": "Infobae Economía",
-        "time": "22/10 17:47",
-        "iso_date": "2026-10-22T20:47:34+00:00",
+        "time": "22/10 18:10",
+        "iso_date": "2026-10-22T21:10:40+00:00",
         "tickers": [
           "BMA"
         ],
@@ -473,18 +459,6 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
-      {
-        "title": "Investigan a Watchman Seguridad por presuntas irregularidades en contratos públicos",
-        "summary": "Operativos y allanamientos en una investigación por presuntas estafas en licitaciones, sueldos y manejo de personal dentro del circuito estatal",
-        "link": "https://www.iprofesional.com/legales/467180-investigan-a-watchman-seguridad-por-presuntas-irregularidades",
-        "source": "iProfesional",
-        "time": "22/10 17:20",
-        "iso_date": "2026-10-22T20:20:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
       {
         "title": "Un Centro de Estudios de la UBA brinda asesoramiento gratuito a morosos: cómo consultarlo para enfrentar deudas",
         "summary": "El Centro de Gestión de la Economía Personal y los Negocios de la Facultad de Ciencias Económicas acompaña a vecinos con deudas de tarjetas, billeteras virtuales, préstamos y servicios, en un contexto de mora elevada en los hogares argentino",
@@ -526,6 +500,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "Jornada financiera: las acciones argentinas cayeron hasta 6% en Wall Street y el riesgo país superó los 700 puntos",
+        "summary": "El desplome de acciones tecnológicas en EEUU afectó en los activos argentinos. El MSCI Merval perdió 1,5% y los bonos Globales, un 0,5%. El dólar subió a $1.550 en el Banco Nación y el BCRA compró USD 61 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/22/jornada-financiera-las-acciones-argentinas-cayeron-hasta-6-en-wall-street-y-el-riesgo-pais-supero-los-700-puntos/",
+        "source": "Infobae Economía",
+        "time": "22/10 18:20",
+        "iso_date": "2026-10-22T21:20:21+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país argentino volvió a superar los 700 puntos ante un complejo escenario externo",
         "summary": "Los índices de Wall Street cayeron hasta 2,6% después de balances de empresas tecnológicas, mientras el petróleo subió 3% y acrecentó los temores por la inflación",
@@ -701,18 +687,6 @@
         "source": "El Economista",
         "time": "20/10 19:35",
         "iso_date": "2026-10-20T22:35:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el riesgo país cerró a la baja tras superar los 700 puntos y el dólar subió por tercer día consecutivo",
-        "summary": "Los títulos públicos revirtieron las bajas iniciales y el indicador de JP Morgan descontó posiciones tras haber superado los 700 puntos por la mañana. La Bolsa porteña bajó 0,3%. El dólar subió a $1.545 en el Banco Nación y el BCRA compró USD 103 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/20/jornada-financiera-el-riesgo-pais-cerro-a-la-baja-tras-superar-los-700-puntos-y-el-dolar-subio-por-tercer-dia-consecutivo/",
-        "source": "Infobae Economía",
-        "time": "20/10 18:26",
-        "iso_date": "2026-10-20T21:26:10+00:00",
         "tickers": [
           "AL30"
         ],
