@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-10-23T21:33:05.536430",
-  "updated_str": "23/10/2026 21:33",
+  "updated_at": "2026-10-23T21:56:47.068889",
+  "updated_str": "23/10/2026 21:56",
   "cutoff_hours": 48,
-  "total_news": 243,
+  "total_news": 246,
   "news": {
     "GENERAL": [
+      {
+        "title": "Colombia canjea deuda pública por COP$10,3 billones y reduce vencimientos de 2026 y 2027",
+        "summary": "El Ministerio de Hacienda completó la segunda operación de reperfilamiento de deuda interna, con la que acumula COP$30,1 billones en intercambios de TES.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-canjea-deuda-publica-por-cop103-billones-y-reduce-vencimientos-de-2026-y-2027/",
+        "source": "Bloomberg Línea AR",
+        "time": "23/10 18:45",
+        "iso_date": "2026-10-23T21:45:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La agenda que deja Daniel González para minería y energía",
+        "summary": "La aprobación del Súper RIGI, Argentina LNG, Amba I y más inversiones en Vaca Muerta y minería.",
+        "link": "https://www.cronista.com/economia-politica/la-agenda-que-deja-daniel-gonzalez-para-mineria-y-energia/",
+        "source": "El Cronista",
+        "time": "23/10 18:43",
+        "iso_date": "2026-10-23T21:43:07+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF y Pampa Energía, entre las acciones con mayor potencial de suba para Wall Street",
+        "summary": "Los precios objetivo del consenso de analistas, junto con las recomendaciones de los bancos, permiten distinguir las oportunidades más atractivas",
+        "link": "https://www.iprofesional.com/finanzas/467013-ypf-y-pampa-energia-entre-acciones-argentinas-con-mayor-potencial-de-suba-para-wall-street",
+        "source": "iProfesional",
+        "time": "23/10 18:43",
+        "iso_date": "2026-10-23T21:43:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Vaca Muerta ya suma anuncios de inversión por u$s200.000 millones en la próxima década",
+        "summary": "YPF, Pluspetrol, Tecpetrol, Pampa Energía y otros jugadores impulsan un ciclo récord en Vaca Muerta, con megaproyectos de petróleo, gas y GNL",
+        "link": "https://www.iprofesional.com/energia/467358-inversiones-en-vaca-muerta-superaran-los-us200-000-millones-a-10-anos",
+        "source": "iProfesional",
+        "time": "23/10 18:39",
+        "iso_date": "2026-10-23T21:39:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "El BCRA ya compró más de u$s1.200 millones en octubre y suma poder de fuego",
         "summary": "El Banco Central compró otros u$s42 millones este viernes y las reservas brutas se consolidan por encima de los u$s50.000 millones",
@@ -13,18 +61,6 @@
         "time": "23/10 18:23",
         "iso_date": "2026-10-23T21:23:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país volvió a subir y se mantuvo arriba de los 700 puntos básicos",
-        "summary": "La escalada de temor en los mercados impactó las valuaciones, con bonos desplomándose y la mirada puesta en la sostenibilidad financiera",
-        "link": "https://www.iprofesional.com/finanzas/467335-el-riesgo-pais-volvio-a-subir-y-se-consolida-arriba-de-los-700-puntos-basicos",
-        "source": "iProfesional",
-        "time": "23/10 18:20",
-        "iso_date": "2026-10-23T21:20:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -125,18 +161,6 @@
         "title": "Riesgo país sube y Wall Street anticipa qué pasará con bonos si no hay reelección de Milei",
         "summary": "Un relevamiento permite conocer los precios que manejan los fondos de Nueva York para los bonos ante una eventual derrota del oficialismo en 2027",
         "link": "https://www.iprofesional.com/finanzas/466848-wall-street-calcula-cuanto-podrian-caer-los-bonos-si-milei-no-es-reelegido",
-        "source": "iProfesional",
-        "time": "23/10 16:23",
-        "iso_date": "2026-10-23T19:23:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Economía desafía a la City y advierte que el castigo del riesgo país es \"exagerado\"",
-        "summary": "Desde el equipo de Caputo cuestionaron la interpretación de inversores sobre la deuda argentina. Qué dice sobre dólar, riesgo político y elecciones",
-        "link": "https://www.iprofesional.com/finanzas/467274-economia-desafia-a-la-city-advierte-que-el-riesgo-pais-esta-exagerado",
         "source": "iProfesional",
         "time": "23/10 16:23",
         "iso_date": "2026-10-23T19:23:00+00:00",
@@ -296,29 +320,47 @@
         "iso_date": "2026-10-23T13:19:59+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Dura advertencia del Financial Times: \"Las reformas económicas de Javier Milei están bajo presión\"",
-        "summary": "El medio británico subraya las dos caras de la economía libertaria: inflación que bajó, pero con recesión y costo social en la economía real. Los detalles de las implicancias de cara al escenario electoral venidero en 2027, con un peronismo que intenta organizarse.",
-        "link": "https://www.ambito.com/economia/dura-advertencia-del-financial-times-las-reformas-economicas-javier-milei-estan-presion-n6337138",
-        "source": "Ámbito",
-        "time": "23/10 10:14",
-        "iso_date": "2026-10-23T13:14:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plan económico de Milei, bajo presión por inflación, empleo y consumo, según Financial Times",
-        "summary": "Mientras los indicadores oficiales muestran señales de alivio, se profundizan las dificultades para quienes enfrentan precios y salarios ajustados",
-        "link": "https://www.iprofesional.com/economia/467308-el-plan-economico-de-milei-bajo-presion-segun-el-duro-analisis-del-financial-times",
-        "source": "iProfesional",
-        "time": "23/10 10:00",
-        "iso_date": "2026-10-23T13:00:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "La agenda que deja Daniel González para minería y energía",
+        "summary": "La aprobación del Súper RIGI, Argentina LNG, Amba I y más inversiones en Vaca Muerta y minería.",
+        "link": "https://www.cronista.com/economia-politica/la-agenda-que-deja-daniel-gonzalez-para-mineria-y-energia/",
+        "source": "El Cronista",
+        "time": "23/10 18:43",
+        "iso_date": "2026-10-23T21:43:07+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF y Pampa Energía, entre las acciones con mayor potencial de suba para Wall Street",
+        "summary": "Los precios objetivo del consenso de analistas, junto con las recomendaciones de los bancos, permiten distinguir las oportunidades más atractivas",
+        "link": "https://www.iprofesional.com/finanzas/467013-ypf-y-pampa-energia-entre-acciones-argentinas-con-mayor-potencial-de-suba-para-wall-street",
+        "source": "iProfesional",
+        "time": "23/10 18:43",
+        "iso_date": "2026-10-23T21:43:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Vaca Muerta ya suma anuncios de inversión por u$s200.000 millones en la próxima década",
+        "summary": "YPF, Pluspetrol, Tecpetrol, Pampa Energía y otros jugadores impulsan un ciclo récord en Vaca Muerta, con megaproyectos de petróleo, gas y GNL",
+        "link": "https://www.iprofesional.com/energia/467358-inversiones-en-vaca-muerta-superaran-los-us200-000-millones-a-10-anos",
+        "source": "iProfesional",
+        "time": "23/10 18:39",
+        "iso_date": "2026-10-23T21:39:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Pluspetrol invertirá US$2.000 millones en 2027 para llegar a 100.000 barriles",
         "summary": "Julián Escuder, CEO de Pluspetrol, detalló la inversión de u$s 2.000 millones que Pluspetrol destinará a Vaca Muerta para el año 2027",
@@ -405,7 +447,34 @@
       }
     ],
     "GGAL": [],
-    "PAMP": [],
+    "PAMP": [
+      {
+        "title": "YPF y Pampa Energía, entre las acciones con mayor potencial de suba para Wall Street",
+        "summary": "Los precios objetivo del consenso de analistas, junto con las recomendaciones de los bancos, permiten distinguir las oportunidades más atractivas",
+        "link": "https://www.iprofesional.com/finanzas/467013-ypf-y-pampa-energia-entre-acciones-argentinas-con-mayor-potencial-de-suba-para-wall-street",
+        "source": "iProfesional",
+        "time": "23/10 18:43",
+        "iso_date": "2026-10-23T21:43:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Vaca Muerta ya suma anuncios de inversión por u$s200.000 millones en la próxima década",
+        "summary": "YPF, Pluspetrol, Tecpetrol, Pampa Energía y otros jugadores impulsan un ciclo récord en Vaca Muerta, con megaproyectos de petróleo, gas y GNL",
+        "link": "https://www.iprofesional.com/energia/467358-inversiones-en-vaca-muerta-superaran-los-us200-000-millones-a-10-anos",
+        "source": "iProfesional",
+        "time": "23/10 18:39",
+        "iso_date": "2026-10-23T21:39:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      }
+    ],
     "BMA": [
       {
         "title": "Las acciones argentinas caen a precios mínimos en un año por factores locales y externos",
@@ -425,18 +494,6 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
-      {
-        "title": "El riesgo país volvió a subir y se mantuvo arriba de los 700 puntos básicos",
-        "summary": "La escalada de temor en los mercados impactó las valuaciones, con bonos desplomándose y la mirada puesta en la sostenibilidad financiera",
-        "link": "https://www.iprofesional.com/finanzas/467335-el-riesgo-pais-volvio-a-subir-y-se-consolida-arriba-de-los-700-puntos-basicos",
-        "source": "iProfesional",
-        "time": "23/10 18:20",
-        "iso_date": "2026-10-23T21:20:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
       {
         "title": "Jornada financiera: las acciones argentinas rebotaron hasta 6% en Wall Street, pero el riesgo país volvió a subir",
         "summary": "Los ADR bancarios lideraron la recuperación pese a la rueda negativa en EEUU. Los bonos cayeron 0,2% y el índice de JP Morgan se mantuvo en máximos del último año sobre los 700 puntos. El BCRA compró USD 42 millones en el mercado",
@@ -465,18 +522,6 @@
         "title": "Riesgo país sube y Wall Street anticipa qué pasará con bonos si no hay reelección de Milei",
         "summary": "Un relevamiento permite conocer los precios que manejan los fondos de Nueva York para los bonos ante una eventual derrota del oficialismo en 2027",
         "link": "https://www.iprofesional.com/finanzas/466848-wall-street-calcula-cuanto-podrian-caer-los-bonos-si-milei-no-es-reelegido",
-        "source": "iProfesional",
-        "time": "23/10 16:23",
-        "iso_date": "2026-10-23T19:23:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Economía desafía a la City y advierte que el castigo del riesgo país es \"exagerado\"",
-        "summary": "Desde el equipo de Caputo cuestionaron la interpretación de inversores sobre la deuda argentina. Qué dice sobre dólar, riesgo político y elecciones",
-        "link": "https://www.iprofesional.com/finanzas/467274-economia-desafia-a-la-city-advierte-que-el-riesgo-pais-esta-exagerado",
         "source": "iProfesional",
         "time": "23/10 16:23",
         "iso_date": "2026-10-23T19:23:00+00:00",
@@ -564,18 +609,6 @@
         "source": "Infobae Economía",
         "time": "22/10 02:51",
         "iso_date": "2026-10-22T05:51:12+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: las acciones argentinas avanzaron hasta 5% en Wall Street, pero el riesgo país volvió a subir",
-        "summary": "Los títulos tecnológicos impulsaron alzas de hasta 1,1% en los índices de Nueva York. El MSCI Merval ganó 1,6%. Los bonos Globales, que iniciaron la sesión en alza, terminaron con pérdidas de 0,2% y el riesgo país subió a 674 puntos. El BCRA compró USD 46 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/21/jornada-financiera-las-acciones-argentinas-avanzaron-hasta-5-en-wall-street-pero-el-riesgo-pais-volvio-a-subir/",
-        "source": "Infobae Economía",
-        "time": "21/10 18:44",
-        "iso_date": "2026-10-21T21:44:34+00:00",
         "tickers": [
           "AL30"
         ],
