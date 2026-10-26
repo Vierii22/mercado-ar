@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-10-26T21:08:53.543965",
-  "updated_str": "26/10/2026 21:08",
+  "updated_at": "2026-10-26T21:30:13.926639",
+  "updated_str": "26/10/2026 21:30",
   "cutoff_hours": 48,
-  "total_news": 195,
+  "total_news": 199,
   "news": {
     "GENERAL": [
+      {
+        "title": "Los 5 sectores más vulnerables de Wall Street: alerta de Goldman Sachs a inversores",
+        "summary": "Wall Street enfrenta un escenario de tasas elevadas y Goldman Sachs explica qué sectores corren más riesgos y cuáles podrían resistir mejor",
+        "link": "https://www.iprofesional.com/finanzas/467298-5-sectores-mas-vulnerables-de-wall-street-segun-goldman-sachs",
+        "source": "iProfesional",
+        "time": "26/10 18:12",
+        "iso_date": "2026-10-26T21:12:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar, riesgo país y acciones: uno por uno, cuáles fueron los efectos del ballotage de Brasil en el mercado financiero argentino",
+        "summary": "Detrás de la drástica caída de la bolsa brasileña y la devaluación del real, las acciones y los bonos argentinos exhibieron amplias bajas y el riesgo país subió al máximo en un año",
+        "link": "https://www.infobae.com/economia/2026/10/26/dolar-riesgo-pais-y-acciones-uno-por-uno-cuales-fueron-los-efectos-del-ballotage-de-brasil-en-el-mercado-financiero-argentino/",
+        "source": "Infobae Economía",
+        "time": "26/10 18:09",
+        "iso_date": "2026-10-26T21:09:23+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Cómo es el portafolio de $1 millón de los que apuestan con todo al carry trade",
+        "summary": "Con las elecciones de 2027 en el horizonte, Facimex combina siete bonos para buscar rendimiento en pesos y protección frente al dólar",
+        "link": "https://www.iprofesional.com/finanzas/467395-el-portafolio-de-1-millon-de-pesos-para-invertir-y-apostar-al-carry-trade",
+        "source": "iProfesional",
+        "time": "26/10 18:08",
+        "iso_date": "2026-10-26T21:08:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar hoy en Brasil se disparó tras victoria de Lula y el real fue la moneda que más cayó en el mundo",
+        "summary": "La sorpresiva victoria de Lula altera las expectativas de los inversionistas, que habían acumulado posiciones favorables a Bolsonaro ante la perspectiva de una mayor disciplina fiscal.",
+        "link": "https://www.bloomberglinea.com/mercados/dolar-hoy-en-brasil-se-dispara-tras-victora-de-lula-y-el-real-es-la-moneda-que-mas-cae-en-el-mundo/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/10 18:05",
+        "iso_date": "2026-10-26T21:05:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Efecto Brasil: el riesgo país de Argentina subió 8% y superó los 760 puntos",
         "summary": "El índice MSCI Merval cayó un 3%, mientras que Mercado Libre y los bancos encabezaron las amplias pérdidas en el exterior. El riesgo país avanzó a 765 puntos, máximo en un año. El dólar subió diez pesos, a $1.560, en el Banco Nación",
@@ -276,50 +318,6 @@
         "iso_date": "2026-10-26T16:31:42+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Milei le deja a una provincia la gestión de un importante tramo de tren: cuál es y de qué se trata",
-        "summary": "La transferencia tendrá una etapa intermedia de 120 días. Durante la transición, la empresa ferroviaria provincial deberá avanzar con un diagnóstico integral del servicio.",
-        "link": "https://www.cronista.com/economia-politica/milei-le-deja-a-una-provincia-la-gestion-de-un-importante-tramo-de-tren-cual-es-y-de-que-se-trata/",
-        "source": "El Cronista",
-        "time": "26/10 13:28",
-        "iso_date": "2026-10-26T16:28:57+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Boom de deuda corporativa en la Argentina: las empresas emitieron más de u$s2.700 millones en un mes",
-        "summary": "Según un informe de PwC, septiembre registró uno de los mayores volúmenes de colocaciones de obligaciones negociables de la última década, impulsado por YPF y el sector energético. Los fideicomisos financieros también alcanzaron su máximo de emisiones de 2026.",
-        "link": "https://www.ambito.com/economia/boom-deuda-corporativa-argentina-las-empresas-emitieron-mas-us2700-millones-un-mes-n6337913",
-        "source": "Ámbito",
-        "time": "26/10 13:26",
-        "iso_date": "2026-10-26T16:26:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Lula obliga a Wall Street a revisar apuestas por Brasil: qué esperar para bolsa, dólar y bonos",
-        "summary": "La victoria de Lula desató una fuerte caída de los activos brasileños. JPMorgan recortó su exposición a deuda soberana, mientras Morgan Stanley y UBS advierten sobre el deterioro fiscal y las dificultades para recuperar la confianza.",
-        "link": "https://www.bloomberglinea.com/mercados/lula-obliga-a-wall-street-a-revisar-apuestas-por-brasil-que-esperar-para-bolsa-dolar-y-bonos/",
-        "source": "Bloomberg Línea AR",
-        "time": "26/10 13:17",
-        "iso_date": "2026-10-26T16:17:15+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Tras la victoria de Lula en Brasil, Milei descartó un giro en el plan económico para el 2027: “Es inmoral...”",
-        "summary": "El Presidente sostuvo ante sus ministros que cambiar el rumbo para ganar elecciones es “inmoral”, tres semanas después de afirmar que el “plan platita” de Lula no había funcionado en la primera vuelta. El comunicado oficial no mencionó el triunfo del brasileño en el balotaje, ...",
-        "link": "https://www.cronista.com/economia-politica/tras-la-victoria-de-lula-en-brasil-milei-descarto-un-giro-en-el-plan-economico-para-el-2027/",
-        "source": "El Cronista",
-        "time": "26/10 13:06",
-        "iso_date": "2026-10-26T16:06:13+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -442,6 +440,18 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Dólar, riesgo país y acciones: uno por uno, cuáles fueron los efectos del ballotage de Brasil en el mercado financiero argentino",
+        "summary": "Detrás de la drástica caída de la bolsa brasileña y la devaluación del real, las acciones y los bonos argentinos exhibieron amplias bajas y el riesgo país subió al máximo en un año",
+        "link": "https://www.infobae.com/economia/2026/10/26/dolar-riesgo-pais-y-acciones-uno-por-uno-cuales-fueron-los-efectos-del-ballotage-de-brasil-en-el-mercado-financiero-argentino/",
+        "source": "Infobae Economía",
+        "time": "26/10 18:09",
+        "iso_date": "2026-10-26T21:09:23+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Efecto Brasil: el riesgo país de Argentina subió 8% y superó los 760 puntos",
         "summary": "El índice MSCI Merval cayó un 3%, mientras que Mercado Libre y los bancos encabezaron las amplias pérdidas en el exterior. El riesgo país avanzó a 765 puntos, máximo en un año. El dólar subió diez pesos, a $1.560, en el Banco Nación",
         "link": "https://www.infobae.com/economia/2026/10/26/efecto-brasil-las-acciones-argentinas-se-desploman-hasta-12-en-wall-street-y-suben-el-dolar-y-el-riesgo-pais/",
@@ -484,6 +494,18 @@
         "source": "Bloomberg Línea AR",
         "time": "26/10 13:17",
         "iso_date": "2026-10-26T16:17:15+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Las acciones argentinas se hunden hasta un 7,8% tras el triunfo de Lula en Brasil",
+        "summary": "Durante el transcurso del día, las bajas se fueron moderando. Los bonos también retrocedieron fuerte y el riesgo país escaló a 765 puntos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/las-acciones-argentinas-se-hunden-hasta-un-12-tras-el-triunfo-de-lula-en-brasil/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/10 10:59",
+        "iso_date": "2026-10-26T13:59:29+00:00",
         "tickers": [
           "AL30"
         ],
