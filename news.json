@@ -1,18 +1,20 @@
 {
-  "updated_at": "2026-10-27T21:24:54.923920",
-  "updated_str": "27/10/2026 21:24",
+  "updated_at": "2026-10-27T21:40:14.902247",
+  "updated_str": "27/10/2026 21:40",
   "cutoff_hours": 48,
-  "total_news": 251,
+  "total_news": 253,
   "news": {
     "GENERAL": [
       {
-        "title": "El FMI aprobó la tercera revisión del programa para liberar fondos: qué marcó sobre reservas y las medidas adicionales",
-        "summary": "Plantea sostener el superávit con foco en gasto social y de infraestructura.",
-        "link": "https://www.cronista.com/economia-politica/el-fmi-aprobo-la-tercera-revision-del-programa-y-libera-fondos-que-marco-sobre-reservas-y-el-plano-fiscal/",
-        "source": "El Cronista",
-        "time": "27/10 18:19",
-        "iso_date": "2026-10-27T21:19:57+00:00",
-        "tickers": [],
+        "title": "Efecto Brasil: se recuperaron los bonos argentinos y cedió el riesgo país, pero las acciones continuaron en baja",
+        "summary": "Los títulos públicos Globales subieron 1% en promedio y el indicador de JP Morgan bajó a 753 puntos. Los ADR argentinos tuvieron mayoría de bajas, igual que sus pares brasileños. Por segundo día el BCRA no compró dólares en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/27/efecto-brasil-se-recuperaron-los-bonos-argentinos-y-cedio-el-riesgo-pais-pero-las-acciones-continuaron-en-baja/",
+        "source": "Infobae Economía",
+        "time": "27/10 18:35",
+        "iso_date": "2026-10-27T21:35:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -20,9 +22,71 @@
         "summary": "El organismo y el Gobierno alcanzaron un acuerdo técnico por la tercera revisión del programa. Si el Directorio Ejecutivo lo convalida, el país podrá acceder al financiamiento programado",
         "link": "https://www.infobae.com/economia/2026/10/27/el-staff-del-fmi-aprobo-la-tercera-revision-del-acuerdo-con-la-argentina-y-allano-el-camino-para-un-desembolso-de-usd-900-millones/",
         "source": "Infobae Economía",
-        "time": "27/10 18:19",
-        "iso_date": "2026-10-27T21:19:09+00:00",
+        "time": "27/10 18:34",
+        "iso_date": "2026-10-27T21:34:33+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Una tradicional marca de trajes de baño argentina entró en consurso preventivo",
+        "summary": "Planeta Agua SA, dueña de la marca Class Life, declaró deudas por $1.581,6 millones. Qué pasará si no llega a un acuerdo con sus acreedores",
+        "link": "https://www.infobae.com/economia/2026/10/27/una-tradicional-marca-de-trajes-de-bano-argentina-entro-en-consurso-preventivo/",
+        "source": "Infobae Economía",
+        "time": "27/10 18:34",
+        "iso_date": "2026-10-27T21:34:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Gobierno De la Espriella pide COP$3,9 billones para atender crisis energética y a afectados por el terremoto",
+        "summary": "Solicitó modificar el Presupuesto General de la Nación de 2026 para destinar COP$1,2 billones al sector eléctrico, ante las deudas de Air-e, y adicionar COP$2,7 billones al Fondo Milagro para atender a los afectados por el terremoto.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/gobierno-de-la-espriella-pide-cop39-billones-para-atender-crisis-energetica-y-a-afectados-por-el-terremoto/",
+        "source": "Bloomberg Línea AR",
+        "time": "27/10 18:32",
+        "iso_date": "2026-10-27T21:32:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno y el FMI alcanzaron un acuerdo técnico que abre la posibilidad de un nuevo desembolso por u$s900 millones",
+        "summary": "",
+        "link": "https://www.ambito.com/economia/el-gobierno-y-el-fmi-alcanzaron-un-acuerdo-tecnico-que-abre-la-posibilidad-un-nuevo-desembolso-us900-millones-n6338577",
+        "source": "Ámbito",
+        "time": "27/10 18:31",
+        "iso_date": "2026-10-27T21:31:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Efecto Brasil arrastra al nuevo índice de acciones MSCI Merval: pierde 3,3% desde el debut",
+        "summary": "El nuevo índice de acciones líderes argentinas MSCI Merval, que debutó hace más de una semana con una referencia de $100.000, pasó a valer $96.681",
+        "link": "https://www.iprofesional.com/finanzas/467632-cuanto-pierde-el-nuevo-indice-de-acciones-msci-merval-desde-el-debut",
+        "source": "iProfesional",
+        "time": "27/10 18:24",
+        "iso_date": "2026-10-27T21:24:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El FMI aprobó la tercera revisión del programa para liberar fondos: qué marcó sobre reservas y las medidas adicionales",
+        "summary": "Plantea sostener el superávit con foco en gasto social y de infraestructura. Qué dice sobre el tipo de cambio.",
+        "link": "https://www.cronista.com/economia-politica/el-fmi-aprobo-la-tercera-revision-del-programa-y-libera-fondos-que-marco-sobre-reservas-y-el-plano-fiscal/",
+        "source": "El Cronista",
+        "time": "27/10 18:21",
+        "iso_date": "2026-10-27T21:21:18+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cedió el riesgo país, pero se mantuvo por encima de los 750 puntos básicos",
+        "summary": "Los bonos argentinos rebotaron hasta 1,4% y el riesgo país se ubicó en 753 puntos, mientras las acciones argentins volvieron a caer",
+        "link": "https://www.iprofesional.com/finanzas/467584-cedio-el-riesgo-pais-pero-se-mantuvo-por-encima-de-los-750-puntos-basicos",
+        "source": "iProfesional",
+        "time": "27/10 18:20",
+        "iso_date": "2026-10-27T21:20:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -132,18 +196,6 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "Rebotan las acciones argentinas en Wall Street y el riesgo país perfora los 750 puntos",
-        "summary": "Los bonos argentinos rebotan hasta 0,6% y el riesgo país ronda los 700 puntos, mientras las acciones brasileñas buscan recuperarse",
-        "link": "https://www.iprofesional.com/finanzas/467584-rebotan-las-acciones-argentinas-en-wall-street-y-el-riesgo-pais-perfora-los-750-puntos",
-        "source": "iProfesional",
-        "time": "27/10 16:48",
-        "iso_date": "2026-10-27T19:48:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       },
       {
         "title": "Suprema Corte bonaerense avaló tope para actualizar indemnizaciones en juicios laborales",
@@ -262,56 +314,6 @@
         "source": "El Cronista",
         "time": "27/10 13:51",
         "iso_date": "2026-10-27T16:51:47+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Efecto Lula: los 4 flancos vulnerables del plan Milei en el 2027 electoral y la jugada del FMI",
-        "summary": "Factores a fortalecer, comportamientos electorales y el dato que miran desde el exterior para 2027. Lecciones de Brasil y el auxilio del Fondo",
-        "link": "https://www.cronista.com/economia-politica/efecto-lula-los-4-flancos-vulnerables-de-la-argentina-en-el-2027-electoral-y-la-jugada-del-fmi/",
-        "source": "El Cronista",
-        "time": "27/10 13:49",
-        "iso_date": "2026-10-27T16:49:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plazo fijo en dólares: cuánto rinde invertir u$d1.500 a 30 días en cada banco",
-        "summary": "Con el mismo monto y el mismo plazo, algunos bancos pagan más intereses que otros, por lo que vale la pena comparar antes de invertir.",
-        "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinde-invertir-ud1500-30-dias-cada-banco-n6338305",
-        "source": "Ámbito",
-        "time": "27/10 13:00",
-        "iso_date": "2026-10-27T16:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno confirmó que Milei no felicitará a Lula y habló del vínculo con Brasil",
-        "summary": "El Gobierno descartó felicitar a Lula por su triunfo y aseguró que el comercio bilateral con Brasil y el trabajo en el Mercosur seguirán sin cambios",
-        "link": "https://www.iprofesional.com/politica/467587-el-gobierno-descarto-felicitar-a-lula-y-hablo-del-comercio-con-brasil",
-        "source": "iProfesional",
-        "time": "27/10 12:40",
-        "iso_date": "2026-10-27T15:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Caso $LIBRA: apelan el sobreseimiento de Milei y cuestionan al juez y al fiscal",
-        "summary": "Un inversor damnificado en la causa criticó la actuación del juez Marcelo Martínez de Giorgi y del fiscal Eduardo Taiano. Reclamó que se revoque el fallo que también favoreció a Karina Milei y otros nueve imputados.",
-        "link": "https://www.cronista.com/economia-politica/caso-libra-apelan-el-sobreseimiento-de-milei-y-cuestionan-al-juez-y-al-fiscal/",
-        "source": "El Cronista",
-        "time": "27/10 12:30",
-        "iso_date": "2026-10-27T15:30:27+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué puede pasar con el Mercosur y las exportaciones argentinas a Brasil tras la reelección de Lula",
-        "summary": "El triunfo del presidente brasileño abre una nueva etapa para la relación comercial con Argentina, atravesada por las diferencias entre Lula y Javier Milei. El futuro del Mercosur, la competitividad y la demanda brasileña serán claves para el comercio entre ambos países.",
-        "link": "https://www.cronista.com/economia-politica/lula-reelecto-que-puede-pasar-con-el-mercosur-y-las-exportaciones-argentinas-a-brasil/",
-        "source": "El Cronista",
-        "time": "27/10 12:21",
-        "iso_date": "2026-10-27T15:21:57+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -436,24 +438,36 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Subieron los bonos argentinos y bajó el riesgo país, pero las acciones cerraron con pérdidas",
-        "summary": "El S&P Merval cedió un 2,4% y siguió asimilando el efecto negativo del desplome de los activos brasileños. El indicador de JP Morgan bajó a 753 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/10/27/suben-los-bonos-argentinos-en-dolares-y-el-riesgo-pais-muestra-una-leve-caida/",
+        "title": "Efecto Brasil: se recuperaron los bonos argentinos y cedió el riesgo país, pero las acciones continuaron en baja",
+        "summary": "Los títulos públicos Globales subieron 1% en promedio y el indicador de JP Morgan bajó a 753 puntos. Los ADR argentinos tuvieron mayoría de bajas, igual que sus pares brasileños. Por segundo día el BCRA no compró dólares en el mercado",
+        "link": "https://www.infobae.com/economia/2026/10/27/efecto-brasil-se-recuperaron-los-bonos-argentinos-y-cedio-el-riesgo-pais-pero-las-acciones-continuaron-en-baja/",
         "source": "Infobae Economía",
-        "time": "27/10 17:58",
-        "iso_date": "2026-10-27T20:58:41+00:00",
+        "time": "27/10 18:35",
+        "iso_date": "2026-10-27T21:35:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Rebotan las acciones argentinas en Wall Street y el riesgo país perfora los 750 puntos",
-        "summary": "Los bonos argentinos rebotan hasta 0,6% y el riesgo país ronda los 700 puntos, mientras las acciones brasileñas buscan recuperarse",
-        "link": "https://www.iprofesional.com/finanzas/467584-rebotan-las-acciones-argentinas-en-wall-street-y-el-riesgo-pais-perfora-los-750-puntos",
+        "title": "Cedió el riesgo país, pero se mantuvo por encima de los 750 puntos básicos",
+        "summary": "Los bonos argentinos rebotaron hasta 1,4% y el riesgo país se ubicó en 753 puntos, mientras las acciones argentins volvieron a caer",
+        "link": "https://www.iprofesional.com/finanzas/467584-cedio-el-riesgo-pais-pero-se-mantuvo-por-encima-de-los-750-puntos-basicos",
         "source": "iProfesional",
-        "time": "27/10 16:48",
-        "iso_date": "2026-10-27T19:48:00+00:00",
+        "time": "27/10 18:20",
+        "iso_date": "2026-10-27T21:20:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Subieron los bonos argentinos y bajó el riesgo país, pero las acciones cerraron con pérdidas",
+        "summary": "El S&P Merval cedió un 2,4% y siguió asimilando el efecto negativo del desplome de los activos brasileños. El indicador de JP Morgan bajó a 753 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/10/27/suben-los-bonos-argentinos-en-dolares-y-el-riesgo-pais-muestra-una-leve-caida/",
+        "source": "Infobae Economía",
+        "time": "27/10 17:58",
+        "iso_date": "2026-10-27T20:58:41+00:00",
         "tickers": [
           "AL30"
         ],
