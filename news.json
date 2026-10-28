@@ -1,21 +1,65 @@
 {
-  "updated_at": "2026-10-28T20:38:08.644932",
-  "updated_str": "28/10/2026 20:38",
+  "updated_at": "2026-10-28T21:15:10.437946",
+  "updated_str": "28/10/2026 21:15",
   "cutoff_hours": 48,
-  "total_news": 267,
+  "total_news": 266,
   "news": {
     "GENERAL": [
       {
+        "title": "Luis Caputo tuvo una leve descompensación por el mal de altura en Catamarca",
+        "summary": "El ministro recibió hidratación y se recuperó, según indicaron fuentes de su entorno. Integraba la comitiva que acompañó a Javier Milei en la inauguración de instalaciones de Río Tinto.",
+        "link": "https://www.ambito.com/economia/luis-caputo-tuvo-una-leve-descompensacion-el-mal-altura-catamarca-n6339033",
+        "source": "Ámbito",
+        "time": "28/10 17:59",
+        "iso_date": "2026-10-28T20:59:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Qué inversiones desde Argentina pican en punta tras decisión de la Reserva Federal",
+        "summary": "El nivel de referencia de las tasas de Estados Unidos sigue entre 3,75% a 4% anual, y eso impacta en las alternativas para invertir desde Argentina",
+        "link": "https://www.iprofesional.com/finanzas/467733-que-inversiones-desde-argentina-pican-en-punta-tras-decision-de-la-fed",
+        "source": "iProfesional",
+        "time": "28/10 17:58",
+        "iso_date": "2026-10-28T20:58:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF cierra otro trimestre con récord de ganancias y prepara cinco proyectos para el RIGI",
+        "summary": "El EBITDA ajustado fue de u$s 2503 millones. La petrolera prepara cinco proyectos por u$s 44.000 millones para el RIGI.",
+        "link": "https://www.cronista.com/economia-politica/ypf-cierra-otro-trimestre-record-y-prepara-cinco-proyectos-para-el-rigi/",
+        "source": "El Cronista",
+        "time": "28/10 17:56",
+        "iso_date": "2026-10-28T20:56:56+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Cayeron las acciones y los bonos argentinos y subió el riesgo país, atados al efecto Brasil",
-        "summary": "Los títulos públicos perdieron la suba de la mañana y cerraron con baja de 1,4% en promedio. El indicador de JP Morgan subió a 763 puntos. El MSCI Merval cayó 1,2%, arrastrado por el descenso de 2,7% de la Bolsa de San Pablo",
+        "summary": "Los títulos públicos perdieron la suba de la mañana y cerraron con baja de 1,3% en promedio. El indicador de JP Morgan subió a 763 puntos. El MSCI Merval cayó 1,2%, arrastrado por el descenso de 2,7% de la Bolsa de San Pablo",
         "link": "https://www.infobae.com/economia/2026/10/28/suben-los-bonos-argentinos-y-cae-el-riesgo-pais-pero-las-acciones-siguen-atadas-al-efecto-brasil/",
         "source": "Infobae Economía",
-        "time": "28/10 17:29",
-        "iso_date": "2026-10-28T20:29:13+00:00",
+        "time": "28/10 17:51",
+        "iso_date": "2026-10-28T20:51:10+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
+      },
+      {
+        "title": "YPF informó ganancias operativas de USD 2.503 millones en el tercer trimestre del año",
+        "summary": "La petrolera indicó que su resultado operativo creció 84% interanual en el período, mientras avanzan el oleoducto VMOS, la compra de YPF Luz y cinco iniciativas que prevé presentar al RIGI",
+        "link": "https://www.infobae.com/economia/2026/10/28/ypf-informo-ganancias-operativas-de-usd-2503-millones-en-el-tercer-trimestre-del-ano/",
+        "source": "Infobae Economía",
+        "time": "28/10 17:38",
+        "iso_date": "2026-10-28T20:38:20+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "Flávio Bolsonaro se declaró \"presidente electo\" de Brasil y agradeció a Milei tras la fuga",
@@ -272,53 +316,33 @@
         "iso_date": "2026-10-28T16:31:32+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "YPF presentará tres proyectos para adherirse al RIGI por US$44.000 millones",
-        "summary": "La decisión fue confirmada a Bloomberg Línea por el presidente de YPF, Horacio Martín",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-presentara-tres-proyectos-para-adherirse-al-rigi-por-us44000-millones/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/10 13:27",
-        "iso_date": "2026-10-28T16:27:12+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Estiman un leve rebote de la economía en septiembre, pero el crecimiento de 2026 quedaría cerca del 1% por la recesión",
-        "summary": "La actividad económica no habría tenido grandes mejoras en el noveno mes del año y las proyecciones de crecimiento acumulado para 2026 siguen en baja.",
-        "link": "https://www.ambito.com/economia/estiman-un-leve-rebote-la-septiembre-pero-el-crecimiento-2026-quedaria-cerca-del-1-la-recesion-n6338872",
-        "source": "Ámbito",
-        "time": "28/10 13:17",
-        "iso_date": "2026-10-28T16:17:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dura advertencia de Alfonso Prat-Gay: Vaca Muerta es un \"boom que no arrastra\" al resto de la economía",
-        "summary": "El exministro de Hacienda señaló que, mientras la minería y el petróleo crecen al 9% anual, la economía no extractiva acumula años de estancamiento. Dardos a la provincia, y advertencias de que el RIGI aún no muestra un impacto significativo.",
-        "link": "https://www.ambito.com/economia/dura-advertencia-alfonso-prat-gay-vaca-muerta-es-un-boom-que-no-arrastra-al-resto-la-n6338845",
-        "source": "Ámbito",
-        "time": "28/10 12:33",
-        "iso_date": "2026-10-28T15:33:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El FMI mantiene la meta fiscal de 1,4% del PBI para 2026 a pesar de la caída de los ingresos",
-        "summary": "El organismo sostiene que el ancla fiscal es la piedra angular del programa de Argentina. El último comunicado no informa de las metas de junio que quedaron por debajo de lo previsto.",
-        "link": "https://www.ambito.com/economia/el-fmi-mantiene-la-meta-fiscal-14-del-pbi-2026-pesar-la-caida-los-ingresos-n6338832",
-        "source": "Ámbito",
-        "time": "28/10 12:20",
-        "iso_date": "2026-10-28T15:20:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF cierra otro trimestre con récord de ganancias y prepara cinco proyectos para el RIGI",
+        "summary": "El EBITDA ajustado fue de u$s 2503 millones. La petrolera prepara cinco proyectos por u$s 44.000 millones para el RIGI.",
+        "link": "https://www.cronista.com/economia-politica/ypf-cierra-otro-trimestre-record-y-prepara-cinco-proyectos-para-el-rigi/",
+        "source": "El Cronista",
+        "time": "28/10 17:56",
+        "iso_date": "2026-10-28T20:56:56+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF informó ganancias operativas de USD 2.503 millones en el tercer trimestre del año",
+        "summary": "La petrolera indicó que su resultado operativo creció 84% interanual en el período, mientras avanzan el oleoducto VMOS, la compra de YPF Luz y cinco iniciativas que prevé presentar al RIGI",
+        "link": "https://www.infobae.com/economia/2026/10/28/ypf-informo-ganancias-operativas-de-usd-2503-millones-en-el-tercer-trimestre-del-ano/",
+        "source": "Infobae Economía",
+        "time": "28/10 17:38",
+        "iso_date": "2026-10-28T20:38:20+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Cuál es el plan para dejar de importar GNL en invierno a partir de 2029",
         "summary": "TGN avanza en el gasoducto Manuel Belgrano, una obra de u$s1.500 millones que va a elevar la capacidad de transporte desde Vaca Muerta",
@@ -439,11 +463,11 @@
     "AL30": [
       {
         "title": "Cayeron las acciones y los bonos argentinos y subió el riesgo país, atados al efecto Brasil",
-        "summary": "Los títulos públicos perdieron la suba de la mañana y cerraron con baja de 1,4% en promedio. El indicador de JP Morgan subió a 763 puntos. El MSCI Merval cayó 1,2%, arrastrado por el descenso de 2,7% de la Bolsa de San Pablo",
+        "summary": "Los títulos públicos perdieron la suba de la mañana y cerraron con baja de 1,3% en promedio. El indicador de JP Morgan subió a 763 puntos. El MSCI Merval cayó 1,2%, arrastrado por el descenso de 2,7% de la Bolsa de San Pablo",
         "link": "https://www.infobae.com/economia/2026/10/28/suben-los-bonos-argentinos-y-cae-el-riesgo-pais-pero-las-acciones-siguen-atadas-al-efecto-brasil/",
         "source": "Infobae Economía",
-        "time": "28/10 17:29",
-        "iso_date": "2026-10-28T20:29:13+00:00",
+        "time": "28/10 17:51",
+        "iso_date": "2026-10-28T20:51:10+00:00",
         "tickers": [
           "AL30"
         ],
@@ -576,30 +600,6 @@
         "source": "Infobae Economía",
         "time": "26/10 19:12",
         "iso_date": "2026-10-26T22:12:50+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, riesgo país y acciones: uno por uno, cuáles fueron los efectos del ballotage de Brasil en el mercado financiero argentino",
-        "summary": "Detrás de la drástica caída de la bolsa brasileña y la devaluación del real, las acciones y los bonos argentinos exhibieron amplias bajas y el riesgo país subió al máximo en un año",
-        "link": "https://www.infobae.com/economia/2026/10/26/dolar-riesgo-pais-y-acciones-uno-por-uno-cuales-fueron-los-efectos-del-ballotage-de-brasil-en-el-mercado-financiero-argentino/",
-        "source": "Infobae Economía",
-        "time": "26/10 18:09",
-        "iso_date": "2026-10-26T21:09:23+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Efecto Brasil: el riesgo país de Argentina subió 8% y superó los 760 puntos",
-        "summary": "El índice MSCI Merval cayó un 3%, mientras que Mercado Libre y los bancos encabezaron las amplias pérdidas en el exterior. El riesgo país avanzó a 765 puntos, máximo en un año. El dólar subió diez pesos, a $1.560, en el Banco Nación",
-        "link": "https://www.infobae.com/economia/2026/10/26/efecto-brasil-las-acciones-argentinas-se-desploman-hasta-12-en-wall-street-y-suben-el-dolar-y-el-riesgo-pais/",
-        "source": "Infobae Economía",
-        "time": "26/10 17:53",
-        "iso_date": "2026-10-26T20:53:30+00:00",
         "tickers": [
           "AL30"
         ],
