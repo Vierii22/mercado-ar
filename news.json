@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-27T23:26:02.789243",
-  "updated_str": "27/10/2026 23:26",
+  "updated_at": "2026-10-28T00:50:56.975927",
+  "updated_str": "28/10/2026 00:50",
   "cutoff_hours": 48,
-  "total_news": 255,
+  "total_news": 282,
   "news": {
     "GENERAL": [
+      {
+        "title": "La morosidad en microempresas es de casi 18% y quintuplica a la de las grandes compañías",
+        "summary": "Pese a su baja incidencia en el monto total de deuda corporativa, las firmas más pequeñas enfrentan una situación crediticia preocupante. La mayoría de las empresas que refinanciaron sus compromisos no logra una mejora sostenida.",
+        "link": "https://www.ambito.com/economia/la-morosidad-microempresas-es-casi-18-y-quintuplica-la-las-grandes-companias-n6338580",
+        "source": "Ámbito",
+        "time": "27/10 21:18",
+        "iso_date": "2026-10-28T00:18:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Domingo Cavallo criticó a Javier Milei y pidió liberar la compra y venta de dólares",
+        "summary": "El exministro comparó la intervención oficial con los controles de Guillermo Moreno y cuestionó las restricciones para las empresas. También reclamó extender los beneficios del RIGI a toda la economía.",
+        "link": "https://www.ambito.com/economia/domingo-cavallo-critico-javier-milei-y-pidio-liberar-la-compra-y-venta-dolares-n6338608",
+        "source": "Ámbito",
+        "time": "27/10 20:50",
+        "iso_date": "2026-10-27T23:50:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Una tradicional marca de trajes de baño argentina entró en concurso preventivo",
         "summary": "Planeta Agua SA, dueña de la marca Class Life, declaró deudas por $1.581,6 millones. Qué pasará si no llega a un acuerdo con sus acreedores",
@@ -296,26 +316,6 @@
         "iso_date": "2026-10-27T18:27:40+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Milei viaja a Neuquén para la inauguración del templo evangélico de la familia de la senadora Márquez",
-        "summary": "El Presidente participará este sábado de la inauguración de la nueva iglesia fundada por Hugo Márquez, padre de la senadora Nadia Márquez. La visita se da en medio de la disputa entre Karina Milei y Patricia Bullrich por el control de la Cámara alta.",
-        "link": "https://www.cronista.com/economia-politica/javier-milei-viaja-a-neuquen-para-la-inauguracion-del-templo-evangelico-de-la-familia-de-la-senadora-marquez/",
-        "source": "El Cronista",
-        "time": "27/10 15:23",
-        "iso_date": "2026-10-27T18:23:48+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Encuesta electoral mostró una mejora de Bullrich, Milei estancado y ventaja peronista",
-        "summary": "Según el sondeo la potencialidad del voto a la senadora creció en el último mes, mientras marca diferencias con el Presidente. Sorprende la oposición",
-        "link": "https://www.iprofesional.com/politica/467535-encuesta-electoral-mostro-una-mejora-de-bullrich-milei-estancado-y-ventaja-peronista",
-        "source": "iProfesional",
-        "time": "27/10 15:20",
-        "iso_date": "2026-10-27T18:20:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -374,6 +374,30 @@
         "source": "Bloomberg Línea AR",
         "time": "26/10 14:56",
         "iso_date": "2026-10-26T17:56:46+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Boom de deuda corporativa en la Argentina: las empresas emitieron más de u$s2.700 millones en un mes",
+        "summary": "Según un informe de PwC, septiembre registró uno de los mayores volúmenes de colocaciones de obligaciones negociables de la última década, impulsado por YPF y el sector energético. Los fideicomisos financieros también alcanzaron su máximo de emisiones de 2026.",
+        "link": "https://www.ambito.com/economia/boom-deuda-corporativa-argentina-las-empresas-emitieron-mas-us2700-millones-un-mes-n6337913",
+        "source": "Ámbito",
+        "time": "26/10 13:26",
+        "iso_date": "2026-10-26T16:26:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Boom de deuda corporativa en la Argentina: las empresas emitieron más de u$s2.700 millones en un mes",
+        "summary": "Según un informe de PwC, septiembre registró uno de los mayores volúmenes de colocaciones de obligaciones negociables de la última década, impulsado por YPF y el sector energético. Los fideicomisos financieros también alcanzaron su máximo de emisiones de 2026.",
+        "link": "https://www.ambito.com/economia/boom-deuda-corporativa-argentina-las-empresas-emitieron-mas-us2700-millones-un-mes-n6337913",
+        "source": "Ámbito Mercados",
+        "time": "26/10 13:26",
+        "iso_date": "2026-10-26T16:26:00+00:00",
         "tickers": [
           "YPFD"
         ],
