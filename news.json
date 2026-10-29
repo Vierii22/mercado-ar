@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-29T22:53:20.801154",
-  "updated_str": "29/10/2026 22:53",
+  "updated_at": "2026-10-29T23:11:10.337555",
+  "updated_str": "29/10/2026 23:11",
   "cutoff_hours": 48,
   "total_news": 277,
   "news": {
     "GENERAL": [
+      {
+        "title": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
+        "summary": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
+        "link": "https://www.infobae.com/economia/2026/10/29/jornada-financiera-subieron-los-bonos-argentinos-y-cayo-el-riesgo-pais-pero-las-acciones-cedieron-por-cuarto-dia-seguido/",
+        "source": "Infobae Economía",
+        "time": "29/10 19:51",
+        "iso_date": "2026-10-29T22:51:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El presidente del BCRA explicó como podría usar los swap con China y EEUU en 2027 y volvió a hablar del oro: “No tenemos nada en Inglaterra”",
         "summary": "Santiago Bausili habló de un eventual uso de los instrumentos ante tensiones cambiarias en el año electoral. Dio detalles sobre dónde está el oro y aseguró que para la cobertura de esas tenencias se usó a su ex empleados, el Deutsche Bank, pero que eso no representa ningún con...",
@@ -34,18 +46,6 @@
         "iso_date": "2026-10-29T21:32:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Banco Macro lanzó Macro Private Bank: cómo funciona la nueva banca privada para patrimonios desde US$ 300.000",
-        "summary": "Banco Macro presentó Macro Private Bank, su nueva banca privada para grandes patrimonios. Busca competir con JP Morgan y captar inversiones desde US$ 300.000.",
-        "link": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macro-private-bank-como-funciona-nueva-banca-privada-patrimonios-us-300000-n99325",
-        "source": "El Economista",
-        "time": "29/10 18:27",
-        "iso_date": "2026-10-29T21:27:00+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": false
       },
       {
         "title": "Dólar en Argentina: presidente del BCRA rechaza volatilidad ante el período electoral",
@@ -483,18 +483,6 @@
     "PAMP": [],
     "BMA": [
       {
-        "title": "Banco Macro lanzó Macro Private Bank: cómo funciona la nueva banca privada para patrimonios desde US$ 300.000",
-        "summary": "Banco Macro presentó Macro Private Bank, su nueva banca privada para grandes patrimonios. Busca competir con JP Morgan y captar inversiones desde US$ 300.000.",
-        "link": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macro-private-bank-como-funciona-nueva-banca-privada-patrimonios-us-300000-n99325",
-        "source": "El Economista",
-        "time": "29/10 18:27",
-        "iso_date": "2026-10-29T21:27:00+00:00",
-        "tickers": [
-          "BMA"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Uno de los bancos más grandes del país anuncia una millonaria recompra de acciones",
         "summary": "Banco Macro anunció un programa de recompra de acciones por hasta $160.000 millones. La entidad busca proteger a sus accionistas y frenar la volatilidad bursátil, luego de considerar que la caída de sus títulos no refleja el verdadero valor del banco.",
         "link": "https://eleconomista.com.ar/finanzas/uno-bancos-mas-grandes-pais-anuncia-una-millonaria-recompra-acciones-n99320",
@@ -537,6 +525,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
+        "summary": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
+        "link": "https://www.infobae.com/economia/2026/10/29/jornada-financiera-subieron-los-bonos-argentinos-y-cayo-el-riesgo-pais-pero-las-acciones-cedieron-por-cuarto-dia-seguido/",
+        "source": "Infobae Economía",
+        "time": "29/10 19:51",
+        "iso_date": "2026-10-29T22:51:39+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Subieron los bonos argentinos pese a la tendencia negativa de Wall Street y Brasil",
         "summary": "Los balances de compañías tecnológicas llevaron a rápidas tomas de ganancias y el índice Nasdaq cayó un 1,4%. El MSCI Merval revirtió las subas de la mañana y cedió 1%. El riesgo país bajó a 741 puntos básicos",
