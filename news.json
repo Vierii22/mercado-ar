@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-29T23:11:10.337555",
-  "updated_str": "29/10/2026 23:11",
+  "updated_at": "2026-10-29T23:25:29.224380",
+  "updated_str": "29/10/2026 23:25",
   "cutoff_hours": 48,
-  "total_news": 277,
+  "total_news": 317,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
+        "summary": "El nuevo plazo vence el 16 de noviembre. Contadores y tributaristas advertían que faltaba tiempo para aplicar los cambios al régimen simplificado, mientras siguen pendientes normas de la UIF sobre los fondos fuera del sistema financiero.",
+        "link": "https://www.ambito.com/economia/dolares-del-colchon-arca-postergo-sexta-vez-la-presentacion-la-ddjj-ganancias-n6339476",
+        "source": "Ámbito",
+        "time": "29/10 20:09",
+        "iso_date": "2026-10-29T23:09:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
         "summary": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
@@ -46,6 +56,18 @@
         "iso_date": "2026-10-29T21:32:00+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "Banco Macro lanzó Macro Private Bank: cómo funciona la nueva banca privada para patrimonios desde US$ 300.000",
+        "summary": "Banco Macro presentó Macro Private Bank, su nueva banca privada para grandes patrimonios. Busca competir con JP Morgan y captar inversiones desde US$ 300.000.",
+        "link": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macro-private-bank-como-funciona-nueva-banca-privada-patrimonios-us-300000-n99325",
+        "source": "El Economista",
+        "time": "29/10 18:27",
+        "iso_date": "2026-10-29T21:27:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
       },
       {
         "title": "Dólar en Argentina: presidente del BCRA rechaza volatilidad ante el período electoral",
@@ -296,28 +318,6 @@
         "iso_date": "2026-10-29T18:28:20+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El CEO de YPF le anticipó a inversores de Wall Srtreet que se van a llevar una “sorpresa” en 2027",
-        "summary": "El CEO de la petrolera estatal presentó resultados récord del tercer trimestre y prometió revelar en abril los objetivos de producción del año que viene, pero adelantó que superarán las expectativas",
-        "link": "https://www.infobae.com/economia/2026/10/29/el-cep-de-ypf-le-anticipo-a-inversores-de-wall-srtreet-que-se-van-a-llevar-una-sorpresa-en-2027/",
-        "source": "Infobae Economía",
-        "time": "29/10 15:16",
-        "iso_date": "2026-10-29T18:16:09+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Deudas de ABL y Patentes: quiénes pueden acceder y cómo conseguir hasta 100% de descuento en intereses",
-        "summary": "La iniciativa busca acompañar a los contribuyentes para que puedan ponerse al día con los saldos.",
-        "link": "https://www.cronista.com/economia-politica/deudas-de-abl-y-patentes-quienes-pueden-acceder-y-como-conseguir-hasta-100-de-descuento-en-intereses/",
-        "source": "El Cronista",
-        "time": "29/10 14:56",
-        "iso_date": "2026-10-29T17:56:35+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -454,6 +454,30 @@
         "is_general": false
       },
       {
+        "title": "Dura advertencia de Alfonso Prat-Gay: Vaca Muerta es un \"boom que no arrastra\" al resto de la economía",
+        "summary": "El exministro de Hacienda señaló que, mientras la minería y el petróleo crecen al 9% anual, la economía no extractiva acumula años de estancamiento. Dardos a la provincia, y advertencias de que el RIGI aún no muestra un impacto significativo.",
+        "link": "https://www.ambito.com/economia/dura-advertencia-alfonso-prat-gay-vaca-muerta-es-un-boom-que-no-arrastra-al-resto-la-n6338845",
+        "source": "Ámbito",
+        "time": "28/10 12:33",
+        "iso_date": "2026-10-28T15:33:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Dura advertencia de Alfonso Prat-Gay: Vaca Muerta es un \"boom que no arrastra\" al resto de la economía",
+        "summary": "El exministro de Hacienda señaló que, mientras la minería y el petróleo crecen al 9% anual, la economía no extractiva acumula años de estancamiento. Dardos a la provincia, y advertencias de que el RIGI aún no muestra un impacto significativo.",
+        "link": "https://www.ambito.com/economia/dura-advertencia-alfonso-prat-gay-vaca-muerta-es-un-boom-que-no-arrastra-al-resto-la-n6338845",
+        "source": "Ámbito Mercados",
+        "time": "28/10 12:33",
+        "iso_date": "2026-10-28T15:33:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "YPF y Pan American Energy ganan la licitación para proveer combustibles al Estado por dos años",
         "summary": "El Gobierno adjudicó un acuerdo marco para abastecer vehículos, embarcaciones y aeronaves oficiales. Desestimó a dos oferentes por presunta simulación de competencia.",
         "link": "https://www.cronista.com/economia-politica/ypf-y-pan-american-energy-ganan-la-licitacion-para-proveer-combustibles-al-estado-por-dos-anos/",
@@ -482,6 +506,18 @@
     ],
     "PAMP": [],
     "BMA": [
+      {
+        "title": "Banco Macro lanzó Macro Private Bank: cómo funciona la nueva banca privada para patrimonios desde US$ 300.000",
+        "summary": "Banco Macro presentó Macro Private Bank, su nueva banca privada para grandes patrimonios. Busca competir con JP Morgan y captar inversiones desde US$ 300.000.",
+        "link": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macro-private-bank-como-funciona-nueva-banca-privada-patrimonios-us-300000-n99325",
+        "source": "El Economista",
+        "time": "29/10 18:27",
+        "iso_date": "2026-10-29T21:27:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
+      },
       {
         "title": "Uno de los bancos más grandes del país anuncia una millonaria recompra de acciones",
         "summary": "Banco Macro anunció un programa de recompra de acciones por hasta $160.000 millones. La entidad busca proteger a sus accionistas y frenar la volatilidad bursátil, luego de considerar que la caída de sus títulos no refleja el verdadero valor del banco.",
