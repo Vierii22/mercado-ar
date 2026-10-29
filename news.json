@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-29T19:44:13.367456",
-  "updated_str": "29/10/2026 19:44",
+  "updated_at": "2026-10-29T19:57:43.216321",
+  "updated_str": "29/10/2026 19:57",
   "cutoff_hours": 48,
-  "total_news": 278,
+  "total_news": 277,
   "news": {
     "GENERAL": [
       {
@@ -10,9 +10,31 @@
         "summary": "El trámite fue aprobado por la Superintendencia de Entidades Financieras. El trámite final requerirá el OK del Directorio del Banco Central",
         "link": "https://www.infobae.com/economia/2026/10/29/mercado-pago-a-un-paso-de-convertirse-en-banco-el-bcra-dio-aprobacion-tecnica-a-la-licencia-pedida-por-la-empresa-de-marcos-galperin/",
         "source": "Infobae Economía",
-        "time": "29/10 16:37",
-        "iso_date": "2026-10-29T19:37:09+00:00",
+        "time": "29/10 16:47",
+        "iso_date": "2026-10-29T19:47:15+00:00",
         "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año y una mayor demanda de pesos",
+        "summary": "El Central también destacó que la Base Monetaria creció 1,4% mensual real en el tercer trimestre luego de 14 meses de contracción. La estrategia de esterilización con licitaciones del Tesoro, la dinámica de la brecha cambiaria y los ejes de la reforma a la Carta Orgánica.",
+        "link": "https://www.ambito.com/economia/el-bcra-preve-un-aumento-significativo-la-actividad-economica-fin-ano-y-una-mayor-demanda-pesos-n6339369",
+        "source": "Ámbito",
+        "time": "29/10 16:45",
+        "iso_date": "2026-10-29T19:45:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Bonos argentinos rebotan tras la decisión de la Fed y el riesgo país baja de 750 puntos",
+        "summary": "Los bonos en dólares avanzan en Wall Street y el riesgo país se ubica en 749 puntos, mientras las acciones locales muestran mayoría de subas",
+        "link": "https://www.iprofesional.com/finanzas/467828-bonos-argentinos-rebotan-y-el-riesgo-pais-cae-debajo-de-750-puntos",
+        "source": "iProfesional",
+        "time": "29/10 16:39",
+        "iso_date": "2026-10-29T19:39:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -182,18 +204,6 @@
         "is_general": true
       },
       {
-        "title": "Bonos argentinos rebotan tras la decisión de la Fed y el riesgo país baja de 750 puntos",
-        "summary": "Los bonos en dólares avanzan en Wall Street y el riesgo país se ubica en 749 puntos, mientras las acciones locales muestran mayoría de subas",
-        "link": "https://www.iprofesional.com/finanzas/467828-bonos-argentinos-rebotan-y-el-riesgo-pais-cae-debajo-de-750-puntos",
-        "source": "iProfesional",
-        "time": "29/10 13:39",
-        "iso_date": "2026-10-29T16:39:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina",
         "summary": "En su informe trimestral, la entidad alertó sobre riesgos estacionales y de tarifas que podrían impactar en el costo de vida y la producción",
         "link": "https://www.iprofesional.com/finanzas/467826-bcra-baja-inflacion-riesgos-economia",
@@ -302,18 +312,6 @@
         "source": "iProfesional",
         "time": "29/10 12:18",
         "iso_date": "2026-10-29T15:18:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El FMI alerta por el crecimiento y el riesgo país, pero pide al Gobierno mantener el rumbo económico",
-        "summary": "Para potenciar el crecimiento y extender sus beneficios, el Fondo acordó con las autoridades argentinas profundizar los mercados de capitales y de créditos hipotecarios, mejorar la flexibilidad del mercado laboral, avanzar en concesiones de infraestructura y facilitar las inve...",
-        "link": "https://www.ambito.com/economia/preocupado-el-crecimiento-y-el-riesgo-pais-el-fmi-recomienda-al-gobierno-mantener-el-rumbo-la-n6339322",
-        "source": "Ámbito",
-        "time": "29/10 12:06",
-        "iso_date": "2026-10-29T15:06:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -496,20 +494,7 @@
     ],
     "TXAR": [],
     "ALUA": [],
-    "TECO2": [
-      {
-        "title": "Empleadas domésticas: cuánto cobran en noviembre tras un nuevo aumento",
-        "summary": "El personal de casas particulares recibirá una suba del 1,6% en noviembre y otra igual en diciembre de 2026. Las escalas por hora varían según la categoría, la modalidad de retiro y los adicionales",
-        "link": "https://www.infobae.com/economia/2026/10/27/empleadas-domesticas-cuanto-cobran-en-noviembre-tras-un-nuevo-aumento/",
-        "source": "Infobae Economía",
-        "time": "27/10 16:51",
-        "iso_date": "2026-10-27T19:51:21+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      }
-    ],
+    "TECO2": [],
     "CEPU": [
       {
         "title": "CFE todavía analiza proyectos mixtos de generación eléctrica con empresas privadas",
@@ -525,6 +510,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "Bonos argentinos rebotan tras la decisión de la Fed y el riesgo país baja de 750 puntos",
+        "summary": "Los bonos en dólares avanzan en Wall Street y el riesgo país se ubica en 749 puntos, mientras las acciones locales muestran mayoría de subas",
+        "link": "https://www.iprofesional.com/finanzas/467828-bonos-argentinos-rebotan-y-el-riesgo-pais-cae-debajo-de-750-puntos",
+        "source": "iProfesional",
+        "time": "29/10 16:39",
+        "iso_date": "2026-10-29T19:39:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Suben las acciones y los bonos argentinos pese a la tendencia negativa de Wall Street",
         "summary": "Los balances de compañías tecnológicas llevaron a rápidas tomas de ganancias y el índice Nasdaq cae un 1,4%. El MSCI Merval asciende 0,1% y los bonos Globales rebotan un 0,6%. El riesgo país baja a 747 puntos básicos",
@@ -556,18 +553,6 @@
         "source": "Ámbito Mercados",
         "time": "29/10 14:03",
         "iso_date": "2026-10-29T17:03:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Bonos argentinos rebotan tras la decisión de la Fed y el riesgo país baja de 750 puntos",
-        "summary": "Los bonos en dólares avanzan en Wall Street y el riesgo país se ubica en 749 puntos, mientras las acciones locales muestran mayoría de subas",
-        "link": "https://www.iprofesional.com/finanzas/467828-bonos-argentinos-rebotan-y-el-riesgo-pais-cae-debajo-de-750-puntos",
-        "source": "iProfesional",
-        "time": "29/10 13:39",
-        "iso_date": "2026-10-29T16:39:00+00:00",
         "tickers": [
           "AL30"
         ],
