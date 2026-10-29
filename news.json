@@ -1,17 +1,91 @@
 {
-  "updated_at": "2026-10-29T20:42:50.304456",
-  "updated_str": "29/10/2026 20:42",
+  "updated_at": "2026-10-29T21:20:48.076137",
+  "updated_str": "29/10/2026 21:20",
   "cutoff_hours": 48,
-  "total_news": 281,
+  "total_news": 282,
   "news": {
     "GENERAL": [
+      {
+        "title": "Dólar en Argentina: presidente del BCRA rechaza volatilidad ante el período electoral",
+        "summary": "El titular de la autoridad monetaria también anticipó presión sobre la inflación en la última etapa del año, pero consideró que será por factores transitorios.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/dolar-en-argentina-presidente-del-bcra-rechaza-volatilidad-ante-el-periodo-electoral/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/10 18:15",
+        "iso_date": "2026-10-29T21:15:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La economía, a punto de cruzar un umbral que no pisaba desde 2024: qué anticipa el nuevo dato sobre Milei",
+        "summary": "Según estimaciones de la consultora Equilibra, el tercer trimestre habría cerrado con una contracción que se suma a la baja registrada en el segundo. De esta forma, el país ya estaría atravesando una fase de recesión técnica.",
+        "link": "https://www.cronista.com/economia-politica/la-economia-a-punto-de-cruzar-un-umbral-que-no-pisaba-desde-2024-que-anticipa-el-nuevo-dato-sobre-milei/",
+        "source": "El Cronista",
+        "time": "29/10 18:09",
+        "iso_date": "2026-10-29T21:09:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Bancos en alerta: qué pasará si Mercado Pago gana la batalla por las cuentas sueldo",
+        "summary": "La fintech está más cerca de obtener la licencia del BCRA. Su base de usuarios, datos de Mercado Libre y una gran red de comercios le dan gran ventaja",
+        "link": "https://www.iprofesional.com/finanzas/467854-alerta-bancos-que-pasara-si-mercado-pago-se-queda-con-cuentas-sueldo",
+        "source": "iProfesional",
+        "time": "29/10 18:02",
+        "iso_date": "2026-10-29T21:02:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El dólar bajó en el mercado local, mientras que en Brasil volvió a subir frente al real",
         "summary": "La divisa mayorista cedió a $1.539, mientras que al público se mantuvo a $1.560 en el Banco Nación. En el país vecino subió 1,3%, a 5,41 reales",
         "link": "https://www.infobae.com/economia/2026/10/29/el-dolar-bajo-en-el-mercado-local-mientras-que-en-brasil-volvio-a-subir-frente-al-real/",
         "source": "Infobae Economía",
-        "time": "29/10 17:31",
-        "iso_date": "2026-10-29T20:31:55+00:00",
+        "time": "29/10 17:48",
+        "iso_date": "2026-10-29T20:48:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "“Argentina al palo”: Marín defendió el buffer de YPF y anticipó una sorpresa en la producción de Vaca Muerta para 2027",
+        "summary": "Ya superó la meta de 250.000 barriles diarios en Vaca Muerta y anticipa un nuevo salto para 2027. Prepara proyectos por u$s 44.000 millones bajo el RIGI.",
+        "link": "https://www.cronista.com/economia-politica/argentina-al-palo-marin-defendio-el-buffer-de-ypf-y-anticipo-una-sorpresa-en-la-produccion-de-vaca-muerta-para-2027/",
+        "source": "El Cronista",
+        "time": "29/10 17:48",
+        "iso_date": "2026-10-29T20:48:20+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Acciones de Ambev caen tras resultados: ¿comprar, vender o mantener? Esto dice Wall Street",
+        "summary": "El débil crecimiento de los volúmenes de cerveza en Brasil presiona las acciones de Ambev, pese a que sus ganancias superaron las previsiones.",
+        "link": "https://www.bloomberglinea.com/mercados/acciones-de-ambev-caen-tras-resultados-comprar-vender-o-mantener-esto-dice-wall-street/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/10 17:44",
+        "iso_date": "2026-10-29T20:44:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Uno de los bancos más grandes del país anuncia una millonaria recompra de acciones",
+        "summary": "Banco Macro anunció un programa de recompra de acciones por hasta $160.000 millones. La entidad busca proteger a sus accionistas y frenar la volatilidad bursátil, luego de considerar que la caída de sus títulos no refleja el verdadero valor del banco.",
+        "link": "https://eleconomista.com.ar/finanzas/uno-bancos-mas-grandes-pais-anuncia-una-millonaria-recompra-acciones-n99320",
+        "source": "El Economista",
+        "time": "29/10 17:41",
+        "iso_date": "2026-10-29T20:41:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Alphabet registra su mayor caída en bolsa, mientras Microsoft limita sus pérdidas: 5 claves sobre la IA",
+        "summary": "Los resultados de ambas tecnológicas revelan diferencias en la monetización de la inteligencia artificial, la generación de efectivo y el costo de expandir su infraestructura, pese al fuerte crecimiento de sus negocios de nube.",
+        "link": "https://www.bloomberglinea.com/mercados/alphabet-se-desploma-y-microsoft-avanza-5-claves-del-impacto-desigual-de-la-ia-en-wall-street/",
+        "source": "Bloomberg Línea AR",
+        "time": "29/10 17:40",
+        "iso_date": "2026-10-29T20:40:21+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -242,81 +316,21 @@
         "iso_date": "2026-10-29T17:35:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Polémica por el oro del BCRA: la entidad respondió a las críticas de la AGN y defendió lo que considera una ganancia “inédita”",
-        "summary": "El informe trimestral de política monetaria expuso la defensa técnica de las coberturas con derivados, cuestionadas por la Auditoría General de la Nación, y sostuvo que la estrategia permitió capturar cerca del 70% de la suba del metal en 2025",
-        "link": "https://www.infobae.com/economia/2026/10/29/polemica-por-el-oro-del-bcra-la-entidad-respondio-a-las-criticas-de-la-agn-y-defendio-lo-que-considera-una-ganancia-inedita/",
-        "source": "Infobae Economía",
-        "time": "29/10 14:23",
-        "iso_date": "2026-10-29T17:23:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Arriazu alertó sobre una corrida cambiaria en 2027 y pidió al Gobierno cambios urgentes",
-        "summary": "El economista advirtió que la estrategia del Banco Central para acumular dólares destruye el crédito privado, alimenta la recesión y abre la puerta a una corrida cambiaria hacia 2027. Reclamó cambios urgentes en la política monetaria y rechazó una devaluación.",
-        "link": "https://www.ambito.com/economia/arriazu-alerto-una-corrida-cambiaria-2027-y-pidio-al-gobierno-cambios-urgentes-n6339384",
-        "source": "Ámbito",
-        "time": "29/10 14:20",
-        "iso_date": "2026-10-29T17:20:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué provincias lideran el ranking fiscal completo con superávit y cuáles ocupan los últimos puestos con déficit",
-        "summary": "Pese a las señales de alerta por el crecimiento y el riesgo país, el FMI insistió en que el Gobierno debe mantener el rumbo económico y sostener su estrategia de estabilización. El plan fiscal bajo análisis y las provincias que mejor mantienen sus cuentas públicas.",
-        "link": "https://www.ambito.com/economia/que-provincias-lideran-el-ranking-fiscal-completo-y-cuales-ocupan-los-ultimos-puestos-n6339398",
-        "source": "Ámbito",
-        "time": "29/10 14:03",
-        "iso_date": "2026-10-29T17:03:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Lula le agradeció a Macri y le dejó un mensaje a Milei, quien a su vez felicitó a Netanyahu",
-        "summary": "El Presidente felicitó a su “querido amigo” israelí por el resultado del Likud, en las mismas horas en que Lula le agradeció a Macri su mensaje por la reelección. El Gobierno sostiene su silencio sobre Brasil, mientras avanzan las denuncias judiciales por el paso de Flávio Bol...",
-        "link": "https://www.cronista.com/economia-politica/lula-le-agradecio-a-macri-y-le-dejo-un-mensaje-a-milei-quien-en-tanto-felicito-a-netanyahu/",
-        "source": "El Cronista",
-        "time": "29/10 13:46",
-        "iso_date": "2026-10-29T16:46:38+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tras inédito caso de Lula en Brasil, ¿cuál es la estrategia de Milei y Kicillof en redes?",
-        "summary": "En Argentina, Brasil y España, partidos y dirigentes apelan a la inteligencia artificial y al ataque digital para conquistar el voto popular.",
-        "link": "https://www.iprofesional.com/tecnologia/467588-tras-inedito-caso-de-lula-en-brasil-cual-es-la-estrategia-de-milei-y-kicillof-en-redes",
-        "source": "iProfesional",
-        "time": "29/10 13:42",
-        "iso_date": "2026-10-29T16:42:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina",
-        "summary": "En su informe trimestral, la entidad alertó sobre riesgos estacionales y de tarifas que podrían impactar en el costo de vida y la producción",
-        "link": "https://www.iprofesional.com/finanzas/467826-bcra-baja-inflacion-riesgos-economia",
-        "source": "iProfesional",
-        "time": "29/10 13:38",
-        "iso_date": "2026-10-29T16:38:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué delitos incluyen las denuncias contra Milei y funcionarios por la fuga de Bolsonaro",
-        "summary": "Las denuncias presentadas apuntan a una supuesta colaboración oficial en la salida del excandidato, que buscó asilo en Estados Unidos",
-        "link": "https://www.iprofesional.com/politica/467817-de-que-delitos-podrian-acusar-a-milei-por-fuga-de-flavio-bolsonaro",
-        "source": "iProfesional",
-        "time": "29/10 13:24",
-        "iso_date": "2026-10-29T16:24:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "“Argentina al palo”: Marín defendió el buffer de YPF y anticipó una sorpresa en la producción de Vaca Muerta para 2027",
+        "summary": "Ya superó la meta de 250.000 barriles diarios en Vaca Muerta y anticipa un nuevo salto para 2027. Prepara proyectos por u$s 44.000 millones bajo el RIGI.",
+        "link": "https://www.cronista.com/economia-politica/argentina-al-palo-marin-defendio-el-buffer-de-ypf-y-anticipo-una-sorpresa-en-la-produccion-de-vaca-muerta-para-2027/",
+        "source": "El Cronista",
+        "time": "29/10 17:48",
+        "iso_date": "2026-10-29T20:48:20+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "El CEO de YPF le anticipó a inversores de Wall Srtreet que se van a llevar una “sorpresa” en 2027",
         "summary": "El CEO de la petrolera estatal presentó resultados récord del tercer trimestre y prometió revelar en abril los objetivos de producción del año que viene, pero adelantó que superarán las expectativas",
@@ -372,18 +386,6 @@
         "source": "iProfesional",
         "time": "29/10 09:30",
         "iso_date": "2026-10-29T12:30:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Vista logra crecimiento récord de producción y de exportación desde Vaca Muerta",
-        "summary": "La petrolera reportó un EBITDA de u$s841 millones y una fuerte expansión productiva y exportadora en Vaca Muerta durante el tercer trimestre.",
-        "link": "https://www.iprofesional.com/energia/467765-vista-logra-record-de-produccion-y-exportacion-en-vaca-muerta",
-        "source": "iProfesional",
-        "time": "29/10 09:18",
-        "iso_date": "2026-10-29T12:18:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -478,6 +480,18 @@
     ],
     "PAMP": [],
     "BMA": [
+      {
+        "title": "Uno de los bancos más grandes del país anuncia una millonaria recompra de acciones",
+        "summary": "Banco Macro anunció un programa de recompra de acciones por hasta $160.000 millones. La entidad busca proteger a sus accionistas y frenar la volatilidad bursátil, luego de considerar que la caída de sus títulos no refleja el verdadero valor del banco.",
+        "link": "https://eleconomista.com.ar/finanzas/uno-bancos-mas-grandes-pais-anuncia-una-millonaria-recompra-acciones-n99320",
+        "source": "El Economista",
+        "time": "29/10 17:41",
+        "iso_date": "2026-10-29T20:41:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": true
+      },
       {
         "title": "Macro Private Bank es la nueva propuesta de banca privada para clientes premium de alto patrimonio",
         "summary": "Banco Macro presentó su nueva unidad de gestión con foco central en personas con activos de más de USD 1 millón. Busca captar inversiones que hoy se concentran en bancos extranjeros",
@@ -708,18 +722,6 @@
         "source": "Infobae Economía",
         "time": "27/10 18:35",
         "iso_date": "2026-10-27T21:35:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Subieron los bonos argentinos y bajó el riesgo país, pero las acciones cerraron con pérdidas",
-        "summary": "El S&P Merval cedió un 2,4% y siguió asimilando el efecto negativo del desplome de los activos brasileños. El indicador de JP Morgan bajó a 753 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/10/27/suben-los-bonos-argentinos-en-dolares-y-el-riesgo-pais-muestra-una-leve-caida/",
-        "source": "Infobae Economía",
-        "time": "27/10 17:58",
-        "iso_date": "2026-10-27T20:58:41+00:00",
         "tickers": [
           "AL30"
         ],
