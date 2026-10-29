@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-29T21:20:48.076137",
-  "updated_str": "29/10/2026 21:20",
+  "updated_at": "2026-10-29T21:40:32.404455",
+  "updated_str": "29/10/2026 21:40",
   "cutoff_hours": 48,
   "total_news": 282,
   "news": {
     "GENERAL": [
+      {
+        "title": "La mora de las familias bajó en septiembre por segundo mes consecutivo, mientras crecen las refinanciaciones",
+        "summary": "La irregularidad de la deuda en las empresas subió a 3,82%, aunque la de las familias bajó 4,1% frente al mes previo. Además, la refinanciación en los hogares crece y ya alcanza los $2,9 billones.",
+        "link": "https://www.ambito.com/economia/la-mora-las-familias-septiembre-segundo-mes-consecutivo-mientras-crecen-las-refinanciaciones-n6339478",
+        "source": "Ámbito",
+        "time": "29/10 18:32",
+        "iso_date": "2026-10-29T21:32:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Banco Macro lanzó Macro Private Bank: cómo funciona la nueva banca privada para patrimonios desde US$ 300.000",
+        "summary": "Banco Macro presentó Macro Private Bank, su nueva banca privada para grandes patrimonios. Busca competir con JP Morgan y captar inversiones desde US$ 300.000.",
+        "link": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macro-private-bank-como-funciona-nueva-banca-privada-patrimonios-us-300000-n99325",
+        "source": "El Economista",
+        "time": "29/10 18:27",
+        "iso_date": "2026-10-29T21:27:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
+      },
       {
         "title": "Dólar en Argentina: presidente del BCRA rechaza volatilidad ante el período electoral",
         "summary": "El titular de la autoridad monetaria también anticipó presión sobre la inflación en la última etapa del año, pero consideró que será por factores transitorios.",
@@ -296,26 +318,6 @@
         "iso_date": "2026-10-29T17:54:29+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "IPOM: BCRA reconoce que la actividad cayó en el tercer trimestre, pero anticipa recuperación “significativa”",
-        "summary": "El Banco Central argentino publicó este jueves su Informe de Política Monetaria (IPOM) correspondiente al tercer trimestre del año. Allí, vinculó la desaceleración de la actividad a un contexto internacional más adverso y “factores transitorios”.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipom-bcra-reconoce-que-la-actividad-cayo-en-el-tercer-trimestre-pero-anticipa-recuperacion-significativa/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/10 14:38",
-        "iso_date": "2026-10-29T17:38:24+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Lula le agradeció a Macri y cuestionó la actitud de Milei con una chicana",
-        "summary": "El mandatario brasileño reivindicó el diálogo entre países, mientras la salida de Bolsonaro desde la Argentina suma tensión al vínculo bilateral",
-        "link": "https://www.iprofesional.com/politica/467829-lula-agradecio-a-mauricio-macri-y-marco-diferencias-con-milei",
-        "source": "iProfesional",
-        "time": "29/10 14:35",
-        "iso_date": "2026-10-29T17:35:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -480,6 +482,18 @@
     ],
     "PAMP": [],
     "BMA": [
+      {
+        "title": "Banco Macro lanzó Macro Private Bank: cómo funciona la nueva banca privada para patrimonios desde US$ 300.000",
+        "summary": "Banco Macro presentó Macro Private Bank, su nueva banca privada para grandes patrimonios. Busca competir con JP Morgan y captar inversiones desde US$ 300.000.",
+        "link": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macro-private-bank-como-funciona-nueva-banca-privada-patrimonios-us-300000-n99325",
+        "source": "El Economista",
+        "time": "29/10 18:27",
+        "iso_date": "2026-10-29T21:27:00+00:00",
+        "tickers": [
+          "BMA"
+        ],
+        "is_general": false
+      },
       {
         "title": "Uno de los bancos más grandes del país anuncia una millonaria recompra de acciones",
         "summary": "Banco Macro anunció un programa de recompra de acciones por hasta $160.000 millones. La entidad busca proteger a sus accionistas y frenar la volatilidad bursátil, luego de considerar que la caída de sus títulos no refleja el verdadero valor del banco.",
@@ -710,18 +724,6 @@
         "source": "El Economista",
         "time": "27/10 19:43",
         "iso_date": "2026-10-27T22:43:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Efecto Brasil: se recuperaron los bonos argentinos y cedió el riesgo país, pero las acciones continuaron en baja",
-        "summary": "Los títulos públicos Globales subieron 1% en promedio y el indicador de JP Morgan bajó a 753 puntos. Los ADR argentinos tuvieron mayoría de bajas, igual que sus pares brasileños. Por segundo día el BCRA no compró dólares en el mercado",
-        "link": "https://www.infobae.com/economia/2026/10/27/efecto-brasil-se-recuperaron-los-bonos-argentinos-y-cedio-el-riesgo-pais-pero-las-acciones-continuaron-en-baja/",
-        "source": "Infobae Economía",
-        "time": "27/10 18:35",
-        "iso_date": "2026-10-27T21:35:00+00:00",
         "tickers": [
           "AL30"
         ],
