@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-29T23:25:29.224380",
-  "updated_str": "29/10/2026 23:25",
+  "updated_at": "2026-10-29T23:45:29.806906",
+  "updated_str": "29/10/2026 23:45",
   "cutoff_hours": 48,
-  "total_news": 317,
+  "total_news": 319,
   "news": {
     "GENERAL": [
+      {
+        "title": "Colectivos: el Gobierno le va a dar más subsidios a las empresas para no aumentar el boleto a nivel nacional",
+        "summary": "La Secretaría de Transporte incrementará el gasto público y hará giro mayores para no presionar a la inflación. A diferencia, el próximo domingo aumentará el pasaje en las líneas de la Ciudad un 3,9% y de la provincia de Buenos Aires un 5,02%",
+        "link": "https://www.infobae.com/economia/2026/10/29/colectivos-el-gobierno-le-va-a-dar-mas-subsidios-a-las-empresas-para-no-aumentar-el-boleto-a-nivel-nacional/",
+        "source": "Infobae Economía",
+        "time": "29/10 20:39",
+        "iso_date": "2026-10-29T23:39:33+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El viento en contra no afecta al dólar ni a los bonos, pero sí a las acciones",
+        "summary": "Con mucho ruido en Brasil y en la Bolsa de Nueva York, el mercado argentino pudo transitar una jornada que resultó bastante tranquila. Los dólares siguen en calma, con el BCRA comprando de nuevo. Los bonos recuperaron y el riesgo país bajó. Lo que sigue afectado es el mercado ...",
+        "link": "https://eleconomista.com.ar/finanzas/el-viento-afecta-dolar-ni-bonos-pero-acciones-n99329",
+        "source": "El Economista",
+        "time": "29/10 20:13",
+        "iso_date": "2026-10-29T23:13:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
         "summary": "El nuevo plazo vence el 16 de noviembre. Contadores y tributaristas advertían que faltaba tiempo para aplicar los cambios al régimen simplificado, mientras siguen pendientes normas de la UIF sobre los fondos fuera del sistema financiero.",
@@ -38,7 +60,7 @@
         "is_general": true
       },
       {
-        "title": "Bausili dio detalles de la operatoria del BCRA con el oro de las reservas",
+        "title": "Bausili dijo que no tiene una \"proyección de corrida\" para 2027 y habló del oro del BCRA",
         "summary": "El presidente del BCRA y el vice Vladimir Werning brindó una conferencia para presentar detalles del Índice de Política Moneteria (IPOM)",
         "link": "https://www.iprofesional.com/economia/467847-bausili-dio-detalles-de-la-operatoria-con-el-oro-de-las-reservas-del-bcra",
         "source": "iProfesional",
@@ -298,26 +320,6 @@
         "iso_date": "2026-10-29T18:56:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La mora de los bancos argentinos cayó en septiembre, dice el BCRA en el IPOM",
-        "summary": "Al publicar este jueves su Informe de Política Monetaria, la entidad anticipó un descenso de los ratios de irregularidad del crédito, en línea con lo que advirtió también la consultora 1816. A cuánto cayó la mora en septiembre.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-mora-de-los-bancos-argentinos-cayo-en-septiembre-dice-el-bcra-en-el-ipom/",
-        "source": "Bloomberg Línea AR",
-        "time": "29/10 15:42",
-        "iso_date": "2026-10-29T18:42:47+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios",
-        "summary": "El informe trimestral advierte que factores estacionales y tarifarios pueden frenar de forma transitoria la baja de precios. Aun así, prevé que la desinflación continúe y que la actividad repunte en el cierre de 2026",
-        "link": "https://www.infobae.com/economia/2026/10/29/el-bcra-anticipa-presiones-sobre-la-inflacion-en-el-ultimo-trimestre-cuales-son-los-tres-rubros-que-pueden-empujar-los-precios/",
-        "source": "Infobae Economía",
-        "time": "29/10 15:28",
-        "iso_date": "2026-10-29T18:28:20+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -561,6 +563,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "El viento en contra no afecta al dólar ni a los bonos, pero sí a las acciones",
+        "summary": "Con mucho ruido en Brasil y en la Bolsa de Nueva York, el mercado argentino pudo transitar una jornada que resultó bastante tranquila. Los dólares siguen en calma, con el BCRA comprando de nuevo. Los bonos recuperaron y el riesgo país bajó. Lo que sigue afectado es el mercado ...",
+        "link": "https://eleconomista.com.ar/finanzas/el-viento-afecta-dolar-ni-bonos-pero-acciones-n99329",
+        "source": "El Economista",
+        "time": "29/10 20:13",
+        "iso_date": "2026-10-29T23:13:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
         "summary": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
