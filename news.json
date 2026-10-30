@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-30T23:03:32.150623",
-  "updated_str": "30/10/2026 23:03",
+  "updated_at": "2026-10-30T23:25:58.235691",
+  "updated_str": "30/10/2026 23:25",
   "cutoff_hours": 48,
   "total_news": 264,
   "news": {
     "GENERAL": [
+      {
+        "title": "YPF pidió un RIGI para el norte de Vaca Muerta: invertirá USD 8.700 millones y prevé exportar USD 25.000 millones entre 2027 y 2055",
+        "summary": "La explotación de las áreas Bajo del Toro y Bajo del Toro Norte generaría unos 2.900 empleos directos durante las fases de obra y producción, de acuerdo con la presentación de la petrolera",
+        "link": "https://www.infobae.com/economia/2026/10/30/ypf-pidio-un-rigi-para-el-norte-de-vaca-muerta-invertira-usd-8700-millones-y-preve-exportar-usd-25000-millones-entre-2027-y-2055/",
+        "source": "Infobae Economía",
+        "time": "30/10 20:18",
+        "iso_date": "2026-10-30T23:18:58+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Los bonos sufren, pero las acciones son directamente una sangría",
+        "summary": "Un cúmulo de factores provocaron un viernes durísimo. Hubo caídas muy fuertes en casi todas partes. Se desplomaron incluso posiciones refugio como el oro, la plata o las criptomonedas. En Wall Street hubo caídas de hasta el 30%. Y en el mundo el refugio fue el dólar, con los b...",
+        "link": "https://eleconomista.com.ar/finanzas/los-bonos-sufren-pero-acciones-son-directamente-una-sangria-n99365",
+        "source": "El Economista",
+        "time": "30/10 19:54",
+        "iso_date": "2026-10-30T22:54:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "La compra de dólar ahorro se mantuvo casi estable en septiembre, cerca de los u$s3.000 millones",
         "summary": "Un tercio de los dólares que compraron personas y empresas quedó \"debajo del colchón\", nivel máximo desde octubre de 2025. Asimismo, el déficit de servicios anotó un récord desde abril del año pasado.",
@@ -91,8 +113,8 @@
         "time": "30/10 18:46",
         "iso_date": "2026-10-30T21:46:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -119,7 +141,7 @@
         "is_general": true
       },
       {
-        "title": "Ahorristas le \"sacan\" al BCRA u$s2.500 millones y calientan motores en la previa electoral",
+        "title": "La demanda de dólar ahorro sigue elevada y las compras llegaron a los u$s2.500 millones",
         "summary": "El BCRA confirma la tendencia creciente de la compra de dólares. Aun así, el boom exportador permite mantener superávit de cuenta corriente",
         "link": "https://www.iprofesional.com/finanzas/467963-ahorristas-le-arrebataron-al-bcra-casi-2500-millones-de-dolares",
         "source": "iProfesional",
@@ -309,31 +331,21 @@
         "iso_date": "2026-10-30T17:32:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El triunfo de Lula puede mejorar el acceso de los productos argentinos al mercado de EEUU, según la Bolsa de Cereales",
-        "summary": "Las tensiones comerciales entre Washington y Brasil podrían generar ventajas competitivas para los exportadores locales",
-        "link": "https://www.infobae.com/economia/2026/10/30/el-triunfo-de-lula-puede-mejorar-el-acceso-de-los-productos-argentinos-al-mercado-de-eeuu-segun-la-bolsa-de-cereales/",
-        "source": "Infobae Economía",
-        "time": "30/10 14:21",
-        "iso_date": "2026-10-30T17:21:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Salarios en Vaca Muerta: cuánto cobran los petroleros y otros trabajadores de Neuquén",
-        "summary": "El crecimiento del sector energético no solo transformó la actividad económica de la provincia, sino que también modificó la estructura de ingresos",
-        "link": "https://www.infobae.com/economia/2026/10/30/salarios-en-vaca-muerta-cuanto-cobran-los-petroleros-y-otros-trabajadores-de-neuquen/",
-        "source": "Infobae Economía",
-        "time": "30/10 14:18",
-        "iso_date": "2026-10-30T17:18:49+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "YPF pidió un RIGI para el norte de Vaca Muerta: invertirá USD 8.700 millones y prevé exportar USD 25.000 millones entre 2027 y 2055",
+        "summary": "La explotación de las áreas Bajo del Toro y Bajo del Toro Norte generaría unos 2.900 empleos directos durante las fases de obra y producción, de acuerdo con la presentación de la petrolera",
+        "link": "https://www.infobae.com/economia/2026/10/30/ypf-pidio-un-rigi-para-el-norte-de-vaca-muerta-invertira-usd-8700-millones-y-preve-exportar-usd-25000-millones-entre-2027-y-2055/",
+        "source": "Infobae Economía",
+        "time": "30/10 20:18",
+        "iso_date": "2026-10-30T23:18:58+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "YPF presentó al RIGI otro proyecto millonario en el norte de Vaca Muerta",
         "summary": "Es la primera de tres solicitudes para proyectos de petróleo no convencional con gas asociado.",
@@ -366,8 +378,8 @@
         "time": "30/10 18:46",
         "iso_date": "2026-10-30T21:46:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -491,8 +503,8 @@
         "time": "30/10 18:46",
         "iso_date": "2026-10-30T21:46:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
