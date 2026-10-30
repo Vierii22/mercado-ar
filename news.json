@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-10-30T19:58:14.668590",
-  "updated_str": "30/10/2026 19:58",
+  "updated_at": "2026-10-30T20:14:11.111583",
+  "updated_str": "30/10/2026 20:14",
   "cutoff_hours": 48,
   "total_news": 268,
   "news": {
     "GENERAL": [
+      {
+        "title": "Nasdaq 100 roza la corrección tras desplome de Intel, hackeo a Binance golpea al bitcoin y el oro se hunde",
+        "summary": "Las pérdidas de Intel y Amazon profundizaron la venta de acciones tecnológicas y llevaron al Nasdaq 100 a cerrar cerca de una corrección, mientras el petróleo subió por las tensiones con Irán.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-cae-arrastrado-por-intel-y-amazon-mientras-el-bitcoin-retrocede-tras-hackeo-a-binance/",
+        "source": "Bloomberg Línea AR",
+        "time": "30/10 17:05",
+        "iso_date": "2026-10-30T20:05:50+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Los factores que hacen subir el riesgo país y hasta qué nivel puede trepar, según la City",
+        "summary": "El indicador que mide el JP Morgan subió más de 6% este viernes y acumuló un alza del 30% en octubre, para llevar a su nivel máximo en un año",
+        "link": "https://www.iprofesional.com/finanzas/467950-los-factores-detras-del-salto-del-riesgo-pais-y-hasta-donde-puede-escalar",
+        "source": "iProfesional",
+        "time": "30/10 17:00",
+        "iso_date": "2026-10-30T20:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Nueva encuesta da a Milei como favorito, pero Bullrich es más competitiva en balotaje",
         "summary": "El Presidente ganó en intención de voto y superó incluso a la senadora entre otros candidatos. El sondeo los comparó a ambos contra Kicillof",
@@ -300,26 +322,6 @@
         "iso_date": "2026-10-30T14:56:08+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La explicación de Bausili sobre el oro del BCRA, tras las acusaciones de la AGN y la oposición",
-        "summary": "El Banco Central argentino buscó zanjar este jueves la polémica respecto de la administración por las reservas de oro al señalar que utilizó como cobertura el mismo tipo de instrumentos derivados que emplea desde 2006 y que han sido “auditados sin observaciones” por la AGN.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-explicacion-de-bausili-sobre-el-oro-del-bcra-tras-las-acusaciones-de-la-agn-y-la-oposicion/",
-        "source": "Bloomberg Línea AR",
-        "time": "30/10 11:54",
-        "iso_date": "2026-10-30T14:54:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Fuertes bajas en Wall Street por las dudas sobre la inversión en inteligencia artificial: Intel se desploma más del 25%",
-        "summary": "Las acciones tecnológicas lideran las pérdidas en los mercados estadounidenses, con el Nasdaq hundiéndose más de un 2% tras resultados negativos en empresas del sector",
-        "link": "https://www.infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25/",
-        "source": "Infobae Economía",
-        "time": "30/10 11:39",
-        "iso_date": "2026-10-30T14:39:48+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -565,6 +567,18 @@
       }
     ],
     "AL30": [
+      {
+        "title": "Los factores que hacen subir el riesgo país y hasta qué nivel puede trepar, según la City",
+        "summary": "El indicador que mide el JP Morgan subió más de 6% este viernes y acumuló un alza del 30% en octubre, para llevar a su nivel máximo en un año",
+        "link": "https://www.iprofesional.com/finanzas/467950-los-factores-detras-del-salto-del-riesgo-pais-y-hasta-donde-puede-escalar",
+        "source": "iProfesional",
+        "time": "30/10 17:00",
+        "iso_date": "2026-10-30T20:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país se disparó, se acercó a los 800 puntos y tocó su nivel más alto en un año",
         "summary": "El indicador de JP Morgan salta más de un 4% este viernes, en una jornada en la que vuelven a caer los bonos. El mensaje que había dado el FMI",
