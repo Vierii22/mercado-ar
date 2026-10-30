@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-30T21:24:26.016761",
-  "updated_str": "30/10/2026 21:24",
+  "updated_at": "2026-10-30T21:38:06.708051",
+  "updated_str": "30/10/2026 21:38",
   "cutoff_hours": 48,
   "total_news": 265,
   "news": {
     "GENERAL": [
+      {
+        "title": "Las acciones tecnológicas volvieron a caer en Wall Street y arrastraron a la baja a los activos de la Argentina",
+        "summary": "Los indicadores de Nueva York cedieron hasta 2,9% ante la ola de ventas. El MSCI Merval cayó por quinta sesión seguida. Los bonos también bajaron y el riesgo país se acercó a los 800 puntos",
+        "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
+        "source": "Infobae Economía",
+        "time": "30/10 18:22",
+        "iso_date": "2026-10-30T21:22:54+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Ahorristas le \"sacan\" al BCRA u$s2.500 millones y calientan motores en la previa electoral",
         "summary": "El BCRA confirma la tendencia creciente de la compra de dólares. Aun así, el boom exportador permite mantener superávit de cuenta corriente",
@@ -28,18 +40,6 @@
         "is_general": true
       },
       {
-        "title": "Las acciones tecnológicas volvieron a caer en Wall Street y arrastraron a la baja a los activos de la Argentina",
-        "summary": "Los indicadores de Nueva York cedieron hasta 2,9% ante la ola de ventas. El MSCI Merval cayó por quinta sesión seguida. Los bonos también bajaron y el riesgo país se acercó a los 800 puntos",
-        "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
-        "source": "Infobae Economía",
-        "time": "30/10 17:50",
-        "iso_date": "2026-10-30T20:50:44+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Hacienda descarta volver a utilizar P-Caps para apoyar finanzas de Pemex",
         "summary": "Édgar Amador, secretario de Hacienda, dijo que hacia delante estarán calibrando el balance entre la dependencia y la empresa petrolera estatal.",
         "link": "https://www.bloomberglinea.com/latinoamerica/mexico/hacienda-descarta-volver-a-utilizar-p-caps-para-apoyar-finanzas-de-pemex/",
@@ -52,9 +52,9 @@
         "is_general": false
       },
       {
-        "title": "Cedió el dólar y las reservas cayeron casi u$s1.600 millones, pese a compras del BCRA",
+        "title": "BCRA volvió a comprar y en octubre sumó casi tres veces más de dólares que el mes pasado",
         "summary": "El Banco Central compró divisas por segunda rueda consecutiva, pero las reservas cayeron por la baja del oro y movimientos de fin de mes",
-        "link": "https://www.iprofesional.com/economia/467957-cedio-el-dolar-y-las-reservas-cayeron-casi-us1-600-millones-pese-a-compras-del-bcra",
+        "link": "https://www.iprofesional.com/economia/467957-bcra-volvio-a-comprar-y-en-octubre-sumo-casi-tres-veces-mas-de-dolares-que-en-septiembre",
         "source": "iProfesional",
         "time": "30/10 17:22",
         "iso_date": "2026-10-30T20:22:00+00:00",
@@ -422,30 +422,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Vista Energy alcanzó una producción récord de 169.000 barriles de petróleo por día y exportó más del 70% del crudo de Vaca Muerta",
-        "summary": "El crecimiento de la extracción fue impulsado por las inversiones y los nuevos pozos en la formación patagónica, donde la petrolera prevé cumplir sus metas operativas para 2026. Invirtió más de USD 2.300 millones en los últimos doce meses",
-        "link": "https://www.infobae.com/economia/2026/10/28/vista-energy-alcanzo-una-produccion-record-de-169000-barriles-de-petroleo-por-dia-y-exporto-mas-del-70-del-crudo-de-vaca-muerta/",
-        "source": "Infobae Economía",
-        "time": "28/10 18:33",
-        "iso_date": "2026-10-28T21:33:39+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "YPF supera expectativas y deuda queda en mínimo de una década: acciones suben en Wall Street",
-        "summary": "La petrolera facturó 41% más que un año atrás, con un EBITDA ajustado de US$2.503 millones que superó en 12% el consenso de analistas. Cinco nuevos proyectos para el RIGI por US$44.000 millones.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ypf-supera-expectativas-y-deuda-queda-en-minimo-de-una-decada-acciones-suben-en-wall-street/",
-        "source": "Bloomberg Línea AR",
-        "time": "28/10 18:32",
-        "iso_date": "2026-10-28T21:32:39+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "GGAL": [
@@ -558,24 +534,24 @@
     ],
     "AL30": [
       {
-        "title": "El riesgo país argentino subió a 790 puntos, un nuevo máximo en lo que va del año",
-        "summary": "Los bonos en dólares cayeron un 1% en promedio y el indicador de JP Morgan alcanzó su nivel más alto desde octubre de 2025",
-        "link": "https://www.infobae.com/economia/2026/10/30/el-riesgo-pais-argentino-subio-a-777-puntos-un-nuevo-maximo-en-lo-que-va-del-ano/",
+        "title": "Las acciones tecnológicas volvieron a caer en Wall Street y arrastraron a la baja a los activos de la Argentina",
+        "summary": "Los indicadores de Nueva York cedieron hasta 2,9% ante la ola de ventas. El MSCI Merval cayó por quinta sesión seguida. Los bonos también bajaron y el riesgo país se acercó a los 800 puntos",
+        "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
         "source": "Infobae Economía",
-        "time": "30/10 17:54",
-        "iso_date": "2026-10-30T20:54:49+00:00",
+        "time": "30/10 18:22",
+        "iso_date": "2026-10-30T21:22:54+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Las acciones tecnológicas volvieron a caer en Wall Street y arrastraron a la baja a los activos de la Argentina",
-        "summary": "Los indicadores de Nueva York cedieron hasta 2,9% ante la ola de ventas. El MSCI Merval cayó por quinta sesión seguida. Los bonos también bajaron y el riesgo país se acercó a los 800 puntos",
-        "link": "https://www.infobae.com/economia/2026/10/30/las-acciones-tecnologicas-vuelven-a-caer-en-wall-street-y-arrastran-a-la-baja-a-los-activos-de-la-argentina/",
+        "title": "El riesgo país argentino subió a 790 puntos, un nuevo máximo en lo que va del año",
+        "summary": "Los bonos en dólares cayeron un 1% en promedio y el indicador de JP Morgan alcanzó su nivel más alto desde octubre de 2025",
+        "link": "https://www.infobae.com/economia/2026/10/30/el-riesgo-pais-argentino-subio-a-777-puntos-un-nuevo-maximo-en-lo-que-va-del-ano/",
         "source": "Infobae Economía",
-        "time": "30/10 17:50",
-        "iso_date": "2026-10-30T20:50:44+00:00",
+        "time": "30/10 17:54",
+        "iso_date": "2026-10-30T20:54:49+00:00",
         "tickers": [
           "AL30"
         ],
