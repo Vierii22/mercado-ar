@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-30T22:32:02.138386",
-  "updated_str": "30/10/2026 22:32",
+  "updated_at": "2026-10-30T22:53:12.143848",
+  "updated_str": "30/10/2026 22:53",
   "cutoff_hours": 48,
-  "total_news": 267,
+  "total_news": 264,
   "news": {
     "GENERAL": [
+      {
+        "title": "El Gobierno busca modificar el régimen de ART: qué cambiará y qué podrán hacer las empresas",
+        "summary": "Sturzenegger anunció que el Gobierno prepara cambios para facilitar el autoaseguro y que las empresas puedan prescindir de las ART, en medio de unos 500.000 juicios. Aún no hay detalles ni plazos.",
+        "link": "https://www.cronista.com/economia-politica/el-gobierno-busca-modificar-el-regimen-de-art-que-cambiara-y-que-podran-hacer-las-empresas/",
+        "source": "El Cronista",
+        "time": "30/10 19:43",
+        "iso_date": "2026-10-30T22:43:23+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Macro Private Bank es la nueva propuesta de banca privada para clientes premium de alto patrimonio",
         "summary": "Banco Macro presentó su nueva unidad de gestión con foco central en personas con activos de más de USD 1 millón. Busca captar inversiones que hoy se concentran en bancos extranjeros",
@@ -40,6 +50,18 @@
           "AL30"
         ],
         "is_general": true
+      },
+      {
+        "title": "YPF presentó un RIGI de u$s8.729 millones para un bloque de crudo y gas en Vaca Muerta",
+        "summary": "El proyecto a desarrollar con Vista prevé una meseta de 80.000 barriles diarios de petróleo en Vaca Muerta y exportaciones por u$s25.000 millones.",
+        "link": "https://www.iprofesional.com/energia/467972-ypf-presenta-un-nuevo-rigi-para-vaca-muerta-por-us8729-millones",
+        "source": "iProfesional",
+        "time": "30/10 19:00",
+        "iso_date": "2026-10-30T22:00:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "Allaria advierte cuáles son las 3 acciones líderes que tienen menos margen para subir",
@@ -219,7 +241,7 @@
         "is_general": true
       },
       {
-        "title": "Este respetado economista argentino de la Universidad de Chicago evaluó el plan de Milei: su “acierto” con la política monetaria",
+        "title": "Este economista argentino de la Universidad de Chicago evaluó el plan de Milei: su “acierto” con la política monetaria",
         "summary": "Fernando Álvarez, profesor de la Universidad de Chicago, analizó en Pulso Financiero la secuencia cambiaria y monetaria del plan de estabilización y planteó su hipótesis sobre por qué la actividad está estancada.",
         "link": "https://www.cronista.com/economia-politica/este-respetado-economista-argentino-de-la-universidad-de-chicago-evaluo-el-plan-de-milei-su-acierto-con-la-politica-monetaria/",
         "source": "El Cronista",
@@ -309,28 +331,6 @@
         "iso_date": "2026-10-30T16:50:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Macri confirmó que siguen sin avances las negociaciones electorales entre el PRO y Milei",
-        "summary": "Las principales fuerzas no logran consensos sobre mapas electorales y candidaturas, intensificando la incertidumbre de cara al 2027",
-        "link": "https://www.iprofesional.com/politica/467933-macri-confirmo-que-siguen-sin-avances-negociaciones-electorales-pro-milei",
-        "source": "iProfesional",
-        "time": "30/10 13:47",
-        "iso_date": "2026-10-30T16:47:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "TGS lidera caídas de acciones argentinas en Wall Street: qué ven los analistas tras su balance",
-        "summary": "La ganancia neta de la transportista de gas cayó 26% en el tercer trimestre por el reordenamiento del sistema de transporte. Qué dijo el CFO sobre el financiamiento del proyecto de NGL y qué potencial le ven a la acción los bancos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/tgs-lidera-caidas-de-acciones-argentinas-en-wall-street-que-ven-los-analistas-tras-su-balance/",
-        "source": "Bloomberg Línea AR",
-        "time": "30/10 13:37",
-        "iso_date": "2026-10-30T16:37:54+00:00",
-        "tickers": [
-          "PAMP"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -341,6 +341,18 @@
         "source": "El Cronista",
         "time": "30/10 19:19",
         "iso_date": "2026-10-30T22:19:31+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF presentó un RIGI de u$s8.729 millones para un bloque de crudo y gas en Vaca Muerta",
+        "summary": "El proyecto a desarrollar con Vista prevé una meseta de 80.000 barriles diarios de petróleo en Vaca Muerta y exportaciones por u$s25.000 millones.",
+        "link": "https://www.iprofesional.com/energia/467972-ypf-presenta-un-nuevo-rigi-para-vaca-muerta-por-us8729-millones",
+        "source": "iProfesional",
+        "time": "30/10 19:00",
+        "iso_date": "2026-10-30T22:00:00+00:00",
         "tickers": [
           "YPFD"
         ],
