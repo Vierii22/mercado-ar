@@ -1,318 +1,382 @@
 {
-  "updated_at": "2026-11-02T04:27:50.251998",
-  "updated_str": "02/11/2026 04:27",
+  "updated_at": "2026-11-02T20:10:12.476087",
+  "updated_str": "02/11/2026 20:10",
   "cutoff_hours": 48,
-  "total_news": 113,
+  "total_news": 167,
   "news": {
     "GENERAL": [
       {
-        "title": "Karina Milei recorrió el escenario de la misa del Papa en Palermo: “Se puede trabajar juntos”",
-        "summary": "La secretaria general de la Presidencia visitó el Monumento a los Españoles junto a Jorge Macri y Diego Santilli. Agradeció a las jurisdicciones por el avance de las obras y pidió disculpas a los porteños por las molestias.",
-        "link": "https://www.cronista.com/economia-politica/karina-milei-recorrio-el-escenario-de-la-misa-del-papa-en-palermo-se-puede-trabajar-juntos/",
+        "title": "El agro ya liquidó u$s 25.156 millones: qué puede pasar con los dólares hasta fin de año",
+        "summary": "Aunque con una probable desaceleración en los próximos meses, el agro se prepara para cerrar el año con un ritmo de liquidación más estable",
+        "link": "https://www.cronista.com/economia-politica/el-agro-ya-liquido-us-25156-millones-que-puede-pasar-con-los-dolares-hasta-fin-de-ano/",
         "source": "El Cronista",
-        "time": "01/11 17:57",
-        "iso_date": "2026-11-01T20:57:47+00:00",
+        "time": "02/11 17:04",
+        "iso_date": "2026-11-02T20:04:39+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Brasil ya golpeó a los activos argentinos y EEUU asoma como el próximo test para el mercado local",
-        "summary": "El impacto político externo encuentra a la Argentina con vulnerabilidades propias: riesgo país elevado, reservas todavía limitadas, presión sobre la competitividad y una actividad que pierde dinamismo",
-        "link": "https://www.infobae.com/economia/2026/11/01/brasil-ya-golpeo-a-los-activos-argentinos-y-eeuu-asoma-como-el-proximo-test-para-el-mercado-local/",
+        "title": "Sube Wall Street ante la fuerte baja del petróleo, pero caen los activos argentinos y sube el riesgo país",
+        "summary": "Los índices de Nueva York progresan hasta 0,8%, mientras que el barril de crudo Brent descuenta 8%. Los bonos argentinos perdieron las subas de la mañana y caen 0,7%. El MSCI Merval cede 2,4%",
+        "link": "https://www.infobae.com/economia/2026/11/02/sube-wall-street-ante-la-fuerte-baja-del-petroleo-y-cede-el-riesgo-pais-argentino/",
         "source": "Infobae Economía",
-        "time": "01/11 17:20",
-        "iso_date": "2026-11-01T20:20:20+00:00",
+        "time": "02/11 17:00",
+        "iso_date": "2026-11-02T20:00:23+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Se acumulan factores de presión y la City palpita un verano más caliente para el dólar",
-        "summary": "La devaluación del real, la incertidumbre electoral y la demanda estacional de divisas suman presión sobre el dólar. Qué anticipan los economistas",
-        "link": "https://www.iprofesional.com/finanzas/467365-la-city-anticipa-un-verano-mas-caliente-para-el-precio-de-dolar",
-        "source": "iProfesional",
-        "time": "01/11 17:00",
-        "iso_date": "2026-11-01T20:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El debate sobre el atraso cambiario: las exportaciones crecieron mientras caía el tipo de cambio real",
-        "summary": "La reducción de impuestos, la eliminación de restricciones regulatorias y la apertura de mercados reavivan una discusión más amplia sobre qué factores determinan hoy la competitividad",
-        "link": "https://www.infobae.com/economia/2026/11/01/el-debate-sobre-el-atraso-cambiario-las-exportaciones-crecieron-mientras-caia-el-tipo-de-cambio-real/",
-        "source": "Infobae Economía",
-        "time": "01/11 15:36",
-        "iso_date": "2026-11-01T18:36:13+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Salarios de noviembre, uno a uno: qué gremios reciben aumentos y quiénes cobran bonos de más de $2 millones",
-        "summary": "Con aumentos que en su mayoría oscilan entre el 1,6% y el 1,9%, las paritarias de noviembre vuelven a quedar bajo presión por la inflación. En línea con la dinámica que viene ocurriendo los meses anteriores, los gremios apuestan a bonos y sumas extraordinarias para compensar l...",
-        "link": "https://www.ambito.com/economia/salarios-noviembre-uno-uno-que-gremios-reciben-aumentos-y-quienes-cobran-bonos-mas-2-millones-n6340247",
-        "source": "Ámbito",
-        "time": "01/11 14:25",
-        "iso_date": "2026-11-01T17:25:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "“Si rompe, es un peligro”: Bullrich, el armisticio y la red evangélica que Milei teje para 2027",
-        "summary": "Mientras el Congreso entra en un impasse por los viajes de legisladores a EE.UU. y la llegada del Papa, el oficialismo procesa sus propias tensiones. La jefa de los senadores acumula sin romper y encuentra una extraña coincidencia con los Menem mientras la Casa Rosada profundi...",
-        "link": "https://www.cronista.com/economia-politica/si-rompe-es-un-peligro-bullrich-el-armisticio-y-la-red-evangelica-que-milei-teje-para-2027/",
+        "title": "De la “fobia” de Kicillof al “fracaso” de LLA, los Passaglia lanzaron sus propuestas: “Milei y el kirchnerismo se pelean para la tribuna”",
+        "summary": "Con su bastión político en San Nicolás, los hermanos oficializaron su proyecto presidencial para 2027. Las cuatro medidas que proponen.",
+        "link": "https://www.cronista.com/economia-politica/desde-la-fobia-de-kicillof-hasta-el-fracaso-de-lla-los-passaglia-lanzaron-sus-propuestas-economicas-milei-y-el-kirchnerismo-se-pelean-para-la-tribuna/",
         "source": "El Cronista",
-        "time": "01/11 12:45",
-        "iso_date": "2026-11-01T15:45:55+00:00",
+        "time": "02/11 16:51",
+        "iso_date": "2026-11-02T19:51:17+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "“Con el corazón partido”: Gladys La Bomba Tucumana anunció el cierre de su local de empanadas en Recoleta y culpó a Milei",
-        "summary": "La artista anunció el fin de su emprendimiento gastronómico por la difícil situación económica, cuestionó las políticas del Gobierno y lamentó que sus empleados se queden sin trabajo",
-        "link": "https://www.infobae.com/economia/2026/11/01/con-el-corazon-partido-gladys-la-bomba-tucumana-anuncio-el-cierre-de-su-local-de-empanadas-en-recoleta-y-culpo-a-milei/",
-        "source": "Infobae Economía",
-        "time": "01/11 12:07",
-        "iso_date": "2026-11-01T15:07:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Binance informó que los retiros vuelven por fases y que el 95% de los activos afectados ya fue cubierto",
-        "summary": "El exchange comenzó a restablecer las extracciones de manera gradual tras el ciberataque y amplió las redes habilitadas. Aseguró que los usuarios no asumirán las pérdidas y que los depósitos continuaron operando",
-        "link": "https://www.infobae.com/economia/2026/11/01/binance-informo-que-los-retiros-vuelven-por-fases-y-que-el-95-de-los-activos-afectados-ya-fue-cubierto/",
-        "source": "Infobae Economía",
-        "time": "01/11 11:00",
-        "iso_date": "2026-11-01T14:00:37+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plazo fijo en dólares: cuánto debés depositar para ganar u$s100",
-        "summary": "El Banco Nación ofrece diferentes rendimientos según el plazo y el canal elegido para inmovilizar los ahorros en moneda estadounidense.",
-        "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-debes-depositar-ganar-us100-n6339766",
-        "source": "Ámbito",
-        "time": "01/11 11:00",
-        "iso_date": "2026-11-01T14:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei recupera apoyo, pero crece la preocupación por los salarios, el empleo y la economía",
-        "summary": "La aprobación de Milei llegó al 36,2%, pero el 55,5% rechaza su gestión. Salarios, empleo e incertidumbre encabezan las preocupaciones",
-        "link": "https://www.iprofesional.com/politica/468016-milei-recupera-apoyo-pero-crece-preocupacion-por-salarios-empleo-y-economia",
+        "title": "Macri patea la definición de la alianza con Milei y el PRO duda de la reforma electoral",
+        "summary": "En una cumbre partidaria decidieron esperar al inicio del calendario electoral. Ven complicada la reforma de las PASO y esperan cambios al Presupuesto",
+        "link": "https://www.iprofesional.com/politica/468113-macri-patea-la-definicion-de-la-alianza-con-milei-y-el-pro-duda-de-la-reforma-electoral",
         "source": "iProfesional",
-        "time": "01/11 10:32",
-        "iso_date": "2026-11-01T13:32:00+00:00",
+        "time": "02/11 16:50",
+        "iso_date": "2026-11-02T19:50:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Uno por uno, los gremios que cobrarán aumento de sueldo en noviembre 2026",
-        "summary": "En octubre varios gremios fuertes cerraron las paritarias para el último trimestre del año. ¿Le ganarán los sueldos a la inflación?",
-        "link": "https://www.iprofesional.com/management/467918-uno-por-uno-los-gremios-que-cobraran-aumento-de-sueldo-en-noviembre-2026",
+        "title": "El mercado calcula nuevo techo para el riesgo país y advierte por un contagio en el dólar",
+        "summary": "Los bonos argentinos sufren mayor presión por la incertidumbre política y financiera, amplificando la volatilidad en los mercados locales",
+        "link": "https://www.iprofesional.com/finanzas/468027-el-nuevo-techo-que-puede-alcanzar-el-riesgo-pais-y-su-impacto-en-dolar",
         "source": "iProfesional",
-        "time": "01/11 08:19",
-        "iso_date": "2026-11-01T11:19:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei se prepara para la visita del Papa, con presión de Villarruel y oposición en guardia",
-        "summary": "El Gobierno marcará presencia en cada actividad. La vice genera primer foco de tensión. El peronismo, atento al impacto político del mensaje",
-        "link": "https://www.iprofesional.com/politica/467993-como-se-preparan-milei-villarruel-y-la-oposicion-para-la-visita-del-papa",
-        "source": "iProfesional",
-        "time": "01/11 08:17",
-        "iso_date": "2026-11-01T11:17:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Deuda de la IA enciende una alerta en el BIS por sus posibles efectos en otros mercados de bonos",
-        "summary": "La entidad alertó que el creciente endeudamiento para construir infraestructura de inteligencia artificial podría presionar las tasas de largo plazo y elevar los riesgos para la estabilidad financiera.",
-        "link": "https://www.bloomberglinea.com/mercados/deuda-de-la-ia-enciende-una-alerta-en-el-bis-por-sus-posibles-efectos-en-otros-mercados-de-bonos/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/11 08:00",
-        "iso_date": "2026-11-01T11:00:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Se enciende el debate sobre el cepo y amenaza con fogonear la dolarización preelectoral",
-        "summary": "El Gobierno sufre por las críticas de ambos lados: quienes promueven volver al cepo y los que piden sacar las restricciones aún vigentes para empresas",
-        "link": "https://www.iprofesional.com/economia/467859-debate-sobre-el-cepo-acelera-la-dolarizacion-preelectoral",
-        "source": "iProfesional",
-        "time": "01/11 08:00",
-        "iso_date": "2026-11-01T11:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El boom de los commodities le dio aire a Argentina en 2026, pero el escenario puede cambiar el año próximo",
-        "summary": "El conflicto en Ucrania y en Medio Oriente modificaron con fuerza los precios internacionales y Argentina captó muchos dólares que le sirvieron para engrosar reservas. En los próximos meses, la situación podría ser distinta.",
-        "link": "https://www.cronista.com/economia-politica/el-boom-de-los-commodities-le-dio-aire-a-argentina-en-2026-pero-el-escenario-puede-cambiar-el-ano-proximo/",
-        "source": "El Cronista",
-        "time": "01/11 06:00",
-        "iso_date": "2026-11-01T09:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "IPC de octubre 2026: qué inflación esperan las consultoras",
-        "summary": "Los analistas del sector privado realizaron sus proyecciones para el décimo mes del año, en el que el rubro de alimentos se ubicó entre los principales motores de los aumentos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/ipc-de-octubre-2026-que-inflacion-esperan-las-consultoras/",
-        "source": "Bloomberg Línea AR",
-        "time": "01/11 02:00",
-        "iso_date": "2026-11-01T05:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Devaluación del real: ¿es una señal de alerta para el peso argentino?",
-        "summary": "La caída de la moneda del principal socio comercial del país después del triunfo electoral de Lula da Silva deterioró el índice de competitividad cambiaria que mide el BCRA",
-        "link": "https://www.infobae.com/economia/2026/11/01/devaluacion-del-real-es-una-senal-de-alerta-para-el-peso-argentino/",
-        "source": "Infobae Economía",
-        "time": "01/11 01:27",
-        "iso_date": "2026-11-01T04:27:11+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Sebastián Galiani: “Esta transformación necesita tiempo y continuidad”",
-        "summary": "El economista cercano al Gobierno analizó en diálogo con Infobae desde Estados Unidos el debate sobre las reservas del Banco Central, el atraso cambiario y explicó por qué una alianza política amplia es clave para crecer",
-        "link": "https://www.infobae.com/economia/2026/11/01/sebastian-galiani-esta-transformacion-necesita-tiempo-y-continuidad/",
-        "source": "Infobae Economía",
-        "time": "01/11 01:26",
-        "iso_date": "2026-11-01T04:26:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tras las críticas de Javier Milei, Domingo Cavallo insistió con la necesidad de acumular reservas y pidió compras por u$s15.000 millones",
-        "summary": "El exministro de Economía publicó un nuevo análisis, en el que advirtió sobre los riesgos externos que podrían afectar a la Argentina de cara a 2027. Cuestionó el esquema cambiario del Gobierno, reclamó eliminar el cepo para las empresas y sostuvo que el Banco Central debería ...",
-        "link": "https://www.ambito.com/economia/tras-las-criticas-javier-milei-domingo-cavallo-insistio-la-necesidad-acumular-reservas-y-pidio-compras-us15000-millones-n6340188",
-        "source": "Ámbito",
-        "time": "01/11 00:05",
-        "iso_date": "2026-11-01T03:05:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Rodolfo Santangelo: \"Estamos subsidiando la demanda de dólares y gravando el consumo local\"",
-        "summary": "El economista cuestionó la liberación del acceso a dólares para ahorro y turismo, y advirtió que el Banco Central deberá comprar al menos u$s10.000 millones en 2027.",
-        "link": "https://www.ambito.com/economia/rodolfo-santangelo-estamos-subsidiando-la-demanda-dolares-y-gravando-el-consumo-local-n6340145",
-        "source": "Ámbito",
-        "time": "01/11 00:00",
-        "iso_date": "2026-11-01T03:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
-        "summary": "Pese a la recesión y el alza del riesgo país, el Ministero de Economía anticipa que no tomará medidas. El dólar vuelve a la agenda empresaria.",
-        "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082",
-        "source": "Ámbito",
-        "time": "01/11 00:00",
-        "iso_date": "2026-11-01T03:00:00+00:00",
+        "time": "02/11 16:45",
+        "iso_date": "2026-11-02T19:45:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Bancos públicos sostienen crédito en Brasil en medio de un endeudamiento récord, según Goldman",
-        "summary": "La elevada tasa de interés básica Selic, la desaceleración económica y el aumento de la morosidad afectan a los préstamos antes del inicio del cuarto mandato de Lula, según la evaluación del economista Alberto Ramos. Las familias ya destinan el 29% de sus ingresos al pago de d...",
-        "link": "https://www.bloomberglinea.com/mercados/bancos-publicos-sostienen-credito-en-brasil-en-medio-de-un-endeudamiento-record-segun-goldman/",
-        "source": "Bloomberg Línea AR",
-        "time": "31/10 23:00",
-        "iso_date": "2026-11-01T02:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tras las críticas de Milei, Cavallo advirtió sobre un “traspié” electoral en 2027: “Es más peligroso”",
-        "summary": "Apenas 24 horas después de que Javier Milei lo calificara de “impresentable”, el exministro volvió a marcar diferencias con el Gobierno. En su nuevo posteo, advirtió por los riesgos externos de cara a 2027 y reclamó que el Banco Central acumule reservas a un ritmo de al menos ...",
-        "link": "https://www.cronista.com/economia-politica/tras-las-criticas-de-milei-cavallo-advirtio-sobre-un-traspie-en-2027-es-mas-peligroso/",
-        "source": "El Cronista",
-        "time": "31/10 22:03",
-        "iso_date": "2026-11-01T01:03:39+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "En clave electoral, Milei apuntó contra la política tradicional: “Culmina siempre en un desastre”",
-        "summary": "El Presidente habló en la inauguración de un templo evangélico en Neuquén y volvió a defender el equilibrio fiscal como una de las principales banderas de su gestión. También se refirió a la próxima visita del papa León XIV a la Argentina.",
-        "link": "https://www.cronista.com/economia-politica/en-clave-electoral-milei-apunto-contra-la-politica-tradicional-culmina-siempre-en-un-desastre/",
-        "source": "El Cronista",
-        "time": "31/10 20:38",
-        "iso_date": "2026-10-31T23:38:35+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La City alerta que el Gobierno tiene menos dólares de lo que dice para frenar una corrida",
-        "summary": "El verdadero límite para enfrentar crisis cambiarias depende de la liquidez disponible y del acceso real a herramientas en poder del sector oficial",
-        "link": "https://www.iprofesional.com/finanzas/467976-bancos-alertan-por-los-dolares-que-tiene-el-gobierno-para-frenar-corrida",
-        "source": "iProfesional",
-        "time": "31/10 18:20",
-        "iso_date": "2026-10-31T21:20:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La producción de gas alcanzó un récord histórico en 2026 por la explotación no convencional de Vaca Muerta",
-        "summary": "Entre enero y septiembre se extrajeron 40.300 millones de metros cúbicos de gas, un valor sin precedentes para ese período. Siguen ganando terreno los recursos no convencionales",
-        "link": "https://www.infobae.com/economia/2026/10/31/la-produccion-de-gas-alcanzo-un-record-historico-en-2026-por-la-explotacion-no-convencional-de-vaca-muerta/",
+        "title": "El dólar volvió a subir y la cotización en el Banco Nación alcanzó un nuevo máximo histórico",
+        "summary": "La divisa mayorista ascendió a $1.545,50, con un bajo monto de negocios inferior a USD 400 millones. Al público subió a $1.565 para la venta en el BNA",
+        "link": "https://www.infobae.com/economia/2026/11/02/el-dolar-volvio-a-subir-y-la-cotizacion-en-el-banco-nacion-alcanzo-un-nuevo-maximo-historico/",
         "source": "Infobae Economía",
-        "time": "31/10 18:15",
-        "iso_date": "2026-10-31T21:15:50+00:00",
+        "time": "02/11 16:36",
+        "iso_date": "2026-11-02T19:36:30+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Caen las acciones argentinas en Wall Street y el riesgo país se acerca a los 800 puntos",
+        "summary": "El índice que mide el JP Morgan saltó hasta los 797 puntos básicos, su nuevo máximo desde octubre del año pasado. Los ADR caen con fuerza",
+        "link": "https://www.iprofesional.com/finanzas/468114-caen-las-acciones-argentinas-en-wall-street-y-el-riesgo-pais-se-acerca-a-los-800-puntos",
+        "source": "iProfesional",
+        "time": "02/11 16:35",
+        "iso_date": "2026-11-02T19:35:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La UIF aprobó una norma clave de Inocencia Fiscal II: desde qué monto se pueden pedir más datos por sacar los dólares del colchón",
+        "summary": "La Unidad de Información Financiera publicó la resolución que determina cómo tienen que actuar bancos y sociedades de bolsa ante los nuevos depósitos. La novedad del nuevo umbral y cómo se aplica",
+        "link": "https://www.infobae.com/economia/2026/11/02/la-uif-aprobo-una-norma-clave-de-inocencia-fiscal-ii-desde-que-monto-se-pueden-pedir-mas-datos-por-sacar-los-dolares-del-colchon/",
+        "source": "Infobae Economía",
+        "time": "02/11 16:16",
+        "iso_date": "2026-11-02T19:16:59+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Midieron a LLA y al peronismo en PBA: qué necesita Milei para ganar en Provincia y el límite que enfrenta Kicillof",
+        "summary": "Un estudio de DC Consultores advirtió sobre un creciente descontento con la gestión bonaerense. Quién mide mejor en la carrera por la sucesión en la gobernación.",
+        "link": "https://www.cronista.com/economia-politica/midieron-a-lla-y-al-peronismo-en-pba-que-necesita-milei-para-ganar-en-provincia-y-el-limite-que-enfrenta-kicillof/",
+        "source": "El Cronista",
+        "time": "02/11 16:02",
+        "iso_date": "2026-11-02T19:02:44+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La inflación se consolidó por debajo del 2% en octubre, aunque advierten presiones por el lado de la vivienda",
+        "summary": "Las consultoras estimaron una inflación de octubre similar al nivel de septiembre, presionada por estacionales y transporte, mientras la núcleo cedió. Aseguran que la tregua en tarifas influyó en el número.",
+        "link": "https://www.ambito.com/economia/la-inflacion-se-consolido-debajo-del-2-octubre-aunque-advierten-presiones-el-lado-la-vivienda-n6340511",
+        "source": "Ámbito",
+        "time": "02/11 16:01",
+        "iso_date": "2026-11-02T19:01:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "EEUU llega a las elecciones con una economía dual: crece la actividad, pero también el costo de vida",
+        "summary": "El aumento de la inflación a causa de los aranceles y la guerra en Medio Oriente fueron un duro golpe para los hogares norteamericanos. A eso se le agrega el debate por las inversiones masivas en inteligencia artificial y su impacto en la economía norteamericana.",
+        "link": "https://www.ambito.com/economia/eeuu-llega-las-elecciones-una-dual-crece-la-actividad-pero-tambien-el-costo-vida-n6340573",
+        "source": "Ámbito",
+        "time": "02/11 15:53",
+        "iso_date": "2026-11-02T18:53:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Juicio por YPF: quince estados de EEUU pidieron a la Corte Suprema revisar el fallo favorable a Argentina",
+        "summary": "Presentaron un amicus curiae en apoyo de Petersen y Eton Park; el escrito cuestiona la decisión del Segundo Circuito y la Argentina responderá antes del 2 de diciembre",
+        "link": "https://www.infobae.com/economia/2026/11/02/juicio-por-ypf-quince-estados-de-eeuu-pidieron-a-la-corte-suprema-revisar-el-fallo-favorable-a-argentina/",
+        "source": "Infobae Economía",
+        "time": "02/11 15:37",
+        "iso_date": "2026-11-02T18:37:43+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
-        "summary": "El trámite fue aprobado por la Superintendencia de Entidades Financieras. El trámite final requerirá el OK del Directorio del Banco Central",
-        "link": "https://www.infobae.com/economia/2026/10/29/mercado-pago-a-un-paso-de-convertirse-en-banco-el-bcra-dio-aprobacion-tecnica-a-la-licencia-pedida-por-la-empresa-de-marcos-galperin/",
-        "source": "Infobae Economía",
-        "time": "31/10 16:58",
-        "iso_date": "2026-10-31T19:58:53+00:00",
+        "title": "La paradoja financiera y política acecha a Milei: cuáles serían las consecuencias de una derrota de Trump para la Argentina",
+        "summary": "Un informe de CEPA analiza cómo el resultado del martes puede mover la guerra, las tasas y los aranceles, con derivaciones directas para la economía local.",
+        "link": "https://www.cronista.com/economia-politica/la-paradoja-financiera-y-politica-acecha-a-milei-cuales-serian-las-consecuencias-de-una-derrota-de-trump-para-la-argentina/",
+        "source": "El Cronista",
+        "time": "02/11 15:34",
+        "iso_date": "2026-11-02T18:34:49+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Las extracciones de efectivo están en su mínimo histórico: qué medios de pago ganan terreno",
-        "summary": "Los retiros por adulto cayeron un tercio en el último año, según el Banco Central. Las transferencias, gratuitas e inmediatas, y el QR explican buena parte del cambio",
-        "link": "https://www.infobae.com/economia/2026/10/31/las-extracciones-de-efectivo-estan-en-su-minimo-historico-que-medios-de-pago-ganan-terreno/",
-        "source": "Infobae Economía",
-        "time": "31/10 16:54",
-        "iso_date": "2026-10-31T19:54:35+00:00",
+        "title": "El dólar oficial volvió a subir y anotó un nuevo récord nominal",
+        "summary": "El tipo de cambio del Banco Nación trepó $5 y cerró en $1.565, un nuevo récord nominal. En lo que va de 2026, subió apenas 5,7%",
+        "link": "https://www.iprofesional.com/finanzas/468108-el-dolar-minorista-anota-un-nuevo-maximo-pero-sube-menos-que-la-inflacion",
+        "source": "iProfesional",
+        "time": "02/11 15:29",
+        "iso_date": "2026-11-02T18:29:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El Banco Central compró USD 1.395 millones en octubre y reforzó las reservas",
-        "summary": "Se registró el mejor mes de compras de divisas desde julio, en un escenario marcado por la volatilidad cambiaria tras las elecciones en Brasil",
-        "link": "https://www.infobae.com/economia/2026/10/31/el-banco-central-compro-usd-1395-millones-en-octubre-y-reforzo-las-reservas/",
+        "title": "Oro del BCRA: el abogado Gregorio Dalbón llevó al regulador del mercado de EEUU el caso por operaciones con reservas del metal",
+        "summary": "El letrado presentó un reporte para que el organismo estadounidense evalúe posibles pagos indebidos y fallas de control en operaciones que, según la AGN, generaron pérdidas por USD 1.023 millones",
+        "link": "https://www.infobae.com/economia/2026/11/02/oro-del-bcra-el-abogado-gregorio-dalbon-llevo-al-regulador-del-mercado-de-eeuu-el-caso-por-operaciones-con-reservas-del-metal/",
         "source": "Infobae Economía",
-        "time": "31/10 12:24",
-        "iso_date": "2026-10-31T15:24:42+00:00",
+        "time": "02/11 15:23",
+        "iso_date": "2026-11-02T18:23:38+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Banco Nación: las refinanciaciones de deudas cayeron un 55,4% en octubre y alcanzaron su menor nivel frente a septiembre",
-        "summary": "La entidad financiera registró 17.348 operaciones durante octubre, frente a las 38.884 de septiembre. En lo que va de 2026, concretó más de 159.000 refinanciaciones por un total de $707.007 millones.",
-        "link": "https://www.ambito.com/economia/banco-nacion-las-refinanciaciones-deudas-cayeron-un-554-octubre-y-alcanzaron-su-menor-nivel-frente-septiembre-n6340058",
+        "title": "“Falsedad absoluta”: Salvador Di Stefano cuestionó una de las ideas más instaladas sobre la inversión",
+        "summary": "El “Gurú del Blue” vinculó la caída de la rentabilidad empresaria con la suba del gasoil y cuestionó la idea de que la inversión dependa del crédito.",
+        "link": "https://www.cronista.com/economia-politica/falsedad-absoluta-salvador-di-stefano-cuestiono-una-de-las-ideas-mas-instaladas-sobre-la-inversion/",
+        "source": "El Cronista",
+        "time": "02/11 15:11",
+        "iso_date": "2026-11-02T18:11:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Jubilaciones y AUH de ANSES: de cuánto serán en noviembre 2026",
+        "summary": "La actualización se calculará con la inflación informada por el INDEC, mientras que la entidad ya confirmó el día de los pagos",
+        "link": "https://www.infobae.com/economia/2026/11/02/jubilaciones-y-auh-de-anses-de-cuanto-seran-en-noviembre-2026/",
+        "source": "Infobae Economía",
+        "time": "02/11 15:02",
+        "iso_date": "2026-11-02T18:02:19+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Gobierno aumentó subsidios y reconoció una deuda de $39.000 millones a las empresas de colectivos para no aumentar el boleto",
+        "summary": "La Secretaría de Transporte actualizó la estructura de costos e incrementó la subvención estatal de noviembre a enero. A su vez, se comprometió a pagar en dos cuotas un saldo pendiente por malas proyecciones de ingresos por boleto",
+        "link": "https://www.infobae.com/economia/2026/11/02/el-gobierno-aumento-subsidios-y-reconocio-una-deuda-de-39000-millones-a-las-empresas-de-colectivos-para-no-aumentar-el-boleto/",
+        "source": "Infobae Economía",
+        "time": "02/11 15:00",
+        "iso_date": "2026-11-02T18:00:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Trump puede sufrir una derrota histórica y Milei se arriesga a pagar otro costo político",
+        "summary": "El presidente de EE.UU. puede perder control del Congreso en la elección legislativa. El mercado argentino teme que eso debilite la ayuda financiera",
+        "link": "https://www.iprofesional.com/politica/467973-milei-se-expone-a-otra-derrota-ajena-por-la-eleccion-en-estados-unidos",
+        "source": "iProfesional",
+        "time": "02/11 14:30",
+        "iso_date": "2026-11-02T17:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La inflación dejó de ser una de las principales preocupaciones de los argentinos: qué problemas encabezan el ranking",
+        "summary": "Un reporte muestra que los reclamos de la sociedad que llevaron al presidente a la Casa Rosada ya no son los mismos. Desde el Ministerio de Economía se dice que no hay que cambiar \"ni un centímetro\".",
+        "link": "https://www.ambito.com/economia/la-inflacion-dejo-ser-una-las-principales-preocupaciones-los-argentinos-que-problemas-encabezan-el-ranking-n6340517",
         "source": "Ámbito",
-        "time": "31/10 11:49",
-        "iso_date": "2026-10-31T14:49:00+00:00",
+        "time": "02/11 14:26",
+        "iso_date": "2026-11-02T17:26:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El diagnóstico de un expresidente del Banco Central chileno sobre Argentina: por qué estabilizar la economía no alcanza",
+        "summary": "José de Gregorio analizó el programa de estabilización, alertó sobre el atraso cambiario y destacó el impacto de la minería sobre el resto de la economía.",
+        "link": "https://www.cronista.com/economia-politica/la-mirada-de-un-expresidente-del-banco-central-chileno-sobre-argentina-por-que-la-estabilizacion-no-alcanza-y-que-riesgo-ve-en-el-tipo-de-cambio/",
+        "source": "El Cronista",
+        "time": "02/11 13:37",
+        "iso_date": "2026-11-02T16:37:32+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "¿Alcanzan o no los bonos y sumas no remunerativas para recuperar el salario por convenio?",
+        "summary": "Cuáles de los sueldos negociados en paritarias le ganaron a la inflación de este año y cómo cambió la dinámica entre aumento salarial y suma extra",
+        "link": "https://www.iprofesional.com/management/468073-paritarias-alcanzan-los-bonos-y-sumas-no-remunerativas-para-recuperar-el-salario",
+        "source": "iProfesional",
+        "time": "02/11 13:30",
+        "iso_date": "2026-11-02T16:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+        "summary": "El crecimiento de las exportaciones, las emisiones de deuda corporativa y las perspectivas para Vaca Muerta fortalecen la oferta de divisas y contribuyen a moderar la presión sobre el dólar.",
+        "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+        "source": "Ámbito",
+        "time": "02/11 12:48",
+        "iso_date": "2026-11-02T15:48:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Milei y Reidel actualizaron su paper contra la regulación: qué sostiene la nueva versión",
+        "summary": "Los autores incorporaron las barreras de Bellman de primer paso y lanzaron una plataforma con simulaciones para explicar su modelo sobre rendimientos crecientes, capital, trabajo y cargas regulatorias",
+        "link": "https://www.infobae.com/economia/2026/11/02/milei-y-reidel-actualizaron-su-paper-contra-la-regulacion-que-sostiene-la-nueva-version/",
+        "source": "Infobae Economía",
+        "time": "02/11 11:58",
+        "iso_date": "2026-11-02T14:58:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cristina Kirchner consideraría una candidatura para 2027 si se anulara la sentencia",
+        "summary": "La ex mandataria dio una entrevista a The Washington Post en la que deslizó la posibilidad de volver a competir por la Presidencia. Además, cuestionó su condena judicial y criticó la gestión de Javier Milei.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/cristina-kirchner-consideraria-una-candidatura-para-2027-si-se-anulara-la-sentencia/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/11 11:57",
+        "iso_date": "2026-11-02T14:57:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Respaldo de EE.UU.: cómo afectaría al Gobierno de Milei si Trump pierde las elecciones de medio término",
+        "summary": "En 2025, con el respaldo del Tesoro de EE.UU., las acciones argentinas subieron 20% tras la victoria de Milei. Sin embargo, un Congreso demócrata podría restarle velocidad y credibilidad a una ayuda similar en 2027.",
+        "link": "https://www.cronista.com/economia-politica/respaldo-de-eeuu-como-afectaria-al-gobierno-de-milei-si-trump-pierde-las-elecciones-de-medio-termino/",
+        "source": "El Cronista",
+        "time": "02/11 11:54",
+        "iso_date": "2026-11-02T14:54:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La UIA realiza su conferencia anual con una industria en rojo: presencia de Luis Caputo y foco en los impuestos",
+        "summary": "La cámara industrial realizará su evento más importante del año este martes. Allí confluirán empresarios, gobernadores, funcionarios y especialistas. La competitividad, el desarrollo productivo y el impacto de la inteligencia artificial serán los ejes de la jornada.",
+        "link": "https://www.ambito.com/economia/la-uia-realiza-su-conferencia-anual-una-industria-rojo-presencia-luis-caputo-y-foco-los-impuestos-n6340448",
+        "source": "Ámbito",
+        "time": "02/11 11:37",
+        "iso_date": "2026-11-02T14:37:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Wall Street cambia de horario: cómo afecta a las operaciones de la Bolsa en la Argentina",
+        "summary": "El ajuste horario en los EEUU, que adelantó una hora los relojes, se trasladó a la operatoria de Wall Street y también a la Bolsa porteña. Además entre el 6 y el 11 de noviembre habrá un cronograma especial por los feriados",
+        "link": "https://www.infobae.com/economia/2026/11/02/wall-street-cambia-de-horario-como-afecta-a-las-operaciones-de-la-bolsa-en-la-argentina/",
+        "source": "Infobae Economía",
+        "time": "02/11 11:34",
+        "iso_date": "2026-11-02T14:34:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Nuevos datos de compra de dólares confirman que la demanda encontró un piso más elevado",
+        "summary": "Los datos de octubre, relevados por iProfesional, van en línea con los de los últimos meses. Nuevo piso estructural en u$s2.500 millones",
+        "link": "https://www.iprofesional.com/finanzas/468026-que-revelan-los-nuevos-datos-de-compra-de-dolares-rumbo-a-las-elecciones",
+        "source": "iProfesional",
+        "time": "02/11 11:30",
+        "iso_date": "2026-11-02T14:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "“Queremos salir a la bolsa de EE.UU. y ser el próximo unicornio argentino”, dice el CEO de Laboratorios Richmond",
+        "summary": "En una entrevista con Bloomberg Línea, Marcelo Figueiras dijo que proyecta multiplicar por dos o tres la facturación de la compañía en los próximos cinco años y avanzar hacia una cotización en Wall Street.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/queremos-salir-a-la-bolsa-de-eeuu-y-ser-el-proximo-unicornio-argentino-dice-el-ceo-de-laboratorios-richmond/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/11 11:00",
+        "iso_date": "2026-11-02T14:00:00+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Juicio por YPF: quince estados de EEUU pidieron a la Corte Suprema revisar el fallo favorable a Argentina",
+        "summary": "Presentaron un amicus curiae en apoyo de Petersen y Eton Park; el escrito cuestiona la decisión del Segundo Circuito y la Argentina responderá antes del 2 de diciembre",
+        "link": "https://www.infobae.com/economia/2026/11/02/juicio-por-ypf-quince-estados-de-eeuu-pidieron-a-la-corte-suprema-revisar-el-fallo-favorable-a-argentina/",
+        "source": "Infobae Economía",
+        "time": "02/11 15:37",
+        "iso_date": "2026-11-02T18:37:43+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+        "summary": "El crecimiento de las exportaciones, las emisiones de deuda corporativa y las perspectivas para Vaca Muerta fortalecen la oferta de divisas y contribuyen a moderar la presión sobre el dólar.",
+        "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+        "source": "Ámbito",
+        "time": "02/11 12:48",
+        "iso_date": "2026-11-02T15:48:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+        "summary": "El crecimiento de las exportaciones, las emisiones de deuda corporativa y las perspectivas para Vaca Muerta fortalecen la oferta de divisas y contribuyen a moderar la presión sobre el dólar.",
+        "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+        "source": "Ámbito Mercados",
+        "time": "02/11 12:48",
+        "iso_date": "2026-11-02T15:48:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Los negocios que crecen alrededor de Vaca Muerta: demandan más servicios y son una oportunidad de inversión",
+        "summary": "La cuenca neuquina está en su esplendor y el mercado lo sabe. Más allá de los beneficios al sector y al país, la cuenta pendiente está en el fortalecimiento de la industria que gira a su alrededor. El ejemplo de Noruega y Australia pueden marcar el camino.",
+        "link": "https://www.cronista.com/economia-politica/los-negocios-que-crecen-alrededor-de-vaca-muerta-demandan-mas-servicios-y-son-una-oportunidad-de-inversion/",
+        "source": "El Cronista",
+        "time": "02/11 10:28",
+        "iso_date": "2026-11-02T13:28:16+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "¿Habrá una migración masiva desde Buenos Aires a Vaca Muerta y las zonas mineras? Esto ven analistas",
+        "summary": "La posibilidad de que trabajadores del conurbano se trasladen a Neuquén divide a los especialistas. Qué dicen los demógrafos y economistas y qué factores podrían limitar ese movimiento.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/habra-una-migracion-masiva-desde-buenos-aires-a-vaca-muerta-y-las-zonas-mineras-esto-ven-analistas/",
+        "source": "Bloomberg Línea AR",
+        "time": "02/11 04:10",
+        "iso_date": "2026-11-02T07:10:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "La producción de gas alcanzó un récord histórico en 2026 por la explotación no convencional de Vaca Muerta",
         "summary": "Entre enero y septiembre se extrajeron 40.300 millones de metros cúbicos de gas, un valor sin precedentes para ese período. Siguen ganando terreno los recursos no convencionales",
@@ -335,36 +399,72 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Sube Wall Street ante la fuerte baja del petróleo, pero caen los activos argentinos y sube el riesgo país",
+        "summary": "Los índices de Nueva York progresan hasta 0,8%, mientras que el barril de crudo Brent descuenta 8%. Los bonos argentinos perdieron las subas de la mañana y caen 0,7%. El MSCI Merval cede 2,4%",
+        "link": "https://www.infobae.com/economia/2026/11/02/sube-wall-street-ante-la-fuerte-baja-del-petroleo-y-cede-el-riesgo-pais-argentino/",
+        "source": "Infobae Economía",
+        "time": "02/11 17:00",
+        "iso_date": "2026-11-02T20:00:23+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El mercado calcula nuevo techo para el riesgo país y advierte por un contagio en el dólar",
+        "summary": "Los bonos argentinos sufren mayor presión por la incertidumbre política y financiera, amplificando la volatilidad en los mercados locales",
+        "link": "https://www.iprofesional.com/finanzas/468027-el-nuevo-techo-que-puede-alcanzar-el-riesgo-pais-y-su-impacto-en-dolar",
+        "source": "iProfesional",
+        "time": "02/11 16:45",
+        "iso_date": "2026-11-02T19:45:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Caen las acciones argentinas en Wall Street y el riesgo país se acerca a los 800 puntos",
+        "summary": "El índice que mide el JP Morgan saltó hasta los 797 puntos básicos, su nuevo máximo desde octubre del año pasado. Los ADR caen con fuerza",
+        "link": "https://www.iprofesional.com/finanzas/468114-caen-las-acciones-argentinas-en-wall-street-y-el-riesgo-pais-se-acerca-a-los-800-puntos",
+        "source": "iProfesional",
+        "time": "02/11 16:35",
+        "iso_date": "2026-11-02T19:35:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Guerra, tasas y riesgo país: qué efectos pueden tener en la Argentina las elecciones de medio término de Estados Unidos",
+        "summary": "Este martes se renuevan los dos tercios del Congreso de Estados Unidos. Cómo cada resultado, a favor o en contra del partido de Donald Trump, puede afectar a la Argentina",
+        "link": "https://www.infobae.com/economia/2026/11/02/guerra-tasas-y-riesgo-pais-que-efectos-pueden-tener-en-la-argentina-las-elecciones-de-medio-termino-de-estados-unidos/",
+        "source": "Infobae Economía",
+        "time": "02/11 02:41",
+        "iso_date": "2026-11-02T05:41:19+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Brasil, Estados Unidos y los riesgos que mira la Argentina",
+        "summary": "La victoria de Lula, las elecciones de medio término en EE.UU. y la volatilidad global elevan la cautela de los inversores. Consultoras advierten sobre el frente fiscal brasileño, el riesgo país y las tensiones que pueden marcar 2027",
+        "link": "https://www.infobae.com/economia/2026/11/02/brasil-estados-unidos-y-los-riesgos-que-mira-la-argentina/",
+        "source": "Infobae Economía",
+        "time": "02/11 02:40",
+        "iso_date": "2026-11-02T05:40:47+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Brasil ya golpeó a los activos argentinos y EEUU asoma como el próximo test para el mercado local",
         "summary": "El impacto político externo encuentra a la Argentina con vulnerabilidades propias: riesgo país elevado, reservas todavía limitadas, presión sobre la competitividad y una actividad que pierde dinamismo",
         "link": "https://www.infobae.com/economia/2026/11/01/brasil-ya-golpeo-a-los-activos-argentinos-y-eeuu-asoma-como-el-proximo-test-para-el-mercado-local/",
         "source": "Infobae Economía",
         "time": "01/11 17:20",
         "iso_date": "2026-11-01T20:20:20+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
-        "summary": "Pese a la recesión y el alza del riesgo país, el Ministero de Economía anticipa que no tomará medidas. El dólar vuelve a la agenda empresaria.",
-        "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082",
-        "source": "Ámbito",
-        "time": "01/11 00:00",
-        "iso_date": "2026-11-01T03:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
-        "summary": "Pese a la recesión y el alza del riesgo país, el Ministero de Economía anticipa que no tomará medidas. El dólar vuelve a la agenda empresaria.",
-        "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082",
-        "source": "Ámbito Mercados",
-        "time": "01/11 00:00",
-        "iso_date": "2026-11-01T03:00:00+00:00",
         "tickers": [
           "AL30"
         ],
