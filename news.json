@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-03T20:26:01.152097",
-  "updated_str": "03/11/2026 20:26",
+  "updated_at": "2026-11-03T20:32:51.765186",
+  "updated_str": "03/11/2026 20:32",
   "cutoff_hours": 48,
   "total_news": 243,
   "news": {
     "GENERAL": [
+      {
+        "title": "Gobierno de Milei impulsa proyecto para gravar Cedears con impuesto a las ganancias",
+        "summary": "Un proyecto del Ejecutivo propone gravar con el 15% del impuesto a las ganancias las ventas de Cedears, instrumentos financieros de renta variable que cotizan en la Bolsa local y representan acciones o fracciones de acciones de empresas internacionales.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gobierno-de-milei-impulsa-proyecto-para-gravar-cedears-con-impuesto-a-las-ganancias/",
+        "source": "Bloomberg Línea AR",
+        "time": "03/11 17:22",
+        "iso_date": "2026-11-03T20:22:51+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El riesgo país tocó su valor más alto en un año y el dólar subió a un nuevo récord",
         "summary": "La incertidumbre por las elecciones en Estados Unidos presiona a los mercados. Caen los bonos argentinos y el riesgo país supera los 820 puntos",
@@ -56,6 +66,18 @@
         "iso_date": "2026-11-03T19:34:07+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "Pampa Energía inicia la construcción de su planta de fertilizantes por u$s2.700 millones",
+        "summary": "La compañía viene de un trimestre con EBITDA de u$s398 millones en el tercer trimestre y de alcanzar nuevos máximos de producción en Rincón de Aranda",
+        "link": "https://www.iprofesional.com/energia/468229-pampa-energia-inicia-la-construccion-de-su-planta-de-fertilizantes-por-us2-700-millones",
+        "source": "iProfesional",
+        "time": "03/11 16:34",
+        "iso_date": "2026-11-03T19:34:00+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
       },
       {
         "title": "La industria argentina volvió a caer en septiembre y necesita un pacto fiscal, dice Rappallini de la UIA",
@@ -292,26 +314,6 @@
         "iso_date": "2026-11-03T16:34:05+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Las expectativas también se ajustan: el salario pretendido aumentó 2,2% en el tercer trimestre, por debajo de la inflación",
-        "summary": "El incremento acumulado del salario requerido en el tercer trimestre se encuentra 4,82 puntos porcentuales debajo del acumulado en el mismo periodo del 2025, que fue de 7%, con una inflación acumulada de 6%.",
-        "link": "https://www.ambito.com/economia/las-expectativas-tambien-se-ajustan-el-salario-pretendido-aumento-22-el-tercer-trimestre-debajo-la-inflacion-n6340983",
-        "source": "Ámbito",
-        "time": "03/11 13:33",
-        "iso_date": "2026-11-03T16:33:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La Unión Industrial Argentina celebra su 32° Conferencia Industrial",
-        "summary": "La UIA organiza hoy su encuentro anual en el Golden Center porteño con la presencia del ministro de Economía Luis Caputo, del jefe de Gabinete Diego Santilli y de cinco gobernadores",
-        "link": "https://www.infobae.com/economia/2026/11/03/la-union-industrial-argentina-celebra-su-32-conferencia-industrial/",
-        "source": "Infobae Economía",
-        "time": "03/11 13:25",
-        "iso_date": "2026-11-03T16:25:07+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -402,6 +404,18 @@
     ],
     "GGAL": [],
     "PAMP": [
+      {
+        "title": "Pampa Energía inicia la construcción de su planta de fertilizantes por u$s2.700 millones",
+        "summary": "La compañía viene de un trimestre con EBITDA de u$s398 millones en el tercer trimestre y de alcanzar nuevos máximos de producción en Rincón de Aranda",
+        "link": "https://www.iprofesional.com/energia/468229-pampa-energia-inicia-la-construccion-de-su-planta-de-fertilizantes-por-us2-700-millones",
+        "source": "iProfesional",
+        "time": "03/11 16:34",
+        "iso_date": "2026-11-03T19:34:00+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": false
+      },
       {
         "title": "Pampa Energía multiplicó por seis sus ganancias y superó las expectativas en el tercer trimestre",
         "summary": "La compañía de Marcelo Mindlin registró una ganancia neta de US$129 millones en el tercer trimestre de 2026. El EBITDA superó en un 5,62% las estimaciones de los analistas, aunque los ingresos quedaron por debajo de lo previsto.",
