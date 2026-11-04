@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-04T00:19:17.807062",
-  "updated_str": "04/11/2026 00:19",
+  "updated_at": "2026-11-04T01:46:33.234024",
+  "updated_str": "04/11/2026 01:46",
   "cutoff_hours": 48,
-  "total_news": 243,
+  "total_news": 267,
   "news": {
     "GENERAL": [
       {
@@ -23,18 +23,6 @@
         "time": "03/11 19:30",
         "iso_date": "2026-11-03T22:30:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar y el riesgo país se recalientan a horas de los primeros resultados en EE.UU.",
-        "summary": "El indicador elaborado por JPMorgan tocó su nivel más alto del año, mientras que el dólar avanza a un ritmo más acelerado. Cuánto incide Trump",
-        "link": "https://www.iprofesional.com/finanzas/468240-dolar-y-riesgo-pais-se-recalientan-en-la-previa-de-las-elecciones-en-eeuu",
-        "source": "iProfesional",
-        "time": "03/11 19:28",
-        "iso_date": "2026-11-03T22:28:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -248,8 +236,8 @@
         "is_general": true
       },
       {
-        "title": "El dólar mayorista superó los $1.550, con el mercado atento al potencial impacto de las elecciones en EEUU",
-        "summary": "Este martes, los inversores estuvieron atentos a la evolución de las cotizaciones y a la capacidad del Banco Central para retomar las compras de divisas, en un día marcado por la elección en EEUU.",
+        "title": "El dólar mayorista superó por primera vez los $1.550 y quebró un nuevo máximo nominal",
+        "summary": "Este martes, los inversores estuvieron atentos a la evolución de las cotizaciones y a la performance del Banco Central, que no pudo retomar las compras de divisas, en un día marcado por la elección en EEUU.",
         "link": "https://www.ambito.com/economia/dolar-su-record-nominal-el-mercado-sigue-atencion-las-elecciones-eeuu-y-las-reservas-del-bcra-n6340809",
         "source": "Ámbito",
         "time": "03/11 16:09",
@@ -316,21 +304,19 @@
         "iso_date": "2026-11-03T17:42:00+00:00",
         "tickers": [],
         "is_general": true
+      },
+      {
+        "title": "El Niño hizo subir la inflación en EEUU, aunque también podría aumentar el nivel de empleo",
+        "summary": "El fenómeno climático podría presionar las cadenas de suministro globales de materias primas. Sin embargo, también podrían generar condiciones metereológicas más favorables para la agricultura y la construcción.",
+        "link": "https://www.ambito.com/economia/el-nino-hizo-subir-la-inflacion-eeuu-aunque-tambien-podria-aumentar-el-nivel-empleo-n6341024",
+        "source": "Ámbito",
+        "time": "03/11 14:34",
+        "iso_date": "2026-11-03T17:34:00+00:00",
+        "tickers": [],
+        "is_general": true
       }
     ],
     "YPFD": [
-      {
-        "title": "Caputo le prende una vela a Trump: una derrota implicaría menos dólares por Vaca Muerta",
-        "summary": "Los analistas creen que si pierde Trump bajará el precio del crudo. Para Argentina, sería un alivio por la inflación, pero más incertidumbre cambiaria",
-        "link": "https://www.iprofesional.com/economia/468136-por-que-una-derrota-de-trump-en-eeuu-implicarian-menos-dolares-para-caputo",
-        "source": "iProfesional",
-        "time": "03/11 14:30",
-        "iso_date": "2026-11-03T17:30:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
       {
         "title": "La otra Vaca Muerta: cómo avanza la nueva “fábrica de dólares” a la que apuestan las petroleras",
         "summary": "El yacimiento, todavía sin explotar, concentra expectativas por su potencial de petróleo y gas no convencional. YPF proyecta pozos y prepara una nueva etapa exploratoria, mientras la provincia busca atraer inversores.",
@@ -378,6 +364,30 @@
           "YPFD"
         ],
         "is_general": false
+      },
+      {
+        "title": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+        "summary": "El crecimiento de las exportaciones, las emisiones de deuda corporativa y las perspectivas para Vaca Muerta fortalecen la oferta de divisas y contribuyen a moderar la presión sobre el dólar.",
+        "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+        "source": "Ámbito",
+        "time": "02/11 12:48",
+        "iso_date": "2026-11-02T15:48:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+        "summary": "El crecimiento de las exportaciones, las emisiones de deuda corporativa y las perspectivas para Vaca Muerta fortalecen la oferta de divisas y contribuyen a moderar la presión sobre el dólar.",
+        "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+        "source": "Ámbito Mercados",
+        "time": "02/11 12:48",
+        "iso_date": "2026-11-02T15:48:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
       },
       {
         "title": "Los negocios que crecen alrededor de Vaca Muerta: demandan más servicios y son una oportunidad de inversión",
@@ -450,18 +460,6 @@
     ],
     "CEPU": [],
     "AL30": [
-      {
-        "title": "El dólar y el riesgo país se recalientan a horas de los primeros resultados en EE.UU.",
-        "summary": "El indicador elaborado por JPMorgan tocó su nivel más alto del año, mientras que el dólar avanza a un ritmo más acelerado. Cuánto incide Trump",
-        "link": "https://www.iprofesional.com/finanzas/468240-dolar-y-riesgo-pais-se-recalientan-en-la-previa-de-las-elecciones-en-eeuu",
-        "source": "iProfesional",
-        "time": "03/11 19:28",
-        "iso_date": "2026-11-03T22:28:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
       {
         "title": "El riesgo país trepó a un máximo desde las elecciones de 2025 y el dólar anotó una nueva suba",
         "summary": "Los bonos en dólares cedieron un 1,2% en promedio. El indicador de JP Morgan superó los 830 puntos por primera vez desde octubre de 2025. El dólar subió a $1.570 en el Banco Nación y el BCRA otra vez no intervino en el mercado",
