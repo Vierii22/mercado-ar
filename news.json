@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-04T20:52:10.710863",
-  "updated_str": "04/11/2026 20:52",
+  "updated_at": "2026-11-04T20:59:16.422021",
+  "updated_str": "04/11/2026 20:59",
   "cutoff_hours": 48,
   "total_news": 271,
   "news": {
     "GENERAL": [
+      {
+        "title": "Milei en España tras derrota de Trump: pedido al embajador y temor por la ayuda financiera",
+        "summary": "La caída de Trump provocó incertidumbre en el entorno presidencial, que ahora recalcula su vínculo político y económico con Washington",
+        "link": "https://www.iprofesional.com/politica/468354-milei-madrid-caida-trump-miedo-casa-rosada",
+        "source": "iProfesional",
+        "time": "04/11 17:54",
+        "iso_date": "2026-11-04T20:54:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "A contramano de Wall Street, el riesgo país volvió a subir y superó los 850 puntos",
+        "summary": "Los principales índices de la bolsa de Nueva York suben tras las elecciones en Estados Unidos, pero el buen clima no contagia los activos argentinos",
+        "link": "https://www.iprofesional.com/finanzas/468323-a-contramano-de-wall-street-el-riesgo-pais-vuelve-a-subir-y-supera-los-840-puntos",
+        "source": "iProfesional",
+        "time": "04/11 17:45",
+        "iso_date": "2026-11-04T20:45:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
         "summary": "La autoridad monetaria adquirió USD 9 millones luego de un comienzo de noviembre sin compras oficiales. Las reservas internacionales se acercaron a USD 50.500 millones",
@@ -78,18 +100,6 @@
         "is_general": true
       },
       {
-        "title": "A contramano de Wall Street, el riesgo país volvió a subir y superó los 850 puntos",
-        "summary": "Los principales índices de la bolsa de Nueva York suben tras las elecciones en Estados Unidos, pero el buen clima no contagia los activos argentinos",
-        "link": "https://www.iprofesional.com/finanzas/468323-a-contramano-de-wall-street-el-riesgo-pais-vuelve-a-subir-y-supera-los-840-puntos",
-        "source": "iProfesional",
-        "time": "04/11 16:00",
-        "iso_date": "2026-11-04T19:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "De YPF a Pampa y Telecom, todas las empresas que pagan dividendos en noviembre con sus ON",
         "summary": "Con apenas 17 días hábiles, noviembre tendrá pagos de ONs de YPF, Pampa, Telecom y otras empresas que distribuirán intereses y devolverán capital",
         "link": "https://www.iprofesional.com/finanzas/468275-de-ypf-a-telecom-que-empresas-pagan-dividendos-en-noviembre-con-on",
@@ -97,8 +107,8 @@
         "time": "04/11 16:00",
         "iso_date": "2026-11-04T19:00:00+00:00",
         "tickers": [
-          "PAMP",
           "YPFD",
+          "PAMP",
           "TECO2"
         ],
         "is_general": false
@@ -304,16 +314,6 @@
         "iso_date": "2026-11-04T14:50:07+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El mapa de la última encuesta que midió a Milei y Kicillof: quién tiene el voto más firme y dónde queda el margen para crecer",
-        "summary": "El último Monitor de Opinión Pública de la consultora Zentrix exhibe una radiografía de cómo llegan el Presidente y el gobernador al 2027.",
-        "link": "https://www.cronista.com/economia-politica/midieron-a-milei-y-kicillof-quien-tiene-mas-votos-asegurados-y-el-dato-que-puede-ser-clave-en-la-eleccion/",
-        "source": "El Cronista",
-        "time": "04/11 11:37",
-        "iso_date": "2026-11-04T14:37:06+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -325,8 +325,8 @@
         "time": "04/11 16:00",
         "iso_date": "2026-11-04T19:00:00+00:00",
         "tickers": [
-          "PAMP",
           "YPFD",
+          "PAMP",
           "TECO2"
         ],
         "is_general": false
@@ -351,8 +351,8 @@
         "time": "04/11 11:36",
         "iso_date": "2026-11-04T14:36:56+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -415,8 +415,8 @@
         "time": "04/11 16:00",
         "iso_date": "2026-11-04T19:00:00+00:00",
         "tickers": [
-          "PAMP",
           "YPFD",
+          "PAMP",
           "TECO2"
         ],
         "is_general": false
@@ -429,8 +429,8 @@
         "time": "04/11 11:36",
         "iso_date": "2026-11-04T14:36:56+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -484,8 +484,8 @@
         "time": "04/11 16:00",
         "iso_date": "2026-11-04T19:00:00+00:00",
         "tickers": [
-          "PAMP",
           "YPFD",
+          "PAMP",
           "TECO2"
         ],
         "is_general": false
@@ -506,24 +506,24 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "A contramano de la suba de Wall Street tras la derrota de Trump, el riesgo país argentino subió a un nuevo máximo en un año",
-        "summary": "Los índices de Wall Street suben más de 2% después de las elecciones legislativas en EEUU. Los bonos argentinos operan dispares y el indicador de JP Morgan avanza a 852 puntos",
-        "link": "https://www.infobae.com/economia/2026/11/04/suben-los-bonos-argentinos-y-cede-el-riesgo-pais-por-la-tendencia-positiva-de-las-bolsas-internacionales/",
-        "source": "Infobae Economía",
-        "time": "04/11 16:59",
-        "iso_date": "2026-11-04T19:59:15+00:00",
+        "title": "A contramano de Wall Street, el riesgo país volvió a subir y superó los 850 puntos",
+        "summary": "Los principales índices de la bolsa de Nueva York suben tras las elecciones en Estados Unidos, pero el buen clima no contagia los activos argentinos",
+        "link": "https://www.iprofesional.com/finanzas/468323-a-contramano-de-wall-street-el-riesgo-pais-vuelve-a-subir-y-supera-los-840-puntos",
+        "source": "iProfesional",
+        "time": "04/11 17:45",
+        "iso_date": "2026-11-04T20:45:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "A contramano de Wall Street, el riesgo país volvió a subir y superó los 850 puntos",
-        "summary": "Los principales índices de la bolsa de Nueva York suben tras las elecciones en Estados Unidos, pero el buen clima no contagia los activos argentinos",
-        "link": "https://www.iprofesional.com/finanzas/468323-a-contramano-de-wall-street-el-riesgo-pais-vuelve-a-subir-y-supera-los-840-puntos",
-        "source": "iProfesional",
-        "time": "04/11 16:00",
-        "iso_date": "2026-11-04T19:00:00+00:00",
+        "title": "A contramano de la suba de Wall Street tras la derrota de Trump, el riesgo país argentino subió a un nuevo máximo en un año",
+        "summary": "Los índices de Wall Street suben más de 2% después de las elecciones legislativas en EEUU. Los bonos argentinos operan dispares y el indicador de JP Morgan avanza a 852 puntos",
+        "link": "https://www.infobae.com/economia/2026/11/04/suben-los-bonos-argentinos-y-cede-el-riesgo-pais-por-la-tendencia-positiva-de-las-bolsas-internacionales/",
+        "source": "Infobae Economía",
+        "time": "04/11 16:59",
+        "iso_date": "2026-11-04T19:59:15+00:00",
         "tickers": [
           "AL30"
         ],
