@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-05T21:30:17.287517",
-  "updated_str": "05/11/2026 21:30",
+  "updated_at": "2026-11-05T21:37:46.395733",
+  "updated_str": "05/11/2026 21:37",
   "cutoff_hours": 48,
   "total_news": 256,
   "news": {
     "GENERAL": [
+      {
+        "title": "Las acciones de Mercado Libre se hundieron 12% en medio de la caída de las tecnológicas en Wall Street",
+        "summary": "Un balance que decepcionó, más el clima negativo para las acciones en Nueva York golpeó la cotización de la compañía líder de comercio electrónico regional",
+        "link": "https://www.infobae.com/economia/2026/11/05/las-acciones-de-mercado-libre-se-desplomaron-12-en-medio-de-la-caida-de-las-tecnologicas-en-wall-street/",
+        "source": "Infobae Economía",
+        "time": "05/11 18:32",
+        "iso_date": "2026-11-05T21:32:56+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Se disparó el riesgo país y superó los 920 puntos en otra jornada negativa en los mercados",
+        "summary": "Los bonos argentinos profundizaron las pérdidas y el riesgo país llegó a 925 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
+        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
+        "source": "iProfesional",
+        "time": "05/11 18:30",
+        "iso_date": "2026-11-05T21:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país de la Argentina siguió subiendo y rompió la barrera de los 900 puntos básicos",
         "summary": "Con el trasfondo de una sesión muy negativa de Wall Street, los bonos en dólares de Argentina cayeron otro 2,5% y el MSCI Merval perdió 4,1%. El índice de JP Morgan trepó a 925 unidades",
@@ -24,16 +46,6 @@
         "source": "iProfesional",
         "time": "05/11 18:23",
         "iso_date": "2026-11-05T21:23:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones de Mercado Libre se desplomaron 12% en medio de la caída de las tecnológicas en Wall Street",
-        "summary": "Un balance que decepcionó, más el clima negativo para las acciones en Nueva York golpeó la cotización de la compañía líder de comercio electrónico regional",
-        "link": "https://www.infobae.com/economia/2026/11/05/las-acciones-de-mercado-libre-se-desplomaron-12-en-medio-de-la-caida-de-las-tecnologicas-en-wall-street/",
-        "source": "Infobae Economía",
-        "time": "05/11 18:18",
-        "iso_date": "2026-11-05T21:18:25+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -121,18 +133,6 @@
         "time": "05/11 16:25",
         "iso_date": "2026-11-05T19:25:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Se dispara el riesgo país y supera los 920 puntos en otra jornada negativa en los mercados",
-        "summary": "Los bonos argentinos profundizan las pérdidas y el riesgo país se acerca a los 1.000 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
-        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
-        "source": "iProfesional",
-        "time": "05/11 16:10",
-        "iso_date": "2026-11-05T19:10:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -466,6 +466,30 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Se disparó el riesgo país y superó los 920 puntos en otra jornada negativa en los mercados",
+        "summary": "Los bonos argentinos profundizaron las pérdidas y el riesgo país llegó a 925 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
+        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
+        "source": "iProfesional",
+        "time": "05/11 18:30",
+        "iso_date": "2026-11-05T21:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Se disparó el riesgo país y superó los 920 puntos en otra jornada negativa en los mercados",
+        "summary": "Los bonos argentinos profundizaron las pérdidas y el riesgo país llegó a 925 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
+        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
+        "source": "iProfesional",
+        "time": "05/11 18:30",
+        "iso_date": "2026-11-05T21:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "El riesgo país de la Argentina siguió subiendo y rompió la barrera de los 900 puntos básicos",
         "summary": "Con el trasfondo de una sesión muy negativa de Wall Street, los bonos en dólares de Argentina cayeron otro 2,5% y el MSCI Merval perdió 4,1%. El índice de JP Morgan trepó a 925 unidades",
         "link": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-de-la-argentina-sigue-subiendo-y-rompe-la-barrera-de-los-900-puntos-basicos/",
@@ -508,30 +532,6 @@
         "source": "Infobae Economía",
         "time": "05/11 17:32",
         "iso_date": "2026-11-05T20:32:07+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Se dispara el riesgo país y supera los 920 puntos en otra jornada negativa en los mercados",
-        "summary": "Los bonos argentinos profundizan las pérdidas y el riesgo país se acerca a los 1.000 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
-        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
-        "source": "iProfesional",
-        "time": "05/11 16:10",
-        "iso_date": "2026-11-05T19:10:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Se dispara el riesgo país y supera los 920 puntos en otra jornada negativa en los mercados",
-        "summary": "Los bonos argentinos profundizan las pérdidas y el riesgo país se acerca a los 1.000 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
-        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
-        "source": "iProfesional",
-        "time": "05/11 16:10",
-        "iso_date": "2026-11-05T19:10:00+00:00",
         "tickers": [
           "AL30"
         ],
