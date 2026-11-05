@@ -1,332 +1,350 @@
 {
-  "updated_at": "2026-11-05T05:08:17.882006",
-  "updated_str": "05/11/2026 05:08",
+  "updated_at": "2026-11-05T17:56:26.514055",
+  "updated_str": "05/11/2026 17:56",
   "cutoff_hours": 48,
-  "total_news": 280,
+  "total_news": 257,
   "news": {
     "GENERAL": [
       {
-        "title": "La incertidumbre política aleja a los inversores de los activos argentinos y el riesgo país alcanzó un nuevo máximo anual",
-        "summary": "Los bonos soberanos no pudieron acoplarse al rally global de los mercados. A las dudas que generó la elección de Brasil ahora se suma la incertidumbre por el futuro respaldo de Estados Unidos al Gobierno en materia cambiaria",
-        "link": "https://www.infobae.com/economia/2026/11/05/la-incertidumbre-politica-aleja-a-los-inversores-de-los-activos-argentinos-y-el-riesgo-pais-alcanzo-un-nuevo-maximo-anual/",
+        "title": "Santiago Caputo explicó cómo Milei podría ganar las elecciones: “Hay que asumir que están perdidas de inicio”",
+        "summary": "El asesor del Ejecutivo nacional analizó el panorama electoral tras los comicios en Brasil y Estados Unidos.",
+        "link": "https://www.cronista.com/economia-politica/santiago-caputo-explico-como-milei-podria-ganar-las-elecciones-hay-que-asumir-que-estan-perdidas-de-inicio/",
+        "source": "El Cronista",
+        "time": "05/11 14:26",
+        "iso_date": "2026-11-05T17:26:59+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Banco Nación bajó las tasas de los préstamos para comprar autos 0 km y usados: cómo queda la cuota",
+        "summary": "La entidad anunció cambios en el plan para financiar la adquisición de vehículos. Se trata de un préstamo personal, por lo que no tiene los gastos que requiere la tramitación de una prenda",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-banco-nacion-bajo-las-tasas-de-los-prestamos-para-comprar-autos-0-km-y-usados-como-queda-la-cuota/",
         "source": "Infobae Economía",
-        "time": "05/11 01:58",
-        "iso_date": "2026-11-05T04:58:12+00:00",
+        "time": "05/11 14:19",
+        "iso_date": "2026-11-05T17:19:50+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El dólar se disparó en Paraguay y el riesgo país subió 16% tras la renuncia de Peña",
+        "summary": "La intervención de la entidad dejó a 2,9 millones de clientes sin acceso a sus ahorros y agravó la incertidumbre económica y política",
+        "link": "https://www.iprofesional.com/finanzas/468448-el-dolar-se-disparo-en-guay-y-el-riesgo-pais-subio-16-tras-la-renuncia-de-pena",
+        "source": "iProfesional",
+        "time": "05/11 14:10",
+        "iso_date": "2026-11-05T17:10:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Las claves de la economía que viene, según el mayor banco europeo: cuatro megatendencias y los riesgos que podría enfrentar Argentina",
-        "summary": "Los economistas del banco Santander destacaron el equilibrio fiscal, la baja de la inflación y la recomposición de reservas. Prevén que el agro, la energía y la minería dupliquen sus ventas externas hacia 2030",
-        "link": "https://www.infobae.com/economia/2026/11/05/las-claves-de-la-economia-que-viene-segun-el-mayor-banco-europeo-cuatro-megatendencias-y-los-riesgos-que-podria-enfrentar-argentina/",
-        "source": "Infobae Economía",
-        "time": "05/11 01:55",
-        "iso_date": "2026-11-05T04:55:03+00:00",
+        "title": "Se derrumban las acciones de MercadoLibre en Wall Street: ¿qué motivos las empujan a la baja?",
+        "summary": "Los papeles del gigante tecnológico nacido en Argentina retroceden 14% intradiario luego de la presentación de resultados.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/se-derrumban-las-acciones-de-mercadolibre-en-wall-street-que-motivos-las-empujan-a-la-baja/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 14:07",
+        "iso_date": "2026-11-05T17:07:01+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Un foro empresarial reúne a figuras del Gobierno, líderes globales y expresidentes para debatir el nuevo orden económico",
-        "summary": "El 16° Foro ABECEB se realiza hoy en el Faena Art Center con una agenda que va de la geopolítica a la inteligencia artificial, con Daniel Hadad, Mauricio Macri y Federico Sturzenegger entre los oradores",
-        "link": "https://www.infobae.com/economia/2026/11/05/un-foro-empresarial-reune-a-figuras-del-gobierno-lideres-globales-y-expresidentes-para-debatir-el-nuevo-orden-economico/",
-        "source": "Infobae Economía",
-        "time": "05/11 01:54",
-        "iso_date": "2026-11-05T04:54:29+00:00",
+        "title": "Gobierno de Milei reconoce “impaciencia” por ver resultados pero anticipa: “La gente no tiene noción de lo que se viene”",
+        "summary": "El viceministro de Economía, José Luis Daza, aseguró que “se están empezando a reacomodar muchas de las variables que determinan que la economía volverá a crecer”.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/gobierno-de-milei-reconoce-impaciencia-por-ver-resultados-pero-anticipa-la-gente-no-tiene-nocion-de-lo-que-se-viene/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 13:59",
+        "iso_date": "2026-11-05T16:59:59+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Empeoró el déficit de servicios básicos: más de la mitad de los argentinos no accede a agua corriente, gas natural o cloacas",
-        "summary": "Según el Indec, la falta de conexión a las redes de gas, agua y cloacas afecta a miles de hogares en todo el país y golpea con más fuerza a los sectores de menores ingresos",
-        "link": "https://www.infobae.com/economia/2026/11/05/empeoro-el-deficit-de-servicios-basicos-mas-de-la-mitad-de-los-argentinos-no-accede-a-agua-corriente-gas-natural-o-cloacas/",
-        "source": "Infobae Economía",
-        "time": "05/11 01:53",
-        "iso_date": "2026-11-05T04:53:58+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El “efecto Lula” condiciona a los activos argentinos: por qué el mercado mira con cautela las elecciones de 2027",
-        "summary": "La reacción global tras la victoria demócrata favoreció a varios mercados, pero los bonos y las acciones locales quedaron bajo presión por las dudas sobre la continuidad del rumbo económico después de los próximos comicios presidenciales",
-        "link": "https://www.infobae.com/economia/2026/11/05/el-efecto-lula-condiciona-a-los-activos-argentinos-por-que-el-mercado-mira-con-cautela-las-elecciones-de-2027/",
-        "source": "Infobae Economía",
-        "time": "05/11 01:52",
-        "iso_date": "2026-11-05T04:52:52+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "IOL Holding presenta IOL Privé, su nueva propuesta para invertir en el mercado norteamericano con asesoramiento personalizado",
-        "summary": "Acceso a Wall Street, acompañamiento profesional y una propuesta de gestión patrimonial internacional: las claves de IOL Privé.",
-        "link": "https://eleconomista.com.ar/finanzas/iol-holding-presenta-iol-prive-su-nueva-propuesta-invertir-mercado-norteamericano-asesoramiento-personalizado-n99477",
-        "source": "El Economista",
-        "time": "04/11 22:10",
-        "iso_date": "2026-11-05T01:10:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El ETF Merval recibió un guiño de la CNV y podrá incluirse en fondos comunes de inversión",
-        "summary": "Esta semana debutó el primer ETF argentino que reune a las principales 19 acciones de empresas líderes, y ahora CNV permite ampliar su operatoria",
-        "link": "https://www.iprofesional.com/finanzas/468368-el-nuevo-indice-etf-merval-recibio-un-guino-clave-de-la-cnv",
+        "title": "El escándalo Ueno Bank ya golpea a una empresa argentina: suspendió a parte del personal",
+        "summary": "Tras la caída del banco Ueno en Paraguay, la firma tecnológica Itti se queda sin recursos y suspendió a parte de su plantilla de empleados",
+        "link": "https://www.iprofesional.com/management/468446-el-escandalo-ueno-bank-ya-golpea-a-una-empresa-argentina-que-suspendio-personal",
         "source": "iProfesional",
-        "time": "04/11 20:50",
-        "iso_date": "2026-11-04T23:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Gobierno aprovecha el desplome, recompra bonos y baja la tasa de interés",
-        "summary": "En un mercado deprimido por el \"efecto Trump\", una compra de bonos por parte del BCRA disparó las cotizaciones. Una jugada con elogios y críticas",
-        "link": "https://www.iprofesional.com/economia/468366-el-gobierno-aprovecha-el-desplome-recompra-bonos-y-baja-la-tasa-de-interes",
-        "source": "iProfesional",
-        "time": "04/11 20:30",
-        "iso_date": "2026-11-04T23:30:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Crisis total en BGH: elminará 250 empleos de un plumazo en planta de Tierra del Fuego",
-        "summary": "La compañía anunció un ajuste de personal inédito, que impacta a cientos de familias y agrava la crisis en el sector electrónico de la provincia",
-        "link": "https://www.iprofesional.com/negocios/468373-bgh-avanza-con-despidos-masivos-de-250-empleados-en-planta-de-tierra-del-fuego",
-        "source": "iProfesional",
-        "time": "04/11 20:23",
-        "iso_date": "2026-11-04T23:23:00+00:00",
+        "time": "05/11 13:51",
+        "iso_date": "2026-11-05T16:51:00+00:00",
         "tickers": [
           "TECO2"
         ],
         "is_general": false
       },
       {
-        "title": "Uno de los gurúes preferidos de Milei recomienda a Caputo un plan B para conseguir dólares",
-        "summary": "Alberto Ades plantea la necesidad de estrategias alternativas ante la incertidumbre política y financiera tras la caída de Trump en EEUU",
-        "link": "https://www.iprofesional.com/finanzas/468367-uno-de-los-gurues-financieros-de-milei-alerta-a-caputo-por-la-canilla-de-dolares",
-        "source": "iProfesional",
-        "time": "04/11 20:20",
-        "iso_date": "2026-11-04T23:20:00+00:00",
+        "title": "Dólar se dispara en Paraguay: guaraní es la moneda que más cae en el mundo tras renuncia de Peña y crisis de Ueno",
+        "summary": "La moneda paraguaya se desploma frente al dólar mientras Santiago Peña anuncia su renuncia a la Presidencia, tras perder el respaldo del Partido Colorado en medio de la crisis bancaria de Ueno Bank.",
+        "link": "https://www.bloomberglinea.com/mercados/dolar-se-dispara-en-paraguay-guarani-es-la-moneda-que-mas-cae-en-el-mundo-por-juicio-a-pena-y-crisis-de-ueno/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 13:47",
+        "iso_date": "2026-11-05T16:47:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Las acciones de Mercado Libre se desplomaron en el after market tras presentar su balance",
-        "summary": "El gigante del comercio electrónico presentó los resultados del tercer trimestre y las acciones cayeron un 7% en Wall Street. Los motivos",
-        "link": "https://www.iprofesional.com/finanzas/468371-las-acciones-de-mercado-libre-se-desploman-en-el-after-market-tras-presentar-su-balance",
-        "source": "iProfesional",
-        "time": "04/11 19:41",
-        "iso_date": "2026-11-04T22:41:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Qué piensan los empresarios industriales de los anuncios de Caputo y qué le reclaman al Gobierno",
-        "summary": "En Infobae al Regreso, el presidente de la UIA Martín Rappallini destacó las medidas para las PyMEs y reclamó una baja de impuestos, más crédito y mejores condiciones para competir",
-        "link": "https://www.infobae.com/economia/2026/11/04/que-piensan-los-empresarios-industriales-de-los-anuncios-de-caputo-y-que-le-reclaman-al-gobierno/",
+        "title": "El riesgo país de la Argentina sigue subiendo y rompe la barrera de los 900 puntos básicos",
+        "summary": "Con el trasfondo de una sesión muy negativa de Wall Street, los bonos en dólares de Argentina caen otro 1% y el MSCI Merval pierde 1,1%. El índice de JP Morgan trepa a 918 unidades",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-de-la-argentina-sigue-subiendo-y-rompe-la-barrera-de-los-900-puntos-basicos/",
         "source": "Infobae Economía",
-        "time": "04/11 19:26",
-        "iso_date": "2026-11-04T22:26:59+00:00",
+        "time": "05/11 13:39",
+        "iso_date": "2026-11-05T16:39:41+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Se derrumba 4% el índice tecnológico de Wall Street por la fuerte caída de acciones vinculadas a la IA",
+        "summary": "El Nasdaq quedó cerca de confirmar una corrección, mientras las acciones de semiconductores y centros de datos concentraron las pérdidas tras el repunte postelectoral",
+        "link": "https://www.infobae.com/economia/2026/11/05/se-derrumba-5-el-indice-tecnologico-de-wall-street-por-la-fuerte-caida-de-acciones-vinculadas-a-la-ia/",
+        "source": "Infobae Economía",
+        "time": "05/11 13:32",
+        "iso_date": "2026-11-05T16:32:56+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Nueva encuesta mostró a Kicillof y Bullrich más fuertes que Milei en el Conurbano",
-        "summary": "El gobernador se impuso cómodamente en el sondeo sobre los 24 municipios del Gran Buenos Aires, pero la senadora también le ganó al Presidente",
-        "link": "https://www.iprofesional.com/politica/468365-nueva-encuesta-mostro-a-kicillof-y-bullrich-mas-fuertes-que-milei-en-el-conurbano",
-        "source": "iProfesional",
-        "time": "04/11 19:20",
-        "iso_date": "2026-11-04T22:20:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Plazo fijo: cuánto debés invertir para ganar $500.000 en 30 días",
-        "summary": "Las tasas cambian de un banco a otro y elegir dónde dejar los ahorros puede hacer una diferencia importante en la ganancia.",
-        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-debes-invertir-ganar-500000-30-dias-n6341534",
+        "title": "REM de octubre: los gurúes de la city actualizan sus pronósticos para el dólar, la inflación y el PBI",
+        "summary": "El Banco Central dará a conocer esta tarde el Relevamiento de Expectativas de Mercado con las proyecciones de más de 40 consultoras y entidades financieras. Tras convalidar meses atrás un escenario de leve contracción y traspiés en la actividad, el mercado recalibra sus expect...",
+        "link": "https://www.ambito.com/economia/rem-octubre-los-gurues-la-city-actualizan-sus-pronosticos-el-dolar-la-inflacion-y-el-pbi-n6341932",
         "source": "Ámbito",
-        "time": "04/11 19:00",
-        "iso_date": "2026-11-04T22:00:00+00:00",
+        "time": "05/11 13:23",
+        "iso_date": "2026-11-05T16:23:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
-        "summary": "La autoridad monetaria adquirió USD 9 millones luego de un comienzo de noviembre sin compras oficiales. Las reservas internacionales se acercaron a USD 50.500 millones",
-        "link": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/",
+        "title": "Wall Street se desploma y el Nasdaq entra en corrección por temores sobre la IA tras victoria demócrata",
+        "summary": "La victoria demócrata en el Congreso impulsa una rotación hacia sectores cíclicos, mientras los fabricantes de chips retroceden ante temores de mayores regulaciones. El petróleo y el oro avanzan.",
+        "link": "https://www.bloomberglinea.com/mercados/wall-street-cotiza-mixto-ante-caida-de-fabricantes-de-chips-y-rotacion-a-sectores-ciclicos/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 13:09",
+        "iso_date": "2026-11-05T16:09:03+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei arremetió contra el socialismo frente a Pedro Sánchez y renovó reclamo por Malvinas",
+        "summary": "Durante la cita internacional en Madrid, Milei cuestionó modelos políticos y reclamó por las Malvinas ante autoridades europeas y latinoamericanas",
+        "link": "https://www.iprofesional.com/politica/468434-milei-genero-tension-diplomatica-cumbre-iberoamericana-desafiar-sanchez",
+        "source": "iProfesional",
+        "time": "05/11 12:35",
+        "iso_date": "2026-11-05T15:35:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El colapso de Ueno Bank de Paraguay golpea en Argentina: tiene 900 empleados en Buenos Aires, no pagó sueldos y hay suspensiones",
+        "summary": "Trabajadores de una empresa que provee servicios tecnológicos al grupo empresario aseguran que parte del personal recibió suspensiones por 30 días y que no se acreditaron los salarios que debían pagarse hoy",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-colapso-de-ueno-bank-de-paraguay-golpea-en-argentina-tiene-900-empleados-en-buenos-aires-no-pago-sueldos-y-hay-suspensiones/",
         "source": "Infobae Economía",
-        "time": "04/11 18:52",
-        "iso_date": "2026-11-04T21:52:12+00:00",
-        "tickers": [],
-        "is_general": true
+        "time": "05/11 12:28",
+        "iso_date": "2026-11-05T15:28:54+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
       },
       {
-        "title": "Tras dos derrotas consecutivas de aliados, Milei se vuelve a involucrar en la campaña de España",
-        "summary": "El encuentro con el titular de Vox llega dos semanas después de la videollamada con la que ambos reemplazaron la cita presencial en octubre. Antes de regresar a la Argentina, Milei se reunirá con Isabel Díaz Ayuso. Sin cita con el Rey y la ausencia a la inauguración de la Cumbre.",
-        "link": "https://www.cronista.com/economia-politica/tras-dos-derrotas-consecutivas-de-aliados-milei-se-vuelve-a-involucrar-en-la-campana-de-espana/",
-        "source": "El Cronista",
-        "time": "04/11 18:40",
-        "iso_date": "2026-11-04T21:40:53+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país superó los 850 puntos, el dólar cayó y las acciones argentinas se hundieron hasta 8% en Wall Street",
-        "summary": "Los índices bursátiles estadounidenses escalaron hasta 3% luego del triunfo demócrata en las elecciones de EEUU. El petróleo se desplomó 8% y arrastró a las acciones energéticas. El dólar mayorista retrocedió y el BCRA compró USD 9 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/",
-        "source": "Infobae Economía",
-        "time": "04/11 18:35",
-        "iso_date": "2026-11-04T21:35:59+00:00",
+        "title": "Los bonos argentinos caen hasta 3,7% y el riesgo país supera los 900 puntos",
+        "summary": "Los bonos argentinos profundizan las pérdidas y el riesgo país se acerca a los 1.000 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
+        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
+        "source": "iProfesional",
+        "time": "05/11 12:19",
+        "iso_date": "2026-11-05T15:19:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Amenazas contra Milei: detuvieron a dos hombres por publicar videos con mensajes de muerte y referencias golpistas",
-        "summary": "Durante el procedimiento secuestraron distintas prendas de vestir que presentaban características similares a las utilizadas por el sospechoso en envíos.",
-        "link": "https://www.cronista.com/economia-politica/amenazas-contra-milei-detuvieron-a-dos-hombres-por-publicar-videos-con-mensajes-de-muerte-y-referencias-golpistas/",
-        "source": "El Cronista",
-        "time": "04/11 18:32",
-        "iso_date": "2026-11-04T21:32:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El BCRA retomó la compra de reservas tras dos días sin intervenir y bajó el dólar oficial",
-        "summary": "El Banco Central volvió a adquirir divisas tras no intervenir el resto de la semana al sumar u$s9 millones. Por alza del oro, reservas subieron más",
-        "link": "https://www.iprofesional.com/finanzas/468359-el-bcra-volvio-a-comprar-dolares-tras-dos-dias-de-correrse-del-mercado",
+        "title": "Los préstamos en pesos cortaron la racha negativa y abren una expectativa positiva para fin de año",
+        "summary": "¿Cambio de marcha? El financiamiento volvió a crecer en octubre, con mejoras en todas las líneas. Las tasas elevadas y la morosidad ponen límites",
+        "link": "https://www.iprofesional.com/finanzas/468427-prestamos-en-pesos-cortaron-racha-negativa-y-abren-expectativas-positivas-para-fin-de-ano",
         "source": "iProfesional",
-        "time": "04/11 18:30",
-        "iso_date": "2026-11-04T21:30:00+00:00",
+        "time": "05/11 12:07",
+        "iso_date": "2026-11-05T15:07:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "A contramano de la suba de Wall Street tras la derrota de Trump, el riesgo país argentino subió a un nuevo máximo en un año",
-        "summary": "Los índices de Wall Street subieron hasta 3% después de las elecciones legislativas en EEUU. Los bonos argentinos cerraron con una pérdida de 1,1% en promedio y el indicador de JP Morgan avanzó a 852 puntos",
-        "link": "https://www.infobae.com/economia/2026/11/04/suben-los-bonos-argentinos-y-cede-el-riesgo-pais-por-la-tendencia-positiva-de-las-bolsas-internacionales/",
+        "title": "RIGI: el Gobierno anunció la segunda ronda de proveedores, con Javier Milei como protagonista",
+        "summary": "El encuentro será el 2 de diciembre y estará focalizada en proyectos de hidrocarburos.",
+        "link": "https://www.cronista.com/economia-politica/rigi-el-gobierno-anuncio-la-segunda-ronda-de-proveedores-con-javier-milei-como-protagonista/",
+        "source": "El Cronista",
+        "time": "05/11 12:04",
+        "iso_date": "2026-11-05T15:04:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Vladimir Werning, vice del BCRA: \"La rentabilidad de los sectores exportadores tiene un efecto derrame fuertísimo\"",
+        "summary": "Pese a que en los próximos días se confirmaría la recesión técnica, el funcionario aseguró que la dinámica del comercio exterior genera un beneficio sistémico para la economía argentina.",
+        "link": "https://www.ambito.com/economia/vladimir-werning-vice-del-bcra-la-rentabilidad-los-sectores-exportadores-tiene-un-efecto-derrame-fuertisimo-n6341886",
+        "source": "Ámbito",
+        "time": "05/11 11:53",
+        "iso_date": "2026-11-05T14:53:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Donald Trump avanza contra la Fed: se fijó una audiencia para intentar apartar a Lisa Cook en diciembre",
+        "summary": "La audiencia para desplazarla está prevista para el 14 de diciembre, mientras la gobernadora de la Reserva Federal niega de plano las acusaciones. Ningún presidente ha destituido jamás a un miembro del banco central de EEUU.",
+        "link": "https://www.ambito.com/economia/donald-trump-avanza-contra-la-fed-se-fijo-una-audiencia-intentar-apartar-lisa-cook-diciembre-n6341908",
+        "source": "Ámbito",
+        "time": "05/11 11:52",
+        "iso_date": "2026-11-05T14:52:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Impacto financiero por el colapso del Ueno Bank: saltó el riesgo país de Paraguay y el guaraní se devaluó 8%",
+        "summary": "El Banco Central paraguayo suspendió a la institución, mientras que la oposición pidió el juicio político del presidente de la república, Santiago Peña",
+        "link": "https://www.infobae.com/economia/2026/11/05/impacto-financiero-por-el-colapso-del-ueno-bank-salto-el-riesgo-pais-de-paraguay-y-el-guarani-se-devaluo-8/",
         "source": "Infobae Economía",
-        "time": "04/11 18:25",
-        "iso_date": "2026-11-04T21:25:55+00:00",
+        "time": "05/11 11:37",
+        "iso_date": "2026-11-05T14:37:14+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El dólar registra su mayor caída en dos meses: así reaccionan las monedas de América Latina",
-        "summary": "La victoria demócrata en el Congreso estadounidense presiona al dólar y favorece a las divisas latinoamericanas. Los inversionistas revisan sus expectativas sobre las tasas de interés, el crecimiento económico y las inversiones en inteligencia artificial.",
-        "link": "https://www.bloomberglinea.com/mercados/el-dolar-registra-su-mayor-caida-en-dos-meses-asi-reaccionan-las-monedas-de-america-latina/",
-        "source": "Bloomberg Línea AR",
-        "time": "04/11 18:22",
-        "iso_date": "2026-11-04T21:22:37+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Una guía para invertir tras resultados de elecciones en EE.UU.: acciones, bonos, dólar y oro",
-        "summary": "Wall Street pasó del temor a una mayor regulación tecnológica a un repunte bursátil tras las elecciones. El resultado plantea nuevas oportunidades de inversión, pero también riesgos para 2027.",
-        "link": "https://www.bloomberglinea.com/mercados/una-guia-para-invertir-tras-resultados-de-elecciones-en-eeuu-acciones-bonos-dolar-y-oro/",
-        "source": "Bloomberg Línea AR",
-        "time": "04/11 18:08",
-        "iso_date": "2026-11-04T21:08:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Optimismo en los mercados internacionales tras las derrota de Trump: subieron las acciones y el petróleo cayó 8%",
-        "summary": "El Dow Jones de Wall Street subió 3% o 1.500 puntos, mientas que el S&P 500 y el Nasdaq también registraron ganancias tras la victoria demócrata en el Congreso de EEUU. El barril Brent retrocedió debajo de USD 100 y subieron los bonos del Tesoro",
-        "link": "https://www.infobae.com/economia/2026/11/04/optimismo-en-los-mercados-internacionales-tras-las-derrota-de-trump-suben-las-acciones-y-cae-el-petroleo/",
-        "source": "Infobae Economía",
-        "time": "04/11 18:06",
-        "iso_date": "2026-11-04T21:06:42+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dow Jones se dispara tras las elecciones en EE.UU. mientras el petróleo se desploma y el dólar cae",
-        "summary": "Las acciones estadounidenses repuntaron pese a los temores iniciales por una mayor regulación de la inteligencia artificial, mientras el petróleo y el dólar retrocedieron.",
-        "link": "https://www.bloomberglinea.com/mercados/dow-jones-se-dispara-y-el-sp-500-sube-tras-disiparse-la-incertidumbre-electoral-mientras-el-dolar-cae/",
-        "source": "Bloomberg Línea AR",
-        "time": "04/11 18:06",
-        "iso_date": "2026-11-04T21:06:39+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei en España tras derrota de Trump: pedido al embajador y temor por la ayuda financiera",
-        "summary": "La caída de Trump provocó incertidumbre en el entorno presidencial, que ahora recalcula su vínculo político y económico con Washington",
-        "link": "https://www.iprofesional.com/politica/468354-milei-madrid-caida-trump-miedo-casa-rosada",
+        "title": "Equinor e YPF reactivan la búsqueda de una Vaca Muerta del mar",
+        "summary": "Junto a YPF y CGC, la compañía noruega pasará a la siguiente etapa en las áreas AUS 105 y AUS 106 de la Cuenca Austral. Prevén perforar hacia 2028.",
+        "link": "https://www.iprofesional.com/energia/468430-equinor-e-ypf-reactivan-la-busqueda-de-una-vaca-muerta-del-mar",
         "source": "iProfesional",
-        "time": "04/11 17:54",
-        "iso_date": "2026-11-04T20:54:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "A contramano de Wall Street, el riesgo país volvió a subir y superó los 850 puntos",
-        "summary": "Los principales índices de la bolsa de Nueva York suben tras las elecciones en Estados Unidos, pero el buen clima no contagia los activos argentinos",
-        "link": "https://www.iprofesional.com/finanzas/468323-a-contramano-de-wall-street-el-riesgo-pais-vuelve-a-subir-y-supera-los-840-puntos",
-        "source": "iProfesional",
-        "time": "04/11 17:45",
-        "iso_date": "2026-11-04T20:45:00+00:00",
+        "time": "05/11 11:36",
+        "iso_date": "2026-11-05T14:36:00+00:00",
         "tickers": [
-          "AL30"
+          "YPFD"
         ],
-        "is_general": true
+        "is_general": false
       },
       {
-        "title": "Cayeron las acciones vinculadas a la IA y las empresas de Musk después del revés electoral que sufrieron los data centers",
-        "summary": "Un analista pronosticó que la victoria demócrata y su control de ambas cámaras del Congreso demorarán la construcción de un millar de centros de datos. SpaceX retrocedió 7% en Wall Street y Tesla perdió 5%",
-        "link": "https://www.infobae.com/economia/2026/11/04/caen-las-acciones-vinculadas-a-la-ia-y-las-empresas-de-musk-despues-del-reves-electoral-que-sufrieron-los-data-centers/",
-        "source": "Infobae Economía",
-        "time": "04/11 16:53",
-        "iso_date": "2026-11-04T19:53:30+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Elecciones en EEUU: cómo cambia el escenario económico y financiero para la Argentina con el triunfo demócrata",
-        "summary": "El gobierno de Trump afrontará los próximos dos años con el Congreso en manos de la oposición demócrata. El nuevo contexto influye en el desempeño de las acciones y bonos domésticos",
-        "link": "https://www.infobae.com/economia/2026/11/04/elecciones-en-eeuu-como-cambia-el-escenario-economico-y-financiero-para-la-argentina-con-el-triunfo-democrata/",
-        "source": "Infobae Economía",
-        "time": "04/11 16:34",
-        "iso_date": "2026-11-04T19:34:59+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El magnate que protagoniza un escándalo financiero en EEUU vende su equipo de Fórmula 1: cuál es su conexión con la Argentina",
-        "summary": "Mark Walter es investigado por el Departamento de Justicia por ocultar USD 20.000 millones en sus aseguradoras. Dos financistas argentinos con historia en Wall Street aparecen en el expediente federal",
-        "link": "https://www.infobae.com/economia/2026/11/04/el-magnate-que-protagoniza-un-escandalo-financiero-en-eeuu-vende-su-equipo-de-formula-1-cual-es-su-conexion-con-la-argentina/",
-        "source": "Infobae Economía",
-        "time": "04/11 16:33",
-        "iso_date": "2026-11-04T19:33:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Cómo lee el Gobierno la derrota de Trump: la sorpresa de los republicanos y la estrategia sobre el vínculo bilateral",
-        "summary": "La mayor sorpresa para los republicanos fue perder en Texas y Kansas. En la Casa Rosada insisten en que el vínculo con Estados Unidos no depende del resultado. Milei va a España para apostar por la próxima elección en juego, tras dos derrotas seguidas de sus aliados.",
-        "link": "https://www.cronista.com/economia-politica/como-lee-el-gobierno-la-derrota-de-trump-la-sorpresa-de-los-republicanos-y-la-estrategia-sobre-el-vinculo-bilateral/",
+        "title": "Midieron a Milei, Kicillof y Bullrich en el Conurbano y uno arrasa en el mapa electoral de 2027",
+        "summary": "Un sondeo de CB Consultora midió la imagen positiva del Presidente, del gobernador bonaerense y de la senadora en cada distrito del Conurbano.",
+        "link": "https://www.cronista.com/economia-politica/midieron-a-milei-kicillof-y-bullrich-en-el-conurbano-y-uno-arrasa-en-el-mapa-electoral-de-2027/",
         "source": "El Cronista",
-        "time": "04/11 16:24",
-        "iso_date": "2026-11-04T19:24:34+00:00",
+        "time": "05/11 11:33",
+        "iso_date": "2026-11-05T14:33:53+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El número dos del BCRA defendió la velocidad diferente a la que crecen los sectores exportadores: “Tienen un derrame fuertísimo”",
+        "summary": "Vladimir Werning sostuvo que las tasas de fondeo son negativas en términos reales y aseguró que el financiamiento por el mercado de capitales ya alcanza USD 35.000 millones. También defendió la estabilidad externa y el aporte exportador",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-numero-dos-del-bcra-defendio-la-velocidad-diferente-a-la-que-crecen-los-sectores-exportadores-tienen-un-derrame-fuertisimo/",
+        "source": "Infobae Economía",
+        "time": "05/11 11:24",
+        "iso_date": "2026-11-05T14:24:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Juicio por YPF: tras la derrota de Trump, las miradas apuntan a un hombre clave ante la Corte",
+        "summary": "El Congreso no decide sobre la causa por u$s16.100 millones, pero la Casa Blanca puede pesar. En 2019, Trump llamaba “amigo” a Macri y aun así su gobierno opinó en contra de la Argentina.",
+        "link": "https://www.cronista.com/economia-politica/juicio-por-ypf-tras-la-derrota-de-trump-las-miradas-apuntan-a-un-hombre-clave-ante-la-corte/",
+        "source": "El Cronista",
+        "time": "05/11 11:10",
+        "iso_date": "2026-11-05T14:10:04+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Vicepresidente del BCRA afirma que sectores que crecen tienen un “derrame absolutamente positivo”",
+        "summary": "El funcionario confió en que en Argentina “se va a ver progresivamente una gran mejora” ante un “camino despejado de crisis cambiaria”.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vicepresidente-del-bcra-afirma-que-sectores-que-crecen-tienen-un-derrame-absolutamente-positivo/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 11:09",
+        "iso_date": "2026-11-05T14:09:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Mapa nacional: La mora de las PyMEs llega al 17,7% y crece la presión por una salida en el Congreso",
+        "summary": "Un relevamiento del Centro de Estudios para la Ciudad y APYME muestra que las pequeñas y medianas empresas tienen una mora del 8,2%, más del doble que las grandes compañías. Además, el 45,3% de quienes refinanciaron sus deudas volvió a caer en incumplimiento y la construcción ...",
+        "link": "https://www.cronista.com/economia-politica/mapa-nacional-la-mora-de-las-pymes-llega-al-177-y-crece-la-presion-por-una-salida-en-el-congreso/",
+        "source": "El Cronista",
+        "time": "05/11 10:56",
+        "iso_date": "2026-11-05T13:56:14+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Advertencia de EE.UU. a Milei: con un Congreso dividido, será más difícil que el FMI salga al rescate",
+        "summary": "Tras el golpe que recibió el oficialismo en Estados Unidos, Gary Litman representante de la Cámara de Comercio de EE.UU. analizó el escenario y la relación con Argentina",
+        "link": "https://www.cronista.com/economia-politica/advertencia-de-eeuu-a-milei-con-un-gobierno-dividido-sera-mas-dificil-que-el-fmi-salga-al-rescate/",
+        "source": "El Cronista",
+        "time": "05/11 10:32",
+        "iso_date": "2026-11-05T13:32:25+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Citrini advierte sobre el fin del boom de la IA en Wall Street: las señales de alerta",
+        "summary": "El análisis identifica señales de agotamiento en las acciones de mayor volatilidad y una rotación hacia sectores defensivos, mientras las grandes tecnológicas enfrentan mayores exigencias de rentabilidad.",
+        "link": "https://www.bloomberglinea.com/mercados/citrini-advierte-sobre-el-fin-del-boom-de-la-ia-en-wall-street-las-senales-de-alerta/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 10:23",
+        "iso_date": "2026-11-05T13:23:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "ARCA oficializó la ampliación del plan de pagos para Pymes: qué deudas podrán regularizar y hasta cuándo",
+        "summary": "La nueva resolución amplía el régimen que había anunciado Luis Caputo y permite incluir obligaciones vencidas hasta el 31 de octubre.",
+        "link": "https://www.cronista.com/economia-politica/arca-oficializo-la-ampliacion-del-plan-de-pagos-para-pymes-que-deudas-podran-regularizar-y-hasta-cuando/",
+        "source": "El Cronista",
+        "time": "05/11 10:19",
+        "iso_date": "2026-11-05T13:19:24+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El saludo entre Milei y Sánchez en Madrid: qué dijo el Presidente argentino",
+        "summary": "La cumbre reunió a ambos líderes en un saludo distante luego de fuertes diferencias diplomáticas y acusaciones en el marco político regional",
+        "link": "https://www.iprofesional.com/politica/468407-como-fue-el-encuentro-entre-milei-y-pedro-sanchez-en-la-cumbre-iberoamericana",
+        "source": "iProfesional",
+        "time": "05/11 10:09",
+        "iso_date": "2026-11-05T13:09:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Monotributo: las 12 preguntas clave sobre cómo regularizar dólares del colchón",
+        "summary": "Los beneficios de Inocencia Fiscal para dólares del colchón son para inscriptos en Ganancias Simplificado, pero los monotributistas tienen una vía",
+        "link": "https://www.iprofesional.com/impuestos/468401-monotributo-12-preguntas-clave-regularizar-dolares-colchon",
+        "source": "iProfesional",
+        "time": "05/11 09:44",
+        "iso_date": "2026-11-05T12:44:00+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
       {
-        "title": "De YPF a Pampa y Telecom, todas las empresas que pagan dividendos en noviembre con sus ON",
-        "summary": "Con apenas 17 días hábiles, noviembre tendrá pagos de ONs de YPF, Pampa, Telecom y otras empresas que distribuirán intereses y devolverán capital",
-        "link": "https://www.iprofesional.com/finanzas/468275-de-ypf-a-telecom-que-empresas-pagan-dividendos-en-noviembre-con-on",
+        "title": "Equinor e YPF reactivan la búsqueda de una Vaca Muerta del mar",
+        "summary": "Junto a YPF y CGC, la compañía noruega pasará a la siguiente etapa en las áreas AUS 105 y AUS 106 de la Cuenca Austral. Prevén perforar hacia 2028.",
+        "link": "https://www.iprofesional.com/energia/468430-equinor-e-ypf-reactivan-la-busqueda-de-una-vaca-muerta-del-mar",
         "source": "iProfesional",
-        "time": "04/11 16:00",
-        "iso_date": "2026-11-04T19:00:00+00:00",
+        "time": "05/11 11:36",
+        "iso_date": "2026-11-05T14:36:00+00:00",
         "tickers": [
-          "PAMP",
-          "TECO2",
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Juicio por YPF: tras la derrota de Trump, las miradas apuntan a un hombre clave ante la Corte",
+        "summary": "El Congreso no decide sobre la causa por u$s16.100 millones, pero la Casa Blanca puede pesar. En 2019, Trump llamaba “amigo” a Macri y aun así su gobierno opinó en contra de la Argentina.",
+        "link": "https://www.cronista.com/economia-politica/juicio-por-ypf-tras-la-derrota-de-trump-las-miradas-apuntan-a-un-hombre-clave-ante-la-corte/",
+        "source": "El Cronista",
+        "time": "05/11 11:10",
+        "iso_date": "2026-11-05T14:10:04+00:00",
+        "tickers": [
           "YPFD"
         ],
         "is_general": false
@@ -355,60 +373,10 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "App YPF crece un 20% y prepara una nueva función para pagar fuera de sus estaciones",
-        "summary": "App YPF alcanzó siete millones de operaciones mensuales y prepara la posibilidad de utilizar el saldo de su billetera para pagar en otros comercios",
-        "link": "https://www.iprofesional.com/negocios/468292-app-ypf-supero-los-7-millones-de-operaciones-y-avanza-con-nuevos-servicios",
-        "source": "iProfesional",
-        "time": "04/11 09:59",
-        "iso_date": "2026-11-04T12:59:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La otra Vaca Muerta: cómo avanza la nueva “fábrica de dólares” a la que apuestan las petroleras",
-        "summary": "El yacimiento, todavía sin explotar, concentra expectativas por su potencial de petróleo y gas no convencional. YPF proyecta pozos y prepara una nueva etapa exploratoria, mientras la provincia busca atraer inversores.",
-        "link": "https://www.cronista.com/economia-politica/la-otra-vaca-muerta-como-avanza-la-nueva-fabrica-de-dolares-a-la-que-apuestan-las-petroleras/",
-        "source": "El Cronista",
-        "time": "03/11 11:04",
-        "iso_date": "2026-11-03T14:04:22+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio",
-        "summary": "Ya son casi 9 de cada 10 barriles los que se explican por la formación neuquina, con impacto en la estructura empresaria y con un guiño directo a un mercado que asume la “sobreponderación” de las acciones. Cuánto puede crecer la petrolera nacional.",
-        "link": "https://www.cronista.com/economia-politica/ypf-cambio-de-escala-el-dato-que-muestra-cuanto-pesa-vaca-muerta-en-su-negocio/",
-        "source": "El Cronista",
-        "time": "03/11 10:52",
-        "iso_date": "2026-11-03T13:52:59+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": true
       }
     ],
     "GGAL": [],
     "PAMP": [
-      {
-        "title": "De YPF a Pampa y Telecom, todas las empresas que pagan dividendos en noviembre con sus ON",
-        "summary": "Con apenas 17 días hábiles, noviembre tendrá pagos de ONs de YPF, Pampa, Telecom y otras empresas que distribuirán intereses y devolverán capital",
-        "link": "https://www.iprofesional.com/finanzas/468275-de-ypf-a-telecom-que-empresas-pagan-dividendos-en-noviembre-con-on",
-        "source": "iProfesional",
-        "time": "04/11 16:00",
-        "iso_date": "2026-11-04T19:00:00+00:00",
-        "tickers": [
-          "PAMP",
-          "TECO2",
-          "YPFD"
-        ],
-        "is_general": false
-      },
       {
         "title": "La Pampa anunció beneficios fiscales y financieros para atraer inversiones vinculadas a Vaca Muerta",
         "summary": "El plan prevé exenciones de impuestos provinciales, estabilidad fiscal por 15 años y un nodo logístico de 500 hectáreas en 25 de Mayo",
@@ -453,6 +421,54 @@
     "ALUA": [],
     "TECO2": [
       {
+        "title": "El Banco Nación bajó las tasas de los préstamos para comprar autos 0 km y usados: cómo queda la cuota",
+        "summary": "La entidad anunció cambios en el plan para financiar la adquisición de vehículos. Se trata de un préstamo personal, por lo que no tiene los gastos que requiere la tramitación de una prenda",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-banco-nacion-bajo-las-tasas-de-los-prestamos-para-comprar-autos-0-km-y-usados-como-queda-la-cuota/",
+        "source": "Infobae Economía",
+        "time": "05/11 14:19",
+        "iso_date": "2026-11-05T17:19:50+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El escándalo Ueno Bank ya golpea a una empresa argentina: suspendió a parte del personal",
+        "summary": "Tras la caída del banco Ueno en Paraguay, la firma tecnológica Itti se queda sin recursos y suspendió a parte de su plantilla de empleados",
+        "link": "https://www.iprofesional.com/management/468446-el-escandalo-ueno-bank-ya-golpea-a-una-empresa-argentina-que-suspendio-personal",
+        "source": "iProfesional",
+        "time": "05/11 13:51",
+        "iso_date": "2026-11-05T16:51:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El colapso de Ueno Bank de Paraguay golpea en Argentina: tiene 900 empleados en Buenos Aires, no pagó sueldos y hay suspensiones",
+        "summary": "Trabajadores de una empresa que provee servicios tecnológicos al grupo empresario aseguran que parte del personal recibió suspensiones por 30 días y que no se acreditaron los salarios que debían pagarse hoy",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-colapso-de-ueno-bank-de-paraguay-golpea-en-argentina-tiene-900-empleados-en-buenos-aires-no-pago-sueldos-y-hay-suspensiones/",
+        "source": "Infobae Economía",
+        "time": "05/11 12:28",
+        "iso_date": "2026-11-05T15:28:54+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Las habilidades más importantes para conseguir trabajo hoy en la Argentina",
+        "summary": "El 95% de los seleccionadores de personal contratarían un candidato con las habilidades correctas, aunque no tenga título o certificación",
+        "link": "https://www.iprofesional.com/management/468390-las-habilidades-mas-importantes-para-conseguir-trabajo-hoy-en-la-argentina",
+        "source": "iProfesional",
+        "time": "05/11 07:14",
+        "iso_date": "2026-11-05T10:14:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Crisis total en BGH: elminará 250 empleos de un plumazo en planta de Tierra del Fuego",
         "summary": "La compañía anunció un ajuste de personal inédito, que impacta a cientos de familias y agrava la crisis en el sector electrónico de la provincia",
         "link": "https://www.iprofesional.com/negocios/468373-bgh-avanza-con-despidos-masivos-de-250-empleados-en-planta-de-tierra-del-fuego",
@@ -463,43 +479,101 @@
           "TECO2"
         ],
         "is_general": false
-      },
-      {
-        "title": "De YPF a Pampa y Telecom, todas las empresas que pagan dividendos en noviembre con sus ON",
-        "summary": "Con apenas 17 días hábiles, noviembre tendrá pagos de ONs de YPF, Pampa, Telecom y otras empresas que distribuirán intereses y devolverán capital",
-        "link": "https://www.iprofesional.com/finanzas/468275-de-ypf-a-telecom-que-empresas-pagan-dividendos-en-noviembre-con-on",
-        "source": "iProfesional",
-        "time": "04/11 16:00",
-        "iso_date": "2026-11-04T19:00:00+00:00",
-        "tickers": [
-          "PAMP",
-          "TECO2",
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Cuánto cobrarán por hora las empleadas doméstica tras el aumento en noviembre 2026",
-        "summary": "El personal de casas particulares recibirá una suba del 1,6 % este mes y otra igual en diciembre. Las escalas cambian según la categoría, el retiro y los adicionales",
-        "link": "https://www.infobae.com/economia/2026/11/03/cuanto-cobraran-por-hora-las-empleadas-domestica-tras-el-aumento-en-noviembre-2026/",
-        "source": "Infobae Economía",
-        "time": "03/11 09:50",
-        "iso_date": "2026-11-03T12:50:38+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
       {
+        "title": "El dólar se disparó en Paraguay y el riesgo país subió 16% tras la renuncia de Peña",
+        "summary": "La intervención de la entidad dejó a 2,9 millones de clientes sin acceso a sus ahorros y agravó la incertidumbre económica y política",
+        "link": "https://www.iprofesional.com/finanzas/468448-el-dolar-se-disparo-en-guay-y-el-riesgo-pais-subio-16-tras-la-renuncia-de-pena",
+        "source": "iProfesional",
+        "time": "05/11 14:10",
+        "iso_date": "2026-11-05T17:10:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país de la Argentina sigue subiendo y rompe la barrera de los 900 puntos básicos",
+        "summary": "Con el trasfondo de una sesión muy negativa de Wall Street, los bonos en dólares de Argentina caen otro 1% y el MSCI Merval pierde 1,1%. El índice de JP Morgan trepa a 918 unidades",
+        "link": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-de-la-argentina-sigue-subiendo-y-rompe-la-barrera-de-los-900-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "05/11 13:39",
+        "iso_date": "2026-11-05T16:39:41+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Los bonos argentinos caen hasta 3,7% y el riesgo país supera los 900 puntos",
+        "summary": "Los bonos argentinos profundizan las pérdidas y el riesgo país se acerca a los 1.000 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
+        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
+        "source": "iProfesional",
+        "time": "05/11 12:19",
+        "iso_date": "2026-11-05T15:19:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Los bonos argentinos caen hasta 3,7% y el riesgo país supera los 900 puntos",
+        "summary": "Los bonos argentinos profundizan las pérdidas y el riesgo país se acerca a los 1.000 puntos, mientras Caputo descarta cambios en el vínculo con EE.UU.",
+        "link": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos",
+        "source": "iProfesional",
+        "time": "05/11 12:19",
+        "iso_date": "2026-11-05T15:19:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Impacto financiero por el colapso del Ueno Bank: saltó el riesgo país de Paraguay y el guaraní se devaluó 8%",
+        "summary": "El Banco Central paraguayo suspendió a la institución, mientras que la oposición pidió el juicio político del presidente de la república, Santiago Peña",
+        "link": "https://www.infobae.com/economia/2026/11/05/impacto-financiero-por-el-colapso-del-ueno-bank-salto-el-riesgo-pais-de-paraguay-y-el-guarani-se-devaluo-8/",
+        "source": "Infobae Economía",
+        "time": "05/11 11:37",
+        "iso_date": "2026-11-05T14:37:14+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "La incertidumbre política aleja a los inversores de los activos argentinos y el riesgo país alcanzó un nuevo máximo anual",
         "summary": "Los bonos soberanos no pudieron acoplarse al rally global de los mercados. A las dudas que generó la elección de Brasil ahora se suma la incertidumbre por el futuro respaldo de Estados Unidos al Gobierno en materia cambiaria",
         "link": "https://www.infobae.com/economia/2026/11/05/la-incertidumbre-politica-aleja-a-los-inversores-de-los-activos-argentinos-y-el-riesgo-pais-alcanzo-un-nuevo-maximo-anual/",
         "source": "Infobae Economía",
-        "time": "05/11 01:58",
-        "iso_date": "2026-11-05T04:58:12+00:00",
+        "time": "05/11 08:39",
+        "iso_date": "2026-11-05T11:39:34+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país rumbo a 1.000 puntos: qué pasará con la economía y dólar si trepa la tensión",
+        "summary": "El riesgo país duplicó el nivel respecto a julio. En el mercado advierten que la dinámica será alcista hasta que mejoren las expectativas electorales.",
+        "link": "https://www.iprofesional.com/finanzas/468380-que-pasara-con-la-economia-y-dolar-si-el-riesgo-pais-supera-los-1000-puntos",
+        "source": "iProfesional",
+        "time": "05/11 07:00",
+        "iso_date": "2026-11-05T10:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país: qué explica la suba y qué esperan los analistas para los bonos argentinos",
+        "summary": "Entre agosto y octubre el spread soberano argentino aumentó alrededor de 400 puntos básicos. En noviembre, la tendencia al alza continúa. Las claves que sigue el mercado.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/riesgo-pais-que-explica-la-suba-y-que-esperan-los-analistas-para-los-bonos-argentinos/",
+        "source": "Bloomberg Línea AR",
+        "time": "05/11 05:45",
+        "iso_date": "2026-11-05T08:45:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -524,18 +598,6 @@
         "source": "Infobae Economía",
         "time": "04/11 18:25",
         "iso_date": "2026-11-04T21:25:55+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "A contramano de Wall Street, el riesgo país volvió a subir y superó los 850 puntos",
-        "summary": "Los principales índices de la bolsa de Nueva York suben tras las elecciones en Estados Unidos, pero el buen clima no contagia los activos argentinos",
-        "link": "https://www.iprofesional.com/finanzas/468323-a-contramano-de-wall-street-el-riesgo-pais-vuelve-a-subir-y-supera-los-840-puntos",
-        "source": "iProfesional",
-        "time": "04/11 17:45",
-        "iso_date": "2026-11-04T20:45:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -608,66 +670,6 @@
         "source": "Infobae Economía",
         "time": "03/11 17:55",
         "iso_date": "2026-11-03T20:55:31+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Para el economista Fernando Marull, la suba del riesgo país refleja que bajaron las chances de reelección de Milei",
-        "summary": "El analista trazó un panorama sobre la estrategia del gobierno de cara a las elecciones, con estabilidad sin crecimiento, medidas acotadas y un mercado que ya descuenta un escenario competitivo pero incierto",
-        "link": "https://www.infobae.com/economia/2026/11/03/para-el-economista-fernando-marull-la-suba-del-riesgo-pais-refleja-que-bajaron-las-chances-de-reeleccion-de-milei/",
-        "source": "Infobae Economía",
-        "time": "03/11 12:30",
-        "iso_date": "2026-11-03T15:30:32+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "La comitiva argentina que sigue las midterms desde Washington y las expectativas en Casa Rosada",
-        "summary": "El vicejefe de Gabinete Ignacio Devitt, el subsecretario Eduardo “Lule” Menem y siete diputados siguen desde Washington una votación clave. Ante la eventual victoria demócrata, en el Gobierno anticipan un impacto en el riesgo país, pero descartan cambios en la alianza con Trum...",
-        "link": "https://www.cronista.com/economia-politica/la-comitiva-argentina-que-sigue-las-midterms-desde-washington-y-las-expectativas-en-casa-rosada/",
-        "source": "El Cronista",
-        "time": "03/11 10:23",
-        "iso_date": "2026-11-03T13:23:51+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Así se movió el riesgo país en América Latina en octubre: fuerte alza en Argentina y Ecuador",
-        "summary": "Los spreads soberanos avanzaron en toda la región, aunque los bonos del país rioplatense fueron particularmente castigados.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/asi-se-me-movio-el-riesgo-pais-en-america-latina-en-octubre-fuerte-alza-en-argentina-y-ecuador/",
-        "source": "Bloomberg Línea AR",
-        "time": "03/11 06:00",
-        "iso_date": "2026-11-03T09:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Por la suba del riesgo país las acciones de un sector clave acumulan caídas de hasta 46% y cotizan en mínimos del año",
-        "summary": "Las valuaciones reflejan que los papeles de los bancos locales se muestran atractivos para posicionarse a largo plazo. La sorpresiva elección en Brasil y la incertidumbre política local juegan en contra de una recuperación",
-        "link": "https://www.infobae.com/economia/2026/11/03/por-la-suba-del-riesgo-pais-las-acciones-de-un-sector-clave-acumulan-caidas-de-hasta-46-y-cotizan-en-minimos-del-ano/",
-        "source": "Infobae Economía",
-        "time": "03/11 02:59",
-        "iso_date": "2026-11-03T05:59:16+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Mercados volátiles: los tres factores que impulsaron el riesgo país y sacudieron a los activos argentinos",
-        "summary": "La incertidumbre por las elecciones en Estados Unidos, las señales políticas de Brasil y la debilidad de Wall Street presionaron sobre bonos, acciones y dólar",
-        "link": "https://www.infobae.com/economia/2026/11/03/mercados-volatiles-los-tres-factores-que-impulsaron-el-riesgo-pais-y-sacudieron-a-los-activos-argentinos/",
-        "source": "Infobae Economía",
-        "time": "03/11 02:58",
-        "iso_date": "2026-11-03T05:58:37+00:00",
         "tickers": [
           "AL30"
         ],
