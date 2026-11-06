@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-06T20:29:19.885130",
-  "updated_str": "06/11/2026 20:29",
+  "updated_at": "2026-11-06T20:39:18.677194",
+  "updated_str": "06/11/2026 20:39",
   "cutoff_hours": 48,
-  "total_news": 255,
+  "total_news": 257,
   "news": {
     "GENERAL": [
+      {
+        "title": "Malvinas: la jugada de Milei para frenar el petróleo británico y los tres escenarios que se abren",
+        "summary": "Argentina y el Reino Unido se enfrentarán el 10 y 11 de noviembre ante el Tribunal Internacional del Derecho del Mar. El Gobierno busca una medida urgente que impida avanzar con la explotación petrolera de Sea Lion mientras se resuelve el arbitraje de fondo.",
+        "link": "https://www.cronista.com/economia-politica/malvinas-la-jugada-de-milei-para-frenar-el-petroleo-britanico-y-los-tres-escenarios-que-se-abren/",
+        "source": "El Cronista",
+        "time": "06/11 17:31",
+        "iso_date": "2026-11-06T20:31:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país vuelve a subir y supera los 930 puntos, nuevo máximo en más de un año",
+        "summary": "Los bonos comenzaron la jornada con mejoras, pero se dieron vuelta por la tarde y operan nuevamente con caídas en el cierre de la semana",
+        "link": "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-vuelve-a-subir-y-supera-los-930-puntos-nuevo-maximo-en-mas-de-un-ano",
+        "source": "iProfesional",
+        "time": "06/11 17:30",
+        "iso_date": "2026-11-06T20:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "La inflación en los países de la OCDE saltó al 4,5% en septiembre por repunte de la energía",
         "summary": "El índice general trepó dos décimas frente a agosto empujado por el salto de la energía en 31 economías del bloque, mientras que en la zona euro escaló al 3,8% y Eurostat prevé un 4% para octubre. Los detalles, en la nota.",
@@ -44,18 +66,6 @@
         "source": "iProfesional",
         "time": "06/11 16:10",
         "iso_date": "2026-11-06T19:10:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país vuelve a subir y supera los 930 puntos, nuevo máximo en más de un año",
-        "summary": "Los bonos comenzaron la jornada con mejoras, pero se dieron vuelta por la tarde y operan nuevamente con caídas en el cierre de la semana",
-        "link": "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-vuelve-a-subir-y-supera-los-930-puntos-nuevo-maximo-en-mas-de-un-ano",
-        "source": "iProfesional",
-        "time": "06/11 16:00",
-        "iso_date": "2026-11-06T19:00:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -312,16 +322,6 @@
         "iso_date": "2026-11-06T13:02:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Preocupacion en el mercado por restricciones de BYMA al financiamiento PyMEs",
-        "summary": "\"En BYMA lo hacen para cubrirse de los riesgos de 2027\", dijo un operador del mercado. \"No entienden el impacto que puede tener y lo más preocupante aún es que no les interesa\", acotó, visiblemente frustrado.",
-        "link": "https://eleconomista.com.ar/finanzas/preocupacion-mercado-restricciones-byma-financiamiento-pymes-n99519",
-        "source": "El Economista",
-        "time": "06/11 09:39",
-        "iso_date": "2026-11-06T12:39:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -396,36 +396,36 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "El riesgo país vuelve a subir y supera los 930 puntos, nuevo máximo en más de un año",
+        "summary": "Los bonos comenzaron la jornada con mejoras, pero se dieron vuelta por la tarde y operan nuevamente con caídas en el cierre de la semana",
+        "link": "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-vuelve-a-subir-y-supera-los-930-puntos-nuevo-maximo-en-mas-de-un-ano",
+        "source": "iProfesional",
+        "time": "06/11 17:30",
+        "iso_date": "2026-11-06T20:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país vuelve a subir y supera los 930 puntos, nuevo máximo en más de un año",
+        "summary": "Los bonos comenzaron la jornada con mejoras, pero se dieron vuelta por la tarde y operan nuevamente con caídas en el cierre de la semana",
+        "link": "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-vuelve-a-subir-y-supera-los-930-puntos-nuevo-maximo-en-mas-de-un-ano",
+        "source": "iProfesional",
+        "time": "06/11 17:30",
+        "iso_date": "2026-11-06T20:30:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "El mercado advierte un problema con las reservas que acelera la suba del riesgo país",
         "summary": "Ante cada mala noticia del ámbito internacional, la percepción de default argentino crece aceleradamente. Cuál es la clave, según expertos del mercado",
         "link": "https://www.iprofesional.com/economia/468477-la-city-alerta-un-problema-con-las-reservas-que-acelera-la-suba-del-riesgo-pais",
         "source": "iProfesional",
         "time": "06/11 16:10",
         "iso_date": "2026-11-06T19:10:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país vuelve a subir y supera los 930 puntos, nuevo máximo en más de un año",
-        "summary": "Los bonos comenzaron la jornada con mejoras, pero se dieron vuelta por la tarde y operan nuevamente con caídas en el cierre de la semana",
-        "link": "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-vuelve-a-subir-y-supera-los-930-puntos-nuevo-maximo-en-mas-de-un-ano",
-        "source": "iProfesional",
-        "time": "06/11 16:00",
-        "iso_date": "2026-11-06T19:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país vuelve a subir y supera los 930 puntos, nuevo máximo en más de un año",
-        "summary": "Los bonos comenzaron la jornada con mejoras, pero se dieron vuelta por la tarde y operan nuevamente con caídas en el cierre de la semana",
-        "link": "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-vuelve-a-subir-y-supera-los-930-puntos-nuevo-maximo-en-mas-de-un-ano",
-        "source": "iProfesional",
-        "time": "06/11 16:00",
-        "iso_date": "2026-11-06T19:00:00+00:00",
         "tickers": [
           "AL30"
         ],
