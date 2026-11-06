@@ -1,20 +1,62 @@
 {
-  "updated_at": "2026-11-06T17:20:50.410335",
-  "updated_str": "06/11/2026 17:20",
+  "updated_at": "2026-11-06T18:34:36.941510",
+  "updated_str": "06/11/2026 18:34",
   "cutoff_hours": 48,
-  "total_news": 285,
+  "total_news": 274,
   "news": {
     "GENERAL": [
       {
-        "title": "Riesgo país rumbo a 1.000 puntos: la City advierte que la corrida contra bonos se adelantó",
-        "summary": "Las señales que llegan de afuera generan preocupación en la plaza local, mientras operadores y expertos buscan señales para el corto plazo",
-        "link": "https://www.iprofesional.com/finanzas/468484-la-city-advierte-que-la-corrida-contra-bonos-argentinos-se-adelanto",
+        "title": "Cuánto puede beneficiar políticamente a Milei la visita del Papa a la Argentina",
+        "summary": "¿Tendrá impacto electoral el mensaje de León XIV? Bullrich, las PASO y el Presupuesto, los 3 conflictos que se le avecinan tras la gira del Papa",
+        "link": "https://www.iprofesional.com/politica/468466-cuanto-puede-beneficiar-politicamente-a-milei-la-visita-del-papa-a-la-argentina",
         "source": "iProfesional",
-        "time": "06/11 14:30",
-        "iso_date": "2026-11-06T17:30:00+00:00",
+        "time": "06/11 14:50",
+        "iso_date": "2026-11-06T17:50:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Qué pasa con una deuda mientras está suspendido el embargo y qué sucede con los intereses punitorios",
+        "summary": "El plan de hasta 18 cuotas admite deudas vencidas hasta el 31 de octubre. ¿Qué pasa con los intereses?",
+        "link": "https://www.cronista.com/economia-politica/que-pasa-con-una-deuda-mientras-esta-suspendido-el-embargo-y-que-sucede-con-los-intereses-punitorios/",
+        "source": "El Cronista",
+        "time": "06/11 14:41",
+        "iso_date": "2026-11-06T17:41:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cae el riesgo país argentino, pero sigue sobre los 900 puntos, mientras Wall Street insinúa un rebote",
+        "summary": "El índice Nasdaq rebota 1,6% tras el desplome del jueves. Los bonos Globales de Argentina recuperan cerca de 1% y el indicador de JP Morgan cede a 918 puntos",
+        "link": "https://www.infobae.com/economia/2026/11/06/el-riesgo-pais-argentino-cae-debajo-de-los-900-puntos-mientras-que-wall-street-insinua-un-rebote/",
+        "source": "Infobae Economía",
+        "time": "06/11 14:28",
+        "iso_date": "2026-11-06T17:28:40+00:00",
         "tickers": [
           "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Alivio para los bonos: cae el riesgo país y vuelve a ubicarse debajo de los 900 puntos",
+        "summary": "La expectativa de los inversores se mantiene tras un rebote parcial, mientras la incertidumbre persiste de cara al escenario electoral futuro",
+        "link": "https://www.iprofesional.com/finanzas/468549-alivio-para-los-bonos-cae-el-riesgo-pais-y-vuelve-a-ubicarse-debajo-de-los-900-puntos",
+        "source": "iProfesional",
+        "time": "06/11 14:27",
+        "iso_date": "2026-11-06T17:27:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Argentina espera al Papa, entre la fe y la política: la agenda completa y el cambio de último momento",
+        "summary": "El Pontífice inició su travesía con una primera escala en Uruguay. El domingo será recibido por Javier Milei en Aeroparque. Será el primer Papa en visitar el país desde Juan Pablo II, en 1987. La Iglesia y el Gobierno buscan mantener la visita en clave pastoral, mientras la po...",
+        "link": "https://www.cronista.com/economia-politica/arranca-la-gira-por-la-region-de-leon-xix-argentina-recibe-al-papa-entre-la-fe-y-la-politica/",
+        "source": "El Cronista",
+        "time": "06/11 14:20",
+        "iso_date": "2026-11-06T17:20:08+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -25,18 +67,6 @@
         "time": "06/11 13:16",
         "iso_date": "2026-11-06T16:16:30+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país argentino cae debajo de los 900 puntos, mientras que Wall Street insinúa un rebote",
-        "summary": "",
-        "link": "https://www.infobae.com/economia/2026/11/06/el-riesgo-pais-argentino-cae-debajo-de-los-900-puntos-mientras-que-wall-street-insinua-un-rebote/",
-        "source": "Infobae Economía",
-        "time": "06/11 13:09",
-        "iso_date": "2026-11-06T16:09:06+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -290,38 +320,6 @@
           "GD30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Argentina espera al Papa, entre la fe y la política: la agenda completa y el cambio de último momento",
-        "summary": "El Papa León XIV inició su travesía con una primera escala en Uruguay. El domingo será recibido por Javier Milei en Aeroparque. Será el primer Papa en visitar el país desde Juan Pablo II, en 1987. La Iglesia y el Gobierno buscan mantener la visita en clave pastoral, mientras l...",
-        "link": "https://www.cronista.com/economia-politica/arranca-la-gira-por-la-region-de-leon-xix-argentina-recibe-al-papa-entre-la-fe-y-la-politica/",
-        "source": "El Cronista",
-        "time": "06/11 07:47",
-        "iso_date": "2026-11-06T10:47:19+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La City prevé un nuevo umbral para el riesgo país y advierte por impacto claro sobre dólar",
-        "summary": "Economistas advierten que, de no haber novedades positivas para el Gobierno, el índice tenderá al alza y acelerará la presión sobre reservas",
-        "link": "https://www.iprofesional.com/finanzas/468496-cual-es-el-nuevo-techo-que-preve-la-city-para-el-riesgo-pais",
-        "source": "iProfesional",
-        "time": "06/11 07:00",
-        "iso_date": "2026-11-06T10:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Qué espera el mercado para inflación, dólar y reservas en año electoral",
-        "summary": "Con el 2027 en el horizonte, el Gobierno comienza a trabajar con las expectativas del círculo rojo. Los detalles.",
-        "link": "https://www.cronista.com/economia-politica/que-espera-el-mercado-para-inflacion-dolar-y-reservas-en-ano-electoral/",
-        "source": "El Cronista",
-        "time": "06/11 06:30",
-        "iso_date": "2026-11-06T09:30:51+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -369,18 +367,6 @@
         "is_general": true
       },
       {
-        "title": "El escándalo Ueno Bank ya golpea a una empresa argentina: suspendió a parte del personal",
-        "summary": "Tras la caída del banco Ueno en Paraguay, la firma tecnológica Itti se queda sin recursos y suspendió a parte de su plantilla de empleados",
-        "link": "https://www.iprofesional.com/management/468446-el-escandalo-ueno-bank-ya-golpea-a-una-empresa-argentina-que-suspendio-personal",
-        "source": "iProfesional",
-        "time": "05/11 13:51",
-        "iso_date": "2026-11-05T16:51:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
-      {
         "title": "El colapso de Ueno Bank de Paraguay golpea en Argentina: tiene 900 empleados en Buenos Aires, no pagó sueldos y hay suspensiones",
         "summary": "Trabajadores de una empresa que provee servicios tecnológicos al grupo empresario aseguran que parte del personal recibió suspensiones por 30 días y que no se acreditaron los salarios que debían pagarse hoy",
         "link": "https://www.infobae.com/economia/2026/11/05/el-colapso-de-ueno-bank-de-paraguay-golpea-en-argentina-tiene-900-empleados-en-buenos-aires-no-pago-sueldos-y-hay-suspensiones/",
@@ -396,24 +382,24 @@
     "CEPU": [],
     "AL30": [
       {
-        "title": "Riesgo país rumbo a 1.000 puntos: la City advierte que la corrida contra bonos se adelantó",
-        "summary": "Las señales que llegan de afuera generan preocupación en la plaza local, mientras operadores y expertos buscan señales para el corto plazo",
-        "link": "https://www.iprofesional.com/finanzas/468484-la-city-advierte-que-la-corrida-contra-bonos-argentinos-se-adelanto",
-        "source": "iProfesional",
-        "time": "06/11 14:30",
-        "iso_date": "2026-11-06T17:30:00+00:00",
+        "title": "Cae el riesgo país argentino, pero sigue sobre los 900 puntos, mientras Wall Street insinúa un rebote",
+        "summary": "El índice Nasdaq rebota 1,6% tras el desplome del jueves. Los bonos Globales de Argentina recuperan cerca de 1% y el indicador de JP Morgan cede a 918 puntos",
+        "link": "https://www.infobae.com/economia/2026/11/06/el-riesgo-pais-argentino-cae-debajo-de-los-900-puntos-mientras-que-wall-street-insinua-un-rebote/",
+        "source": "Infobae Economía",
+        "time": "06/11 14:28",
+        "iso_date": "2026-11-06T17:28:40+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El riesgo país argentino cae debajo de los 900 puntos, mientras que Wall Street insinúa un rebote",
-        "summary": "",
-        "link": "https://www.infobae.com/economia/2026/11/06/el-riesgo-pais-argentino-cae-debajo-de-los-900-puntos-mientras-que-wall-street-insinua-un-rebote/",
-        "source": "Infobae Economía",
-        "time": "06/11 13:09",
-        "iso_date": "2026-11-06T16:09:06+00:00",
+        "title": "Alivio para los bonos: cae el riesgo país y vuelve a ubicarse debajo de los 900 puntos",
+        "summary": "La expectativa de los inversores se mantiene tras un rebote parcial, mientras la incertidumbre persiste de cara al escenario electoral futuro",
+        "link": "https://www.iprofesional.com/finanzas/468549-alivio-para-los-bonos-cae-el-riesgo-pais-y-vuelve-a-ubicarse-debajo-de-los-900-puntos",
+        "source": "iProfesional",
+        "time": "06/11 14:27",
+        "iso_date": "2026-11-06T17:27:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -480,18 +466,6 @@
         "is_general": true
       },
       {
-        "title": "La City prevé un nuevo umbral para el riesgo país y advierte por impacto claro sobre dólar",
-        "summary": "Economistas advierten que, de no haber novedades positivas para el Gobierno, el índice tenderá al alza y acelerará la presión sobre reservas",
-        "link": "https://www.iprofesional.com/finanzas/468496-cual-es-el-nuevo-techo-que-preve-la-city-para-el-riesgo-pais",
-        "source": "iProfesional",
-        "time": "06/11 07:00",
-        "iso_date": "2026-11-06T10:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "La tormenta global volvió a impactar en el riesgo país argentino y suma más complicaciones para el año electoral",
         "summary": "Los bonos en dólares cayeron más de 2% y siguen sin encontrar un piso. El frente externo está más complicado, pero sobre todo los inversores se mantienen cautelosos ante un escenario político muy incierto de cara al 2027",
         "link": "https://www.infobae.com/economia/2026/11/06/la-tormenta-global-volvio-a-impactar-en-el-riesgo-pais-argentino-y-suma-mas-complicaciones-para-el-ano-electoral/",
@@ -540,48 +514,12 @@
         "is_general": true
       },
       {
-        "title": "En plena suba del riesgo país, el BCRA reveló el precio del dólar que prevén 45 analistas",
-        "summary": "El BCRA publicó su Relevamiento de Expectativas de Mercado (REM) en el que más de 45 economistas locales trazan proyecciones para dólar e inflación",
-        "link": "https://www.iprofesional.com/finanzas/468485-el-bcra-revelo-que-esperan-45-economistas-para-el-dolar-en-argentina",
-        "source": "iProfesional",
-        "time": "05/11 20:08",
-        "iso_date": "2026-11-05T23:08:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "El riesgo país trepó por encima de los 900 puntos y las acciones argentinas sufrieron fuertes caídas en Wall Street",
         "summary": "Los índices de Nueva York cayeron hasta 5,5%, por el arrastre de los valores tecnológicos. Los bonos argentinos cedieron 2,5% y el riesgo país superó los 900 puntos básicos. El MSCI Merval perdió 4,1%. Las reservas quedaron debajo de USD 50.000 millones por un pago al FMI",
         "link": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-trepo-por-encima-de-los-900-puntos-y-las-acciones-argentinas-sufrieron-fuertes-caidas-en-wall-street/",
         "source": "Infobae Economía",
         "time": "05/11 18:51",
         "iso_date": "2026-11-05T21:51:52+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Renunció el presidente Peña, pero el riesgo país subió más en Argentina que en Paraguay",
-        "summary": "El presidente paraguayo presentó su renuncia al cargo tras el escándalo Ueno Bank. Qué ocurrió con el riesgo país y la comparación con Argentina",
-        "link": "https://www.iprofesional.com/economia/468469-renuncio-el-presidente-pena-pero-el-riesgo-pais-subio-mas-en-argentina-que-en-paraguay",
-        "source": "iProfesional",
-        "time": "05/11 18:00",
-        "iso_date": "2026-11-05T21:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Riesgo país rumbo a 1.000 puntos: qué pasará con la economía y dólar si trepa la tensión",
-        "summary": "El riesgo país duplicó el nivel respecto a julio. En el mercado advierten que la dinámica será alcista hasta que mejoren las expectativas electorales.",
-        "link": "https://www.iprofesional.com/finanzas/468380-que-pasara-con-la-economia-y-dolar-si-el-riesgo-pais-supera-los-1000-puntos",
-        "source": "iProfesional",
-        "time": "05/11 15:39",
-        "iso_date": "2026-11-05T18:39:00+00:00",
         "tickers": [
           "AL30"
         ],
