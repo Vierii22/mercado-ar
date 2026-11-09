@@ -1,20 +1,42 @@
 {
-  "updated_at": "2026-11-09T20:37:15.730733",
-  "updated_str": "09/11/2026 20:37",
+  "updated_at": "2026-11-09T21:40:16.392550",
+  "updated_str": "09/11/2026 21:40",
   "cutoff_hours": 48,
-  "total_news": 133,
+  "total_news": 134,
   "news": {
     "GENERAL": [
       {
-        "title": "El riesgo país cae debajo de los 900 puntos, en una sesión positiva para los mercados internacionales",
-        "summary": "Los índices de Wall Street suben más de 2%. Los bonos Globales de Argentina rebotan 1% y el indicador de JP Morgan se sitúa en 880 puntos. Los ADR ofrecen mayoría de alzas",
+        "title": "Exclusiva: CFE evalúa emisión por US$2.000 millones para Fibra con activos de generación eléctrica",
+        "summary": "Los activos de generación eléctrica que planea fibrar CFE están valuados en más de US$4.000 millones.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-evalua-emision-por-us2000-millones-para-fibra-con-activos-de-generacion-electrica/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/11 18:23",
+        "iso_date": "2026-11-09T21:23:28+00:00",
+        "tickers": [
+          "CEPU"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El riesgo país cayó debajo de los 900 puntos, en una sesión positiva para los mercados internacionales",
+        "summary": "Los índices de Wall Street subieron más de 2%. Los bonos Globales de Argentina rebotaron 1,8% y el indicador de JP Morgan se sitúa en 873 puntos. Los ADR cerraron con mayoría de alzas",
         "link": "https://www.infobae.com/economia/2026/11/09/cae-el-riesgo-pais-argentino-en-una-sesion-positiva-para-los-mercados-internacionales/",
         "source": "Infobae Economía",
-        "time": "09/11 17:06",
-        "iso_date": "2026-11-09T20:06:54+00:00",
+        "time": "09/11 18:19",
+        "iso_date": "2026-11-09T21:19:56+00:00",
         "tickers": [
           "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Las acciones de Nvidia perdieron 4% en Wall Street y se dispararon las de sus competidores mientras avanza la investigación",
+        "summary": "La compañía fabricante de chips es de las más valiosas de Wall Street y sufre una rueda de ventas por la relación extramatrimonial de su CEO con una supuesta espía china. Las acciones de otras compañías del sector escalan hasta 9%",
+        "link": "https://www.infobae.com/economia/2026/11/09/las-acciones-de-nvidia-caen-5-en-wall-street-y-se-disparan-las-de-sus-competidores-mientras-avanza-la-investigacion/",
+        "source": "Infobae Economía",
+        "time": "09/11 18:08",
+        "iso_date": "2026-11-09T21:08:03+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -46,16 +68,6 @@
         "source": "iProfesional",
         "time": "09/11 15:40",
         "iso_date": "2026-11-09T18:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones de Nvidia caen 5% en Wall Street y se disparan las de sus competidores mientras avanza la investigación",
-        "summary": "La compañía fabricante de chips es de las más valiosas de Wall Street y sufre una rueda de ventas por la relación extramatrimonial de su CEO con una supuesta espía china. Las acciones de otras compañías del sector escalan hasta 9%",
-        "link": "https://www.infobae.com/economia/2026/11/09/las-acciones-de-nvidia-caen-5-en-wall-street-y-se-disparan-las-de-sus-competidores-mientras-avanza-la-investigacion/",
-        "source": "Infobae Economía",
-        "time": "09/11 13:08",
-        "iso_date": "2026-11-09T16:08:06+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -236,16 +248,6 @@
         "is_general": true
       },
       {
-        "title": "El papa León XIV tocó cinco puntos sensibles para Milei frente a todo el arco político",
-        "summary": "En su mensaje a las autoridades el pontífice hizo un llamado al diálogo y dejó frases que contrastaron con el discurso y la gestión del Gobierno",
-        "link": "https://www.iprofesional.com/politica/468636-5-puntos-sensibles-para-milei-que-toco-el-papa-leon-xiv-en-su-primer-mensaje",
-        "source": "iProfesional",
-        "time": "08/11 23:17",
-        "iso_date": "2026-11-09T02:17:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Milei evitó polemizar sobre el mensaje de León XIV: “No quiero caer en esa miserabilidad”",
         "summary": "Tras la visita del Papa, Milei dijo estar “dispuesto al diálogo”, pero apuntó contra una “caricaturización malévola” de parte de la política y el periodismo, y se negó a opinar sobre el discurso de León XIV.",
         "link": "https://www.cronista.com/economia-politica/milei-evito-polemizar-sobre-el-mensaje-de-leon-xiv-no-quiero-caer-en-esa-miserabilidad/",
@@ -368,33 +370,32 @@
     ],
     "GGAL": [],
     "PAMP": [],
-    "BMA": [
-      {
-        "title": "Sturzenegger contó por qué es el “plomero” del gobierno y habló sobre el nivel de riesgo país",
-        "summary": "Mencionó las farmacias, la AFA y la VTV como desregulaciones trabadas, reiteró que el peronismo es el garante del statu-quo, aseguró que si Milei es reelecto el riesgo país “se va a derrumbar”, explicó por qué “la macro es para vagos” y defendió la forma en que se expresa el p...",
-        "link": "https://www.infobae.com/economia/2026/11/07/sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y-explico-por-que-es-el-plomero-del-gobierno-la-macro-es-para-vagos-y-milei-habla-como-habla/",
-        "source": "Infobae Economía",
-        "time": "07/11 18:05",
-        "iso_date": "2026-11-07T21:05:29+00:00",
-        "tickers": [
-          "AL30",
-          "BMA"
-        ],
-        "is_general": true
-      }
-    ],
+    "BMA": [],
     "TXAR": [],
     "ALUA": [],
     "TECO2": [],
-    "CEPU": [],
+    "CEPU": [
+      {
+        "title": "Exclusiva: CFE evalúa emisión por US$2.000 millones para Fibra con activos de generación eléctrica",
+        "summary": "Los activos de generación eléctrica que planea fibrar CFE están valuados en más de US$4.000 millones.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/exclusiva-cfe-evalua-emision-por-us2000-millones-para-fibra-con-activos-de-generacion-electrica/",
+        "source": "Bloomberg Línea AR",
+        "time": "09/11 18:23",
+        "iso_date": "2026-11-09T21:23:28+00:00",
+        "tickers": [
+          "CEPU"
+        ],
+        "is_general": false
+      }
+    ],
     "AL30": [
       {
-        "title": "El riesgo país cae debajo de los 900 puntos, en una sesión positiva para los mercados internacionales",
-        "summary": "Los índices de Wall Street suben más de 2%. Los bonos Globales de Argentina rebotan 1% y el indicador de JP Morgan se sitúa en 880 puntos. Los ADR ofrecen mayoría de alzas",
+        "title": "El riesgo país cayó debajo de los 900 puntos, en una sesión positiva para los mercados internacionales",
+        "summary": "Los índices de Wall Street subieron más de 2%. Los bonos Globales de Argentina rebotaron 1,8% y el indicador de JP Morgan se sitúa en 873 puntos. Los ADR cerraron con mayoría de alzas",
         "link": "https://www.infobae.com/economia/2026/11/09/cae-el-riesgo-pais-argentino-en-una-sesion-positiva-para-los-mercados-internacionales/",
         "source": "Infobae Economía",
-        "time": "09/11 17:06",
-        "iso_date": "2026-11-09T20:06:54+00:00",
+        "time": "09/11 18:19",
+        "iso_date": "2026-11-09T21:19:56+00:00",
         "tickers": [
           "AL30"
         ],
@@ -481,19 +482,6 @@
         "iso_date": "2026-11-08T03:00:00+00:00",
         "tickers": [
           "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Sturzenegger contó por qué es el “plomero” del gobierno y habló sobre el nivel de riesgo país",
-        "summary": "Mencionó las farmacias, la AFA y la VTV como desregulaciones trabadas, reiteró que el peronismo es el garante del statu-quo, aseguró que si Milei es reelecto el riesgo país “se va a derrumbar”, explicó por qué “la macro es para vagos” y defendió la forma en que se expresa el p...",
-        "link": "https://www.infobae.com/economia/2026/11/07/sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y-explico-por-que-es-el-plomero-del-gobierno-la-macro-es-para-vagos-y-milei-habla-como-habla/",
-        "source": "Infobae Economía",
-        "time": "07/11 18:05",
-        "iso_date": "2026-11-07T21:05:29+00:00",
-        "tickers": [
-          "AL30",
-          "BMA"
         ],
         "is_general": true
       }
