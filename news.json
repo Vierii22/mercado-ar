@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-11-10T23:36:57.458290",
-  "updated_str": "10/11/2026 23:36",
+  "updated_at": "2026-11-10T23:57:39.149090",
+  "updated_str": "10/11/2026 23:57",
   "cutoff_hours": 48,
   "total_news": 158,
   "news": {
     "GENERAL": [
+      {
+        "title": "Los bonos argentinos cerraron en alza y el riesgo país bajó a 853 unidades",
+        "summary": "La inflación subyacente de Estados Unidos superó las expectativas y alimentó las apuestas por una suba mayor de tasas de la Fed, mientras el petróleo profundizó sus bajas",
+        "link": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/",
+        "source": "Infobae Economía",
+        "time": "10/11 20:46",
+        "iso_date": "2026-11-10T23:46:50+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Por la indignante carpa VIP, el Gobierno pagó 6 millones de dólares",
         "summary": "La asignación de millonarios fondos públicos para instalaciones exclusivas en un evento religioso generó denuncias por supuestas irregularidades",
@@ -23,18 +35,6 @@
         "time": "10/11 17:13",
         "iso_date": "2026-11-10T20:13:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Los bonos argentinos operan con una leve suba y el riesgo país vuelve a ceder",
-        "summary": "Ayer, el indicador del JP Morgan había bajado 66 puntos básicos. El índice de inflación en Estados Unidos fue superior al esperado",
-        "link": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/",
-        "source": "Infobae Economía",
-        "time": "10/11 17:05",
-        "iso_date": "2026-11-10T20:05:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -374,12 +374,12 @@
     ],
     "AL30": [
       {
-        "title": "Los bonos argentinos operan con una leve suba y el riesgo país vuelve a ceder",
-        "summary": "Ayer, el indicador del JP Morgan había bajado 66 puntos básicos. El índice de inflación en Estados Unidos fue superior al esperado",
+        "title": "Los bonos argentinos cerraron en alza y el riesgo país bajó a 853 unidades",
+        "summary": "La inflación subyacente de Estados Unidos superó las expectativas y alimentó las apuestas por una suba mayor de tasas de la Fed, mientras el petróleo profundizó sus bajas",
         "link": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/",
         "source": "Infobae Economía",
-        "time": "10/11 17:05",
-        "iso_date": "2026-11-10T20:05:46+00:00",
+        "time": "10/11 20:46",
+        "iso_date": "2026-11-10T23:46:50+00:00",
         "tickers": [
           "AL30"
         ],
