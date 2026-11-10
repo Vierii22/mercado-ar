@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-10T22:42:37.419083",
-  "updated_str": "10/11/2026 22:42",
+  "updated_at": "2026-11-10T23:36:57.458290",
+  "updated_str": "10/11/2026 23:36",
   "cutoff_hours": 48,
-  "total_news": 161,
+  "total_news": 158,
   "news": {
     "GENERAL": [
       {
@@ -38,6 +38,16 @@
         "is_general": true
       },
       {
+        "title": "Brasil, dividido por un drástico plan para bajar tasas que tiene un raro aroma argentino",
+        "summary": "El padre del Plan Real propuso un corte de tasas de interés, y generó el rechazo del mercado financiero, que teme devaluación y rebrote inflacionario",
+        "link": "https://www.iprofesional.com/economia/468734-plan-para-cortar-tasas-a-lo-caputo-divide-a-brasil",
+        "source": "iProfesional",
+        "time": "10/11 16:53",
+        "iso_date": "2026-11-10T19:53:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
         "title": "Las acciones argentinas caen en Wall Street por la baja del petróleo y el dato de inflación de EEUU",
         "summary": "Los ADR operaban mayormente en baja poco antes de las 16, con YPF y Vista entre los descensos más pronunciados. Los bonos sostenían leves subas y el riesgo país repuntaba a 880 puntos",
         "link": "https://www.infobae.com/economia/2026/11/10/las-acciones-argentinas-caen-en-wall-street-por-la-baja-del-petroleo-y-el-dato-de-inflacion-de-eeuu/",
@@ -45,8 +55,8 @@
         "time": "10/11 16:09",
         "iso_date": "2026-11-10T19:09:04+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -313,18 +323,6 @@
         "iso_date": "2026-11-09T22:52:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El riesgo país se desplomó 7% y cerró por debajo de los 900 puntos en una rueda de euforia para Wall Street",
-        "summary": "Los bonos Globales de Argentina rebotaron cerca de 2% y el riesgo país cayó a 873 puntos básicos. Los ADR finalizaron con mayoría de alzas gracias a la suba de 2% en los índices de Nueva York. Las acciones de Nvidia perdieron 4,2% por el “affaire” de su CEO. El petróleo cayó 6...",
-        "link": "https://www.infobae.com/economia/2026/11/09/el-riesgo-pais-se-desplomo-7-y-cerro-por-debajo-de-los-900-puntos-en-una-rueda-de-euforia-para-wall-street/",
-        "source": "Infobae Economía",
-        "time": "09/11 18:48",
-        "iso_date": "2026-11-09T21:48:21+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -336,8 +334,8 @@
         "time": "10/11 16:09",
         "iso_date": "2026-11-10T19:09:04+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
@@ -395,8 +393,8 @@
         "time": "10/11 16:09",
         "iso_date": "2026-11-10T19:09:04+00:00",
         "tickers": [
-          "AL30",
-          "YPFD"
+          "YPFD",
+          "AL30"
         ],
         "is_general": true
       },
