@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12T22:24:48.306939",
-  "updated_str": "12/11/2026 22:24",
+  "updated_at": "2026-11-12T22:39:07.426446",
+  "updated_str": "12/11/2026 22:39",
   "cutoff_hours": 48,
-  "total_news": 250,
+  "total_news": 249,
   "news": {
     "GENERAL": [
       {
@@ -22,6 +22,16 @@
         "source": "Bloomberg Línea AR",
         "time": "12/11 19:18",
         "iso_date": "2026-11-12T22:18:05+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Entre la guerra y El Niño, la inflación carcome el humor social",
+        "summary": "El Indec entregó hoy la peor de las noticias. El IPC de octubre fue del 2,2% mensual y el número anualizado sigue en el 33,1%, a pesar del severo ajuste que viene haciendo el Gobierno desde hace casi tres años. Esto desconfigura todo, ya que las tasas quedan claramente negativ...",
+        "link": "https://eleconomista.com.ar/finanzas/entre-guerra-nino-inflacion-carcome-humor-social-n99632",
+        "source": "El Economista",
+        "time": "12/11 19:16",
+        "iso_date": "2026-11-12T22:16:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -304,18 +314,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "YPF Black Nordelta es la mejor propuesta gastronímica de conveniencia",
-        "summary": "El servicio gastronómico de YPF en su estación Black de Nordelta logró el primer puesto en los premios internacionales Best Foodvenience Store 2026.",
-        "link": "https://www.iprofesional.com/energia/468927-ypf-black-nordelta-fue-premiada-como-mejor-estacion-del-mundo",
-        "source": "iProfesional",
-        "time": "12/11 13:48",
-        "iso_date": "2026-11-12T16:48:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -363,8 +361,8 @@
         "time": "11/11 06:00",
         "iso_date": "2026-11-11T09:00:00+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -394,8 +392,8 @@
         "time": "11/11 06:00",
         "iso_date": "2026-11-11T09:00:00+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
