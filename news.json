@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-11-17T22:43:33.662720",
-  "updated_str": "17/11/2026 22:43",
+  "updated_at": "2026-11-17T23:01:34.431484",
+  "updated_str": "17/11/2026 23:01",
   "cutoff_hours": 48,
-  "total_news": 222,
+  "total_news": 223,
   "news": {
     "GENERAL": [
+      {
+        "title": "Las acciones y los bonos argentinos resistieron a una rueda bajista de Wall Street",
+        "summary": "Los indicadores de EEUU cedieron hasta 1,4% antes del balance de Nvidia. El MSCI Merval rebotó más de 1% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 75 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/11/17/las-acciones-y-los-bonos-argentinos-resistieron-a-una-rueda-bajista-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "17/11 19:43",
+        "iso_date": "2026-11-17T22:43:24+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Reforma electoral: se negocian más cambios, pero Milei está cerca de suspender las PASO",
         "summary": "El Gobierno no apuró la firma este martes porque negocia más modificaciones. Las colectoras hacen ruido, pero LLA recibe señales favorables",
@@ -23,8 +35,8 @@
         "time": "17/11 19:00",
         "iso_date": "2026-11-17T22:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -196,8 +208,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -320,16 +332,6 @@
         "iso_date": "2026-11-17T16:33:07+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "¿Milei, Bullrich o Kicillof? La última encuesta de este reconocido consultor reveló al favorito para 2027",
-        "summary": "El Presidente no lidera el ranking de imagen positiva, según el último informe de Giacobbe & Asociados. ¿Quién lo supera?",
-        "link": "https://www.cronista.com/economia-politica/milei-bullrich-o-kicillof-la-ultima-encuesta-de-este-reconocido-consultor-revelo-al-favorito-para-2027/",
-        "source": "El Cronista",
-        "time": "17/11 13:30",
-        "iso_date": "2026-11-17T16:30:31+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -341,8 +343,8 @@
         "time": "17/11 19:00",
         "iso_date": "2026-11-17T22:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -444,8 +446,8 @@
         "time": "17/11 19:00",
         "iso_date": "2026-11-17T22:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -546,6 +548,18 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "Las acciones y los bonos argentinos resistieron a una rueda bajista de Wall Street",
+        "summary": "Los indicadores de EEUU cedieron hasta 1,4% antes del balance de Nvidia. El MSCI Merval rebotó más de 1% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 75 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/11/17/las-acciones-y-los-bonos-argentinos-resistieron-a-una-rueda-bajista-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "17/11 19:43",
+        "iso_date": "2026-11-17T22:43:24+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Milei: “No tengan dudas de que vamos a ganar en primera vuelta”",
         "summary": "El jefe de Estado ratificó el rumbo económico y atribuyó la suba del riesgo país a la oposición. Además, aseguró que su administración “sienta las bases de un siglo de oro liberal”.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/milei-no-tengan-dudas-de-que-vamos-a-ganar-en-primera-vuelta/",
@@ -613,8 +627,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -748,8 +762,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
