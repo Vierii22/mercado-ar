@@ -1,10 +1,33 @@
 {
-  "updated_at": "2026-11-17T22:03:28.560259",
-  "updated_str": "17/11/2026 22:03",
+  "updated_at": "2026-11-17T22:30:38.390301",
+  "updated_str": "17/11/2026 22:30",
   "cutoff_hours": 48,
-  "total_news": 222,
+  "total_news": 221,
   "news": {
     "GENERAL": [
+      {
+        "title": "Reforma electoral: se negocian más cambios, pero Milei está cerca de suspender las PASO",
+        "summary": "El Gobierno no apuró la firma este martes porque negocia más modificaciones. Las colectoras hacen ruido, pero LLA recibe señales favorables",
+        "link": "https://www.iprofesional.com/politica/469359-reforma-electoral-se-negocian-mas-cambios-pero-milei-esta-cerca-de-suspender-las-paso",
+        "source": "iProfesional",
+        "time": "17/11 19:10",
+        "iso_date": "2026-11-17T22:10:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Pampa Energía creó su empresa de IA y entra al negocio de data centers en Vaca Muerta",
+        "summary": "El holding de Marcelo Mindlin registró en el Boletín Oficial su nueva sociedad tecnológica y blindó 800 MW eléctricos para la inteligencia artificial.",
+        "link": "https://www.iprofesional.com/energia/469387-pampa-energia-creo-su-empresa-de-ia-para-impulsar-data-centers-en-vaca-muerta",
+        "source": "iProfesional",
+        "time": "17/11 19:00",
+        "iso_date": "2026-11-17T22:00:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Milei: “No tengan dudas de que vamos a ganar en primera vuelta”",
         "summary": "El jefe de Estado ratificó el rumbo económico y atribuyó la suba del riesgo país a la oposición. Además, aseguró que su administración “sienta las bases de un siglo de oro liberal”.",
@@ -39,16 +62,6 @@
         "tickers": [
           "AL30"
         ],
-        "is_general": true
-      },
-      {
-        "title": "Reforma electoral: se negocian más cambios pero Milei está cerca de suspender las PASO",
-        "summary": "El Gobierno no apurará la firma este martes porque negocia más modificaciones. Las colectoras hacen ruido, pero LLA recibe señales favorables",
-        "link": "https://www.iprofesional.com/politica/469359-reforma-electoral-se-negocian-mas-cambios-pero-milei-esta-cerca-de-suspender-las-paso",
-        "source": "iProfesional",
-        "time": "17/11 18:13",
-        "iso_date": "2026-11-17T21:13:00+00:00",
-        "tickers": [],
         "is_general": true
       },
       {
@@ -206,8 +219,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -251,8 +264,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -317,19 +330,22 @@
         "iso_date": "2026-11-17T16:30:31+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Las 3 políticas que recomendó el Nobel de Economía Philippe Aghion para Argentina",
-        "summary": "Philippe Aghion expuso en las Jornadas Bancarias y Monetarias del Banco Central y planteó lecciones para crecer de manera inclusiva.",
-        "link": "https://www.cronista.com/economia-politica/las-3-politicas-que-recomendo-el-nobel-de-economia-philippe-aghion-para-argentina/",
-        "source": "El Cronista",
-        "time": "17/11 13:16",
-        "iso_date": "2026-11-17T16:16:48+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "Pampa Energía creó su empresa de IA y entra al negocio de data centers en Vaca Muerta",
+        "summary": "El holding de Marcelo Mindlin registró en el Boletín Oficial su nueva sociedad tecnológica y blindó 800 MW eléctricos para la inteligencia artificial.",
+        "link": "https://www.iprofesional.com/energia/469387-pampa-energia-creo-su-empresa-de-ia-para-impulsar-data-centers-en-vaca-muerta",
+        "source": "iProfesional",
+        "time": "17/11 19:00",
+        "iso_date": "2026-11-17T22:00:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Allaria prevé fuerte suba de acciones de YPF en Wall Street y estima hasta dónde llegará",
         "summary": "El bróker revisó sus estimaciones para YPF después del balance trimestral y calculó un importante potencial de suba para sus ADR en Wall Street",
@@ -350,8 +366,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -375,8 +391,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -388,8 +404,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -421,6 +437,19 @@
     "GGAL": [],
     "PAMP": [
       {
+        "title": "Pampa Energía creó su empresa de IA y entra al negocio de data centers en Vaca Muerta",
+        "summary": "El holding de Marcelo Mindlin registró en el Boletín Oficial su nueva sociedad tecnológica y blindó 800 MW eléctricos para la inteligencia artificial.",
+        "link": "https://www.iprofesional.com/energia/469387-pampa-energia-creo-su-empresa-de-ia-para-impulsar-data-centers-en-vaca-muerta",
+        "source": "iProfesional",
+        "time": "17/11 19:00",
+        "iso_date": "2026-11-17T22:00:00+00:00",
+        "tickers": [
+          "PAMP",
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Una planta con 120 años de historia que producía Durlock en la Patagonia cerró y despidió a sus últimos empleados",
         "summary": "La yesera Corral, fundada en 1905 en General Roca, liquidó sus operaciones por decisión del grupo belga ETEX, dueño de Durlock en la Argentina, que concentrará la producción en su planta de La Pampa",
         "link": "https://www.infobae.com/economia/2026/11/17/una-planta-con-120-anos-de-historia-que-producia-durlock-en-la-patagonia-cerro-y-despidio-a-sus-ultimos-empleados/",
@@ -442,8 +471,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -481,8 +510,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -506,8 +535,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
