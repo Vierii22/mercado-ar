@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-11-18T23:28:26.979517",
-  "updated_str": "18/11/2026 23:28",
+  "updated_at": "2026-11-18T23:46:09.057626",
+  "updated_str": "18/11/2026 23:46",
   "cutoff_hours": 48,
-  "total_news": 244,
+  "total_news": 246,
   "news": {
     "GENERAL": [
+      {
+        "title": "Anthropic sale a la bolsa: ¿aciones pueden caer como pasó con SpaceX?",
+        "summary": "La inminente cotización de la empresa fundadora de Claude lleva a comparar el desempeño que tuvo meses atrás la firma de Elon Musk en el mercado",
+        "link": "https://www.iprofesional.com/finanzas/469290-expertos-piden-recordar-que-paso-con-spacex-antes-de-invertir-en-anthropic",
+        "source": "iProfesional",
+        "time": "18/11 20:36",
+        "iso_date": "2026-11-18T23:36:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Por qué la inflación no baja más rápido y dónde está el oro del Banco Central, según Milei",
         "summary": "El Presidente explicó los factores que, a su juicio, demoraron la desaceleración de los precios y defendió las operaciones con las reservas metálicas del BCRA custodiadas por el BIS",
         "link": "https://www.infobae.com/economia/2026/11/18/por-que-no-baja-mas-rapido-la-inflacion-y-donde-esta-el-oro-del-banco-central-segun-milei/",
         "source": "Infobae Economía",
-        "time": "18/11 20:26",
-        "iso_date": "2026-11-18T23:26:09+00:00",
+        "time": "18/11 20:28",
+        "iso_date": "2026-11-18T23:28:22+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -300,16 +310,6 @@
         "iso_date": "2026-11-18T18:31:02+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Los Grobo avanza para salir del concurso: propone quitas de hasta el 85% a sus acreedores",
-        "summary": "Tras el acuerdo con la brasileña Amaggi por sus 15 plantas de acopio, la compañía formalizó tres alternativas para cancelar sus deudas",
-        "link": "https://www.iprofesional.com/negocios/469458-los-grobo-quita-deuda-85-por-ciento-plan-pago-15-anos-acreedores-noviembre-2026",
-        "source": "iProfesional",
-        "time": "18/11 14:41",
-        "iso_date": "2026-11-18T17:41:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -345,8 +345,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -370,8 +370,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "BMA",
-          "YPFD"
+          "YPFD",
+          "BMA"
         ],
         "is_general": false
       },
@@ -383,8 +383,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -396,8 +396,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -424,8 +424,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -463,8 +463,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "BMA",
-          "YPFD"
+          "YPFD",
+          "BMA"
         ],
         "is_general": false
       },
@@ -490,8 +490,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -503,8 +503,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -629,8 +629,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       },
@@ -668,8 +668,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       }
