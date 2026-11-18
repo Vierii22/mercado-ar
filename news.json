@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-11-17T23:54:11.679749",
-  "updated_str": "17/11/2026 23:54",
+  "updated_at": "2026-11-18T00:19:42.112505",
+  "updated_str": "18/11/2026 00:19",
   "cutoff_hours": 48,
-  "total_news": 224,
+  "total_news": 228,
   "news": {
     "GENERAL": [
+      {
+        "title": "El peronismo se reunió para avanzar en la construcción de un frente nacional anti Milei",
+        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa y Kicillof ausente.",
+        "link": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
+        "source": "El Cronista",
+        "time": "17/11 21:15",
+        "iso_date": "2026-11-18T00:15:07+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": true
+      },
       {
         "title": "Domingo Cavallo: “Si el Gobierno no toma las medidas adecuadas, corre el riesgo de que se le destartale todo antes de las elecciones”",
         "summary": "El ex ministro de Economía cuestionó el esquema cambiario y monetario del Gobierno, pidió eliminar por completo el cepo y sostuvo que la baja de la inflación debe acompañarse con reformas que permitan recuperar la inversión y el crecimiento",
         "link": "https://www.infobae.com/economia/2026/11/17/domingo-cavallo-si-el-gobierno-no-toma-las-medidas-adecuadas-corre-el-riesgo-de-que-se-le-destartale-todo-antes-de-las-elecciones/",
         "source": "Infobae Economía",
-        "time": "17/11 20:47",
-        "iso_date": "2026-11-17T23:47:03+00:00",
+        "time": "17/11 20:51",
+        "iso_date": "2026-11-17T23:51:22+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Más de 500 empresas de Gas LP piden actualizar precios ante pérdidas operativas en México",
+        "summary": "Las compañías pidieron una actualización del margen operativo por la venta de Gas LP por inflación, además de transparentar los parámetros.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/mas-de-500-empresas-de-gas-lp-piden-actualizar-precios-ante-perdidas-operativas-en-mexico/",
+        "source": "Bloomberg Línea AR",
+        "time": "17/11 20:50",
+        "iso_date": "2026-11-17T23:50:49+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -306,30 +328,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El Nobel al que admira Milei recomendó combinar el modelo de EEUU con el europeo: “No se puede dejar desprotegida a la población”",
-        "summary": "El ganador del premio Nobel de Economía 2025, Philippe Aghion, participó de las Jornadas del BCRA. Dio recomendaciones para la Argentina en base al modelo de Estados Unidos y Dinamarca. Aseguró que se van a perder puestos administrativos por la IA",
-        "link": "https://www.infobae.com/economia/2026/11/17/el-nobel-al-que-admira-milei-recomendo-combinar-el-modelo-de-eeuu-con-el-europeo-no-se-puede-dejar-desprotegida-a-la-poblacion/",
-        "source": "Infobae Economía",
-        "time": "17/11 14:00",
-        "iso_date": "2026-11-17T17:00:53+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Techint ganó un tramo del gasoducto de Argentina LNG y se suman firmas europeas",
-        "summary": "Tenaris proveerá los caños de 24 pulgadas, mientras que la española Grupo Cuñado y la griega CPW se repartieron el ducto troncal de 48 pulgadas.",
-        "link": "https://www.iprofesional.com/energia/469351-techint-gano-un-tramo-del-gasoducto-de-argentina-lng-y-se-sumo-a-firmas-europeas",
-        "source": "iProfesional",
-        "time": "17/11 14:00",
-        "iso_date": "2026-11-17T17:00:00+00:00",
-        "tickers": [
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -393,8 +393,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -406,8 +406,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -438,6 +438,18 @@
     ],
     "GGAL": [],
     "PAMP": [
+      {
+        "title": "El peronismo se reunió para avanzar en la construcción de un frente nacional anti Milei",
+        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa y Kicillof ausente.",
+        "link": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
+        "source": "El Cronista",
+        "time": "17/11 21:15",
+        "iso_date": "2026-11-18T00:15:07+00:00",
+        "tickers": [
+          "PAMP"
+        ],
+        "is_general": true
+      },
       {
         "title": "Pampa Energía creó su empresa de IA y entra al negocio de data centers en Vaca Muerta",
         "summary": "El holding de Marcelo Mindlin registró en el Boletín Oficial su nueva sociedad tecnológica y blindó 800 MW eléctricos para la inteligencia artificial.",
@@ -512,8 +524,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -537,8 +549,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
