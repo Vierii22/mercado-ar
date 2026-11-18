@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-11-18T23:01:35.396864",
-  "updated_str": "18/11/2026 23:01",
+  "updated_at": "2026-11-18T23:18:58.114868",
+  "updated_str": "18/11/2026 23:18",
   "cutoff_hours": 48,
   "total_news": 244,
   "news": {
     "GENERAL": [
       {
-        "title": "Por qué no baja más rápido la inflación y dónde está el oro del Banco Central, según Milei",
+        "title": "Por qué la inflación no baja más rápido y dónde está el oro del Banco Central, según Milei",
         "summary": "El Presidente explicó los factores que, a su juicio, demoraron la desaceleración de los precios y defendió las operaciones con las reservas metálicas del BCRA custodiadas por el BIS",
         "link": "https://www.infobae.com/economia/2026/11/18/por-que-no-baja-mas-rapido-la-inflacion-y-donde-esta-el-oro-del-banco-central-segun-milei/",
         "source": "Infobae Economía",
-        "time": "18/11 19:54",
-        "iso_date": "2026-11-18T22:54:07+00:00",
+        "time": "18/11 20:00",
+        "iso_date": "2026-11-18T23:00:43+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "\"Ahora piensa como los populistas de izquierda\": la dura respuesta de Cavallo a Milei",
+        "summary": "El exministro de Economía cruzó al Presidente luego de que le atribuyera un \"prontuario de expropiaciones\" durante una exposición",
+        "link": "https://www.iprofesional.com/politica/469496-ahora-piensa-como-los-populistas-de-izquierda-la-dura-respuesta-de-cavallo-a-milei",
+        "source": "iProfesional",
+        "time": "18/11 19:52",
+        "iso_date": "2026-11-18T22:52:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -282,16 +292,6 @@
         "is_general": true
       },
       {
-        "title": "Índice Lego: cuánto más caros son los juguetes en Argentina frente a otros países",
-        "summary": "Javier Milei anunció el desembarco de la tienda oficial de la marca en el shopping Unicenter. La comparativa de precios de los juguetes",
-        "link": "https://www.iprofesional.com/actualidad/469368-indice-lego-cuanto-mas-cara-es-en-argentina-la-marca-de-juguetes",
-        "source": "iProfesional",
-        "time": "18/11 15:40",
-        "iso_date": "2026-11-18T18:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "La brecha entre el dólar oficial y paralelos roza el 10%, un récord desde las legislativas: qué proyectan analistas",
         "summary": "De cara a las elecciones presidenciales de octubre de 2027, los analistas advierten que la incertidumbre política podría intensificar las tensiones. Cuáles son los escenarios posibles y proyecciones.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/la-brecha-entre-el-dolar-oficial-y-paralelos-roza-el-10-un-record-desde-las-legislativas-que-proyectan-analistas/",
@@ -345,8 +345,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -383,8 +383,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -396,8 +396,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -424,8 +424,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -490,8 +490,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -503,8 +503,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "YPFD",
-          "TXAR"
+          "TXAR",
+          "YPFD"
         ],
         "is_general": false
       }
@@ -629,8 +629,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       },
@@ -657,18 +657,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "Volvieron a subir todas las cotizaciones del dólar y el riesgo país superó los 850 puntos",
-        "summary": "Las acciones argentinas cayeron hasta 7,7% en Wall Street. El MSCI Merval cayó 5,3%, los bonos descontaron 0,6% y el riesgo país rebotó a 855 puntos. El dólar subió a un récord de $1.575 en el Banco Nación y el BCRA compró USD 33 millones",
-        "link": "https://www.infobae.com/economia/2026/11/16/jornada-financiera-las-acciones-argentinas-cayeron-hasta-7-en-wall-street-y-el-riesgo-pais-supero-los-850-puntos/",
-        "source": "Infobae Economía",
-        "time": "16/11 20:04",
-        "iso_date": "2026-11-16T23:04:20+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
       }
     ],
     "GD30": [
@@ -680,8 +668,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       }
