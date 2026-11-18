@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-11-18T22:25:26.792179",
-  "updated_str": "18/11/2026 22:25",
+  "updated_at": "2026-11-18T22:38:47.731693",
+  "updated_str": "18/11/2026 22:38",
   "cutoff_hours": 48,
   "total_news": 240,
   "news": {
     "GENERAL": [
+      {
+        "title": "“YPF te ayuda”: cuánto más habría costado el litro de nafta sin el ‘buffer’ de la petrolera",
+        "summary": "Un análisis del IARAF comparó el precio efectivo de la nafta súper con el que habría tenido si hubiera seguido la evolución del crudo. Qué pasó durante los siete meses de vigencia del esquema.",
+        "link": "https://www.cronista.com/economia-politica/ypf-te-ayuda-cuanto-mas-habria-costado-el-litro-de-nafta-sin-el-buffer-de-la-petrolera/",
+        "source": "El Cronista",
+        "time": "18/11 19:25",
+        "iso_date": "2026-11-18T22:25:19+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "Domingo Cavallo cruzó a Javier Milei y le recordó sus elogios de 2020: \"¿Cuándo interpretaba bien, entonces o ahora?\"",
         "summary": "El exministro cuestionó el cambio de postura del Presidente sobre su gestión en el Banco Central, la Convertibilidad y la crisis de 2001. Le recordó sus elogios de 2020 y le pidió que vuelva a ver aquella entrevista.",
@@ -296,19 +308,21 @@
         "iso_date": "2026-11-18T15:36:54+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Desaceleró la inflación mayorista: ¿cómo impacta en la minorista de noviembre?",
-        "summary": "La tasa bajó a 1,6% en octubre según el Indec. Para los analistas se explica por la menor suba del precio del petroleo y no va a ayudar al IPC porque no se traslado a los surtidores de combustible",
-        "link": "https://www.infobae.com/economia/2026/11/18/desacelero-la-inflacion-mayorista-como-impacta-en-la-minorista-de-noviembre/",
-        "source": "Infobae Economía",
-        "time": "18/11 12:23",
-        "iso_date": "2026-11-18T15:23:20+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
+      {
+        "title": "“YPF te ayuda”: cuánto más habría costado el litro de nafta sin el ‘buffer’ de la petrolera",
+        "summary": "Un análisis del IARAF comparó el precio efectivo de la nafta súper con el que habría tenido si hubiera seguido la evolución del crudo. Qué pasó durante los siete meses de vigencia del esquema.",
+        "link": "https://www.cronista.com/economia-politica/ypf-te-ayuda-cuanto-mas-habria-costado-el-litro-de-nafta-sin-el-buffer-de-la-petrolera/",
+        "source": "El Cronista",
+        "time": "18/11 19:25",
+        "iso_date": "2026-11-18T22:25:19+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "De Citrone y Druckenmiller a Thiel: tres magnates que profundizan su apuesta por Vaca Muerta",
         "summary": "Fondos pertenecientes a algunas de las personas más ricas del mundo incrementaron sus tenencias en compañías de energía argentinas.",
@@ -329,8 +343,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -408,8 +422,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -601,8 +615,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -652,8 +666,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
