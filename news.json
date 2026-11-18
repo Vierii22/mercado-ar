@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-11-18T00:19:42.112505",
-  "updated_str": "18/11/2026 00:19",
+  "updated_at": "2026-11-18T01:05:12.824321",
+  "updated_str": "18/11/2026 01:05",
   "cutoff_hours": 48,
-  "total_news": 228,
+  "total_news": 229,
   "news": {
     "GENERAL": [
       {
+        "title": "Las acciones y los bonos argentinos resistieron a una rueda bajista de Wall Street",
+        "summary": "Los indicadores de EEUU cedieron hasta 1,6% antes del balance de Nvidia. El MSCI Merval rebotó 2% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 74 millones en el mercado",
+        "link": "https://www.infobae.com/economia/2026/11/17/las-acciones-y-los-bonos-argentinos-resistieron-a-una-rueda-bajista-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "17/11 21:32",
+        "iso_date": "2026-11-18T00:32:16+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "El peronismo se reunió para avanzar en la construcción de un frente nacional anti Milei",
-        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa y Kicillof ausente.",
+        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa.",
         "link": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
         "source": "El Cronista",
         "time": "17/11 21:15",
@@ -58,18 +70,6 @@
         "is_general": true
       },
       {
-        "title": "Las acciones y los bonos argentinos resistieron a una rueda bajista de Wall Street",
-        "summary": "Los indicadores de EEUU cedieron hasta 1,4% antes del balance de Nvidia. El MSCI Merval rebotó más de 1% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 75 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/11/17/las-acciones-y-los-bonos-argentinos-resistieron-a-una-rueda-bajista-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "17/11 19:43",
-        "iso_date": "2026-11-17T22:43:24+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Reforma electoral: se negocian más cambios, pero Milei está cerca de suspender las PASO",
         "summary": "El Gobierno no apuró la firma este martes porque negocia más modificaciones. Las colectoras hacen ruido, pero LLA recibe señales favorables",
         "link": "https://www.iprofesional.com/politica/469359-reforma-electoral-se-negocian-mas-cambios-pero-milei-esta-cerca-de-suspender-las-paso",
@@ -87,8 +87,8 @@
         "time": "17/11 19:00",
         "iso_date": "2026-11-17T22:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -260,8 +260,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       },
@@ -283,8 +283,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -328,8 +328,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -343,8 +343,8 @@
         "time": "17/11 19:00",
         "iso_date": "2026-11-17T22:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -368,8 +368,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -393,8 +393,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -406,8 +406,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -440,7 +440,7 @@
     "PAMP": [
       {
         "title": "El peronismo se reunió para avanzar en la construcción de un frente nacional anti Milei",
-        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa y Kicillof ausente.",
+        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa.",
         "link": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
         "source": "El Cronista",
         "time": "17/11 21:15",
@@ -458,8 +458,8 @@
         "time": "17/11 19:00",
         "iso_date": "2026-11-17T22:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -485,8 +485,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -524,8 +524,8 @@
         "time": "17/11 14:16",
         "iso_date": "2026-11-17T17:16:10+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       },
@@ -549,8 +549,8 @@
         "time": "17/11 11:01",
         "iso_date": "2026-11-17T14:01:22+00:00",
         "tickers": [
-          "TXAR",
-          "YPFD"
+          "YPFD",
+          "TXAR"
         ],
         "is_general": false
       }
@@ -561,11 +561,11 @@
     "AL30": [
       {
         "title": "Las acciones y los bonos argentinos resistieron a una rueda bajista de Wall Street",
-        "summary": "Los indicadores de EEUU cedieron hasta 1,4% antes del balance de Nvidia. El MSCI Merval rebotó más de 1% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 75 millones en el mercado",
+        "summary": "Los indicadores de EEUU cedieron hasta 1,6% antes del balance de Nvidia. El MSCI Merval rebotó 2% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 74 millones en el mercado",
         "link": "https://www.infobae.com/economia/2026/11/17/las-acciones-y-los-bonos-argentinos-resistieron-a-una-rueda-bajista-de-wall-street/",
         "source": "Infobae Economía",
-        "time": "17/11 19:43",
-        "iso_date": "2026-11-17T22:43:24+00:00",
+        "time": "17/11 21:32",
+        "iso_date": "2026-11-18T00:32:16+00:00",
         "tickers": [
           "AL30"
         ],
@@ -639,8 +639,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       },
@@ -774,8 +774,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       }
