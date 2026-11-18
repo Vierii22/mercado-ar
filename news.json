@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T23:18:58.114868",
-  "updated_str": "18/11/2026 23:18",
+  "updated_at": "2026-11-18T23:28:26.979517",
+  "updated_str": "18/11/2026 23:28",
   "cutoff_hours": 48,
   "total_news": 244,
   "news": {
@@ -10,8 +10,18 @@
         "summary": "El Presidente explicó los factores que, a su juicio, demoraron la desaceleración de los precios y defendió las operaciones con las reservas metálicas del BCRA custodiadas por el BIS",
         "link": "https://www.infobae.com/economia/2026/11/18/por-que-no-baja-mas-rapido-la-inflacion-y-donde-esta-el-oro-del-banco-central-segun-milei/",
         "source": "Infobae Economía",
-        "time": "18/11 20:00",
-        "iso_date": "2026-11-18T23:00:43+00:00",
+        "time": "18/11 20:26",
+        "iso_date": "2026-11-18T23:26:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La reforma electoral tiene dictamen y Milei se encamina a suspender las PASO",
+        "summary": "El oficialismo consiguió las firmas que le faltaban para el dictamen y avanza la reforma. Sin colectoras, veda reducida y más cambios",
+        "link": "https://www.iprofesional.com/politica/469448-la-reforma-electoral-tiene-dictamen-y-milei-se-encamina-a-suspender-las-paso",
+        "source": "iProfesional",
+        "time": "18/11 20:15",
+        "iso_date": "2026-11-18T23:15:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -32,16 +42,6 @@
         "source": "iProfesional",
         "time": "18/11 19:50",
         "iso_date": "2026-11-18T22:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La reforma electoral avanza con cambios y Milei se encamina a suspender las PASO",
-        "summary": "El oficialismo busca las dos firmas que le faltan para el dictamen pero el acuerdo está avanzado. Sin colectoras, veda reducida y más cambios",
-        "link": "https://www.iprofesional.com/politica/469448-la-reforma-electoral-avanza-con-cambios-y-milei-se-encamina-a-suspender-las-paso",
-        "source": "iProfesional",
-        "time": "18/11 19:40",
-        "iso_date": "2026-11-18T22:40:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -629,8 +629,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -668,8 +668,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
