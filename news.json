@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-11-18T22:38:47.731693",
-  "updated_str": "18/11/2026 22:38",
+  "updated_at": "2026-11-18T22:44:26.103471",
+  "updated_str": "18/11/2026 22:44",
   "cutoff_hours": 48,
-  "total_news": 240,
+  "total_news": 242,
   "news": {
     "GENERAL": [
+      {
+        "title": "Milei negó una ruptura de Bullrich con el Gobierno: “¿Cómo la vamos a echar?”",
+        "summary": "El Presidente se refirió a una de las situaciones que más suspicacias genera dentro de su Gabinete.",
+        "link": "https://www.cronista.com/economia-politica/milei-nego-una-ruptura-de-bullrich-con-el-gobierno-como-la-vamos-a-echar/",
+        "source": "El Cronista",
+        "time": "18/11 19:38",
+        "iso_date": "2026-11-18T22:38:02+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Los 5 factores que explican por qué los dólares financieros y el blue se recalentaron",
+        "summary": "El CCL, MEP y blue escalan hasta 4% en todo noviembre, la brecha toca máximos en 13 meses y se encienden luces amarillas en la City",
+        "link": "https://www.iprofesional.com/finanzas/469493-5-factores-que-explican-por-que-el-dolar-empezo-a-recalentarse",
+        "source": "iProfesional",
+        "time": "18/11 19:35",
+        "iso_date": "2026-11-18T22:35:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La reforma electoral avanza con cambios y Milei se encamina a suspender las PASO",
+        "summary": "El oficialismo busca las dos firmas que le faltan para el dictamen pero el acuerdo está avanzado. Sin colectoras, veda reducida y más cambios",
+        "link": "https://www.iprofesional.com/politica/469448-la-reforma-electoral-avanza-con-cambios-y-milei-se-encamina-a-suspender-las-paso",
+        "source": "iProfesional",
+        "time": "18/11 19:30",
+        "iso_date": "2026-11-18T22:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "“YPF te ayuda”: cuánto más habría costado el litro de nafta sin el ‘buffer’ de la petrolera",
         "summary": "Un análisis del IARAF comparó el precio efectivo de la nafta súper con el que habría tenido si hubiera seguido la evolución del crudo. Qué pasó durante los siete meses de vigencia del esquema.",
@@ -278,36 +308,6 @@
         "iso_date": "2026-11-18T16:22:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "\"La justicia social nos hunde\": la crítica de Milei y su pronóstico para Argentina",
-        "summary": "Mientras Milei abrió una dura polémica contra la redistribución, el Papa impulsó un mensaje en favor de la equidad y valores universales",
-        "link": "https://www.iprofesional.com/politica/469447-milei-justicia-social-sacudio-vaticano-casa-rosada-discurso-demoledor",
-        "source": "iProfesional",
-        "time": "18/11 13:09",
-        "iso_date": "2026-11-18T16:09:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Bullrich pide más medidas para impulsar la economía: “Tenemos que ganar las elecciones sí o sí”",
-        "summary": "La senadora aseguró que su relación con Milei es de “10 puntos” y que no representa un riesgo para el oficialismo. Pidió que la mejora le llegue a sectores como la industria y el comercio.",
-        "link": "https://www.cronista.com/economia-politica/bullrich-pide-mas-medidas-para-impulsar-la-economia-tenemos-que-ganar-las-elecciones-si-o-si/",
-        "source": "El Cronista",
-        "time": "18/11 13:04",
-        "iso_date": "2026-11-18T16:04:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Los reclamos que derrumbaron la sesión: Consejo de la Magistratura, Biocombustibles y una acusación a Menem",
-        "summary": "Solamente se sentaron 126 diputados. En la oposición sospechan que LLA tenía poco interés en aprobar la Ley de Soberanía Nacional, el proyecto que impulsa Santiago Caputo. Hubo pases de factura del PRO, el MID y los gobernadores de Córdoba y Santa Fe por varios frentes abiertos",
-        "link": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/",
-        "source": "El Cronista",
-        "time": "18/11 12:36",
-        "iso_date": "2026-11-18T15:36:54+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -343,8 +343,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -422,8 +422,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -615,8 +615,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       },
@@ -666,8 +666,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "GD30",
-          "AL30"
+          "AL30",
+          "GD30"
         ],
         "is_general": true
       }
