@@ -1,18 +1,50 @@
 {
-  "updated_at": "2026-11-18T22:44:26.103471",
-  "updated_str": "18/11/2026 22:44",
+  "updated_at": "2026-11-18T23:01:35.396864",
+  "updated_str": "18/11/2026 23:01",
   "cutoff_hours": 48,
-  "total_news": 242,
+  "total_news": 244,
   "news": {
     "GENERAL": [
       {
-        "title": "Milei negó una ruptura de Bullrich con el Gobierno: “¿Cómo la vamos a echar?”",
+        "title": "Por qué no baja más rápido la inflación y dónde está el oro del Banco Central, según Milei",
+        "summary": "El Presidente explicó los factores que, a su juicio, demoraron la desaceleración de los precios y defendió las operaciones con las reservas metálicas del BCRA custodiadas por el BIS",
+        "link": "https://www.infobae.com/economia/2026/11/18/por-que-no-baja-mas-rapido-la-inflacion-y-donde-esta-el-oro-del-banco-central-segun-milei/",
+        "source": "Infobae Economía",
+        "time": "18/11 19:54",
+        "iso_date": "2026-11-18T22:54:07+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El Senado avanzará en una nueva sesión con ley de Patentes que EE.UU. le reclama a Milei",
+        "summary": "El recinto se reabre este jueves con una extensa agenda de proyectos. El oficialismo aspira a aprobar tras años de demora el Tratado sobre Patentes",
+        "link": "https://www.iprofesional.com/politica/469482-el-senado-avanzara-con-ley-de-patentes-que-eeuu-le-reclama-a-milei",
+        "source": "iProfesional",
+        "time": "18/11 19:50",
+        "iso_date": "2026-11-18T22:50:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La reforma electoral avanza con cambios y Milei se encamina a suspender las PASO",
+        "summary": "El oficialismo busca las dos firmas que le faltan para el dictamen pero el acuerdo está avanzado. Sin colectoras, veda reducida y más cambios",
+        "link": "https://www.iprofesional.com/politica/469448-la-reforma-electoral-avanza-con-cambios-y-milei-se-encamina-a-suspender-las-paso",
+        "source": "iProfesional",
+        "time": "18/11 19:40",
+        "iso_date": "2026-11-18T22:40:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei negó una ruptura de Bullrich y responsabilizó al kirchnerismo por la suba del riesgo país",
         "summary": "El Presidente se refirió a una de las situaciones que más suspicacias genera dentro de su Gabinete.",
         "link": "https://www.cronista.com/economia-politica/milei-nego-una-ruptura-de-bullrich-con-el-gobierno-como-la-vamos-a-echar/",
         "source": "El Cronista",
         "time": "18/11 19:38",
         "iso_date": "2026-11-18T22:38:02+00:00",
-        "tickers": [],
+        "tickers": [
+          "AL30"
+        ],
         "is_general": true
       },
       {
@@ -26,12 +58,12 @@
         "is_general": true
       },
       {
-        "title": "La reforma electoral avanza con cambios y Milei se encamina a suspender las PASO",
-        "summary": "El oficialismo busca las dos firmas que le faltan para el dictamen pero el acuerdo está avanzado. Sin colectoras, veda reducida y más cambios",
-        "link": "https://www.iprofesional.com/politica/469448-la-reforma-electoral-avanza-con-cambios-y-milei-se-encamina-a-suspender-las-paso",
+        "title": "Dos consultoras estimaron que a Caputo le faltarán unos u$s17.000 millones en 2027",
+        "summary": "Las consultoras Eco Go y IERAL sacaron la cuenta en base a los vencimientos de deuda y las posibles fuentes de financiamiento para el próximo año",
+        "link": "https://www.iprofesional.com/finanzas/469495-dos-consultoras-estimaron-que-a-caputo-le-faltaran-unos-us17000-millones-en-2027",
         "source": "iProfesional",
-        "time": "18/11 19:30",
-        "iso_date": "2026-11-18T22:30:00+00:00",
+        "time": "18/11 19:35",
+        "iso_date": "2026-11-18T22:35:00+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -278,36 +310,6 @@
         "iso_date": "2026-11-18T17:41:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "La deuda del Tesoro se encamina a alcanzar los u$s500.000 millones por los bonos CER y la capitalización de intereses",
-        "summary": "El director de Polomix señala que en términos netos la deuda del Gobierno creció este año unos u$s34.500 millones a pesar de haber pagado unos u$s10.000 millones. Afirma que el superávit primario no alcanza para evitar el incremento del endeudamiento.",
-        "link": "https://www.ambito.com/economia/la-deuda-del-tesoro-se-encamina-alcanzar-los-us500000-millones-la-deuda-cer-y-la-capitalizacion-intereses-n6346610",
-        "source": "Ámbito",
-        "time": "18/11 14:21",
-        "iso_date": "2026-11-18T17:21:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El intendente de Córdoba se despegó del peronismo nacional y apuntó contra Milei: “Creo que no va a ser reelecto”",
-        "summary": "Daniel Passerini llamó a renovar los métodos de conducción del PJ y denunció presuntos incumplimientos hacia las provincias por parte del Gobierno libertario.",
-        "link": "https://www.cronista.com/economia-politica/el-intendente-de-cordoba-se-despego-del-peronismo-nacional-y-apunto-contra-milei-creo-que-no-va-a-ser-reelecto/",
-        "source": "El Cronista",
-        "time": "18/11 13:42",
-        "iso_date": "2026-11-18T16:42:20+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Sin quórum, Diputados frenó el debate de la reforma del Banco Central y la Ley de Malvinas",
-        "summary": "La sesión especial fracasó por tres votos: el oficialismo logró 126 legisladores, pero necesitaba 129 para alcanzar el quórum reglamentario",
-        "link": "https://www.iprofesional.com/politica/469450-fracaso-sesion-especial-diputados-proyectos-limbo",
-        "source": "iProfesional",
-        "time": "18/11 13:22",
-        "iso_date": "2026-11-18T16:22:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -368,8 +370,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -461,8 +463,8 @@
         "time": "17/11 15:24",
         "iso_date": "2026-11-17T18:24:24+00:00",
         "tickers": [
-          "YPFD",
-          "BMA"
+          "BMA",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -511,6 +513,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "Milei negó una ruptura de Bullrich y responsabilizó al kirchnerismo por la suba del riesgo país",
+        "summary": "El Presidente se refirió a una de las situaciones que más suspicacias genera dentro de su Gabinete.",
+        "link": "https://www.cronista.com/economia-politica/milei-nego-una-ruptura-de-bullrich-con-el-gobierno-como-la-vamos-a-echar/",
+        "source": "El Cronista",
+        "time": "18/11 19:38",
+        "iso_date": "2026-11-18T22:38:02+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El dólar volvió a subir, las acciones cayeron por el contagio externo y el riesgo país perforó los 850 puntos",
         "summary": "Mientras que los indices de Wall Street operaron con volatilidad, los ADR reflejaron números rojos. Los títulos públicos subieron 0,2% y el indicador de JP Morgan bajó a 848 puntos. El dólar subió a $1.580 en el Banco Nación y el BCRA compró USD 11 millones en el mercado",
@@ -615,8 +629,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       },
@@ -666,8 +680,8 @@
         "time": "17/11 15:46",
         "iso_date": "2026-11-17T18:46:09+00:00",
         "tickers": [
-          "AL30",
-          "GD30"
+          "GD30",
+          "AL30"
         ],
         "is_general": true
       }
