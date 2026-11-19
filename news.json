@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T22:47:49.385354",
-  "updated_str": "19/11/2026 22:47",
+  "updated_at": "2026-11-19T23:10:00.813362",
+  "updated_str": "19/11/2026 23:10",
   "cutoff_hours": 48,
-  "total_news": 247,
+  "total_news": 245,
   "news": {
     "GENERAL": [
       {
-        "title": "Se aprobó la nueva Ley de Discapacidad: cambios en prestaciones y un mensaje a Milei",
-        "summary": "El Senado se aprobó por unanimidad. Criterios estables para pensiones y fiscalización. La presión social y política al Gobierno",
+        "title": "Se aprobó por unanimidad la Ley de Discapacidad: cambios en prestaciones y mensaje a Milei",
+        "summary": "Se aprobó con 71 votos a favor y ninguno en contra. Criterios estables para pensiones y fiscalización. La presión social y política al Gobierno",
         "link": "https://www.iprofesional.com/politica/469587-se-aprobo-la-nueva-ley-de-discapacidad-cambios-en-prestaciones-y-un-mensaje-a-milei",
         "source": "iProfesional",
         "time": "19/11 19:40",
@@ -154,16 +154,6 @@
         "is_general": true
       },
       {
-        "title": "Quiénes son los fundadores de Anthropic, la firma que hizo historia con su salida a bolsa",
-        "summary": "Tras un crecimiento meteórico y el respaldo de gigantes como Amazon y Google, la compañía redefine el mapa del sector tecnológico global",
-        "link": "https://www.iprofesional.com/tecnologia/469528-anthropic-sale-a-bolsa-quienes-son-sus-siete-fundadores-y-cuanto-dinero-ganaran",
-        "source": "iProfesional",
-        "time": "19/11 17:00",
-        "iso_date": "2026-11-19T20:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Dólar hoy: todas las cotizaciones alcanzaron nuevos máximos y el real brasileño profundizó su baja",
         "summary": "El billete al público quedó ofrecido a $1.585 para la venta en el Banco Nación. El blue se pagó a un récord de $1.640. El BCRA compró solo USD 3 millones en el mercado",
         "link": "https://www.infobae.com/economia/2026/11/19/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-tras-la-caida-del-real-brasileno-y-el-record-del-contado-con-liqui/",
@@ -239,7 +229,7 @@
       },
       {
         "title": "El superávit comercial superó los u$s3.000 millones en octubre y rozó el récord de la era Milei",
-        "summary": "Las exportaciones treparon a un nuevo máximo, mientras que las importaciones anotaron un retroceso interanual pero un repunte mensual.",
+        "summary": "Las exportaciones treparon a un nuevo máximo, mientras que las importaciones tuvieron un repunte mensual, pero que no refleja una mejora de la actividad económica.",
         "link": "https://www.ambito.com/economia/el-superavit-comercial-supero-los-us3000-millones-octubre-y-rozo-el-record-la-era-milei-n6347275",
         "source": "Ámbito",
         "time": "19/11 16:19",
@@ -318,6 +308,16 @@
         "source": "Bloomberg Línea AR",
         "time": "19/11 15:34",
         "iso_date": "2026-11-19T18:34:27+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar oficial cerró arriba de los $1.560 y la brecha con el financiero superó el 10%",
+        "summary": "El dólar blue marcó otro récord nominal y el CCL superó los $1.730, mientras las reservas cayeron y crece la demanda de cobertura cambiaria",
+        "link": "https://www.iprofesional.com/economia/469549-el-dolar-oficial-supero-los-1560-y-la-brecha-con-el-financiero-se-mantuvo-en-10",
+        "source": "iProfesional",
+        "time": "19/11 15:30",
+        "iso_date": "2026-11-19T18:30:00+00:00",
         "tickers": [],
         "is_general": true
       }
@@ -415,8 +415,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -443,8 +443,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
