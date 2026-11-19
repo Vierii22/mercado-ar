@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-19T22:42:26.052835",
-  "updated_str": "19/11/2026 22:42",
+  "updated_at": "2026-11-19T22:47:49.385354",
+  "updated_str": "19/11/2026 22:47",
   "cutoff_hours": 48,
   "total_news": 247,
   "news": {
     "GENERAL": [
+      {
+        "title": "Se aprobó la nueva Ley de Discapacidad: cambios en prestaciones y un mensaje a Milei",
+        "summary": "El Senado se aprobó por unanimidad. Criterios estables para pensiones y fiscalización. La presión social y política al Gobierno",
+        "link": "https://www.iprofesional.com/politica/469587-se-aprobo-la-nueva-ley-de-discapacidad-cambios-en-prestaciones-y-un-mensaje-a-milei",
+        "source": "iProfesional",
+        "time": "19/11 19:40",
+        "iso_date": "2026-11-19T22:40:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El riesgo país se disparó casi 10%: qué factores explican la nueva escalada",
         "summary": "La volatilidad externa, la fortaleza del dólar y las tensiones cambiarias internas llevaron al indicador a 931 puntos básicos, pese a las expectativas que había generado el avance legislativo sobre las PASO",
@@ -238,16 +248,6 @@
         "is_general": true
       },
       {
-        "title": "La nueva Ley de Discapacidad se encamina a ser aprobada: qué cambia en las prestaciones",
-        "summary": "El Senado trata el proyecto que ya tiene media sanción. Criterios estables para pensiones y fiscalización. La presión social y política forzó a Milei",
-        "link": "https://www.iprofesional.com/politica/469587-la-nueva-ley-de-discapacidad-se-encamina-a-ser-aprobada-que-cambia-en-las-prestaciones",
-        "source": "iProfesional",
-        "time": "19/11 16:15",
-        "iso_date": "2026-11-19T19:15:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
         "title": "Anthropic llegó a Wall Street y a ByMA: las claves del CEDEAR para inversores argentinos",
         "summary": "El Certificado de Depósito Argentino que tiene como subyacente al fabricante de Claude salió al mismo tiempo que la acción.",
         "link": "https://www.bloomberglinea.com/latinoamerica/argentina/anthropic-llego-a-wall-street-y-a-byma-las-claves-del-cedear-para-inversores-argentinos/",
@@ -415,8 +415,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
@@ -443,8 +443,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": false
       },
