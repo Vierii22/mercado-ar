@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-11-20T22:46:15.083908",
-  "updated_str": "20/11/2026 22:46",
+  "updated_at": "2026-11-20T22:59:53.354026",
+  "updated_str": "20/11/2026 22:59",
   "cutoff_hours": 48,
-  "total_news": 245,
+  "total_news": 246,
   "news": {
     "GENERAL": [
+      {
+        "title": "El riesgo país saltó 14% en un solo día y alcanzó el nivel más alto desde las elecciones de 2025",
+        "summary": "Wall Street tuvo caídas generalizadas y el índice Nasdaq bajó 5,3%. Las acciones argentinas perdieron hasta 10%, los bonos en dólares restaron 4,6% y el indicador de JP Morgan saltó 14%. El dólar al público llegó a $1.600 y el BCRA no efectuó compras el el mercado",
+        "link": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-salto-14-en-un-solo-dia-y-alcanzo-el-nivel-mas-alto-desde-las-elecciones-de-2025/",
+        "source": "Infobae Economía",
+        "time": "20/11 19:55",
+        "iso_date": "2026-11-20T22:55:47+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Juan Cuattromo, presidente del Banco Provincia: “Si caen la actividad y el empleo, no puede haber estabilidad”",
         "summary": "El presidente del Banco Provincia criticó el esquema macro del gobierno de Javier Milei y aseguró que no tiene proyección de largo plazo durante la inauguración de un congreso de Abappra",
@@ -322,16 +334,6 @@
         "iso_date": "2026-11-20T15:28:12+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "JPMorgan escoge a los bonos de Colombia entre sus principales apuestas emergentes para 2027",
-        "summary": "La entidad considera que la deuda pública colombiana ofrece una oportunidad destacada entre los mercados emergentes y recomienda aprovechar el potencial de valorización de los bonos de mayor plazo.",
-        "link": "https://www.bloomberglinea.com/mercados/jpmorgan-escoge-a-los-bonos-de-colombia-entre-sus-principales-apuestas-emergentes-para-2027/",
-        "source": "Bloomberg Línea AR",
-        "time": "20/11 12:24",
-        "iso_date": "2026-11-20T15:24:47+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -537,6 +539,18 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país saltó 14% en un solo día y alcanzó el nivel más alto desde las elecciones de 2025",
+        "summary": "Wall Street tuvo caídas generalizadas y el índice Nasdaq bajó 5,3%. Las acciones argentinas perdieron hasta 10%, los bonos en dólares restaron 4,6% y el indicador de JP Morgan saltó 14%. El dólar al público llegó a $1.600 y el BCRA no efectuó compras el el mercado",
+        "link": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-salto-14-en-un-solo-dia-y-alcanzo-el-nivel-mas-alto-desde-las-elecciones-de-2025/",
+        "source": "Infobae Economía",
+        "time": "20/11 19:55",
+        "iso_date": "2026-11-20T22:55:47+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "“Es un error”: el economista que invitó Milei a una reunión de Gabinete cuestionó la mirada oficial sobre el riesgo país",
         "summary": "Alberto Ades atribuyó la suba del índice a las dudas sobre los vencimientos posteriores a 2027 y la incertidumbre sobre un eventual cambio de administración. También alertó por las consecuencias para el crédito privado y provincial",
