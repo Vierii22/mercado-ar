@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-20T00:07:19.825348",
-  "updated_str": "20/11/2026 00:07",
+  "updated_at": "2026-11-20T00:44:53.623651",
+  "updated_str": "20/11/2026 00:44",
   "cutoff_hours": 48,
-  "total_news": 242,
+  "total_news": 241,
   "news": {
     "GENERAL": [
+      {
+        "title": "Las apuestas de inversión que ven los empresarios para 2027 y el desafío de conseguir financiamiento",
+        "summary": "Empresarios y funcionarios identificaron a los sectores exportadores como motores del crecimiento para el próximo año. Vaca Muerta y los proyectos mineros concentran expectativas, mientras que los data centers también aparecen entre los sectores con perspectiva de crecimiento,...",
+        "link": "https://www.ambito.com/economia/las-apuestas-inversion-que-ven-los-empresarios-2027-y-el-desafio-conseguir-financiamiento-n6347260",
+        "source": "Ámbito",
+        "time": "19/11 21:23",
+        "iso_date": "2026-11-20T00:23:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Milei logró aprobar la ley Patentes y envía a EE.UU. una señal importante de alineamiento",
+        "summary": "La adhesión al Tratado de Patentes internacional se aprobó en el Senado tras casi 30 años de demora. El tema es clave en la relación Argentina-EE.UU.",
+        "link": "https://www.iprofesional.com/politica/469622-milei-logro-aprobar-la-ley-patentes-y-envia-a-eeuu-una-senal-importante-de-alineamiento",
+        "source": "iProfesional",
+        "time": "19/11 21:05",
+        "iso_date": "2026-11-20T00:05:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Mal día local: Anthropic rateó y encima nos mareamos por el tequila y la caipiriña",
         "summary": "Con gran influencia de lo que está pasando en el mundo, el mercado argentino tuvo otro día muy complicado. Todos los dólares libres subieron y la brecha cambiaria entre el ccl y el mayorista ya se acerca al 11%. Con eso, hay alergia a la compra de papeles locales. Los bonos ba...",
@@ -298,31 +320,33 @@
         "iso_date": "2026-11-19T19:00:00+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "YPF lanza un plan de financiamiento para pymes con órdenes de compra",
-        "summary": "La petrolera lanza en diciembre un esquema que adelanta 50 % del contrato con la orden de compra y permite descontar el otro 50 % al certificarla",
-        "link": "https://www.iprofesional.com/energia/469556-ypf-lanza-un-plan-de-financiamiento-para-pymes-con-ordenes-de-compra",
-        "source": "iProfesional",
-        "time": "19/11 16:00",
-        "iso_date": "2026-11-19T19:00:00+00:00",
+        "title": "Las apuestas de inversión que ven los empresarios para 2027 y el desafío de conseguir financiamiento",
+        "summary": "Empresarios y funcionarios identificaron a los sectores exportadores como motores del crecimiento para el próximo año. Vaca Muerta y los proyectos mineros concentran expectativas, mientras que los data centers también aparecen entre los sectores con perspectiva de crecimiento,...",
+        "link": "https://www.ambito.com/economia/las-apuestas-inversion-que-ven-los-empresarios-2027-y-el-desafio-conseguir-financiamiento-n6347260",
+        "source": "Ámbito",
+        "time": "19/11 21:23",
+        "iso_date": "2026-11-20T00:23:00+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Peso mexicano profundiza pérdidas y rebasa MXN$19 por dólar ante postura dividida de Banxico",
-        "summary": "La divisa mexicana cayó hasta los MXN$19,05 por cada billete verde.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-profundiza-perdidas-y-rebasa-mxn19-por-dolar-ante-postura-dividida-de-banxico/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/11 15:34",
-        "iso_date": "2026-11-19T18:34:27+00:00",
-        "tickers": [],
-        "is_general": true
-      }
-    ],
-    "YPFD": [
+        "title": "Las apuestas de inversión que ven los empresarios para 2027 y el desafío de conseguir financiamiento",
+        "summary": "Empresarios y funcionarios identificaron a los sectores exportadores como motores del crecimiento para el próximo año. Vaca Muerta y los proyectos mineros concentran expectativas, mientras que los data centers también aparecen entre los sectores con perspectiva de crecimiento,...",
+        "link": "https://www.ambito.com/economia/las-apuestas-inversion-que-ven-los-empresarios-2027-y-el-desafio-conseguir-financiamiento-n6347260",
+        "source": "Ámbito Mercados",
+        "time": "19/11 21:23",
+        "iso_date": "2026-11-20T00:23:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
       {
         "title": "A 8 meses de que Argentina ganara el juicio por YPF, la Corte de EEUU se prepara para hacerle una pregunta clave sobre el caso a Trump",
         "summary": "El procurador general estadounidense deberá recomendar al máximo tribunal qué opina sobre la revisión del fallo que en marzo favoreció al país. ¿Es una decisión que podría influir en la campaña presidencial de 2027?",
@@ -415,8 +439,8 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": false
       },
@@ -443,22 +467,10 @@
         "time": "18/11 06:00",
         "iso_date": "2026-11-18T09:00:00+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "El peronismo se reunió para avanzar en la construcción de un frente nacional anti Milei",
-        "summary": "Sergio Massa encabezó un acto por el Día de la Militancia peronista en el que reunió a distintas corrientes internas, en una muestra de fuerza hacia el 2027. Máximo Kirchner estuvo en La Pampa.",
-        "link": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
-        "source": "El Cronista",
-        "time": "17/11 21:15",
-        "iso_date": "2026-11-18T00:15:07+00:00",
-        "tickers": [
+          "YPFD",
           "PAMP"
         ],
-        "is_general": true
+        "is_general": false
       }
     ],
     "BMA": [
@@ -607,18 +619,6 @@
         "source": "Infobae Economía",
         "time": "18/11 01:08",
         "iso_date": "2026-11-18T04:08:37+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones y los bonos argentinos resistieron a una rueda bajista de Wall Street",
-        "summary": "Los indicadores de EEUU cedieron hasta 1,6% antes del balance de Nvidia. El MSCI Merval rebotó 2% y los bonos finalizaron mixtos, con un riesgo país en los 854 puntos. El dólar siguió a $1.575 en el Banco Nación y el BCRA compró USD 74 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/11/17/las-acciones-y-los-bonos-argentinos-resistieron-a-una-rueda-bajista-de-wall-street/",
-        "source": "Infobae Economía",
-        "time": "17/11 21:32",
-        "iso_date": "2026-11-18T00:32:16+00:00",
         "tickers": [
           "AL30"
         ],
