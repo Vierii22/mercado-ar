@@ -1,20 +1,234 @@
 {
-  "updated_at": "2026-11-20T05:44:25.165431",
-  "updated_str": "20/11/2026 05:44",
+  "updated_at": "2026-11-20T18:28:19.373127",
+  "updated_str": "20/11/2026 18:28",
   "cutoff_hours": 48,
-  "total_news": 243,
+  "total_news": 254,
   "news": {
     "GENERAL": [
       {
-        "title": "El riesgo país contagia al dólar: crece la brecha cambiaria y amenaza con encarecer las tasas y golpear a la actividad",
-        "summary": "La suba del indicador de JP Morgan ahora sí le pasó factura al tipo de cambio. El oficial quedó como el más barato luego de cerrar a $1.585. Expectativa por el vencimiento de $25 billones que debe afrontar el Tesoro la semana próxima",
-        "link": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-contagia-al-dolar-crece-la-brecha-cambiaria-y-amenaza-con-encarecer-las-tasas-y-golpear-a-la-actividad/",
+        "title": "Fallo de la Corte Suprema sobre prepagas: qué cambia para los afiliados y cómo reclamar",
+        "summary": "La sentencia declaró inconstitucional la desregulación de las cuotas y restituye el control de la Superintendencia. No fija un tope por inflación ni habilita devoluciones automáticas, aunque abre la puerta a nuevos reclamos",
+        "link": "https://www.infobae.com/economia/2026/11/20/fallo-de-la-corte-suprema-sobre-prepagas-que-cambia-para-los-afiliados-y-como-reclamar/",
         "source": "Infobae Economía",
-        "time": "20/11 01:32",
-        "iso_date": "2026-11-20T04:32:36+00:00",
+        "time": "20/11 15:25",
+        "iso_date": "2026-11-20T18:25:09+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar tocó un nuevo récord nominal y el riesgo país se dispara sobre los 1.000 puntos básicos",
+        "summary": "La divisa mayorista avanzó hasta $1.580. Los títulos Globales descuentan otro 3,5% en promedio en Wall Street. El indicador de JP Morgan escala más de 100 unidades, a 1.038 puntos básicos, un pico en los últimos 13 meses",
+        "link": "https://www.infobae.com/economia/2026/11/20/los-bonos-argentinos-siguen-en-caida-libre-y-el-riesgo-pais-se-dispara-sobre-los-1000-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "20/11 15:22",
+        "iso_date": "2026-11-20T18:22:31+00:00",
         "tickers": [
           "AL30"
         ],
+        "is_general": true
+      },
+      {
+        "title": "Cuáles son las consecuencias para la economía Argentina de un riesgo país de más de 1.000 puntos",
+        "summary": "Debido a una nueva baja de precios de los bonos, el indicador de JP Morgan alcanzó nuevos máximos en 13 meses. El deterioro financiero afecta a las tasas de interés y devaluación y condiciona el financiamiento de la deuda",
+        "link": "https://www.infobae.com/economia/2026/11/20/cuales-son-las-consecuencias-para-la-economia-argentina-de-un-riesgo-pais-de-mas-de-1000-puntos/",
+        "source": "Infobae Economía",
+        "time": "20/11 15:14",
+        "iso_date": "2026-11-20T18:14:36+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El dólar oficial marcó nuevo récord, se acercó a $1.600 y los financieros saltan casi $40",
+        "summary": "Fuertes movimientos en los mercados generaron mayor presión sobre la liquidez y llevaron a los inversores a buscar alternativas de resguardo",
+        "link": "https://www.iprofesional.com/finanzas/469678-dolar-hoy-el-oficial-se-acerca-a-1600-y-la-brecha-supera-el-11",
+        "source": "iProfesional",
+        "time": "20/11 15:13",
+        "iso_date": "2026-11-20T18:13:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país superó los 1.000 puntos y pone en jaque a los bonos argentinos",
+        "summary": "Los mercados financieros reaccionaron con preocupación ante el derrumbe de activos argentinos y las crecientes dudas sobre la estabilidad económica",
+        "link": "https://www.iprofesional.com/finanzas/469661-el-riesgo-pais-supero-los-1000-puntos-y-pone-en-jaque-a-los-bonos-argentinos",
+        "source": "iProfesional",
+        "time": "20/11 15:09",
+        "iso_date": "2026-11-20T18:09:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Advertencia de Joaquín Cottani: \"Si el Gobierno no actúa, la economía caerá en una lenta agonía\"",
+        "summary": "El economista criticó el apretón monetario y advirtió que, sin cambios ni crédito para reactivar la economía, el país caerá en una \"lenta agonía\" con brecha cambiaria y riesgo país altos.",
+        "link": "https://www.ambito.com/economia/advertencia-joaquin-cottani-si-el-gobierno-no-actua-la-caera-una-lenta-agonia-n6347584",
+        "source": "Ámbito",
+        "time": "20/11 15:06",
+        "iso_date": "2026-11-20T18:06:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Globant amplía programa de recompra de acciones: la carta de Migoya a accionistas",
+        "summary": "La argentina de servicios tecnológicos redujo su guidance anual de ingresos y ganancias, y anticipó un tercer trimestre por debajo del consenso. Redujo su plantilla por 8,9% en el último año.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/globant-amplia-programa-de-recompra-de-acciones-la-carta-de-migoya-a-accionistas/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 14:57",
+        "iso_date": "2026-11-20T17:57:16+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Javier Milei ahora habla de \"privaciones\": en qué mejoró y en qué empeoró la situación económica de los argentinos",
+        "summary": "Un relevamiento de la consultora Criteria sobre 19 variables revela que, durante el gobierno de Javier Milei, mejoraron los indicadores de pobreza, indigencia e ingresos, pero se deterioraron los vinculados con las dificultades de las familias para llegar a fin de mes.",
+        "link": "https://www.ambito.com/economia/javier-milei-ahora-habla-privaciones-que-mejoro-y-que-empeoro-la-situacion-economica-los-argentinos-n6347623",
+        "source": "Ámbito",
+        "time": "20/11 14:42",
+        "iso_date": "2026-11-20T17:42:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Por qué cae la acción de Anthropic: qué muestran otras salidas a bolsa históricas sobre su futuro en Wall Street",
+        "summary": "La firma de inteligencia artificial perdió parte de las ganancias de su debut, en medio de una corrección del sector tecnológico. Datos de mercado muestran que las IPO más esperadas suelen atravesar fuertes caídas durante su primer año, incluso cuando luego terminan con subas",
+        "link": "https://www.infobae.com/economia/2026/11/20/por-que-cae-la-accion-de-anthropic-que-muestran-otras-salidas-a-bolsa-historicas-sobre-su-futuro-en-wall-street/",
+        "source": "Infobae Economía",
+        "time": "20/11 14:23",
+        "iso_date": "2026-11-20T17:23:41+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La balanza energética duplicó su superávit en octubre",
+        "summary": "El saldo del sector alcanzó u$s1.437 millones y acumuló u$s9.384 millones en diez meses, con Vaca Muerta y el precio del crudo al frente.",
+        "link": "https://www.iprofesional.com/energia/469658-la-balanza-energetica-duplico-su-superavit-en-octubre",
+        "source": "iProfesional",
+        "time": "20/11 14:23",
+        "iso_date": "2026-11-20T17:23:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Tras la explosión en Lanús que dejó dos muertos, Edenor aclaró que todavía no tomó el control de MetroGAS",
+        "summary": "La compañía eléctrica informó que la operación de compraventa acordada con YPF aún no se concretó y que la distribuidora de gas continúa bajo la administración de sus actuales autoridades",
+        "link": "https://www.infobae.com/economia/2026/11/20/tras-la-explosion-en-lanus-que-dejo-dos-muertos-edenor-aclaro-que-todavia-no-tomo-el-control-de-metrogas/",
+        "source": "Infobae Economía",
+        "time": "20/11 14:13",
+        "iso_date": "2026-11-20T17:13:13+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "S&P 500 entra en corrección tras caída de Anthropic y dudas por la IA, mientras el oro se hunde",
+        "summary": "La caída de Anthropic en su segunda jornada bursátil intensifica las ventas en Wall Street, en medio de dudas sobre el gasto en inteligencia artificial y una política monetaria más restrictiva.",
+        "link": "https://www.bloomberglinea.com/mercados/sp-500-y-nasdaq-caen-tras-retroceso-de-anthropic-y-temor-a-nuevas-alzas-de-tasas-de-la-fed/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 14:08",
+        "iso_date": "2026-11-20T17:08:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Merval hoy: qué pasa con las acciones argentinas en medio de la tensión financiera",
+        "summary": "Luego de una fuerte baja en títulos de deuda, crecen las dificultades para que el país reciba inversión externa y mejore la estabilidad económica",
+        "link": "https://www.iprofesional.com/finanzas/469671-riesgo-pais-argentino-supero-1000-puntos-complica-acceso-dolares-baratos-noviembre-2026",
+        "source": "iProfesional",
+        "time": "20/11 12:48",
+        "iso_date": "2026-11-20T15:48:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La presión del dólar sacude al oro y la plata con una fuerza pocas veces vista en décadas",
+        "summary": "Los metales registran pérdidas superiores a las observadas durante diez episodios anteriores de rápido endurecimiento financiero desde 2009 con una sensibilidad extrema frente al dólar.",
+        "link": "https://www.bloomberglinea.com/mercados/la-presion-del-dolar-sacude-al-oro-y-la-plata-con-una-fuerza-pocas-veces-vista-en-decadas/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 12:37",
+        "iso_date": "2026-11-20T15:37:06+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Cuánto necesita una familia del AMBA para pagar los servicios de luz, gas, agua y transporte en noviembre",
+        "summary": "Según un informe de la UBA y el Conicet, la canasta de servicios públicos aumentó 66% en el último año, casi 40 puntos por encima de la inflación. El transporte concentra más de la mitad del gasto mensual",
+        "link": "https://www.infobae.com/economia/2026/11/20/cuanto-necesita-una-familia-del-amba-para-pagar-los-servicios-de-luz-gas-agua-y-transporte-en-noviembre/",
+        "source": "Infobae Economía",
+        "time": "20/11 12:28",
+        "iso_date": "2026-11-20T15:28:12+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "JPMorgan escoge a los bonos de Colombia entre sus principales apuestas emergentes para 2027",
+        "summary": "La entidad considera que la deuda pública colombiana ofrece una oportunidad destacada entre los mercados emergentes y recomienda aprovechar el potencial de valorización de los bonos de mayor plazo.",
+        "link": "https://www.bloomberglinea.com/mercados/jpmorgan-escoge-a-los-bonos-de-colombia-entre-sus-principales-apuestas-emergentes-para-2027/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 12:24",
+        "iso_date": "2026-11-20T15:24:47+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Por qué preocupa que el riesgo país supere los 1.000 puntos y qué puede pasar con el dólar",
+        "summary": "El salto del indicador impacta en la confianza de los inversores y suma incertidumbre sobre el futuro del dólar, la inflación y la actividad económica",
+        "link": "https://www.iprofesional.com/finanzas/469665-riesgo-pais-se-disparo-y-puso-en-alerta-a-empresas-y-ahorristas-por-el-dolar",
+        "source": "iProfesional",
+        "time": "20/11 12:18",
+        "iso_date": "2026-11-20T15:18:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Competencia en redes de pagos con tarjeta dependerá de regulación: Mastercard",
+        "summary": "De acuerdo con la compañía, el 40% de todas las transacciones que se hacen con tarjetas Mastercard en el país ya pasan por su red y buscan crecer con este enfoque.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/competencia-en-redes-de-pagos-con-tarjeta-dependera-de-regulacion-mastercard/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 12:11",
+        "iso_date": "2026-11-20T15:11:46+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Vuelven a hundirse los bonos argentinos y el riesgo país supera los 1.000 puntos",
+        "summary": "La renta fija soberana se desploma hasta 4% en la parte larga de la curva, en medio de una fuerte aversión al riesgo a nivel global.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vuelven-a-hundirse-los-bonos-argentinos-y-el-riesgo-pais-supera-los-1000-puntos/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 11:58",
+        "iso_date": "2026-11-20T14:58:30+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "¿Volvió el rulo del dólar? Cuánto se gana con u$s1.000 entre el oficial y el blue",
+        "summary": "La suba del precio del dólar informal vuelve a generar la opción de comprar billetes en el mercado oficial y venderlos en el marginal. Riesgos",
+        "link": "https://www.iprofesional.com/finanzas/469651-rulo-del-dolar-cuanto-se-gana-con-us1-000-entre-oficial-y-blue",
+        "source": "iProfesional",
+        "time": "20/11 11:33",
+        "iso_date": "2026-11-20T14:33:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Se desploman las bolsas del mundo y los futuros del Nasdaq anticipan otra rueda en rojo",
+        "summary": "En Asia, exceptuando a Japón, cerraron una de las peores jornadas desde la pandemia de 2020. Europa también registra fuertes pérdidas",
+        "link": "https://www.iprofesional.com/finanzas/469635-como-cotizan-hoy-20-de-noviembre-el-merval-adrs-bonos-y-riesgo-pais",
+        "source": "iProfesional",
+        "time": "20/11 11:20",
+        "iso_date": "2026-11-20T14:20:00+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
@@ -22,316 +236,138 @@
         "summary": "Harbour Energy, que opera en Vaca Muerta, aseguró que no tiene vínculos con el yacimiento del archipiélago, en medio de una causa que investiga si la Secretaría de Energía le permitió operar pese a una inhabilitación anterior",
         "link": "https://www.infobae.com/economia/2026/11/20/malvinas-una-petrolera-britanica-se-despego-del-proyecto-sea-lion-en-medio-de-una-sancion-heredada-y-luego-de-una-denuncia-penal/",
         "source": "Infobae Economía",
-        "time": "20/11 01:32",
-        "iso_date": "2026-11-20T04:32:18+00:00",
+        "time": "20/11 11:16",
+        "iso_date": "2026-11-20T14:16:49+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
       },
       {
-        "title": "Las compras vía courier ya superaron los USD 1.000 millones en 2026 y aumentaron 53% en los primeros diez meses del año",
-        "summary": "Según el Indec, en octubre ingresaron USD 104 millones por esta vía. Se estima que el año cerraría por encima de los USD 1.250 millones, mientras las compras de bienes de consumo por la vía tradicional caen",
-        "link": "https://www.infobae.com/economia/2026/11/20/las-compras-via-courier-ya-superaron-los-usd-1000-millones-en-2026-y-aumentaron-53-en-los-primeros-diez-meses-del-ano/",
+        "title": "Moody’s ve una mejora para la deuda de las empresas argentinas, pero advierte por las elecciones de 2027",
+        "summary": "La calificadora mantuvo estable su perspectiva para América Latina y el Caribe, con presiones financieras en Brasil y Colombia y mejores condiciones de refinanciamiento para los sectores exportadores de Argentina",
+        "link": "https://www.infobae.com/economia/2026/11/20/moodys-ve-una-mejora-para-la-deuda-de-las-empresas-argentinas-pero-advierte-por-las-elecciones-de-2027/",
         "source": "Infobae Economía",
-        "time": "20/11 01:27",
-        "iso_date": "2026-11-20T04:27:32+00:00",
+        "time": "20/11 11:16",
+        "iso_date": "2026-11-20T14:16:10+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Las apuestas de inversión que ven los empresarios para 2027 y el desafío de conseguir financiamiento",
-        "summary": "Empresarios y funcionarios identificaron a los sectores exportadores como motores del crecimiento para el próximo año. Vaca Muerta y los proyectos mineros concentran expectativas, mientras que los data centers también aparecen entre los sectores con perspectiva de crecimiento,...",
-        "link": "https://www.ambito.com/economia/las-apuestas-inversion-que-ven-los-empresarios-2027-y-el-desafio-conseguir-financiamiento-n6347260",
-        "source": "Ámbito",
-        "time": "19/11 21:23",
-        "iso_date": "2026-11-20T00:23:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Milei logró aprobar la ley Patentes y envía a EE.UU. una señal importante de alineamiento",
-        "summary": "La adhesión al Tratado de Patentes internacional se aprobó en el Senado tras casi 30 años de demora. El tema es clave en la relación Argentina-EE.UU.",
-        "link": "https://www.iprofesional.com/politica/469622-milei-logro-aprobar-la-ley-patentes-y-envia-a-eeuu-una-senal-importante-de-alineamiento",
-        "source": "iProfesional",
-        "time": "19/11 21:05",
-        "iso_date": "2026-11-20T00:05:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Mal día local: Anthropic rateó y encima nos mareamos por el tequila y la caipiriña",
-        "summary": "Con gran influencia de lo que está pasando en el mundo, el mercado argentino tuvo otro día muy complicado. Todos los dólares libres subieron y la brecha cambiaria entre el ccl y el mayorista ya se acerca al 11%. Con eso, hay alergia a la compra de papeles locales. Los bonos ba...",
-        "link": "https://eleconomista.com.ar/finanzas/mal-dia-local-anthropic-rateo-encima-nos-mareamos-tequila-caipirina-n99793",
-        "source": "El Economista",
-        "time": "19/11 19:57",
-        "iso_date": "2026-11-19T22:57:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Se aprobó por unanimidad la Ley de Discapacidad: cambios en prestaciones y mensaje a Milei",
-        "summary": "Se aprobó con 71 votos a favor y ninguno en contra. Criterios estables para pensiones y fiscalización. La presión social y política al Gobierno",
-        "link": "https://www.iprofesional.com/politica/469587-se-aprobo-la-nueva-ley-de-discapacidad-cambios-en-prestaciones-y-un-mensaje-a-milei",
-        "source": "iProfesional",
-        "time": "19/11 19:40",
-        "iso_date": "2026-11-19T22:40:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país se disparó casi 10%: qué factores explican la nueva escalada",
-        "summary": "La volatilidad externa, la fortaleza del dólar y las tensiones cambiarias internas llevaron al indicador a 931 puntos básicos, pese a las expectativas que había generado el avance legislativo sobre las PASO",
-        "link": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/",
+        "title": "El duro diagnóstico de un ex funcionario de Caputo: mantener sin cambios la política monetaria condena al país a una \"lenta agonía\"",
+        "summary": "Joaquín Cottani, economista con paso por el gobierno de Milei y fue viceministro de Economía hasta el año pasado, alertó que persistir con el esquema cambiario actual llevará al Gobierno a perder las elecciones y condenará a la economía al estancamiento con inflación",
+        "link": "https://www.infobae.com/economia/2026/11/20/el-duro-diagnostico-de-un-ex-funcionario-de-caputo-mantener-sin-cambios-la-politica-monetaria-condena-al-pais-a-una-lenta-agonia/",
         "source": "Infobae Economía",
-        "time": "19/11 19:27",
-        "iso_date": "2026-11-19T22:27:38+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Frigorífico con 600 empleados debe $80.000 millones y acaba de entrar en concurso",
-        "summary": "La compañía acumula más de 1.000 cheques rechazados y 358 acreedores. Mayor precio de la hacienda y suba de los costos en dólares, entre las causas",
-        "link": "https://www.iprofesional.com/negocios/469610-frigorifico-con-600-empleados-debe-80000-millones-de-pesos-y-entra-en-concurso",
-        "source": "iProfesional",
-        "time": "19/11 19:10",
-        "iso_date": "2026-11-19T22:10:00+00:00",
+        "time": "20/11 11:06",
+        "iso_date": "2026-11-20T14:06:45+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El dólar volvió a subir, las acciones argentinas se hundieron hasta 10% en Wall Street y el riesgo país escaló 80 puntos",
-        "summary": "Pese al debut de Anthropic, que ganó 17%, los índices de Wall Street cayeron más de 2 por ciento. El MSCI Merval cedió también 2% y los bonos en dólares perdieron 3 por ciento. El indicador de JP Morgan subió a 931 puntos. El dólar marcó precios récord",
-        "link": "https://www.infobae.com/economia/2026/11/19/las-acciones-argentinas-se-hundieron-hasta-10-en-wall-street-y-el-riesgo-pais-escalo-80-puntos/",
-        "source": "Infobae Economía",
-        "time": "19/11 19:05",
-        "iso_date": "2026-11-19T22:05:33+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Nuevo récord de exportaciones llegó justo para el Gobierno, en plena tensión con el dólar",
-        "summary": "Con u$s10.061 millones de exportación, la balanza comercial dejó un superávit de u$s3.394 millones. El dato llega en una incipiente tensión cambiaria",
-        "link": "https://www.iprofesional.com/economia/469604-nuevo-record-de-exportaciones-llego-justo-para-el-gobierno-en-plena-tension-con-el-dolar",
-        "source": "iProfesional",
-        "time": "19/11 19:00",
-        "iso_date": "2026-11-19T22:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por qué brókers de la City recomiendan mucha cautela antes de comprar CEDEAR de Anthropic",
-        "summary": "El mismo día que debutó la acción de Anthropic (ANT) en Wall Street, también se emitió su CEDEAR en pesos. Qué opinan expertos sobre esta inversión",
-        "link": "https://www.iprofesional.com/finanzas/469599-la-verdad-sobre-si-conviene-invertir-ahora-mismo-en-anthropic",
-        "source": "iProfesional",
-        "time": "19/11 18:32",
-        "iso_date": "2026-11-19T21:32:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país se disparó y llegó a los 930 puntos, nuevo máximo en más de un año",
-        "summary": "El indicador que elabora JP Morgan escaló casi 10% este jueves a un nuevo récord en el año. Los ADR cayeron hasta 9% en Wall Street",
-        "link": "https://www.iprofesional.com/finanzas/469569-el-riesgo-pais-se-disparo-y-supero-los-900-puntos-nuevo-maximo-en-mas-de-un-ano",
-        "source": "iProfesional",
-        "time": "19/11 18:30",
-        "iso_date": "2026-11-19T21:30:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El BCRA apunta contra los gobernadores por los créditos caros, con un consumo en caída",
-        "summary": "El Central responsabiliza a los impuestos provinciales por el elevado costo de los préstamos, con un consumo en retroceso y una morosidad en 12%",
-        "link": "https://www.iprofesional.com/economia/469608-el-bcra-apunta-contra-los-gobernadores-por-los-creditos-caros-con-un-consumo-en-caida",
-        "source": "iProfesional",
-        "time": "19/11 18:24",
-        "iso_date": "2026-11-19T21:24:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones de Anthropic empezaron a cotizar en Wall Street: subieron 17% después de una salida récord a la bolsa",
-        "summary": "La compañía creadora de Claude recaudó USD 107.000 millones en su Oferta Pública Inicial, un monto que superó lo recaudado por SpaceX en junio",
-        "link": "https://www.infobae.com/economia/2026/11/19/las-acciones-de-anthropic-empiezan-a-cotizar-en-wall-street-despues-de-una-salida-record-a-la-bolsa/",
-        "source": "Infobae Economía",
-        "time": "19/11 18:18",
-        "iso_date": "2026-11-19T21:18:10+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones y los bonos argentinos volvieron a caer muy fuerte y el riesgo país superó los 900 puntos básicos",
-        "summary": "El MSCI Merval cedió 2% y las acciones y ADR argentinos se hundieron hasta 10% en Wall Street. Los títulos públicos en dólares cayeron 3% y el indicador de JP Morgan escaló 80 unidades",
-        "link": "https://www.infobae.com/economia/2026/11/19/las-acciones-y-los-bonos-argentinos-vuelven-a-caer-y-el-riesgo-pais-escala-a-876-puntos/",
-        "source": "Infobae Economía",
-        "time": "19/11 18:12",
-        "iso_date": "2026-11-19T21:12:44+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Récord de Anthropic no detiene pérdidas en Wall Street y el S&P 500 suma su peor racha desde 2024",
-        "summary": "La histórica salida a bolsa del fabricante de Claude reaviva el apetito por las acciones tecnológicas, después de semanas de pérdidas y dudas sobre la rentabilidad de las inversiones en inteligencia artificial.",
-        "link": "https://www.bloomberglinea.com/mercados/nasdaq-lidera-las-alzas-en-wall-street-ante-el-historico-debut-bursatil-de-anthropic/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/11 18:07",
-        "iso_date": "2026-11-19T21:07:19+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las exportaciones marcaron otro récord histórico en octubre y en diez meses ya superaron a todo el 2025",
-        "summary": "Las importaciones volvieron a bajar en el décimo mes del año y la balanza dejó un saldo positivo de 3.394 millones de dólares. Qué rubros marcaron la diferencia",
-        "link": "https://www.infobae.com/economia/2026/11/19/las-exportaciones-marcaron-otro-record-historico-en-octubre-y-en-diez-meses-ya-superaron-a-todo-el-2025/",
-        "source": "Infobae Economía",
-        "time": "19/11 17:30",
-        "iso_date": "2026-11-19T20:30:53+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "“Me asusta”: Cavallo redobló la apuesta contra Milei y sumó un nuevo round en la pelea con el Presidente",
-        "summary": "El mandatario había vuelto a cuestionar al ex ministro por el Plan Bonex, la estatización de la deuda y el corralito. El economista recordó los elogios que había recibido del mandatario y puso en duda su cambio de opinión",
-        "link": "https://www.infobae.com/economia/2026/11/19/me-asusta-cavallo-redoblo-la-apuesta-contra-milei-y-sumo-un-nuevo-round-en-la-pelea-con-el-presidente/",
-        "source": "Infobae Economía",
-        "time": "19/11 17:06",
-        "iso_date": "2026-11-19T20:06:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Inversores argentinos ya pueden comprar el CEDEAR de Anthropic en pesos",
-        "summary": "El Certificado de Depósito Argentino de Anthropic representa 15 fracciones de la acción original y comenzó a operar pocas horas después del debut",
-        "link": "https://www.iprofesional.com/finanzas/469590-inversores-argentinos-ya-pueden-comprar-el-cedear-de-anthropic-en-pesos",
-        "source": "iProfesional",
-        "time": "19/11 17:00",
-        "iso_date": "2026-11-19T20:00:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar hoy: todas las cotizaciones alcanzaron nuevos máximos y el real brasileño profundizó su baja",
-        "summary": "El billete al público quedó ofrecido a $1.585 para la venta en el Banco Nación. El blue se pagó a un récord de $1.640. El BCRA compró solo USD 3 millones en el mercado",
-        "link": "https://www.infobae.com/economia/2026/11/19/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-tras-la-caida-del-real-brasileno-y-el-record-del-contado-con-liqui/",
-        "source": "Infobae Economía",
-        "time": "19/11 16:59",
-        "iso_date": "2026-11-19T19:59:34+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "A 8 meses de que Argentina ganara el juicio por YPF, la Corte de EEUU se prepara para hacerle una pregunta clave sobre el caso a Trump",
-        "summary": "El procurador general estadounidense deberá recomendar al máximo tribunal qué opina sobre la revisión del fallo que en marzo favoreció al país. ¿Es una decisión que podría influir en la campaña presidencial de 2027?",
-        "link": "https://www.infobae.com/economia/2026/11/19/a-8-meses-de-que-argentina-ganara-el-juicio-por-ypf-la-corte-de-eeuu-se-prepara-para-hacerle-una-pregunta-clave-sobre-el-caso-a-trump/",
-        "source": "Infobae Economía",
-        "time": "19/11 16:56",
-        "iso_date": "2026-11-19T19:56:27+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Anthropic tuvo una salida histórica a la bolsa y su valuación superó los u$s1,2 billones",
-        "summary": "La empresa detrás del asistente de IA Claude superó el récord de Space X en su salida a bolsa. Sus acciones suben en torno al 16%",
-        "link": "https://www.iprofesional.com/finanzas/469593-anthropic-tuvo-una-salida-historica-a-la-bolsa-y-su-valuacion-supero-los-us12-billones",
-        "source": "iProfesional",
-        "time": "19/11 16:53",
-        "iso_date": "2026-11-19T19:53:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El CEO de YPF proyecta que Argentina llegará al Top10 de exportadores de petróleo en 2030",
-        "summary": "Con la ampliación del oleoducto VMOS a un millón de barriles diarios, Horacio Marín proyecta superar la meta de US$30.000 millones anuales hacia 2030",
-        "link": "https://www.iprofesional.com/energia/469598-el-ceo-de-ypf-proyecta-que-argentina-llegara-al-top10-de-exportadores-de-petroleo-en-2030",
-        "source": "iProfesional",
-        "time": "19/11 16:49",
-        "iso_date": "2026-11-19T19:49:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "Exportaciones argentinas marcan récord en octubre y el superávit comercial supera los US$3.000 millones",
-        "summary": "El registro de las ventas al exterior superó el registro de septiembre, al sumar US$10.061 millones, de acuerdo con datos difundidos por el Indec.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/exportaciones-argentinas-marcaron-record-en-octubre-y-el-superavit-comercial-supero-los-us3000-millones/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/11 16:38",
-        "iso_date": "2026-11-19T19:38:08+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Milei habló contra el antisemitismo, recordó a las víctimas de la AMIA y la Embajada y defendió la ley de juicio en ausencia",
-        "summary": "El Presidente disertó en la primera cita anual de este tipo del Foro Argentino Contra el Antisemitismo.",
-        "link": "https://www.cronista.com/economia-politica/milei-sera-el-orador-principal-de-una-cumbre-contra-el-antisemitismo-con-mas-de-300-invitados/",
+        "title": "Hasta 90% de condonación: qué deudas perdona ARCA por regularizar empleados en negro y cuánto se paga",
+        "summary": "En pocos días vence el plazo para adherir al Régimen de Promoción del Empleo Registrado (PER). El beneficio permite a las empresas regularizar trabajadores no registrados o con datos incorrectos, obtener condonaciones de deuda y acceder a planes de pago.",
+        "link": "https://www.cronista.com/economia-politica/hasta-90-de-condonacion-que-deudas-perdona-arca-por-regularizar-empleados-en-negro-y-cuanto-se-paga/",
         "source": "El Cronista",
-        "time": "19/11 16:30",
-        "iso_date": "2026-11-19T19:30:40+00:00",
+        "time": "20/11 11:01",
+        "iso_date": "2026-11-20T14:01:56+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Del récord al desplome: el oro pierde 33% y enfrenta nuevas amenazas de la Fed",
-        "summary": "Las expectativas de nuevas subidas de tasas de la Reserva Federal golpean al oro, que ha perdido un tercio de su valor desde los máximos históricos.",
-        "link": "https://www.bloomberglinea.com/mercados/del-record-al-desplome-el-oro-pierde-33-y-enfrenta-nuevas-amenazas-de-la-fed/",
+        "title": "El precio del dólar golpea a América Latina y marca una “semana terrible” para sus monedas",
+        "summary": "El fortalecimiento del dólar y la aversión global al riesgo golpearon a las divisas latinoamericanas, con Brasil y Colombia entre los mercados más afectados por las ventas y las preocupaciones fiscales.",
+        "link": "https://www.bloomberglinea.com/mercados/el-precio-del-dolar-golpea-a-america-latina-y-marca-una-semana-terrible-para-sus-monedas/",
         "source": "Bloomberg Línea AR",
-        "time": "19/11 16:28",
-        "iso_date": "2026-11-19T19:28:33+00:00",
+        "time": "20/11 10:49",
+        "iso_date": "2026-11-20T13:49:31+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "El superávit comercial superó los u$s3.000 millones en octubre y rozó el récord de la era Milei",
-        "summary": "Las exportaciones treparon a un nuevo máximo, mientras que las importaciones tuvieron un repunte mensual, pero que no refleja una mejora de la actividad económica.",
-        "link": "https://www.ambito.com/economia/el-superavit-comercial-supero-los-us3000-millones-octubre-y-rozo-el-record-la-era-milei-n6347275",
-        "source": "Ámbito",
-        "time": "19/11 16:19",
-        "iso_date": "2026-11-19T19:19:00+00:00",
+        "title": "¿Cómo llegan a fin de mes? La respuesta de UNICEF a Milei: deuda, menos comida y más changas",
+        "summary": "Endeudamiento, préstamos de familiares y changas son las estrategias en la mesa familiar para preservar la alimentación de los menores.",
+        "link": "https://www.cronista.com/economia-politica/como-llegan-a-fin-de-mes-la-respuesta-de-unicef-a-milei-deuda-menos-comida-y-mas-changas/",
+        "source": "El Cronista",
+        "time": "20/11 10:30",
+        "iso_date": "2026-11-20T13:30:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Anthropic llegó a Wall Street y a ByMA: las claves del CEDEAR para inversores argentinos",
-        "summary": "El Certificado de Depósito Argentino que tiene como subyacente al fabricante de Claude salió al mismo tiempo que la acción.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/anthropic-llego-a-wall-street-y-a-byma-las-claves-del-cedear-para-inversores-argentinos/",
-        "source": "Bloomberg Línea AR",
-        "time": "19/11 16:12",
-        "iso_date": "2026-11-19T19:12:25+00:00",
+        "title": "¿El dólar blue está caro o barato? Marcó un récord, pero sigue atrasado por inflación",
+        "summary": "Después de varios meses de relativa calma, el dólar acelero su marcha abriendo el debate sobre si la divisa todavía tiene margen para seguir subiendo",
+        "link": "https://www.iprofesional.com/finanzas/469645-el-dolar-blue-esta-caro-o-barato-marco-un-record-pero-sigue-atrasado-por-inflacion",
+        "source": "iProfesional",
+        "time": "20/11 10:05",
+        "iso_date": "2026-11-20T13:05:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Tomás Karagozian: “Necesitamos más dólares y más trabajo, no más dólares y más pobres”",
-        "summary": "El cofundador de La Fábrica Podcast analizó en Infobae al Regreso las dificultades del sector productivo, cuestionó la competencia de las importaciones y reclamó medidas para impulsar el empleo y la competitividad",
-        "link": "https://www.infobae.com/economia/2026/11/19/tomas-karagozian-necesitamos-mas-dolares-y-mas-trabajo-no-mas-dolares-y-mas-pobres/",
+        "title": "Inflación y elecciones: cómo van a aumentar los precios del gas, la luz, el agua y el transporte en 2027",
+        "summary": "La luz y el gas continuarán con la misma fórmula de IPC más mayorista mientras que la boleta de agua contemplará la evolución de los salarios para los ajustes. En el caso de los colectivos en la Ciudad aún se espera por una audiencia de diciembre",
+        "link": "https://www.infobae.com/economia/2026/11/20/inflacion-y-elecciones-como-van-a-aumentar-los-precios-del-gas-la-luz-el-agua-y-el-transporte-en-2027/",
         "source": "Infobae Economía",
-        "time": "19/11 16:07",
-        "iso_date": "2026-11-19T19:07:45+00:00",
+        "time": "20/11 09:35",
+        "iso_date": "2026-11-20T12:35:54+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La silla que perdió Milei y la puja por los siete votos clave: la guerra por quién elige a los jueces",
+        "summary": "El regreso de un senador al bloque justicialista y un informe de la Presidencia del Senado le dieron al PJ dos de las cuatro bancas de la Cámara alta. En Diputados, la Corte le cerró la puerta a la reelección del consejero del PRO Álvaro González, y la cuarta silla, que disput...",
+        "link": "https://www.cronista.com/economia-politica/la-silla-que-perdio-milei-y-la-puja-por-los-siete-votos-clave-la-guerra-por-quien-elige-a-los-jueces/",
+        "source": "El Cronista",
+        "time": "20/11 09:35",
+        "iso_date": "2026-11-20T12:35:04+00:00",
         "tickers": [],
         "is_general": true
       }
     ],
     "YPFD": [
       {
+        "title": "La balanza energética duplicó su superávit en octubre",
+        "summary": "El saldo del sector alcanzó u$s1.437 millones y acumuló u$s9.384 millones en diez meses, con Vaca Muerta y el precio del crudo al frente.",
+        "link": "https://www.iprofesional.com/energia/469658-la-balanza-energetica-duplico-su-superavit-en-octubre",
+        "source": "iProfesional",
+        "time": "20/11 14:23",
+        "iso_date": "2026-11-20T17:23:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Tras la explosión en Lanús que dejó dos muertos, Edenor aclaró que todavía no tomó el control de MetroGAS",
+        "summary": "La compañía eléctrica informó que la operación de compraventa acordada con YPF aún no se concretó y que la distribuidora de gas continúa bajo la administración de sus actuales autoridades",
+        "link": "https://www.infobae.com/economia/2026/11/20/tras-la-explosion-en-lanus-que-dejo-dos-muertos-edenor-aclaro-que-todavia-no-tomo-el-control-de-metrogas/",
+        "source": "Infobae Economía",
+        "time": "20/11 14:13",
+        "iso_date": "2026-11-20T17:13:13+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
         "title": "Malvinas: una petrolera británica se despegó del proyecto Sea Lion en medio de una sanción “heredada” y luego de una denuncia penal",
         "summary": "Harbour Energy, que opera en Vaca Muerta, aseguró que no tiene vínculos con el yacimiento del archipiélago, en medio de una causa que investiga si la Secretaría de Energía le permitió operar pese a una inhabilitación anterior",
         "link": "https://www.infobae.com/economia/2026/11/20/malvinas-una-petrolera-britanica-se-despego-del-proyecto-sea-lion-en-medio-de-una-sancion-heredada-y-luego-de-una-denuncia-penal/",
         "source": "Infobae Economía",
-        "time": "20/11 01:32",
-        "iso_date": "2026-11-20T04:32:18+00:00",
+        "time": "20/11 11:16",
+        "iso_date": "2026-11-20T14:16:49+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Argentina LNG entra en cuenta regresiva: se define el RIGI para la inversión récord de US$51.000 millones",
+        "summary": "El Comité Evaluador analizará la solicitud de adhesión del megaproyecto que impulsan YPF, Eni y XRG. La definición llega a días de la fecha prevista para la decisión final de inversión. Los desembolsos, el financiamiento y los plazos de ejecución.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/argentina-lng-entra-en-cuenta-regresiva-se-define-el-rigi-para-la-inversion-record-de-us51000-millones/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 06:00",
+        "iso_date": "2026-11-20T09:00:00+00:00",
         "tickers": [
           "YPFD"
         ],
@@ -386,18 +422,6 @@
         "is_general": false
       },
       {
-        "title": "YPF lanza un plan de financiamiento para pymes con órdenes de compra",
-        "summary": "La petrolera lanza en diciembre un esquema que adelanta 50 % del contrato con la orden de compra y permite descontar el otro 50 % al certificarla",
-        "link": "https://www.iprofesional.com/energia/469556-ypf-lanza-un-plan-de-financiamiento-para-pymes-con-ordenes-de-compra",
-        "source": "iProfesional",
-        "time": "19/11 16:00",
-        "iso_date": "2026-11-19T19:00:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
         "title": "Sin el mecanismo de amortiguación de YPF, un litro de nafta costaría casi $3.000: cuándo y cómo podría bajar el combustible",
         "summary": "Un análisis del IARAF muestra que el mecanismo de amortiguación evitó subas de hasta el 57% en el peor momento de la crisis del crudo, mientras la baja en los surtidores depende de condiciones que todavía no se cumplen",
         "link": "https://www.infobae.com/economia/2026/11/19/sin-el-mecanismo-de-amortiguacion-de-ypf-un-litro-de-nafta-costaria-casi-3000-cuando-y-como-podria-bajar-el-combustible/",
@@ -432,49 +456,10 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "De Citrone y Druckenmiller a Thiel: tres magnates que profundizan su apuesta por Vaca Muerta",
-        "summary": "Fondos pertenecientes a algunas de las personas más ricas del mundo incrementaron sus tenencias en compañías de energía argentinas.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/de-citrone-y-druckenmiller-a-thiel-tres-magnates-que-profundizan-su-apuesta-por-vaca-muerta/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/11 06:01",
-        "iso_date": "2026-11-18T09:01:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La apuesta de Marcelo Mindlin por la IA y los data centers toma forma: Pampa Energía crea una nueva sociedad",
-        "summary": "La compañía constituyó una nueva sociedad para desarrollar infraestructura tecnológica y centros de datos. El movimiento se produce después de que Mindlin revelara sus planes para aprovechar la disponibilidad de energía de Vaca Muerta y atraer a los gigantes tecnológicos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/pampa-energia-de-marcelo-mindlin-crea-una-empresa-de-inteligencia-artificial-y-avanza-en-el-negocio-de-los-data-centers/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/11 06:00",
-        "iso_date": "2026-11-18T09:00:00+00:00",
-        "tickers": [
-          "PAMP",
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "GGAL": [],
-    "PAMP": [
-      {
-        "title": "La apuesta de Marcelo Mindlin por la IA y los data centers toma forma: Pampa Energía crea una nueva sociedad",
-        "summary": "La compañía constituyó una nueva sociedad para desarrollar infraestructura tecnológica y centros de datos. El movimiento se produce después de que Mindlin revelara sus planes para aprovechar la disponibilidad de energía de Vaca Muerta y atraer a los gigantes tecnológicos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/pampa-energia-de-marcelo-mindlin-crea-una-empresa-de-inteligencia-artificial-y-avanza-en-el-negocio-de-los-data-centers/",
-        "source": "Bloomberg Línea AR",
-        "time": "18/11 06:00",
-        "iso_date": "2026-11-18T09:00:00+00:00",
-        "tickers": [
-          "PAMP",
-          "YPFD"
-        ],
-        "is_general": false
-      }
-    ],
+    "PAMP": [],
     "BMA": [
       {
         "title": "Banco Macro fue elegido como el mejor banco de Argentina en 2026: las razones detrás del premio internacional",
@@ -495,12 +480,132 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "El dólar tocó un nuevo récord nominal y el riesgo país se dispara sobre los 1.000 puntos básicos",
+        "summary": "La divisa mayorista avanzó hasta $1.580. Los títulos Globales descuentan otro 3,5% en promedio en Wall Street. El indicador de JP Morgan escala más de 100 unidades, a 1.038 puntos básicos, un pico en los últimos 13 meses",
+        "link": "https://www.infobae.com/economia/2026/11/20/los-bonos-argentinos-siguen-en-caida-libre-y-el-riesgo-pais-se-dispara-sobre-los-1000-puntos-basicos/",
+        "source": "Infobae Economía",
+        "time": "20/11 15:22",
+        "iso_date": "2026-11-20T18:22:31+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Cuáles son las consecuencias para la economía Argentina de un riesgo país de más de 1.000 puntos",
+        "summary": "Debido a una nueva baja de precios de los bonos, el indicador de JP Morgan alcanzó nuevos máximos en 13 meses. El deterioro financiero afecta a las tasas de interés y devaluación y condiciona el financiamiento de la deuda",
+        "link": "https://www.infobae.com/economia/2026/11/20/cuales-son-las-consecuencias-para-la-economia-argentina-de-un-riesgo-pais-de-mas-de-1000-puntos/",
+        "source": "Infobae Economía",
+        "time": "20/11 15:14",
+        "iso_date": "2026-11-20T18:14:36+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país superó los 1.000 puntos y pone en jaque a los bonos argentinos",
+        "summary": "Los mercados financieros reaccionaron con preocupación ante el derrumbe de activos argentinos y las crecientes dudas sobre la estabilidad económica",
+        "link": "https://www.iprofesional.com/finanzas/469661-el-riesgo-pais-supero-los-1000-puntos-y-pone-en-jaque-a-los-bonos-argentinos",
+        "source": "iProfesional",
+        "time": "20/11 15:09",
+        "iso_date": "2026-11-20T18:09:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Advertencia de Joaquín Cottani: \"Si el Gobierno no actúa, la economía caerá en una lenta agonía\"",
+        "summary": "El economista criticó el apretón monetario y advirtió que, sin cambios ni crédito para reactivar la economía, el país caerá en una \"lenta agonía\" con brecha cambiaria y riesgo país altos.",
+        "link": "https://www.ambito.com/economia/advertencia-joaquin-cottani-si-el-gobierno-no-actua-la-caera-una-lenta-agonia-n6347584",
+        "source": "Ámbito",
+        "time": "20/11 15:06",
+        "iso_date": "2026-11-20T18:06:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Advertencia de Joaquín Cottani: \"Si el Gobierno no actúa, la economía caerá en una lenta agonía\"",
+        "summary": "El economista criticó el apretón monetario y advirtió que, sin cambios ni crédito para reactivar la economía, el país caerá en una \"lenta agonía\" con brecha cambiaria y riesgo país altos.",
+        "link": "https://www.ambito.com/economia/advertencia-joaquin-cottani-si-el-gobierno-no-actua-la-caera-una-lenta-agonia-n6347584",
+        "source": "Ámbito Mercados",
+        "time": "20/11 15:06",
+        "iso_date": "2026-11-20T18:06:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Por qué preocupa que el riesgo país supere los 1.000 puntos y qué puede pasar con el dólar",
+        "summary": "El salto del indicador impacta en la confianza de los inversores y suma incertidumbre sobre el futuro del dólar, la inflación y la actividad económica",
+        "link": "https://www.iprofesional.com/finanzas/469665-riesgo-pais-se-disparo-y-puso-en-alerta-a-empresas-y-ahorristas-por-el-dolar",
+        "source": "iProfesional",
+        "time": "20/11 12:18",
+        "iso_date": "2026-11-20T15:18:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Vuelven a hundirse los bonos argentinos y el riesgo país supera los 1.000 puntos",
+        "summary": "La renta fija soberana se desploma hasta 4% en la parte larga de la curva, en medio de una fuerte aversión al riesgo a nivel global.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vuelven-a-hundirse-los-bonos-argentinos-y-el-riesgo-pais-supera-los-1000-puntos/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 11:58",
+        "iso_date": "2026-11-20T14:58:30+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "El riesgo país contagia al dólar: crece la brecha cambiaria y amenaza con encarecer las tasas y golpear a la actividad",
         "summary": "La suba del indicador de JP Morgan ahora sí le pasó factura al tipo de cambio. El oficial quedó como el más barato luego de cerrar a $1.585. Expectativa por el vencimiento de $25 billones que debe afrontar el Tesoro la semana próxima",
         "link": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-contagia-al-dolar-crece-la-brecha-cambiaria-y-amenaza-con-encarecer-las-tasas-y-golpear-a-la-actividad/",
         "source": "Infobae Economía",
-        "time": "20/11 01:32",
-        "iso_date": "2026-11-20T04:32:36+00:00",
+        "time": "20/11 09:18",
+        "iso_date": "2026-11-20T12:18:08+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país se recalentó, subió casi 10% en un día y alcanzó los 931 puntos",
+        "summary": "Este jueves, el indicador aumentó 83 puntos con respecto a la jornada previa. ¿Qué pasa con los ADR?",
+        "link": "https://www.cronista.com/economia-politica/el-riesgo-pais-vuelve-a-superar-los-900-puntos-caen-bonos-y-acciones-argentinas/",
+        "source": "El Cronista",
+        "time": "20/11 07:58",
+        "iso_date": "2026-11-20T10:58:55+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Inversores dejan carry trade y dolarizan carteras con un riesgo país rumbo a 1.000 puntos",
+        "summary": "Factores internos y externos llevan al tipo de cambio a nuevos máximos nominales. El índice de riesgo país también siente ambos impactos",
+        "link": "https://www.iprofesional.com/finanzas/469624-por-que-inversores-dejan-carry-trade-y-dolarizan-carteras",
+        "source": "iProfesional",
+        "time": "20/11 07:00",
+        "iso_date": "2026-11-20T10:00:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "PASO, riesgo país e incertidumbre electoral: qué espera el CEO de Aldazabal para la deuda argentina",
+        "summary": "En una entrevista con Bloomberg Línea, Rafael Zaffiro consideró que una suspensión de las PASO ayudaría a mejorar el ánimo de inversores respecto de la deuda local pero cree que no será un ‘game changer’. Además, dijo que es optimista en el largo plazo del país pese a las adve...",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/paso-riesgo-pais-e-incertidumbre-electoral-que-espera-el-ceo-de-aldazabal-para-la-deuda-argentina/",
+        "source": "Bloomberg Línea AR",
+        "time": "20/11 06:30",
+        "iso_date": "2026-11-20T09:30:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -531,48 +636,12 @@
         "is_general": true
       },
       {
-        "title": "El riesgo país se disparó y llegó a los 930 puntos, nuevo máximo en más de un año",
-        "summary": "El indicador que elabora JP Morgan escaló casi 10% este jueves a un nuevo récord en el año. Los ADR cayeron hasta 9% en Wall Street",
-        "link": "https://www.iprofesional.com/finanzas/469569-el-riesgo-pais-se-disparo-y-supero-los-900-puntos-nuevo-maximo-en-mas-de-un-ano",
-        "source": "iProfesional",
-        "time": "19/11 18:30",
-        "iso_date": "2026-11-19T21:30:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
         "title": "Las acciones y los bonos argentinos volvieron a caer muy fuerte y el riesgo país superó los 900 puntos básicos",
         "summary": "El MSCI Merval cedió 2% y las acciones y ADR argentinos se hundieron hasta 10% en Wall Street. Los títulos públicos en dólares cayeron 3% y el indicador de JP Morgan escaló 80 unidades",
         "link": "https://www.infobae.com/economia/2026/11/19/las-acciones-y-los-bonos-argentinos-vuelven-a-caer-y-el-riesgo-pais-escala-a-876-puntos/",
         "source": "Infobae Economía",
         "time": "19/11 18:12",
         "iso_date": "2026-11-19T21:12:44+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Crece el riesgo país: alcanzó los 931 puntos y hace caer las acciones argentinas",
-        "summary": "El indicador aumentó 83 puntos con respecto a la jornada previa. ¿Qué pasa con los ADR?",
-        "link": "https://www.cronista.com/economia-politica/el-riesgo-pais-vuelve-a-superar-los-900-puntos-caen-bonos-y-acciones-argentinas/",
-        "source": "El Cronista",
-        "time": "19/11 16:01",
-        "iso_date": "2026-11-19T19:01:16+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Caputo enfrenta un dilema tras salto de brecha entre dólar oficial y el que usan empresas",
-        "summary": "Ya es 10% la diferencia entre el \"contado con liqui\" y el oficial. Lo atribuyen al mayor riesgo país y a la \"restricción cruzada\" que impone el BCRA",
-        "link": "https://www.iprofesional.com/economia/469486-que-hay-detras-de-la-suba-del-dolar-que-usan-empresas-para-girar-divisas",
-        "source": "iProfesional",
-        "time": "19/11 11:30",
-        "iso_date": "2026-11-19T14:30:00+00:00",
         "tickers": [
           "AL30"
         ],
