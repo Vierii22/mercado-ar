@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-20T23:13:42.042499",
-  "updated_str": "20/11/2026 23:13",
+  "updated_at": "2026-11-20T23:33:01.638468",
+  "updated_str": "20/11/2026 23:33",
   "cutoff_hours": 48,
   "total_news": 245,
   "news": {
     "GENERAL": [
+      {
+        "title": "Tesla le cumplió el sueño a Javier Milei y mostró su súper camioneta eléctrica “tuneada” con un león",
+        "summary": "“Si yo me tuviera que comprar un auto para mi, me gustaría tener el Cybertruck”, había dicho el mandatario en septiembre. Se trata de una pick-up eléctrica que ronda los 100.000 dólares en EEUU y no se venderá por el momento en el país",
+        "link": "https://www.infobae.com/economia/2026/11/20/tesla-le-cumplio-el-sueno-a-javier-milei-y-mostro-su-super-camioneta-electrica-tuneada-con-un-leon/",
+        "source": "Infobae Economía",
+        "time": "20/11 20:28",
+        "iso_date": "2026-11-20T23:28:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
+        "summary": "Alberto Ades se refirió al aumento del riesgo país y a la postura del Gobierno de desentenderse de su evolución. \"Es un error\", dijo al analizar el salto del indicador que mide el J.P. Morgan.",
+        "link": "https://www.ambito.com/economia/el-economista-que-javier-milei-invito-una-reunion-gabinete-advirtio-el-problema-esta-mas-la-deuda-que-el-dolar-n6347801",
+        "source": "Ámbito",
+        "time": "20/11 20:15",
+        "iso_date": "2026-11-20T23:15:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "¿Por qué cae el bitcoin? Las razones detrás del desplome y los niveles que vigila el mercado",
         "summary": "La caída del bitcoin por debajo de los US$60.000 responde a la incertidumbre sobre las tasas de interés, la corrección de las tecnológicas y las salidas de capital de los ETF.",
@@ -312,28 +334,6 @@
           "YPFD"
         ],
         "is_general": false
-      },
-      {
-        "title": "Tras la explosión en Lanús que dejó dos muertos, Edenor aclaró que todavía no tomó el control de MetroGAS",
-        "summary": "La compañía eléctrica informó que la operación de compraventa acordada con YPF aún no se concretó y que la distribuidora de gas continúa bajo la administración de sus actuales autoridades",
-        "link": "https://www.infobae.com/economia/2026/11/20/tras-la-explosion-en-lanus-que-dejo-dos-muertos-edenor-aclaro-que-todavia-no-tomo-el-control-de-metrogas/",
-        "source": "Infobae Economía",
-        "time": "20/11 14:13",
-        "iso_date": "2026-11-20T17:13:13+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "La presión del dólar sacude al oro y la plata con una fuerza pocas veces vista en décadas",
-        "summary": "Los metales registran pérdidas superiores a las observadas durante diez episodios anteriores de rápido endurecimiento financiero desde 2009 con una sensibilidad extrema frente al dólar.",
-        "link": "https://www.bloomberglinea.com/mercados/la-presion-del-dolar-sacude-al-oro-y-la-plata-con-una-fuerza-pocas-veces-vista-en-decadas/",
-        "source": "Bloomberg Línea AR",
-        "time": "20/11 12:37",
-        "iso_date": "2026-11-20T15:37:06+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -539,6 +539,30 @@
     "TECO2": [],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
+        "summary": "Alberto Ades se refirió al aumento del riesgo país y a la postura del Gobierno de desentenderse de su evolución. \"Es un error\", dijo al analizar el salto del indicador que mide el J.P. Morgan.",
+        "link": "https://www.ambito.com/economia/el-economista-que-javier-milei-invito-una-reunion-gabinete-advirtio-el-problema-esta-mas-la-deuda-que-el-dolar-n6347801",
+        "source": "Ámbito",
+        "time": "20/11 20:15",
+        "iso_date": "2026-11-20T23:15:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
+        "summary": "Alberto Ades se refirió al aumento del riesgo país y a la postura del Gobierno de desentenderse de su evolución. \"Es un error\", dijo al analizar el salto del indicador que mide el J.P. Morgan.",
+        "link": "https://www.ambito.com/economia/el-economista-que-javier-milei-invito-una-reunion-gabinete-advirtio-el-problema-esta-mas-la-deuda-que-el-dolar-n6347801",
+        "source": "Ámbito Mercados",
+        "time": "20/11 20:15",
+        "iso_date": "2026-11-20T23:15:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país saltó 14% en un solo día y alcanzó el nivel más alto desde las elecciones de 2025",
         "summary": "Wall Street tuvo caídas generalizadas y el índice Nasdaq bajó 5,3%. Las acciones argentinas perdieron hasta 10%, los bonos en dólares restaron 4,6% y el indicador de JP Morgan saltó 14%. El dólar al público llegó a $1.600 y el BCRA no efectuó compras el el mercado",
