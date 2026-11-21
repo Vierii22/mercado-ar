@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-11-20T23:33:01.638468",
-  "updated_str": "20/11/2026 23:33",
+  "updated_at": "2026-11-21T00:04:15.258608",
+  "updated_str": "21/11/2026 00:04",
   "cutoff_hours": 48,
-  "total_news": 245,
+  "total_news": 248,
   "news": {
     "GENERAL": [
+      {
+        "title": "Tesla se presentó en el país: los elogios de Javier Milei y el confuso mensaje de Elon Musk desde un avión",
+        "summary": "El Presidente destacó la llegada de la compañía al país y definió a Musk como un “benefactor de la humanidad”, mientras el empresario celebró desde un avión el inicio de las operaciones en la Argentina",
+        "link": "https://www.infobae.com/economia/2026/11/20/tesla-se-presento-en-el-pais-los-elogios-de-javier-milei-y-el-confuso-mensaje-de-elon-musk-desde-un-avion/",
+        "source": "Infobae Economía",
+        "time": "20/11 21:01",
+        "iso_date": "2026-11-21T00:01:04+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Milei en el lanzamiento de Tesla: “Es un ejemplo puntual, pero ilustra el cambio que queremos traer”",
+        "summary": "El Presidente defendió la apertura económica, anunció un acuerdo de la firma con YPF para instalar supercargadores y destacó inversiones de otras terminales bajo el RIGI.",
+        "link": "https://www.cronista.com/economia-politica/milei-en-el-lanzamiento-de-tesla-es-un-ejemplo-puntual-pero-ilustra-el-cambio-que-queremos-traer/",
+        "source": "El Cronista",
+        "time": "20/11 20:48",
+        "iso_date": "2026-11-20T23:48:29+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Milei celebró la llegada de Tesla: \"Antes vivíamos detrás de nuestra cortina de hierro\"",
+        "summary": "La llegada de una empresa líder en autos eléctricos marca el fin de restricciones para el sector y abre la puerta a nuevas inversiones",
+        "link": "https://www.iprofesional.com/autos/469714-milei-celebro-la-llegada-de-tesla-antes-viviamos-detras-de-nuestra-cortina-de-hierro",
+        "source": "iProfesional",
+        "time": "20/11 20:45",
+        "iso_date": "2026-11-20T23:45:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Deuda, reservas y dolarización: las tres alertas del mercado sobre el plan económico de Javier Milei para 2027",
+        "summary": "Más allá de la incertidumbre electoral y el temor al regreso del peronismo que agita el oficialismo, el mercado pone el foco en las dudas sobre el programa financiero y la capacidad de afrontar los vencimientos de 2027. Los economistas Miguel Kiguel, Daniel Marx, Martín Rapett...",
+        "link": "https://www.ambito.com/economia/deuda-reservas-y-dolarizacion-las-tres-alertas-del-mercado-el-plan-economico-javier-milei-2027-n6347745",
+        "source": "Ámbito",
+        "time": "20/11 20:35",
+        "iso_date": "2026-11-20T23:35:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Tesla le cumplió el sueño a Javier Milei y mostró su súper camioneta eléctrica “tuneada” con un león",
         "summary": "“Si yo me tuviera que comprar un auto para mi, me gustaría tener el Cybertruck”, había dicho el mandatario en septiembre. Se trata de una pick-up eléctrica que ronda los 100.000 dólares en EEUU y no se venderá por el momento en el país",
@@ -48,6 +90,18 @@
           "AL30"
         ],
         "is_general": true
+      },
+      {
+        "title": "Cómo será el gasoducto más grande el país que Argentina LNG construirá bajo el RIGI",
+        "summary": "Tras el ingreso de Argentina LNG al RIGI por u$s50.750 millones, el consorcio activará obras inéditas para le exportación del gas de Vaca Muerta",
+        "link": "https://www.iprofesional.com/energia/469712-como-sera-el-gasoducto-mas-grande-del-pais-que-habilito-el-rigi",
+        "source": "iProfesional",
+        "time": "20/11 19:40",
+        "iso_date": "2026-11-20T22:40:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
       },
       {
         "title": "Juan Cuattromo, presidente del Banco Provincia: “Si caen la actividad y el empleo, no puede haber estabilidad”",
@@ -280,63 +334,33 @@
         "iso_date": "2026-11-20T18:25:09+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Advertencia de Joaquín Cottani: \"Si el Gobierno no actúa, la economía caerá en una lenta agonía\"",
-        "summary": "El economista criticó el apretón monetario y advirtió que, sin cambios ni crédito para reactivar la economía, el país caerá en una \"lenta agonía\" con brecha cambiaria y riesgo país altos.",
-        "link": "https://www.ambito.com/economia/advertencia-joaquin-cottani-si-el-gobierno-no-actua-la-caera-una-lenta-agonia-n6347584",
-        "source": "Ámbito",
-        "time": "20/11 15:06",
-        "iso_date": "2026-11-20T18:06:00+00:00",
+        "title": "Milei en el lanzamiento de Tesla: “Es un ejemplo puntual, pero ilustra el cambio que queremos traer”",
+        "summary": "El Presidente defendió la apertura económica, anunció un acuerdo de la firma con YPF para instalar supercargadores y destacó inversiones de otras terminales bajo el RIGI.",
+        "link": "https://www.cronista.com/economia-politica/milei-en-el-lanzamiento-de-tesla-es-un-ejemplo-puntual-pero-ilustra-el-cambio-que-queremos-traer/",
+        "source": "El Cronista",
+        "time": "20/11 20:48",
+        "iso_date": "2026-11-20T23:48:29+00:00",
         "tickers": [
-          "AL30"
+          "YPFD"
         ],
         "is_general": true
       },
       {
-        "title": "Globant amplía programa de recompra de acciones: la carta de Migoya a accionistas",
-        "summary": "La argentina de servicios tecnológicos redujo su guidance anual de ingresos y ganancias, y anticipó un tercer trimestre por debajo del consenso. Redujo su plantilla por 8,9% en el último año.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/globant-amplia-programa-de-recompra-de-acciones-la-carta-de-migoya-a-accionistas/",
-        "source": "Bloomberg Línea AR",
-        "time": "20/11 14:57",
-        "iso_date": "2026-11-20T17:57:16+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Javier Milei ahora habla de \"privaciones\": en qué mejoró y en qué empeoró la situación económica de los argentinos",
-        "summary": "Un relevamiento de la consultora Criteria sobre 19 variables revela que, durante el gobierno de Javier Milei, mejoraron los indicadores de pobreza, indigencia e ingresos, pero se deterioraron los vinculados con las dificultades de las familias para llegar a fin de mes.",
-        "link": "https://www.ambito.com/economia/javier-milei-ahora-habla-privaciones-que-mejoro-y-que-empeoro-la-situacion-economica-los-argentinos-n6347623",
-        "source": "Ámbito",
-        "time": "20/11 14:42",
-        "iso_date": "2026-11-20T17:42:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por qué cae la acción de Anthropic: qué muestran otras salidas a bolsa históricas sobre su futuro en Wall Street",
-        "summary": "La firma de inteligencia artificial perdió parte de las ganancias de su debut, en medio de una corrección del sector tecnológico. Datos de mercado muestran que las IPO más esperadas suelen atravesar fuertes caídas durante su primer año, incluso cuando luego terminan con subas",
-        "link": "https://www.infobae.com/economia/2026/11/20/por-que-cae-la-accion-de-anthropic-que-muestran-otras-salidas-a-bolsa-historicas-sobre-su-futuro-en-wall-street/",
-        "source": "Infobae Economía",
-        "time": "20/11 14:23",
-        "iso_date": "2026-11-20T17:23:41+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La balanza energética duplicó su superávit en octubre",
-        "summary": "El saldo del sector alcanzó u$s1.437 millones y acumuló u$s9.384 millones en diez meses, con Vaca Muerta y el precio del crudo al frente.",
-        "link": "https://www.iprofesional.com/energia/469658-la-balanza-energetica-duplico-su-superavit-en-octubre",
+        "title": "Cómo será el gasoducto más grande el país que Argentina LNG construirá bajo el RIGI",
+        "summary": "Tras el ingreso de Argentina LNG al RIGI por u$s50.750 millones, el consorcio activará obras inéditas para le exportación del gas de Vaca Muerta",
+        "link": "https://www.iprofesional.com/energia/469712-como-sera-el-gasoducto-mas-grande-del-pais-que-habilito-el-rigi",
         "source": "iProfesional",
-        "time": "20/11 14:23",
-        "iso_date": "2026-11-20T17:23:00+00:00",
+        "time": "20/11 19:40",
+        "iso_date": "2026-11-20T22:40:00+00:00",
         "tickers": [
           "YPFD"
         ],
         "is_general": false
-      }
-    ],
-    "YPFD": [
+      },
       {
         "title": "Vaca Muerta: YPF consigue la aprobación del RIGI para la millonaria inversión Argentina LNG",
         "summary": "Como anticipó Bloomberg Línea, el Gobierno dio luz verde al megaproyecto de gas natural licuado que desarrollan YPF, Eni y XRG. Luis Caputo confirmó la aprobación y destacó el impacto que tendrá sobre las exportaciones argentinas.",
@@ -702,18 +726,6 @@
         "source": "El Cronista",
         "time": "20/11 07:58",
         "iso_date": "2026-11-20T10:58:55+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Inversores dejan carry trade y dolarizan carteras con un riesgo país rumbo a 1.000 puntos",
-        "summary": "Factores internos y externos llevan al tipo de cambio a nuevos máximos nominales. El índice de riesgo país también siente ambos impactos",
-        "link": "https://www.iprofesional.com/finanzas/469624-por-que-inversores-dejan-carry-trade-y-dolarizan-carteras",
-        "source": "iProfesional",
-        "time": "20/11 07:00",
-        "iso_date": "2026-11-20T10:00:00+00:00",
         "tickers": [
           "AL30"
         ],
