@@ -1,346 +1,420 @@
 {
-  "updated_at": "2026-11-24T08:25:00.445338",
-  "updated_str": "24/11/2026 08:25",
+  "updated_at": "2026-11-24T20:35:01.810451",
+  "updated_str": "24/11/2026 20:35",
   "cutoff_hours": 48,
-  "total_news": 125,
+  "total_news": 198,
   "news": {
     "GENERAL": [
       {
-        "title": "¿El dólar empieza a inquietar?: el mercado vuelve a cubrirse ante una eventual suba a menos de un año de las elecciones",
-        "summary": "El Banco Central prioriza la venta de bonos atados al dólar a diferencia de la previa de las elecciones de 2025 en donde priorizó la venta de futuros. Cómo es la “bazuca” del Gobierno para evitar tensiones cambiarias en 2027",
-        "link": "https://www.infobae.com/economia/2026/11/24/el-dolar-empieza-a-inquietar-el-mercado-vuelve-a-cubrirse-ante-una-eventual-suba-a-un-menos-de-un-ano-de-las-elecciones/",
-        "source": "Infobae Economía",
-        "time": "24/11 05:18",
-        "iso_date": "2026-11-24T08:18:22+00:00",
+        "title": "El BCRA sumó otra rueda sin comprar dólares y las reservas cayeron más de u$s600 millones",
+        "summary": "Al igual que el viernes pasado, el Banco Central no intervino en el mercado. Las reservas se vieron afectadas por la caída del oro",
+        "link": "https://www.iprofesional.com/economia/469913-el-bcra-sumo-otra-rueda-sin-comprar-dolares-y-las-reservas-cayeron-mas-de-600-millones",
+        "source": "iProfesional",
+        "time": "24/11 17:06",
+        "iso_date": "2026-11-24T20:06:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Alivio para el Gobierno: volvió la calma a los mercados justo cuando empezaban a subir el dólar y la brecha cambiaria",
-        "summary": "El regreso de Jensen Huang a Nvidia alivió a los inversores de todo el mundo. La reapertura de la semana financiera luego del feriado debería ser favorable, incluyendo un retroceso del riesgo país. Expectativa por suspensión de la PASO",
-        "link": "https://www.infobae.com/economia/2026/11/24/alivio-para-el-gobierno-volvio-la-calma-a-los-mercados-justo-cuando-empezaban-a-subir-el-dolar-y-la-brecha-cambiaria/",
+        "title": "Plazo fijo en dólares: ¿cuánto se gana al invertir u$s750?",
+        "summary": "Los bancos no pagan lo mismo por dejar los dólares en un plazo fijo, por lo que elegir bien puede cambiar la ganancia.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-se-gana-al-invertir-us750-n6348631",
+        "source": "Ámbito",
+        "time": "24/11 17:00",
+        "iso_date": "2026-11-24T20:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las acciones de Anthropic se desploman y ya valen menos que en su debut en Wall Street",
+        "summary": "La tecnológica cayó por debajo de los u$s83 de su OPI en apenas tres ruedas. Dario Amodei y su hermana concretaron ventas millonarias",
+        "link": "https://www.iprofesional.com/finanzas/469865-anthropic-pierde-en-bolsa-y-cotiza-por-debajo-de-los-us83-de-su-opv",
+        "source": "iProfesional",
+        "time": "24/11 17:00",
+        "iso_date": "2026-11-24T20:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La actividad económica registró dos trimestres de caída y Argentina entró en recesión",
+        "summary": "El EMAE mostró una suba mensual de 1,1% en septiembre, pero no alcanzó para evitar que el tercer trimestre cerrara en rojo. Así, se cumplieron las condiciones que definen una recesión técnica. Las perspectivas para los últimos tres meses",
+        "link": "https://www.infobae.com/economia/2026/11/24/la-actividad-economica-registro-dos-trimestres-de-caida-y-argentina-entro-en-recesion/",
         "source": "Infobae Economía",
-        "time": "24/11 02:22",
-        "iso_date": "2026-11-24T05:22:51+00:00",
+        "time": "24/11 16:48",
+        "iso_date": "2026-11-24T19:48:21+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El dólar superó por primera vez los $1.600 en el Banco Nación y alcanzó precios récord en todos los segmentos",
+        "summary": "El dólar mayorista ganó 13 pesos, en los $1.593. El “contado con liqui” siguió cerca de la barrera de los $1.800. El BCRA no intervino en el mercado",
+        "link": "https://www.infobae.com/economia/2026/11/24/el-dolar-supera-los-1600-en-el-banco-nacion-y-alcanza-precios-record-en-todos-los-segmentos/",
+        "source": "Infobae Economía",
+        "time": "24/11 16:48",
+        "iso_date": "2026-11-24T19:48:20+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país se dispara y queda cerca de los 1.100 puntos, nuevo récord en más de un año",
+        "summary": "Los bonos operan en baja y el indicador que mide JP Morgan sube en torno al 7%. Los ADR operan mixtos en Wall Street y sube el Merval",
+        "link": "https://www.iprofesional.com/finanzas/469868-el-riesgo-pais-se-dispara-y-supera-los-1100-puntos-nuevo-record-en-mas-de-un-ano",
+        "source": "iProfesional",
+        "time": "24/11 16:45",
+        "iso_date": "2026-11-24T19:45:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "Hoy se conoce un dato clave sobre el rumbo de la economía: ¿la actividad entró en recesión técnica?",
-        "summary": "El EMAE de septiembre, publicado por el Indec, definirá el resultado del tercer trimestre, en un contexto de previsiones privadas a la baja y tras un período marcado por debilidad en la producción, el consumo y otros sectores",
-        "link": "https://www.infobae.com/economia/2026/11/24/hoy-se-conoce-un-dato-clave-sobre-el-rumbo-de-la-economia-la-actividad-entro-en-recesion-tecnica/",
-        "source": "Infobae Economía",
-        "time": "24/11 02:22",
-        "iso_date": "2026-11-24T05:22:45+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Dólar, tasas y Brasil: los tres factores que pueden complicar a Argentina pese al rally global",
-        "summary": "La recuperación de los mercados emergentes abrió una ventana para los activos locales, aunque la presión cambiaria en el principal socio comercial, el encarecimiento del crédito externo y la cautela de Wall Street ponen límites al optimismo",
-        "link": "https://www.infobae.com/economia/2026/11/24/dolar-tasas-y-brasil-los-tres-factores-que-pueden-complicar-a-argentina-pese-al-rally-global/",
-        "source": "Infobae Economía",
-        "time": "24/11 02:22",
-        "iso_date": "2026-11-24T05:22:07+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El mercado pone a prueba a Caputo: el dato clave que puede definir el futuro del dólar",
-        "summary": "Hubo una fuerte reacción de los mercados tras el \"viernes negro\". El BCRA lleva comprados pocos dólares este mes y las reservas son la preocupación",
-        "link": "https://www.iprofesional.com/economia/469817-el-mercado-pone-a-prueba-a-caputo-dato-clave-que-define-futuro-del-dolar",
-        "source": "iProfesional",
-        "time": "23/11 19:50",
-        "iso_date": "2026-11-23T22:50:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La caída del S&P 500 es una gran oportunidad para comprar acciones, según Morgan Stanley",
-        "summary": "Estrategas destacan que la reciente caída del mercado abre oportunidades y apuntan a segmentos rentables para quienes buscan aprovechar el rebote",
-        "link": "https://www.iprofesional.com/finanzas/469815-la-caida-del-sp-500-es-una-gran-oportunidad-para-comprar-acciones-segun-morgan-stanley",
-        "source": "iProfesional",
-        "time": "23/11 19:15",
-        "iso_date": "2026-11-23T22:15:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El dólar pasó los COP$3.500 antes del Black Friday y así sabrá si todavía le conviene comprar en Amazon",
-        "summary": "El dólar subió cerca de 6% desde mediados de noviembre, pero los descuentos de 30% a 40% todavía compensan, según Corficolombiana. La clave está en sacar la cuenta en pesos.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/el-dolar-paso-los-cop3500-antes-del-black-friday-y-asi-sabra-si-todavia-le-conviene-comprar-en-amazon/",
+        "title": "Vaca Muerta: YPF presenta otro megaproyecto al RIGI por US$11.688 millones",
+        "summary": "El desarrollo de Narambuena contempla la perforación de 606 pozos y exportaciones por US$33.000 millones. Es la segunda de las tres iniciativas que impulsa la petrolera para desarrollar el norte de Vaca Muerta, con inversiones conjuntas por US$44.000 millones.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-ypf-presenta-otro-megaproyecto-al-rigi-por-us11688-millones/",
         "source": "Bloomberg Línea AR",
-        "time": "23/11 19:11",
-        "iso_date": "2026-11-23T22:11:56+00:00",
+        "time": "24/11 16:41",
+        "iso_date": "2026-11-24T19:41:31+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI",
+        "summary": "El desarrollo prevé exportaciones por USD 33.000 millones hasta 2059 y consolida a la petrolera como el principal inversor del régimen, con casi USD 100.000 millones comprometidos en seis iniciativas",
+        "link": "https://www.infobae.com/economia/2026/11/24/narambuena-como-es-el-proyecto-para-desarrollar-el-norte-de-vaca-muerta-para-el-que-ypf-presento-un-nuevo-rigi/",
+        "source": "Infobae Economía",
+        "time": "24/11 16:28",
+        "iso_date": "2026-11-24T19:28:46+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El mensaje de Caputo tras el dato del EMAE que confirmó que la economía entró en recesión",
+        "summary": "El ministro de Economía se refirió al dato de septiembre, que arrojó una mejora mensual que no bastó para evitar la recesión técnica",
+        "link": "https://www.iprofesional.com/economia/469907-el-mensaje-de-caputo-tras-el-dato-del-emae-que-confirmo-que-la-economia-entro-en-recesion",
+        "source": "iProfesional",
+        "time": "24/11 16:22",
+        "iso_date": "2026-11-24T19:22:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "“No tenemos que salir al mundo a financiarnos”: Furiase explicó por qué no preocupa la suba del riesgo país",
-        "summary": "El secretario de Finanzas aseguró que el superávit fiscal y las fuentes de financiamiento previstas protegen al programa económico.",
-        "link": "https://www.cronista.com/economia-politica/no-tenemos-que-salir-al-mundo-a-financiarnos-furiase-explico-por-que-no-preocupa-el-riesgo-pais/",
+        "title": "La economía entró en recesión técnica: sumó dos trimestres seguidos de caída pese a crecer 1,1% mensual en septiembre",
+        "summary": "La actividad económica cayó 1,2% interanual y acumuló su tercer mes consecutivo de retroceso en esa medición. El deterioro de la industria, el comercio y la intermediación financiera plantea nuevos desafíos para la recuperación de cara a 2027.",
+        "link": "https://www.ambito.com/la-economia-entro-recesion-tecnica-sumo-dos-trimestres-seguidos-caida-pese-crecer-11-mensual-septiembre-n6348824",
+        "source": "Ámbito",
+        "time": "24/11 16:17",
+        "iso_date": "2026-11-24T19:17:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "La Mesa Política se prepara para el súper jueves del Congreso y pone a Malvinas al frente de las extraordinarias",
+        "summary": "La reunión que encabeza Karina Milei cierra los votos para Presupuesto y Reforma Política, mientras que hace las cuentas de cara a diciembre y las leyes que entrarán en la próxima etapa del Congreso. Cuál es el único proyecto con posibilidades reales de ser sancionado antes de...",
+        "link": "https://www.cronista.com/economia-politica/la-mesa-politica-se-prepara-para-el-super-jueves-del-congreso-y-ultima-la-lista-de-extraordinarias/",
         "source": "El Cronista",
-        "time": "23/11 19:01",
-        "iso_date": "2026-11-23T22:01:53+00:00",
-        "tickers": [
-          "AL30"
-        ],
+        "time": "24/11 16:16",
+        "iso_date": "2026-11-24T19:16:19+00:00",
+        "tickers": [],
         "is_general": true
       },
       {
-        "title": "Sin operaciones en el mercado local, el riesgo país cayó 30 puntos y las acciones argentinas volaron en Wall Street",
-        "summary": "Las acciones de Nvidia ascendieron un 32% e impulsaron subas de hasta 6,5% en los principales indicadores de Wall Street. Las acciones argentinas ganaron hasta 10% y los bonos, un 1,5%. El indicador de JP Morgan cedió 30 unidades, a 1.035 puntos básicos",
-        "link": "https://www.infobae.com/economia/2026/11/23/sin-operaciones-en-el-mercado-local-el-riesgo-pais-cayo-30-puntos-y-las-acciones-argentinas-volaron-en-wall-street/",
+        "title": "EMAE: la economía argentina crece en septiembre pero no logra eludir la recesión técnica, según el INDEC",
+        "summary": "El reporte oficial señaló que la actividad económica registró una mejora 1,1% respecto de agosto en la medición desestacionalizada. Sin embargo, en la comparación interanual exhibió una baja equivalente a 1,2%.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/emae-la-economia-argentina-crece-en-septiembre-pero-no-logra-eludir-la-recesion-tecnica-segun-el-indec/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/11 16:14",
+        "iso_date": "2026-11-24T19:14:24+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar arriba de $1.600: ¿hora de comprar o de vender?",
+        "summary": "Con el tipo de cambio en niveles récord, analistas y operadores se inclinan por mantener posiciones compradoras, aunque recomiendan priorizar activos con cobertura cambiaria antes que dólar billete",
+        "link": "https://www.infobae.com/economia/2026/11/24/dolar-arriba-de-1600-hora-de-comprar-o-de-vender/",
         "source": "Infobae Economía",
-        "time": "23/11 19:00",
-        "iso_date": "2026-11-23T22:00:17+00:00",
+        "time": "24/11 15:57",
+        "iso_date": "2026-11-24T18:57:05+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "\"Especulación mediática\": Ravier negó versiones sobre una salida de Caputo",
+        "summary": "En medio de la escalada del dólar y el riesgo país, el vocero presidencial descartó rumores sobre una posible salida del ministro de Economía",
+        "link": "https://www.iprofesional.com/politica/469900-especulacion-mediatica-ravier-nego-versiones-sobre-una-salida-de-caputo",
+        "source": "iProfesional",
+        "time": "24/11 15:54",
+        "iso_date": "2026-11-24T18:54:00+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "El Gobierno aseguró que la desregulación abarató un 15% los productos de supermercado",
-        "summary": "Federico Sturzenegger respaldó su postura en un estudio de la UNLP que Milei celebró en redes. Los especialistas aclaran que no se trata de una baja generalizada en las góndolas.",
-        "link": "https://www.cronista.com/economia-politica/el-gobierno-aseguro-que-la-desregulacion-abarato-un-15-los-productos-de-supermercado/",
+        "title": "YPF avanza con su plan para el norte de Vaca Muerta y suma un nuevo proyecto al RIGI",
+        "summary": "Es la segunda de tres solicitudes para proyectos de petróleo no convencional con gas asociado.",
+        "link": "https://www.cronista.com/economia-politica/ypf-avanza-con-su-plan-para-el-norte-de-vaca-muerta-y-suma-un-nuevo-proyecto-al-rigi/",
         "source": "El Cronista",
-        "time": "23/11 18:41",
-        "iso_date": "2026-11-23T21:41:15+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones argentinas rebotaron hasta 10% y el riesgo país cayó 30 puntos básicos en un día de euforia en las bolsas",
-        "summary": "Los indicadores de Wall Street subieron hasta 6,5% y las acciones de Nvidia escalaron 32% tras la restitución de Jensen Huang como CEO. El indicador de JP Morgan cayó a 1.035 puntos básicos para la Argentina",
-        "link": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/",
-        "source": "Infobae Economía",
-        "time": "23/11 18:14",
-        "iso_date": "2026-11-23T21:14:14+00:00",
+        "time": "24/11 15:43",
+        "iso_date": "2026-11-24T18:43:26+00:00",
         "tickers": [
-          "AL30"
+          "YPFD"
         ],
-        "is_general": true
+        "is_general": false
       },
       {
-        "title": "Un funcionario de Caputo atribuyó la suba del riesgo país al contexto global y negó que el aumento del dólar impacte en la inflación",
-        "summary": "Federico Furiase sostuvo, además, que el superávit fiscal y las fuentes de financiamiento disponibles permiten cubrir las necesidades de 2026 y 2027 sin recurrir a los mercados internacionales de deuda",
-        "link": "https://www.infobae.com/economia/2026/11/23/un-funcionario-de-caputo-atribuyo-la-suba-del-riesgo-pais-al-contexto-global-y-nego-que-el-aumento-del-dolar-impacte-en-la-inflacion/",
-        "source": "Infobae Economía",
-        "time": "23/11 18:14",
-        "iso_date": "2026-11-23T21:14:09+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Nvidia tiene su mejor jornada en 23 años y suma casi US$1 billón en valor de mercado tras regreso de Huang",
-        "summary": "La empresa se dispara en Wall Street después de anunciar la reincorporación inmediata de Jensen Huang, aunque la compañía mantendrá abierta una investigación relacionada con una presunta operación de inteligencia extranjera.",
-        "link": "https://www.bloomberglinea.com/mercados/nvidia-anuncia-el-regreso-de-jensen-huang-como-ceo-y-sus-acciones-se-disparan-en-wall-street/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/11 18:12",
-        "iso_date": "2026-11-23T21:12:06+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Wall Street se dispara y Nvidia impulsa un rally que no se veía desde abril de 2025",
-        "summary": "La restitución de Jensen Huang al frente de Nvidia reactivó las apuestas por la inteligencia artificial y desató un fuerte repunte bursátil. Sin embargo, persisten las dudas sobre las valoraciones tecnológicas y las tasas de interés.",
-        "link": "https://www.bloomberglinea.com/mercados/nvidia-sacude-a-wall-street-sus-acciones-se-disparan-tras-regreso-de-jensen-huang-y-nasdaq-lidera-alzas/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/11 18:05",
-        "iso_date": "2026-11-23T21:05:56+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Las acciones de Nvidia rebotaron 32% después de que la compañía anunciara la restitución de Jensen Huang como CEO",
-        "summary": "La cotización de la empresa líder en el desarrollo de microchips aplicados a la IA rompió una racha de siete días de pérdidas. El índice Nasdaq subió 6,4%",
-        "link": "https://www.infobae.com/economia/2026/11/23/las-acciones-de-nvidia-rebotan-30-despues-de-que-la-compania-anunciara-la-restitucion-de-jensen-huang-como-ceo/",
-        "source": "Infobae Economía",
-        "time": "23/11 18:04",
-        "iso_date": "2026-11-23T21:04:28+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Regresó Hensen Huang y Nvidia repuntó en Wall Street después de perder casi la mitad de su valor",
-        "summary": "La compañía experimentó un repunte extraordinario en su valor de mercado impulsando a firmas del sector tras jornadas consecutivas a la baja",
-        "link": "https://www.iprofesional.com/finanzas/469788-nvidia-wall-street-rebote-feroz-arrastro-nasdaq-noviembre-2026",
+        "title": "YPF pidió un nuevo RIGI por u$s11.688 millones para Vaca Muerta",
+        "summary": "Es el segundo de tres proyectos en la zona norte neuquina. Prevé 606 pozos, 80.000 barriles diarios y exportaciones por u$s33.000 millones.",
+        "link": "https://www.iprofesional.com/energia/469901-ypf-pidio-con-chevron-un-nuevo-rigi-por-us11-688-millones-para-un-bloque-vaca-muerta",
         "source": "iProfesional",
-        "time": "23/11 18:04",
-        "iso_date": "2026-11-23T21:04:00+00:00",
+        "time": "24/11 15:35",
+        "iso_date": "2026-11-24T18:35:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "El dólar minorista superó por primera vez los $1.600 y el financiero traspasó los $1.800",
+        "summary": "Los distintos tipos de cambio vuelven a subir con fuerza en el inicio de la semana y la brecha entre el oficial y los financieros se amplía",
+        "link": "https://www.iprofesional.com/finanzas/469880-el-dolar-minorista-supero-por-primera-vez-los-1600-y-el-financiero-traspaso-los-1800",
+        "source": "iProfesional",
+        "time": "24/11 15:20",
+        "iso_date": "2026-11-24T18:20:00+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "ADRs subieron en Wall Street y cayó riesgo país en un día de euforia por el efecto Nvidia",
-        "summary": "Un repunte global impulsó fuertes avances en los activos argenetinos. Bajó el riesgo país, aunque sigue arriba de los 1.000 puntos básicos",
-        "link": "https://www.iprofesional.com/finanzas/469795-los-adr-y-bonos-argentinos-se-contagian-de-wall-street-y-suben-tras-el-efecto-nvidia",
+        "title": "PARITARIAS, los tres gremios que cerraron mayor aumento de sueldo para diciembre 2026",
+        "summary": "UOM, UTEDYC y UPSRA cerraron las paritarias más altas para diciembre 2026. Revisá los porcentajes de incremento y los bonos acordados",
+        "link": "https://www.iprofesional.com/management/469863-paritarias-los-3-gremios-que-logran-los-mayores-aumentos-en-diciembre",
         "source": "iProfesional",
-        "time": "23/11 18:00",
-        "iso_date": "2026-11-23T21:00:00+00:00",
+        "time": "24/11 14:50",
+        "iso_date": "2026-11-24T17:50:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "YPF confirmó cuándo se firmará \"la inversión más grande de la historia argentina\"",
+        "summary": "La petrolera, junto con la italiana Eni y la emiratí XRG formalizó la convocatoria. Los directivos del consorcio se reunirán con Javier Milei",
+        "link": "https://www.iprofesional.com/energia/469850-ypf-eni-y-xrg-firman-el-30-de-noviembre-el-fid-de-argentina-lng",
+        "source": "iProfesional",
+        "time": "24/11 14:36",
+        "iso_date": "2026-11-24T17:36:00+00:00",
         "tickers": [
-          "AL30"
+          "YPFD"
         ],
         "is_general": true
       },
       {
-        "title": "Con JP Morgan a la cabeza, extranjeros se abalanzan sobre deuda colombiana",
-        "summary": "Las compras de deuda pública colombiana alcanzaron niveles históricos en octubre y se extendieron durante noviembre. JPMorgan, Morgan Stanley y Norges Bank figuran entre los principales compradores.",
-        "link": "https://www.bloomberglinea.com/latinoamerica/colombia/con-jp-morgan-a-la-cabeza-extranjeros-se-abalanzan-sobre-deuda-colombiana/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/11 17:55",
-        "iso_date": "2026-11-23T20:55:24+00:00",
+        "title": "¿Por qué sube el dólar?: los 8 factores que impulsaron la cotización oficial a un nuevo récord",
+        "summary": "La divisa se acercó a $1.590 en la plaza mayorista y alcanzó los $1.615 para la venta al público en el Banco Nación. También se amplió la brecha entre las cotizaciones",
+        "link": "https://www.infobae.com/economia/2026/11/24/por-que-sube-el-dolar-los-8-factores-que-impulsaron-la-cotizacion-oficial-a-un-nuevo-record/",
+        "source": "Infobae Economía",
+        "time": "24/11 14:35",
+        "iso_date": "2026-11-24T17:35:52+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Dólar en México: Goldman Sachs advierte de más caídas del peso y revela pronósticos para 2027",
-        "summary": "El banco estadounidense advierte sobre nuevas presiones para el peso mexicano. Sus analistas anticipan riesgos por las tasas de interés y revelan sus proyecciones.",
-        "link": "https://www.bloomberglinea.com/mercados/dolar-en-mexico-goldman-sachs-advierte-de-mas-caidas-del-peso-y-revela-pronosticos-para-2027/",
+        "title": "El S&P 500 cambia: SharkNinja entra al índice tras subir casi 100% en 2026, ¿qué impulsa su rally?",
+        "summary": "El fabricante de electrodomésticos llega al índice de referencia de Wall Street con el respaldo unánime de los analistas y un potencial de valorización adicional del 10,5%.",
+        "link": "https://www.bloomberglinea.com/mercados/el-sp-500-cambia-sharkninja-entra-al-indice-tras-subir-casi-100-en-2026-que-impulsa-su-rally/",
         "source": "Bloomberg Línea AR",
-        "time": "23/11 16:59",
-        "iso_date": "2026-11-23T19:59:52+00:00",
+        "time": "24/11 14:34",
+        "iso_date": "2026-11-24T17:34:22+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "La pregunta que incomoda a Milei: los argentinos cuestionan el mayor logro de su gobierno",
-        "summary": "Una de las variables que sostiene el relato oficialista pende de un hilo, según el más reciente relevamiento de QSocial. ¿Qué dice?",
-        "link": "https://www.cronista.com/economia-politica/inflacion-vs-reactivacion-el-dato-que-cuestiona-el-principal-logro-del-gobierno/",
+        "title": "La maniobra con el dólar que permite ganar hasta $210.000 con u$s3.000",
+        "summary": "El rulo del dólar entre el oficial y el blue deja una ganancia teórica de hasta $210.000 por cada u$s3.000. Análisis de rendimientos y riesgos.",
+        "link": "https://www.iprofesional.com/finanzas/469883-rulo-del-dolar-como-ganar-210000-pesos-con-3000-dolares",
+        "source": "iProfesional",
+        "time": "24/11 14:30",
+        "iso_date": "2026-11-24T17:30:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Sturzenegger apunta a Kicillof por una nueva obligación que choca con la reforma laboral",
+        "summary": "El ministro cuestionó la nueva declaración jurada digital que la Provincia hará obligatoria a partir de enero de 2027. Desde el Ministerio de Trabajo bonaerense sostienen que la medida se encuentra dentro de sus facultades en materia laboral.",
+        "link": "https://www.cronista.com/economia-politica/sturzenegger-apunta-a-kicillof-por-una-nueva-obligacion-que-choca-con-la-reforma-laboral/",
         "source": "El Cronista",
-        "time": "23/11 16:58",
-        "iso_date": "2026-11-23T19:58:44+00:00",
+        "time": "24/11 14:18",
+        "iso_date": "2026-11-24T17:18:42+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Repunte del Índice de Confianza en el Gobierno: la gestión de Milei aumentó un 4,1% en noviembre",
-        "summary": "Desde abril, el índice viene oscilando en torno a un valor de 2,00, con subas y bajas de magnitud modesta.",
-        "link": "https://www.cronista.com/economia-politica/repunte-del-indice-de-confianza-en-el-gobierno-la-gestion-de-milei-aumento-un-41-en-noviembre/",
+        "title": "Malamud y la ecuación que puede definir 2027: qué pasa con Milei si la recesión se prolonga",
+        "summary": "El politólogo advirtió que la oposición todavía no tiene una propuesta de futuro, pero sostuvo que una recesión prolongada “disolvería” al oficialismo.",
+        "link": "https://www.cronista.com/economia-politica/la-bomba-politica-de-malamud-de-cara-a-las-elecciones-2027-con-esta-recesion-el-gobierno-pierde/",
         "source": "El Cronista",
-        "time": "23/11 15:23",
-        "iso_date": "2026-11-23T18:23:40+00:00",
+        "time": "24/11 14:17",
+        "iso_date": "2026-11-24T17:17:51+00:00",
         "tickers": [],
         "is_general": true
       },
       {
-        "title": "Dólar sube casi 20% en menos de 1 mes en Brasil y mete presión al plan económico de Caputo",
-        "summary": "La volatilidad del real impacta sobre la estabilidad financiera argentina, impulsa la brecha cambiaria y suma presión al mercado de deuda soberana",
-        "link": "https://www.iprofesional.com/finanzas/469716-el-dolar-subio-20-por-ciento-en-menos-de-un-mes-en-brasil-y-mete-presion-a-caputo",
+        "title": "Lula no invitaría a Milei a su asunción y crece la tensión entre Brasil y Argentina",
+        "summary": "El gobierno brasileño apartó al embajador Julio Bitelli de Buenos Aires. El conflicto escaló tras declaraciones de Pablo Quirno sobre las elecciones",
+        "link": "https://www.iprofesional.com/politica/469888-lula-da-silva-no-invitaria-a-javier-milei-a-su-asuncion-y-crece-tension-entre-brasil-y-argentina",
         "source": "iProfesional",
-        "time": "23/11 15:00",
-        "iso_date": "2026-11-23T18:00:00+00:00",
+        "time": "24/11 14:11",
+        "iso_date": "2026-11-24T17:11:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país sobre los 1100 puntos: qué pasó en la economía argentina en cada cimbronazo desde 2000",
+        "summary": "El mercado comenzó a discutir cuánto del deterioro responde al escenario electoral de 2027 y cuánto a las dudas sobre la dinámica económica y financiera. Una mirada a los principales episodios de los últimos 26 años muestra que los grandes saltos casi nunca tuvieron una sola c...",
+        "link": "https://www.cronista.com/finanzas-mercados/riesgo-pais-sobre-los-1100-puntos-que-paso-en-la-economia-argentina-en-cada-cimbronazo-desde-2000/",
+        "source": "El Cronista",
+        "time": "24/11 13:58",
+        "iso_date": "2026-11-24T16:58:52+00:00",
         "tickers": [
           "AL30"
         ],
         "is_general": true
       },
       {
-        "title": "¿Por qué lo que pase este 9 de diciembre podría influir en el precio del dólar en Latinoamérica?",
-        "summary": "El 9 de diciembre, los mercados en Latinoamérica estarán atentos a la última reunión del año de la Reserva Federal en Washington, una cita clave cuyos resultados marcarán el rumbo del dólar para 2027.",
-        "link": "https://www.bloomberglinea.com/economia/por-que-lo-que-pase-este-9-de-diciembre-podria-influir-en-el-precio-del-dolar-en-latinoamerica/",
+        "title": "El Gobierno cerró nuevos préstamos con bancos y organismos internacionales: cuándo llegarán los dólares",
+        "summary": "Fuentes del ministerio de Economía aseguraron a Infobae que terminaron las negociaciones con los bancos en base a la garantía de CAF y Fonplata. Aún con el desembolso pendiente del FMI y el ingreso por la privatización de AySA el vencimiento del 9 de enero no está cubierto",
+        "link": "https://www.infobae.com/economia/2026/11/24/el-gobierno-cerro-nuevos-prestamos-con-bancos-y-organismos-internacionales-cuando-llegaran-los-dolares/",
+        "source": "Infobae Economía",
+        "time": "24/11 13:54",
+        "iso_date": "2026-11-24T16:54:39+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Brasil redujo al 1,9% su previsión de crecimiento del PIB en 2026",
+        "summary": "El Ministerio de Hacienda atribuyó la corrección a la desaceleración de la actividad, el alto costo del crédito y las tasas de interés en niveles restrictivos. La inflación también empeoró: llegaría al 5,3%, por encima del techo fijado por el Banco Central",
+        "link": "https://www.infobae.com/america/america-latina/2026/11/24/brasil-redujo-al-19-su-prevision-de-crecimiento-del-pib-en-2026/",
+        "source": "Infobae Economía",
+        "time": "24/11 13:49",
+        "iso_date": "2026-11-24T16:49:42+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Las acciones argentinas retoman las pérdidas, contagiadas por las ventas de Wall Street",
+        "summary": "Los índices de Nueva York negocian con bajas después de las fuertes ganancias del lunes. La mayoría de los ADR argentinos caen en dólares. El MSCI Merval gana 1,5% tras el feriado local",
+        "link": "https://www.infobae.com/economia/2026/11/24/las-acciones-argentinas-retoman-las-perdidas-contagiadas-por-las-ventas-de-wall-street/",
+        "source": "Infobae Economía",
+        "time": "24/11 13:29",
+        "iso_date": "2026-11-24T16:29:29+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Dólar en Argentina: el CCL cerró en ARS$1.785 y la brecha con el mayorista se ubicó en 12%",
+        "summary": "El Gobierno mantiene un deslizamiento administrado del dólar oficial.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/dolar-en-argentina-el-ccl-trepa-otro-escalon-y-amplia-la-brecha-con-el-mayorista-al-13/",
         "source": "Bloomberg Línea AR",
-        "time": "23/11 14:18",
-        "iso_date": "2026-11-23T17:18:31+00:00",
+        "time": "24/11 13:24",
+        "iso_date": "2026-11-24T16:24:00+00:00",
         "tickers": [],
         "is_general": true
-      },
+      }
+    ],
+    "YPFD": [
       {
-        "title": "Citi detecta señales de alerta en Wall Street similares a las de la burbuja puntocom",
-        "summary": "Un análisis del banco detectó un cambio extremo en el liderazgo de las acciones estadounidenses que solo había aparecido en otros dos episodios históricos.",
-        "link": "https://www.bloomberglinea.com/mercados/citi-detecta-senales-de-alerta-en-wall-street-similares-a-las-de-la-burbuja-puntocom/",
+        "title": "Vaca Muerta: YPF presenta otro megaproyecto al RIGI por US$11.688 millones",
+        "summary": "El desarrollo de Narambuena contempla la perforación de 606 pozos y exportaciones por US$33.000 millones. Es la segunda de las tres iniciativas que impulsa la petrolera para desarrollar el norte de Vaca Muerta, con inversiones conjuntas por US$44.000 millones.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-ypf-presenta-otro-megaproyecto-al-rigi-por-us11688-millones/",
         "source": "Bloomberg Línea AR",
-        "time": "23/11 13:35",
-        "iso_date": "2026-11-23T16:35:33+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El regreso de Jensen Huang como CEO de Nvidia dispara su fortuna en 2026",
-        "summary": "Las acciones del fabricante de chips avanzan más de 30% tras la decisión unánime del directorio, mientras el patrimonio estimado del empresario registra una fuerte recuperación después de las pérdidas acumuladas.",
-        "link": "https://www.bloomberglinea.com/mercados/el-regreso-de-jensen-huang-como-ceo-de-nvidia-dispara-su-fortuna-en-2026/",
-        "source": "Bloomberg Línea AR",
-        "time": "23/11 13:02",
-        "iso_date": "2026-11-23T16:02:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El Indec dará mañana el dato que determinará si la economía entró en “recesión técnica”",
-        "summary": "Publicará el dato de actividad de septiembre y con ello se conocerá el resultado del tercer trimestre. Las consultoras anticipan un repunte que no llegaría a compensar la caída de los dos meses previos",
-        "link": "https://www.infobae.com/economia/2026/11/23/el-indec-dara-manana-el-dato-que-determinara-si-la-economia-entro-en-recesion-tecnica/",
-        "source": "Infobae Economía",
-        "time": "23/11 12:46",
-        "iso_date": "2026-11-23T15:46:01+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Tras el pedido de Donald Trump, Nvidia reincorporó a Jensen Huang como CEO once días después de su renuncia",
-        "summary": "La junta votó por unanimidad tras recibir “aportes de funcionarios del Gobierno”, según el comunicado de la empresa. Las acciones se disparan antes de la apertura de Wall Street",
-        "link": "https://www.infobae.com/estados-unidos/2026/11/23/nvidia-reincorporo-a-jensen-huang-como-director-ejecutivo-once-dias-despues-de-su-renuncia/",
-        "source": "Infobae Economía",
-        "time": "23/11 12:15",
-        "iso_date": "2026-11-23T15:15:54+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El regreso de Jensen Huang dispara Wall Street tras una semana de desplome",
-        "summary": "El mercado rebota luego de su peor semana desde 2020. El Nasdaq sube más de un 6% y el S&P 500, más de un 4%. Las acciones de Nvidia se disparan más de un 25%",
-        "link": "https://www.infobae.com/america/mundo/2026/11/23/el-regreso-de-jensen-huang-dispara-wall-street-tras-una-semana-de-desplome/",
-        "source": "Infobae Economía",
-        "time": "23/11 12:08",
-        "iso_date": "2026-11-23T15:08:49+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "¿Es momento de invertir en plazo fijo?: cuánto pagan los bancos por depósitos de $1 millón a 30 días",
-        "summary": "Las entidades financieras ofrecen tasas de hasta 24% anual, pero la brecha de ofertas es amplia. ¿Cuánto puede ganar el ahorrista según el banco?",
-        "link": "https://www.infobae.com/economia/2026/11/23/es-momento-de-invertir-en-plazo-fijo-cuanto-pagan-los-bancos-por-depositos-de-1-millon-a-30-dias/",
-        "source": "Infobae Economía",
-        "time": "23/11 11:18",
-        "iso_date": "2026-11-23T14:18:05+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Fábrica de calzado deja de producir en Argentina: se trasladará a Brasil y reducirá su personal",
-        "summary": "El traslado de plantas productivas al exterior impacta el empleo y reduce la cantidad de talleres activos en el sector desde 2023 en Argentina",
-        "link": "https://www.iprofesional.com/negocios/469782-industria-calzado-crisis-mudanza-brasil-recorte-empleo-noviembre-2026",
-        "source": "iProfesional",
-        "time": "23/11 11:00",
-        "iso_date": "2026-11-23T14:00:00+00:00",
+        "time": "24/11 16:41",
+        "iso_date": "2026-11-24T19:41:31+00:00",
         "tickers": [
-          "TECO2"
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI",
+        "summary": "El desarrollo prevé exportaciones por USD 33.000 millones hasta 2059 y consolida a la petrolera como el principal inversor del régimen, con casi USD 100.000 millones comprometidos en seis iniciativas",
+        "link": "https://www.infobae.com/economia/2026/11/24/narambuena-como-es-el-proyecto-para-desarrollar-el-norte-de-vaca-muerta-para-el-que-ypf-presento-un-nuevo-rigi/",
+        "source": "Infobae Economía",
+        "time": "24/11 16:28",
+        "iso_date": "2026-11-24T19:28:46+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF avanza con su plan para el norte de Vaca Muerta y suma un nuevo proyecto al RIGI",
+        "summary": "Es la segunda de tres solicitudes para proyectos de petróleo no convencional con gas asociado.",
+        "link": "https://www.cronista.com/economia-politica/ypf-avanza-con-su-plan-para-el-norte-de-vaca-muerta-y-suma-un-nuevo-proyecto-al-rigi/",
+        "source": "El Cronista",
+        "time": "24/11 15:43",
+        "iso_date": "2026-11-24T18:43:26+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF pidió un nuevo RIGI por u$s11.688 millones para Vaca Muerta",
+        "summary": "Es el segundo de tres proyectos en la zona norte neuquina. Prevé 606 pozos, 80.000 barriles diarios y exportaciones por u$s33.000 millones.",
+        "link": "https://www.iprofesional.com/energia/469901-ypf-pidio-con-chevron-un-nuevo-rigi-por-us11-688-millones-para-un-bloque-vaca-muerta",
+        "source": "iProfesional",
+        "time": "24/11 15:35",
+        "iso_date": "2026-11-24T18:35:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "YPF confirmó cuándo se firmará \"la inversión más grande de la historia argentina\"",
+        "summary": "La petrolera, junto con la italiana Eni y la emiratí XRG formalizó la convocatoria. Los directivos del consorcio se reunirán con Javier Milei",
+        "link": "https://www.iprofesional.com/energia/469850-ypf-eni-y-xrg-firman-el-30-de-noviembre-el-fid-de-argentina-lng",
+        "source": "iProfesional",
+        "time": "24/11 14:36",
+        "iso_date": "2026-11-24T17:36:00+00:00",
+        "tickers": [
+          "YPFD"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "“Juntos somos imbatibles”: la propuesta de Chile para exportar gas argentino desde sus puertos",
+        "summary": "La ministra de Energía, Ximena Rincón, habló con Bloomberg Línea en el Council of the Americas sobre la cumbre del 18 de diciembre con empresarios de Vaca Muerta, la tensión por Malvinas y el alza de los combustibles.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/juntos-somos-imbatibles-la-propuesta-de-chile-para-exportar-gas-argentino-desde-sus-puertos/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/11 06:15",
+        "iso_date": "2026-11-24T09:15:00+00:00",
+        "tickers": [
+          "YPFD"
         ],
         "is_general": false
       }
     ],
-    "YPFD": [],
-    "GGAL": [],
+    "GGAL": [
+      {
+        "title": "Grupo Financiero Galicia vuelve al verde: ¿Cuánto bajó la mora en el tercer trimestre?",
+        "summary": "El mayor holding financiero de Argentina ganó ARS$229.002 millones frente a una pérdida un año atrás, aunque 16% menos que en el trimestre previo por un menor margen. Sus ADR caen más de 1% en Wall Street, en línea con los demás bancos argentinos.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/grupo-financiero-galicia-vuelve-al-verde-cuanto-bajo-la-mora-en-el-tercer-trimestre/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/11 11:55",
+        "iso_date": "2026-11-24T14:55:47+00:00",
+        "tickers": [
+          "GGAL"
+        ],
+        "is_general": true
+      }
+    ],
     "PAMP": [],
     "BMA": [],
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
-      {
-        "title": "Fábrica de calzado deja de producir en Argentina: se trasladará a Brasil y reducirá su personal",
-        "summary": "El traslado de plantas productivas al exterior impacta el empleo y reduce la cantidad de talleres activos en el sector desde 2023 en Argentina",
-        "link": "https://www.iprofesional.com/negocios/469782-industria-calzado-crisis-mudanza-brasil-recorte-empleo-noviembre-2026",
-        "source": "iProfesional",
-        "time": "23/11 11:00",
-        "iso_date": "2026-11-23T14:00:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
       {
         "title": "Cuánto cobrarán por hora las niñeras en diciembre 2026",
         "summary": "El aumento del 1,6% eleva los salarios mínimos del personal de cuidado y coincide con el pago del aguinaldo",
@@ -357,6 +431,78 @@
     "CEPU": [],
     "AL30": [
       {
+        "title": "El riesgo país se dispara y queda cerca de los 1.100 puntos, nuevo récord en más de un año",
+        "summary": "Los bonos operan en baja y el indicador que mide JP Morgan sube en torno al 7%. Los ADR operan mixtos en Wall Street y sube el Merval",
+        "link": "https://www.iprofesional.com/finanzas/469868-el-riesgo-pais-se-dispara-y-supera-los-1100-puntos-nuevo-record-en-mas-de-un-ano",
+        "source": "iProfesional",
+        "time": "24/11 16:45",
+        "iso_date": "2026-11-24T19:45:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "\"Especulación mediática\": Ravier negó versiones sobre una salida de Caputo",
+        "summary": "En medio de la escalada del dólar y el riesgo país, el vocero presidencial descartó rumores sobre una posible salida del ministro de Economía",
+        "link": "https://www.iprofesional.com/politica/469900-especulacion-mediatica-ravier-nego-versiones-sobre-una-salida-de-caputo",
+        "source": "iProfesional",
+        "time": "24/11 15:54",
+        "iso_date": "2026-11-24T18:54:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Riesgo país sobre los 1100 puntos: qué pasó en la economía argentina en cada cimbronazo desde 2000",
+        "summary": "El mercado comenzó a discutir cuánto del deterioro responde al escenario electoral de 2027 y cuánto a las dudas sobre la dinámica económica y financiera. Una mirada a los principales episodios de los últimos 26 años muestra que los grandes saltos casi nunca tuvieron una sola c...",
+        "link": "https://www.cronista.com/finanzas-mercados/riesgo-pais-sobre-los-1100-puntos-que-paso-en-la-economia-argentina-en-cada-cimbronazo-desde-2000/",
+        "source": "El Cronista",
+        "time": "24/11 13:58",
+        "iso_date": "2026-11-24T16:58:52+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Vuelven a caer los bonos argentinos y el riesgo país supera los 1.100 puntos básicos",
+        "summary": "Mientras que Wall Street atraviesa una toma de ganancias después del fuerte salto de los precios de los activos el lunes, los bonos Globales de Argentina caen 1% y el indicador de JP Morgan escala 40 unidades, a 1.071 puntos básicos",
+        "link": "https://www.infobae.com/economia/2026/11/24/vuelven-a-caer-los-bonos-argentinos-y-el-riesgo-pais-toca-su-nivel-mas-alto-del-ano/",
+        "source": "Infobae Economía",
+        "time": "24/11 13:11",
+        "iso_date": "2026-11-24T16:11:42+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Confianza en el Gobierno de Milei repunta, pero la brecha y el riesgo país reflejan dudas de inversores",
+        "summary": "El Índice de Confianza en el Gobierno de la Universidad Di Tella subió 4,1% en noviembre y se alejó de mínimos. Sin embargo, la escalada de los dólares paralelos y del riesgo país por encima de los 1.000 puntos reflejan la cautela de inversores sobre el escenario electoral de ...",
+        "link": "https://www.bloomberglinea.com/latinoamerica/argentina/confianza-en-el-gobierno-de-milei-repunta-pero-la-brecha-y-el-riesgo-pais-reflejan-dudas-de-inversores/",
+        "source": "Bloomberg Línea AR",
+        "time": "24/11 10:55",
+        "iso_date": "2026-11-24T13:55:47+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "La City advierte por la nueva dinámica que puede tomar el riesgo país por las elecciones",
+        "summary": "En el mercado no hay optimismo respecto a la dinámica de los bonos en dólares y riesgo país. Prevén nuevas presiones en el corto y mediano plazo",
+        "link": "https://www.iprofesional.com/finanzas/469820-la-nueva-dinamica-que-podria-tomar-el-riesgo-pais-por-las-elecciones",
+        "source": "iProfesional",
+        "time": "24/11 06:55",
+        "iso_date": "2026-11-24T09:55:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "Alivio para el Gobierno: volvió la calma a los mercados justo cuando empezaban a subir el dólar y la brecha cambiaria",
         "summary": "El regreso de Jensen Huang a Nvidia alivió a los inversores de todo el mundo. La reapertura de la semana financiera luego del feriado debería ser favorable, incluyendo un retroceso del riesgo país. Expectativa por suspensión de la PASO",
         "link": "https://www.infobae.com/economia/2026/11/24/alivio-para-el-gobierno-volvio-la-calma-a-los-mercados-justo-cuando-empezaban-a-subir-el-dolar-y-la-brecha-cambiaria/",
@@ -411,54 +557,6 @@
         "source": "Infobae Economía",
         "time": "23/11 18:14",
         "iso_date": "2026-11-23T21:14:09+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "ADRs subieron en Wall Street y cayó riesgo país en un día de euforia por el efecto Nvidia",
-        "summary": "Un repunte global impulsó fuertes avances en los activos argenetinos. Bajó el riesgo país, aunque sigue arriba de los 1.000 puntos básicos",
-        "link": "https://www.iprofesional.com/finanzas/469795-los-adr-y-bonos-argentinos-se-contagian-de-wall-street-y-suben-tras-el-efecto-nvidia",
-        "source": "iProfesional",
-        "time": "23/11 18:00",
-        "iso_date": "2026-11-23T21:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Dólar sube casi 20% en menos de 1 mes en Brasil y mete presión al plan económico de Caputo",
-        "summary": "La volatilidad del real impacta sobre la estabilidad financiera argentina, impulsa la brecha cambiaria y suma presión al mercado de deuda soberana",
-        "link": "https://www.iprofesional.com/finanzas/469716-el-dolar-subio-20-por-ciento-en-menos-de-un-mes-en-brasil-y-mete-presion-a-caputo",
-        "source": "iProfesional",
-        "time": "23/11 15:00",
-        "iso_date": "2026-11-23T18:00:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "El Financial Times destacó el desafío financiero y electoral de Milei por la suba del riesgo país y la recesión de la economía",
-        "summary": "El medio británico cita cálculos según los cuales el gobierno tiene un faltante de USD 10.000 millones para cubrir vencimientos con bonistas privados",
-        "link": "https://www.infobae.com/economia/2026/11/22/el-financial-times-destaco-el-desafio-financiero-y-electoral-de-milei-por-la-suba-del-riesgo-pais-y-la-recesion-de-la-economia/",
-        "source": "Infobae Economía",
-        "time": "22/11 12:10",
-        "iso_date": "2026-11-22T15:10:17+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "“Meses de incertidumbre”: con el riesgo país sobre los 1000 puntos, un informe hackea el optimismo del Gobierno",
-        "summary": "El relevamiento semanal de LCG advirtió por varios indicadores a los que hay que prestar atención de cara al cierre del año.",
-        "link": "https://www.cronista.com/economia-politica/meses-de-incertidumbre-con-el-riesgo-pais-sobre-los-1000-puntos-un-informe-hackea-el-optimismo-del-gobierno/",
-        "source": "El Cronista",
-        "time": "22/11 08:20",
-        "iso_date": "2026-11-22T11:20:56+00:00",
         "tickers": [
           "AL30"
         ],
