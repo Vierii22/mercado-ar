@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-25T04:43:14.676738",
-  "updated_str": "25/11/2026 04:43",
+  "updated_at": "2026-11-25T07:00:22.373703",
+  "updated_str": "25/11/2026 07:00",
   "cutoff_hours": 48,
-  "total_news": 201,
+  "total_news": 208,
   "news": {
     "GENERAL": [
+      {
+        "title": "La recesión sería de corta duración, pero tampoco hay garantías de un repunte sostenido",
+        "summary": "El número dos de Caputo, José Luis Daza, discutió que dos trimestres negativos no necesariamente deben ser considerados como una recesión. Septiembre arrojó datos más alentadores y el cuarto trimestre finalizaría positivo",
+        "link": "https://www.infobae.com/economia/2026/11/25/la-recesion-seria-de-corta-duracion-pero-tampoco-hay-garantias-de-un-repunte-sostenido/",
+        "source": "Infobae Economía",
+        "time": "25/11 01:49",
+        "iso_date": "2026-11-25T04:49:57+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "El riesgo país se acerca a los 1.100 puntos: la Argentina paga caro la falta de reservas y el riesgo electoral",
+        "summary": "La salida de posiciones en pesos, los vencimientos atados al dólar y un contexto externo adverso elevaron la presión cambiaria y golpearon a los bonos, mientras el mercado sigue de cerca la capacidad oficial para sostener las cotizaciones",
+        "link": "https://www.infobae.com/economia/2026/11/25/el-riesgo-pais-se-acerca-a-los-1100-puntos-la-argentina-paga-caro-la-falta-de-reservas-y-el-riesgo-electoral/",
+        "source": "Infobae Economía",
+        "time": "25/11 01:48",
+        "iso_date": "2026-11-25T04:48:55+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "Sturzenegger disparó contra la \"casta naviera pesquera\" y el sector le respondió",
         "summary": "Cruce entre el funcionario y gremios por el manejo de los recursos marítimos abre el debate sobre impactos económicos y regulatorios del sector",
@@ -296,30 +318,6 @@
           "AL30"
         ],
         "is_general": true
-      },
-      {
-        "title": "YPF avanza con su plan para el norte de Vaca Muerta y suma un nuevo proyecto al RIGI",
-        "summary": "Es la segunda de tres solicitudes para proyectos de petróleo no convencional con gas asociado.",
-        "link": "https://www.cronista.com/economia-politica/ypf-avanza-con-su-plan-para-el-norte-de-vaca-muerta-y-suma-un-nuevo-proyecto-al-rigi/",
-        "source": "El Cronista",
-        "time": "24/11 15:43",
-        "iso_date": "2026-11-24T18:43:26+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
-      },
-      {
-        "title": "YPF pidió un nuevo RIGI por u$s11.688 millones para Vaca Muerta",
-        "summary": "Es el segundo de tres proyectos en la zona norte neuquina. Prevé 606 pozos, 80.000 barriles diarios y exportaciones por u$s33.000 millones.",
-        "link": "https://www.iprofesional.com/energia/469901-ypf-pidio-con-chevron-un-nuevo-rigi-por-us11-688-millones-para-un-bloque-vaca-muerta",
-        "source": "iProfesional",
-        "time": "24/11 15:35",
-        "iso_date": "2026-11-24T18:35:00+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -430,6 +428,18 @@
     ],
     "CEPU": [],
     "AL30": [
+      {
+        "title": "El riesgo país se acerca a los 1.100 puntos: la Argentina paga caro la falta de reservas y el riesgo electoral",
+        "summary": "La salida de posiciones en pesos, los vencimientos atados al dólar y un contexto externo adverso elevaron la presión cambiaria y golpearon a los bonos, mientras el mercado sigue de cerca la capacidad oficial para sostener las cotizaciones",
+        "link": "https://www.infobae.com/economia/2026/11/25/el-riesgo-pais-se-acerca-a-los-1100-puntos-la-argentina-paga-caro-la-falta-de-reservas-y-el-riesgo-electoral/",
+        "source": "Infobae Economía",
+        "time": "25/11 01:48",
+        "iso_date": "2026-11-25T04:48:55+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
       {
         "title": "El riesgo país rozó los 1.100 puntos, cayeron las acciones argentinas y el dólar superó los $1.600",
         "summary": "Los activos argentinos operaron negativos luego del feriado, mientras Wall Street regresó a las pérdidas. El indicador de JP Morgan llegó a superar los 1.100 puntos después de 13 meses. El dólar subió a $1.615 en el Banco Nación y el BCRA no intervino en el mercado",
