@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-27T00:08:03.416737",
-  "updated_str": "27/11/2026 00:08",
+  "updated_at": "2026-11-27T00:44:27.130844",
+  "updated_str": "27/11/2026 00:44",
   "cutoff_hours": 48,
   "total_news": 277,
   "news": {
     "GENERAL": [
+      {
+        "title": "Martín Redrado cuestionó el rumbo económico del Gobierno: “La política monetaria ha sido muy errática”",
+        "summary": "El expresidente del Banco Central analizó en Infobae al Regreso la estrategia cambiaria y el programa financiero oficial, estimó que las divisas de libre disponibilidad rondan los USD 8.000 millones y recordó su disputa con Cristina Kirchner en 2010",
+        "link": "https://www.infobae.com/economia/2026/11/27/martin-redrado-cuestiono-el-rumbo-economico-del-gobierno-la-politica-monetaria-ha-sido-muy-erratica/",
+        "source": "Infobae Economía",
+        "time": "26/11 21:05",
+        "iso_date": "2026-11-27T00:05:10+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Milei festeja fin de riesgo Bullrich y prevé mercado más calmo y posible ruptura peronista",
         "summary": "Para Milei, la eliminación de las PASO tiene alto valor estratégico, empezando por la posible división del voto peronista en varias candidaturas",
@@ -46,7 +56,7 @@
         "is_general": true
       },
       {
-        "title": "Gobernadora de Banxico afirma que sería “reducido y limitado” traspaso cambiario sobre inflación",
+        "title": "Gobernadora de Banxico afirma que sería “reducido y limitado” el traspaso cambiario sobre la inflación",
         "summary": "La gobernadora Victoria Rodríguez Ceja aseguró que el recorte de la tasa fue un “ajuste puntual” y no representa una flexibilización de la postura monetaria.",
         "link": "https://www.bloomberglinea.com/latinoamerica/mexico/gobernadora-de-banxico-afirma-que-seria-reducido-y-limitado-traspaso-cambiario-sobre-inflacion/",
         "source": "Bloomberg Línea AR",
@@ -116,7 +126,7 @@
         "is_general": true
       },
       {
-        "title": "Perder o vetar: la pelea por las Universidades que amenaza con hacer caer una parte del Presupuesto",
+        "title": "Perder o vetar: la pelea por las universidades que amenaza con hacer caer una parte del Presupuesto",
         "summary": "El oficialismo aisló a las partidas en un capítulo propio, para que pueda caerse sin arrastrar al resto del proyecto. En los bloques aliados creen que el objetivo es que se apruebe una cifra mayor para que Milei la vete, y ya piensan en una ley de emergencia. Los números sobre...",
         "link": "https://www.cronista.com/economia-politica/presupuesto-2027-y-carta-organica-del-bcra-los-puntos-centrales-que-traban-la-sesion-en-diputados/",
         "source": "El Cronista",
@@ -296,18 +306,6 @@
         "iso_date": "2026-11-26T19:56:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "RIGI y Vaca Muerta: dónde están los u$s 200.000 millones de proyectos y cuánto pueden mover a la Patagonia",
-        "summary": "El petróleo y el gas concentran una parte cada vez mayor y YPF acaba de sumar un plan de u$s 44.000 millones para desarrollar cinco áreas del norte de Vaca Muerta. El impacto se nota en el sector privado y en el público provincial, que consiguió buenos números gracias a las mi...",
-        "link": "https://www.cronista.com/negocios/rigi-y-vaca-muerta-donde-estan-los-us-200000-millones-de-proyectos-y-cuanto-pueden-mover-a-la-patagonia/",
-        "source": "El Cronista",
-        "time": "26/11 16:33",
-        "iso_date": "2026-11-26T19:33:21+00:00",
-        "tickers": [
-          "YPFD"
-        ],
-        "is_general": false
       }
     ],
     "YPFD": [
@@ -367,8 +365,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -395,8 +393,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
