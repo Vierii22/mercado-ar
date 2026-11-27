@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-11-27T02:36:22.182870",
-  "updated_str": "27/11/2026 02:36",
+  "updated_at": "2026-11-27T03:53:27.520571",
+  "updated_str": "27/11/2026 03:53",
   "cutoff_hours": 48,
-  "total_news": 277,
+  "total_news": 280,
   "news": {
     "GENERAL": [
+      {
+        "title": "La City abraza los triunfos políticos de Milei, pero espera más señales para apostar",
+        "summary": "La aprobación de proyectos clave en el Congreso son bien recibidos por el mercado, pero esperan datos concretos para recomprar activos locales.",
+        "link": "https://www.iprofesional.com/finanzas/470209-que-dicen-en-la-city-tras-el-triunfo-politico-de-milei-en-el-congreso",
+        "source": "iProfesional",
+        "time": "27/11 00:05",
+        "iso_date": "2026-11-27T03:05:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
+      {
+        "title": "Lo que se dice en las mesas: empresas gambetean riesgo electoral, recalculan emisiones y hay alerta sobre la oferta de dólares",
+        "summary": "Las compañías adelantan colocaciones de deuda para evitar la volatilidad de 2027, mientras los inversores siguen de cerca la evolución del programa económico y las reservas.",
+        "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-empresas-gambetean-riesgo-electoral-recalculan-emisiones-y-hay-alerta-la-oferta-dolares-n6349908",
+        "source": "Ámbito",
+        "time": "27/11 00:01",
+        "iso_date": "2026-11-27T03:01:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Pemex registra fuerte explosión en ducto de Nuevo León",
         "summary": "La compañía mexicana señaló que personal especializado atiende la explosión sin detalles sobre personas heridas.",
@@ -286,26 +306,6 @@
         "iso_date": "2026-11-26T20:54:33+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cuántos pesos se pueden ganar con 1.000 dólares haciendo el \"rulo\" con billetera virtual",
-        "summary": "El arbitraje cambiario habilita a quienes acceden al mercado oficial a obtener márgenes interesantes con una reventa rápida en aplicaciones",
-        "link": "https://www.iprofesional.com/finanzas/470169-cuantos-pesos-se-pueden-ganar-cada-1000-dolares-haciendo-el-famoso-rulo",
-        "source": "iProfesional",
-        "time": "26/11 17:29",
-        "iso_date": "2026-11-26T20:29:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "Por qué Wall Street felicita a la Argentina pero “no pone un dólar”, según Fausto Spotorno",
-        "summary": "El economista repasó el contexto internacional y cuáles son las herramientas que le quedan al Gobierno.",
-        "link": "https://www.cronista.com/economia-politica/por-que-wall-street-felicita-a-la-argentina-pero-no-pone-un-dolar-segun-fausto-spotorno/",
-        "source": "El Cronista",
-        "time": "26/11 17:28",
-        "iso_date": "2026-11-26T20:28:56+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -365,8 +365,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -393,8 +393,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       }
