@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-27T22:48:25.139488",
-  "updated_str": "27/11/2026 22:48",
+  "updated_at": "2026-11-27T23:04:25.633049",
+  "updated_str": "27/11/2026 23:04",
   "cutoff_hours": 48,
   "total_news": 259,
   "news": {
     "GENERAL": [
+      {
+        "title": "La demanda de dólares no afloja: los argentinos compraron más de USD 3.000 millones en octubre",
+        "summary": "Según datos oficiales, se trata del segundo monto bruto más elevado del año. Más de 1,7 millones de personas adquirieron divisas, mientras que unas 812.000 vendieron. En paralelo, crece la cobertura cambiaria",
+        "link": "https://www.infobae.com/economia/2026/11/27/la-demanda-de-dolares-no-afloja-los-argentinos-compraron-mas-de-usd-3000-millones-en-octubre/",
+        "source": "Infobae Economía",
+        "time": "27/11 19:55",
+        "iso_date": "2026-11-27T22:55:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "El Banco Central retomó la compra de dólares y cortó una racha de cuatro ruedas consecutivas sin sumar divisas",
         "summary": "La autoridad monetaria compró USD 61 millones y acumula poco más de USD 400 millones en el transcurso de noviembre",
@@ -64,16 +74,6 @@
         "source": "iProfesional",
         "time": "27/11 18:38",
         "iso_date": "2026-11-27T21:38:00+00:00",
-        "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "La demanda de dólares no afloja: los argentinos compraron más de USD 3.000 millones en octubre",
-        "summary": "Según datos oficiales, se trata del segundo monto bruto más elevado del año. Más de 1,7 millones de personas adquirieron divisas, mientras que unas 812.000 vendieron",
-        "link": "https://www.infobae.com/economia/2026/11/27/la-demanda-de-dolares-no-afloja-los-argentinos-compraron-mas-de-usd-3000-millones-en-octubre/",
-        "source": "Infobae Economía",
-        "time": "27/11 18:26",
-        "iso_date": "2026-11-27T21:26:32+00:00",
         "tickers": [],
         "is_general": true
       },
@@ -222,7 +222,7 @@
         "is_general": true
       },
       {
-        "title": "Por qué Milei no anuló feriados tras quejarse en campaña de que perjudican a la economía",
+        "title": "Por qué Milei no reduce feriados tras quejarse en campaña de que perjudican a la economía",
         "summary": "Milei piensa que los fines de semana \"XL\" afectan a la actividad y al nivel de empleo. Se esperaba un recorte de feriados pero nunca ocurrió",
         "link": "https://www.iprofesional.com/politica/470281-feriados-turisticos-cuanto-afecta-bolsillo-cambiar-planes-noviembre-2026",
         "source": "iProfesional",
@@ -259,8 +259,8 @@
         "time": "27/11 14:18",
         "iso_date": "2026-11-27T17:18:42+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -324,8 +324,8 @@
         "time": "27/11 14:18",
         "iso_date": "2026-11-27T17:18:42+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -449,8 +449,8 @@
         "time": "27/11 14:18",
         "iso_date": "2026-11-27T17:18:42+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -459,18 +459,6 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
-      {
-        "title": "¿Disputa sindical? Gremio de jerárquicos de ARCA suman a sus pares de Aduana",
-        "summary": "La USPAFIP modificó su estatuto y podrá incorporar a los jerárquicos de la Aduana. Aval de la secretaría de Trabajo. Qué beneficios tendrá el personal",
-        "link": "https://www.iprofesional.com/legales/470224-jerarquicos-de-aduana-que-sindicato-de-arca-los-podra-incorporar-como-afiliados",
-        "source": "iProfesional",
-        "time": "27/11 08:00",
-        "iso_date": "2026-11-27T11:00:00+00:00",
-        "tickers": [
-          "TECO2"
-        ],
-        "is_general": false
-      },
       {
         "title": "Bomberos voluntarios: el Gobierno destinó más de $ 59.000 millones para equipamiento, capacitación y emergencias",
         "summary": "La medida alcanza a 1076 asociaciones de todo el país, además de las federaciones provinciales, el Consejo de Federaciones y organismos estatales. El monto se utilizará para comprar equipamiento, capacitar al personal, sostener estructuras operativas y reforzar la respuesta an...",
