@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-11-27T02:18:14.591087",
-  "updated_str": "27/11/2026 02:18",
+  "updated_at": "2026-11-27T02:36:22.182870",
+  "updated_str": "27/11/2026 02:36",
   "cutoff_hours": 48,
-  "total_news": 276,
+  "total_news": 277,
   "news": {
     "GENERAL": [
+      {
+        "title": "Pemex registra fuerte explosión en ducto de Nuevo León",
+        "summary": "La compañía mexicana señaló que personal especializado atiende la explosión sin detalles sobre personas heridas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-registra-fuerte-explosion-en-ducto-de-nuevo-leon/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/11 23:18",
+        "iso_date": "2026-11-27T02:18:06+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Crisis en el comercio: reportan 53.000 kioscos cerrados desde que asumió Javier Milei",
         "summary": "La Unión de Kiosqueros de la República Argentina advirtió que el sector perdió más de la mitad de sus locales desde el inicio del actual Gobierno. También estimó que se destruyeron 72.000 puestos de trabajo.",
@@ -294,16 +306,6 @@
         "iso_date": "2026-11-26T20:28:56+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "El problema que más preocupa a los argentinos no es el dólar ni la inflación",
-        "summary": "Insight 21 registró un deterioro muy significativo de la expectativa de la opinión pública sobre la economía argentina, a un año de las elecciones",
-        "link": "https://www.iprofesional.com/management/470117-el-problema-que-mas-preocupa-a-argentinos-no-es-inflacion-pero-surge-alerta-para-javier-milei",
-        "source": "iProfesional",
-        "time": "26/11 17:23",
-        "iso_date": "2026-11-26T20:23:00+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -363,8 +365,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -391,8 +393,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -401,6 +403,18 @@
     "TXAR": [],
     "ALUA": [],
     "TECO2": [
+      {
+        "title": "Pemex registra fuerte explosión en ducto de Nuevo León",
+        "summary": "La compañía mexicana señaló que personal especializado atiende la explosión sin detalles sobre personas heridas.",
+        "link": "https://www.bloomberglinea.com/latinoamerica/mexico/pemex-registra-fuerte-explosion-en-ducto-de-nuevo-leon/",
+        "source": "Bloomberg Línea AR",
+        "time": "26/11 23:18",
+        "iso_date": "2026-11-27T02:18:06+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
       {
         "title": "Bomberos voluntarios: el Gobierno destinó más de $ 59.000 millones para equipamiento, capacitación y emergencias",
         "summary": "La medida alcanza a 1076 asociaciones de todo el país, además de las federaciones provinciales, el Consejo de Federaciones y organismos estatales. El monto se utilizará para comprar equipamiento, capacitar al personal, sostener estructuras operativas y reforzar la respuesta an...",
