@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-27T02:04:09.209644",
-  "updated_str": "27/11/2026 02:04",
+  "updated_at": "2026-11-27T02:18:14.591087",
+  "updated_str": "27/11/2026 02:18",
   "cutoff_hours": 48,
-  "total_news": 277,
+  "total_news": 276,
   "news": {
     "GENERAL": [
+      {
+        "title": "Crisis en el comercio: reportan 53.000 kioscos cerrados desde que asumió Javier Milei",
+        "summary": "La Unión de Kiosqueros de la República Argentina advirtió que el sector perdió más de la mitad de sus locales desde el inicio del actual Gobierno. También estimó que se destruyeron 72.000 puestos de trabajo.",
+        "link": "https://www.ambito.com/economia/crisis-el-comercio-reportan-53000-kioscos-cerrados-que-asumio-javier-milei-n6349905",
+        "source": "Ámbito",
+        "time": "26/11 22:58",
+        "iso_date": "2026-11-27T01:58:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "Dólar: Orlando Ferreres anticipó hasta dónde puede subir el tipo de cambio y alertó por la falta de inversiones",
         "summary": "El economista analizó el escenario cambiario y proyectó tres escenarios para la economía argentina en 2027. Advirtió sobre la debilidad del consumo, el deterioro de la inversión y la incertidumbre financiera. Además, reveló cuál es su cálculo de equilibrio para el tipo de cambio.",
@@ -294,16 +304,6 @@
         "iso_date": "2026-11-26T20:23:00+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Cubiertas, heladeras y alimentos: esta es la lista de productos que bajaron de precio desde 2023, según el Gobierno",
-        "summary": "El ministro de Economía, Luis Caputo, admitió que los usuarios enfrentan aumentos en las tarifas, aunque sostuvo que otros bienes y alimentos bajaron de precio. Analistas advierten que esa comparación no contempla la pérdida de ingresos de los hogares",
-        "link": "https://www.infobae.com/economia/2026/11/26/cubiertas-heladeras-y-alimentos-esta-es-la-lista-de-productos-que-bajaron-de-precio-desde-2023-segun-el-gobierno/",
-        "source": "Infobae Economía",
-        "time": "26/11 17:22",
-        "iso_date": "2026-11-26T20:22:37+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -363,8 +363,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       },
@@ -391,8 +391,8 @@
         "time": "25/11 15:59",
         "iso_date": "2026-11-25T18:59:15+00:00",
         "tickers": [
-          "PAMP",
-          "YPFD"
+          "YPFD",
+          "PAMP"
         ],
         "is_general": true
       }
