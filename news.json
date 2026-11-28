@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-11-27T23:47:21.073910",
-  "updated_str": "27/11/2026 23:47",
+  "updated_at": "2026-11-28T00:10:53.606918",
+  "updated_str": "28/11/2026 00:10",
   "cutoff_hours": 48,
-  "total_news": 259,
+  "total_news": 276,
   "news": {
     "GENERAL": [
+      {
+        "title": "El dólar y el riesgo país cayeron y el Gobierno cree que las turbulencias ya son historia",
+        "summary": "La brecha cambiaria se achicó por debajo del 10% y el BCRA volvió a comprar dólares, tras cuatro ruedas. Qué otras dudas restan despejar en la City",
+        "link": "https://www.iprofesional.com/finanzas/470332-el-dolar-y-el-riesgo-pais-cayeron-y-el-gobierno-cree-que-las-turbulencias-ya-son-historia",
+        "source": "iProfesional",
+        "time": "27/11 20:43",
+        "iso_date": "2026-11-27T23:43:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "Plazo fijo a 30 días: cuánto más pagan los bancos a quienes no son clientes",
+        "summary": "Algunas entidades ofrecen mejores tasas de interés a quienes invierten sin tener una cuenta abierta. Qué diferencias hay y cómo aprovecharlas para ganar más dinero.",
+        "link": "https://www.ambito.com/economia/plazo-fijo-30-dias-cuanto-mas-pagan-los-bancos-quienes-no-son-clientes-n6349807",
+        "source": "Ámbito",
+        "time": "27/11 20:00",
+        "iso_date": "2026-11-27T23:00:00+00:00",
+        "tickers": [],
+        "is_general": true
+      },
       {
         "title": "La demanda de dólares no afloja: los argentinos compraron más de USD 3.000 millones en octubre",
         "summary": "Según datos oficiales, se trata del segundo monto bruto más elevado del año. Más de 1,7 millones de personas adquirieron divisas, mientras que unas 812.000 vendieron. En paralelo, crece la cobertura cambiaria",
@@ -33,18 +55,6 @@
         "time": "27/11 19:23",
         "iso_date": "2026-11-27T22:23:00+00:00",
         "tickers": [],
-        "is_general": true
-      },
-      {
-        "title": "El riesgo país cayó 10% por debajo de los 1.000 puntos y los ADR saltaron hasta 6,5%",
-        "summary": "Luego de los triunfos del Gobierno en el Congreso y un rebote de los activos de Brasil, el riesgo país cae con fuerza este viernes",
-        "link": "https://www.iprofesional.com/finanzas/470240-el-riesgo-pais-cayo-10-por-debajo-de-los-1000-puntos-y-los-adr-saltaron-hasta-6-5-por-ciento",
-        "source": "iProfesional",
-        "time": "27/11 19:05",
-        "iso_date": "2026-11-27T22:05:00+00:00",
-        "tickers": [
-          "AL30"
-        ],
         "is_general": true
       },
       {
@@ -259,8 +269,8 @@
         "time": "27/11 14:18",
         "iso_date": "2026-11-27T17:18:42+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -303,16 +313,6 @@
         "iso_date": "2026-11-27T16:13:29+00:00",
         "tickers": [],
         "is_general": true
-      },
-      {
-        "title": "Dólar en México sigue cerca de los MXN$20, pero este banco alemán ve excesiva la caída del peso",
-        "summary": "La fortaleza del dólar y los recortes de tasas de Banxico amenazan con prolongar las pérdidas del peso mexicano. Commerzbank, sin embargo, considera excesiva su depreciación.",
-        "link": "https://www.bloomberglinea.com/mercados/dolar-en-mexico-sigue-cerca-de-los-mxn20-pero-este-banco-aleman-ve-excesiva-la-caida-del-peso/",
-        "source": "Bloomberg Línea AR",
-        "time": "27/11 12:57",
-        "iso_date": "2026-11-27T15:57:46+00:00",
-        "tickers": [],
-        "is_general": true
       }
     ],
     "YPFD": [
@@ -324,8 +324,8 @@
         "time": "27/11 14:18",
         "iso_date": "2026-11-27T17:18:42+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       },
@@ -449,8 +449,8 @@
         "time": "27/11 14:18",
         "iso_date": "2026-11-27T17:18:42+00:00",
         "tickers": [
-          "YPFD",
-          "PAMP"
+          "PAMP",
+          "YPFD"
         ],
         "is_general": true
       }
@@ -470,17 +470,41 @@
           "TECO2"
         ],
         "is_general": false
+      },
+      {
+        "title": "Empleadas domésticas: cuánto cobrarán en diciembre con el aumento salarial y el aguinaldo",
+        "summary": "El personal de casas particulares recibirá un aumento del 1,7% y la segunda cuota del aguinaldo. Cuáles son los nuevos salarios mínimos por categoría y cuánto corresponde cobrar por el SAC.",
+        "link": "https://www.ambito.com/economia/empleadas-domesticas-cuanto-cobraran-diciembre-el-aumento-salarial-y-el-aguinaldo-n6349601",
+        "source": "Ámbito",
+        "time": "26/11 12:23",
+        "iso_date": "2026-11-26T15:23:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
+      },
+      {
+        "title": "Empleadas domésticas: cuánto cobrarán en diciembre con el aumento salarial y el aguinaldo",
+        "summary": "El personal de casas particulares recibirá un aumento del 1,7% y la segunda cuota del aguinaldo. Cuáles son los nuevos salarios mínimos por categoría y cuánto corresponde cobrar por el SAC.",
+        "link": "https://www.ambito.com/economia/empleadas-domesticas-cuanto-cobraran-diciembre-el-aumento-salarial-y-el-aguinaldo-n6349601",
+        "source": "Ámbito Mercados",
+        "time": "26/11 12:23",
+        "iso_date": "2026-11-26T15:23:00+00:00",
+        "tickers": [
+          "TECO2"
+        ],
+        "is_general": false
       }
     ],
     "CEPU": [],
     "AL30": [
       {
-        "title": "El riesgo país cayó 10% por debajo de los 1.000 puntos y los ADR saltaron hasta 6,5%",
-        "summary": "Luego de los triunfos del Gobierno en el Congreso y un rebote de los activos de Brasil, el riesgo país cae con fuerza este viernes",
-        "link": "https://www.iprofesional.com/finanzas/470240-el-riesgo-pais-cayo-10-por-debajo-de-los-1000-puntos-y-los-adr-saltaron-hasta-6-5-por-ciento",
+        "title": "El dólar y el riesgo país cayeron y el Gobierno cree que las turbulencias ya son historia",
+        "summary": "La brecha cambiaria se achicó por debajo del 10% y el BCRA volvió a comprar dólares, tras cuatro ruedas. Qué otras dudas restan despejar en la City",
+        "link": "https://www.iprofesional.com/finanzas/470332-el-dolar-y-el-riesgo-pais-cayeron-y-el-gobierno-cree-que-las-turbulencias-ya-son-historia",
         "source": "iProfesional",
-        "time": "27/11 19:05",
-        "iso_date": "2026-11-27T22:05:00+00:00",
+        "time": "27/11 20:43",
+        "iso_date": "2026-11-27T23:43:00+00:00",
         "tickers": [
           "AL30"
         ],
@@ -595,6 +619,30 @@
         "is_general": true
       },
       {
+        "title": "J.P. Morgan advirtió que los bonos argentinos ya descuentan 50% de chances de un triunfo opositor en 2027",
+        "summary": "En su informe \"Perspectivas Económicas Argentina 2027\", el banco proyecta continuidad de las políticas de Milei como escenario base, pero advierte que una elección reñida podría presionar el peso, bonos y reservas. Los detalles, en la nota.",
+        "link": "https://www.ambito.com/economia/jp-morgan-advirtio-que-los-bonos-argentinos-ya-descuentan-50-chances-triunfo-opositor-2027-n6349517",
+        "source": "Ámbito",
+        "time": "26/11 09:43",
+        "iso_date": "2026-11-26T12:43:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
+        "title": "J.P. Morgan advirtió que los bonos argentinos ya descuentan 50% de chances de un triunfo opositor en 2027",
+        "summary": "En su informe \"Perspectivas Económicas Argentina 2027\", el banco proyecta continuidad de las políticas de Milei como escenario base, pero advierte que una elección reñida podría presionar el peso, bonos y reservas. Los detalles, en la nota.",
+        "link": "https://www.ambito.com/economia/jp-morgan-advirtio-que-los-bonos-argentinos-ya-descuentan-50-chances-triunfo-opositor-2027-n6349517",
+        "source": "Ámbito Mercados",
+        "time": "26/11 09:43",
+        "iso_date": "2026-11-26T12:43:00+00:00",
+        "tickers": [
+          "AL30"
+        ],
+        "is_general": true
+      },
+      {
         "title": "El banco más grande del mundo analizó el salto del riesgo país y la volatilidad en Argentina: que prevé para las elecciones 2027",
         "summary": "J.P. Morgan atribuyó la caída de bonos y acciones a una probabilidad cercana al 50% de un cambio de rumbo económico tras el mandato de Javier Milei",
         "link": "https://www.infobae.com/economia/2026/11/26/el-banco-mas-grande-del-mundo-analizo-el-salto-del-riesgo-pais-y-la-volatilidad-en-argentina-que-preve-para-las-elecciones-2027/",
@@ -625,18 +673,6 @@
         "source": "Infobae Economía",
         "time": "26/11 02:09",
         "iso_date": "2026-11-26T05:09:46+00:00",
-        "tickers": [
-          "AL30"
-        ],
-        "is_general": true
-      },
-      {
-        "title": "Jornada financiera: el dólar subió por séptimo día consecutivo, cayó el riesgo país y las acciones recuperaron terreno",
-        "summary": "Los títulos públicos mejoraron 1,9% en promedio después de que el ministro Caputo detalló cómo efectuará pagos en enero. Los ADR ganaron hasta 5% y el MSCI Merval subió 0,6%. El dólar avanzó a u récord de $1.630 en el Banco Nación y el BCRA no compró divisas en el mercado or t...",
-        "link": "https://www.infobae.com/economia/2026/11/25/jornada-financiera-el-dolar-subio-por-septimo-dia-consecutivo-cayo-el-riesgo-pais-y-las-acciones-recuperaron-terreno/",
-        "source": "Infobae Economía",
-        "time": "25/11 20:55",
-        "iso_date": "2026-11-25T23:55:53+00:00",
         "tickers": [
           "AL30"
         ],
